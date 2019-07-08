@@ -1,0 +1,4700 @@
+VID
+0	עלו	עלה	VERB	_	_
+1	באש	באש	NOUN	0	nsubj
+
+LVC.cause
+0	וגרמו	וגרמו	VERB	_	_
+1	נזק	נזק	NOUN	0	iobj
+
+VID
+0	עלו	עלה	VERB	_	_
+1	בתוהו	בתוהו	ADP	0	dep
+
+LVC.full
+0	פנתה	פנתה	VERB	_	_
+1	בבקשה	בבקשה	INTJ	_	_
+
+LVC.full
+0	תפס	תפס	NOUN	_	_
+1	אחיזה	אחיזה	NOUN	0	compound:smixut
+
+VID
+0	לפרוץ	פרץ	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מעגל	מעגל	NOUN	0	obj
+
+VID
+0	דם	דם	NOUN	_	_
+1	יישפך	נשפך	VERB	_	_
+
+LVC.full
+0	יביא	הביא	VERB	_	_
+1	לעימות	עימת	PROPN	0	obj
+
+VID
+0	בכוח	בכוח	NOUN	1	nsubj
+1	הזרוע	הזרוע	VERB	_	_
+
+LVC.cause
+0	לגרום	גרם	VERB	_	_
+1	סבל	סבל	NOUN	0	obj
+
+VID
+0	נדון	נדון	VERB	_	_
+1	לכישלון	לכישלון	VERB	0	xcomp
+
+LVC.cause
+0	לעורר	עורר	VERB	_	_
+1	חילוקי	חילוק	NOUN	_	_
+2	דעות	דעה	NOUN	1	compound:smixut
+
+LVC.cause
+0	הסיוע	הסיוע	NOUN	_	_
+1	שניתן	שניתן	VERB	_	_
+
+LVC.full
+0	לערוך	ערך	VERB	_	_
+1	מפגש	מפגש	NOUN	0	obj
+
+VPC.full
+0	לאמץ	אימץ	VERB	_	_
+1	את	את	PART	2	case:acc
+2	ההמלצה	ההמלצה	NOUN	0	obj
+
+VPC.full
+0	היה	היה	VERB	1	aux
+1	מקור	מקור	NOUN	_	_
+2	לדאגה	דאג	VERB	_	_
+
+VID
+0	היא	הוא	VERB	1	cop
+1	דלת	דלת	NOUN	_	_
+2	פתוחה	פתוח	ADJ	1	amod
+
+LVC.full
+0	והטילה	והטיל	NOUN	_	_
+1	ספק	ספק	NOUN	0	compound:smixut
+
+VID
+0	חזרו	חזר	VERB	_	_
+1	בהם	ב	ADP	_	_
+
+VID
+0	ראו	ראו	PROPN	_	_
+1	לנכון	לנכון	PROPN	0	flat:name
+
+LVC.full
+0	להשליט	השליט	VERB	_	_
+1	סדר	סדר	NOUN	0	obj
+
+VID
+0	ומוציאה	ומוציא	PROPN	_	_
+1	תחת	תחת	ADP	2	case
+2	ידיה	ידיה	PROPN	_	_
+
+LVC.full
+0	למצוא	מצא	VERB	_	_
+1	פתרון	פתרון	NOUN	0	obj
+
+VID
+0	מובא	הובא	VERB	_	_
+1	למנוחות	מנוחה	ADV	0	advmod
+
+LVC.cause
+0	לגרום	גרם	VERB	_	_
+1	לעיכוב	עיכב	VERB	_	_
+
+VID
+0	להוציא	הוציא	VERB	_	_
+1	מחוץ	מחוץ	NOUN	0	obl
+2	לחוק	חוק	VERB	0	xcomp
+
+LVC.full
+0	נגוע	גווע	VERB	_	_
+1	במחלה	במחלה	ADV	0	advmod
+
+LVC.full
+0	למסור	מסר	VERB	_	_
+1	פרטים	פרט	NOUN	_	_
+
+LVC.full
+0	הפעילו	הפעילו	CCONJ	_	_
+1	לחצים	חצים	VERB	_	_
+
+LVC.full
+0	לקיים	קיים	VERB	_	_
+1	פגישה	פגישה	NOUN	0	obj
+
+LVC.full
+0	לקיים	קיים	VERB	_	_
+1	פגישה	פגישה	NOUN	0	iobj
+
+LVC.full
+0	עלה	עלה	VERB	_	_
+1	חשד	חשד	NOUN	0	obj
+
+LVC.full
+0	נטל	נטל	VERB	_	_
+1	אחריות	אחריות	NOUN	0	obj
+
+LVC.full
+0	נגרם	נגרם	VERB	_	_
+1	נזק	נזק	NOUN	0	nsubj
+
+VID
+0	יובא	יובא	PROPN	_	_
+1	למנוחות	מנוחה	ADV	_	_
+
+LVC.full
+0	הותר	הותר	VERB	_	_
+1	לפרסום	פרסם	VERB	0	xcomp
+
+LVC.full
+0	יפתח	פיתח	VERB	_	_
+1	בדיון	בדיון	NOUN	0	nsubj
+
+VID
+0	נפתחה	נפתח	VERB	_	_
+1	אש	אש	NOUN	0	nsubj
+
+VID
+0	עלו	עלה	VERB	_	_
+1	בתוהו	בתוהו	ADP	_	_
+
+LVC.full
+0	מובעת	הובע	VERB	_	_
+1	התמיהה	התמיהה	NOUN	0	obj
+
+VID
+0	שקרנה	שקרנה	ADJ	_	_
+1	עלתה	עלה	VERB	_	_
+
+VID
+0	להוציא	הוציא	VERB	1	xcomp
+1	מחוץ	מחוץ	AUX	_	_
+2	לחוק	חק	VERB	_	_
+
+VPC.full
+0	שהוציא	שהוציא	VERB	_	_
+1	את	את	PART	_	_
+2	ההיתר	ההיתר	DET	_	_
+
+LVC.full
+0	יצאו	יצא	VERB	_	_
+1	להפגנה	להפגן	ADV	0	advmod
+
+VID
+0	תיכנס	תיכנס	VERB	_	_
+1	לעובי	לעובי	ADJ	_	_
+2	הקורה	הקורה	AUX	0	conj
+
+VID
+0	נזהרים	נזהר	VERB	_	_
+1	כמו	כמו	ADP	2	case
+2	מאש	מאש	NOUN	_	_
+
+LVC.full
+0	הפעילו	הפעילו	VERB	_	_
+1	לחץ	לחץ	NOUN	0	obj
+
+LVC.full
+0	מביעם	מביעם	VERB	_	_
+1	חשש	חשש	NOUN	0	obj
+
+VID
+0	משמשת	שימש	VERB	_	_
+1	קן	קן	PROPN	_	_
+2	צרעות	צרעות	PROPN	1	flat:name
+
+LVC.full
+0	שעו	שעה	VERB	_	_
+1	להזהרות	להזהרות	NOUN	0	obj
+
+VPC.full
+0	לפעול	פעל	VERB	_	_
+1	בכוחות	בכוחה	ADV	0	advmod
+2	עצמה	עצמו	PRON	0	obj
+
+LVC.full
+0	פתח	פתח	NOUN	_	_
+1	בדיון	בדיון	NOUN	_	_
+
+VID
+0	לשים	שם	VERB	_	_
+1	קץ	קץ	NOUN	0	obj
+
+VPC.full
+0	לענות	ענה	VERB	_	_
+1	על	על	ADP	2	case
+2	הצרכים	הצרך	NOUN	0	iobj
+
+VID
+0	מובא	הובא	VERB	_	_
+1	למנוחות	מנוחה	ADV	_	_
+
+VPC.full
+0	והתרופפות	והתרופפה	NOUN	_	_
+1	הקשר	הקשר	NOUN	0	compound:smixut
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	דאגה	דאגה	NOUN	0	obj
+
+VID
+0	להעלות	העלה	VERB	_	_
+1	לסדר	סידר	VERB	0	xcomp
+2	היום	היום	ADV	1	obl:tmod
+
+LVC.full
+0	שערכו	שערך	VERB	_	_
+1	סריקות	סריקה	NOUN	0	obj
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דאגתו	_	VERB	0	xcomp
+
+LVC.cause
+0	עידוד	עידוד	NOUN	_	_
+1	העלייה	העלייה	NOUN	0	conj
+
+VPC.full
+0	מצדד	הצדד	VERB	_	_
+1	בהפעלת	בהפעלה	NOUN	0	obj
+2	לחץ	לחץ	NOUN	1	compound:smixut
+
+LVC.full
+0	עורר	עורר	VERB	_	_
+1	זעם	זעם	VERB	0	dep
+
+VID
+0	ולהעמידו	ולהעמיד	VERB	_	_
+1	למשפט	משפט	VERB	0	xcomp
+
+VPC.full
+0	רואים	ראה	VERB	_	_
+1	באור	באור	ADP	2	case
+2	שלילי	שלילי	ADJ	0	obl
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	התנגדות	התנגדות	NOUN	0	nsubj
+
+VID
+0	עולים	עלה	VERB	_	_
+1	באש	באש	ADV	0	advmod
+
+VID
+0	נכנע	נכנע	VERB	_	_
+1	לטרור	לטרור	VERB	0	xcomp
+
+VID
+0	עולה	עלה	VERB	_	_
+1	באש	באש	ADV	0	advmod
+
+VID
+0	נשקפת	נשקף	VERB	_	_
+1	סכנת	סכנה	NOUN	0	obl
+
+LVC.full
+0	נתקל	נתקל	VERB	_	_
+1	בקשיים	בקשי	NOUN	0	nsubj
+
+VID
+0	המסתתרות	המסתתרות	VERB	_	_
+1	בפינות	בפינות	NOUN	0	obj
+2	הדרך	הדרך	NOUN	_	_
+
+VID
+0	רחוקות	רחוק	ADJ	_	_
+1	מהעין	מהעין	ADV	0	advmod
+
+LVC.full
+0	הוסיפה	הוסיף	VERB	_	_
+1	רוחב	רוחב	NOUN	0	obj
+
+VID
+0	חיזקה	חיזק	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הרוח	הרוח	NOUN	0	obj
+
+LVC.full
+0	הפיחה	הפיח	VERB	_	_
+1	תקווה	תקווה	NOUN	0	obl
+
+VID
+0	לחזק	חיזק	VERB	_	_
+1	את	את	PART	2	case:acc
+2	רוחם	רוחם	NOUN	0	obj
+
+VID
+0	לפעול	פעל	VERB	_	_
+1	בכלים	בכלי	NOUN	0	obj
+
+VID
+0	יצמח	הצמח	VERB	_	_
+1	ממנה	מן	ADP	_	_
+
+LVC.full
+0	יקח	יקח	NOUN	_	_
+1	חלק	חלק	NOUN	_	_
+
+VID
+0	שהונחה	שהונחה	NOUN	_	_
+1	על	על	ADP	2	case
+2	שולחן	שולחן	NOUN	0	nmod
+
+LVC.full
+0	להטלת	_	NOUN	_	_
+1	חרם	חרם	NOUN	0	compound:smixut
+
+LVC.full
+0	שהביאו	שהביא	VERB	_	_
+1	לשינוי	לשינוי	AUX	0	ccomp
+
+VID
+0	לוקחים	וקחים	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	החוק	החוק	NOUN	_	_
+3	לידיהם	לידי	ADP	_	_
+
+LVC.full
+0	וחורצים	וחורץ	NOUN	_	_
+1	דינם	דינם	NOUN	_	_
+
+VID
+0	לעבור	עבר	VERB	_	_
+1	לסדר	סידר	VERB	_	_
+2	היום	היום	ADV	1	obl:tmod
+
+VID
+0	לעקור	עקר	VERB	_	_
+1	משורש	השורש	ADV	0	advmod
+
+LVC.full
+0	לחולל	חולל	VERB	_	_
+1	השינוי	השינוי	NOUN	0	obj
+
+VPC.full
+0	שינברו	שינבר	VERB	_	_
+1	בתיקיהן	בתיק	ADP	_	_
+
+VID
+0	לשבור	שבר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	השיא	השיא	NOUN	_	_
+
+VID
+0	וללבן	וללבן	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	הנושא	הנושא	PROPN	_	_
+
+VID
+0	הוצאו	הוצאה	VERB	_	_
+1	מהתמונה	מהתמונה	VERB	0	iobj
+
+VID
+0	שעסקה	שעסקה	NOUN	_	_
+1	בסוגיה	בסוגיה	NOUN	0	compound:smixut
+
+VID
+0	לעמוד	עמד	VERB	_	_
+1	לנגד	לנגד	ADP	2	case
+2	עינינו	עינין	PROPN	0	obl
+
+LVC.full
+0	להביא	הביא	VERB	_	_
+1	לדין	לדין	ADV	_	_
+
+LVC.full
+0	מוכי	מוכה	ADJ	_	_
+1	רעב	רעב	NOUN	0	compound:smixut
+
+LVC.full
+0	פנה	פנה	VERB	_	_
+1	בבקשה	בבקש	VERB	0	obl
+
+LVC.full
+0	הובא	הובא	VERB	_	_
+1	לידיעתו	_	ADV	0	advmod
+
+LVC.cause
+0	להעניק	העניק	VERB	_	_
+1	סיוע	סיוע	NOUN	0	obj
+
+LVC.cause
+0	ביצירת	ביצירה	NOUN	_	_
+1	פגיעה	פגיעה	NOUN	0	compound:smixut
+
+LVC.cause
+0	לתת	נתן	VERB	_	_
+1	מענה	מענה	NOUN	0	obj
+
+VID
+0	לעלות	עלה	VERB	_	_
+1	לרגל	לרגל	ADP	_	_
+
+VID
+0	שחוללו	שחולל	VERB	_	_
+1	נס	_	NOUN	0	obj
+
+VID
+0	להרים	הרים	VERB	_	_
+1	קול	קול	NOUN	0	obj
+
+VPC.full
+0	כיבד	כיבד	VERB	_	_
+1	את	את	PART	2	case:acc
+2	התוצאות	התוצאה	NOUN	0	obj
+
+VID
+0	ותקע	ותקע	VERB	_	_
+1	סכין	סכין	NOUN	0	obj
+
+VID
+0	שהאירו	שהאיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דרכה	דרכה	NOUN	0	obj
+
+VID
+0	שכרתו	_	VERB	_	_
+1	ברית	ברית	NOUN	0	obj
+2	דמים	דם	NOUN	1	compound:smixut
+
+VID
+0	ניתנה	ניתן	VERB	_	_
+1	במה	במה	NOUN	0	nsubj
+
+VID
+0	שמעו	שמע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	המוסיקה	המוסיקה	NOUN	0	obj
+3	שהם	שהו	PRON	2	amod
+4	רוצים	רצה	VERB	0	dep
+
+VID
+0	יקבלו	קיבל	VERB	_	_
+1	במה	במה	NOUN	0	obj
+
+VID
+0	מרחיק	הרחיק	VERB	_	_
+1	לכת	לכת	NOUN	0	obj
+
+LVC.full
+0	למציאת	למציאת	ADP	1	case
+1	פתרון	פתרון	NOUN	_	_
+
+VID
+0	עולות	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	גדותיהן	גדותיים	PRON	_	_
+
+VID
+0	קורסות	קורס	VERB	_	_
+1	תחת	תחת	ADP	2	case
+2	העומס	העומס	NOUN	0	obl
+
+LVC.full
+0	לקחת	_	VERB	_	_
+1	אחריות	אחריות	NOUN	0	obj
+
+VID
+0	שראו	שראו	VERB	_	_
+1	לנגד	לנגד	ADP	2	case
+2	עיניהם	עין	PRON	0	obl
+
+LVC.full
+0	לעשות	עשה	VERB	_	_
+1	שימוש	שימוש	NOUN	0	obj
+
+VPC.full
+0	סיכלו	סיכל	VERB	_	_
+1	את	את	PART	2	case:acc
+2	ניסיון	ניסיון	NOUN	0	obj
+
+LVC.full
+0	מתעורר	התעורר	VERB	_	_
+1	ספק	ספק	NOUN	0	nsubj
+
+VID
+0	נושף	נושף	NOUN	_	_
+1	בעורפו	בעורפו	PROPN	0	compound:smixut
+
+VID
+0	מרכין	הרכין	VERB	_	_
+1	את	את	PART	2	case:acc
+2	ראשי	ראש	NOUN	0	obj
+
+VID
+0	המוטלת	המוטלה	ADJ	_	_
+1	על	על	ADP	2	case
+2	כתפי	כתף	NOUN	_	_
+
+LVC.full
+0	נשא	נשא	VERB	_	_
+1	דברים	דבר	NOUN	_	_
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	תקווה	תקווה	NOUN	0	obj
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	גינוי	גינוי	NOUN	_	_
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	גינוי	גינוי	NOUN	0	obj
+
+LVC.full
+0	הגיע	הגיע	VERB	_	_
+1	לביקור	ביקר	VERB	0	xcomp
+
+VID
+0	מתקבלות	התקבל	VERB	_	_
+1	על	על	ADP	2	case
+2	הדעת	הדעה	NOUN	_	_
+
+LVC.cause
+0	יינתנו	ניתן	VERB	_	_
+1	היתרים	היתר	NOUN	0	nsubj
+
+VID
+0	שומטים	שומט	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	הקרקע	הקרקע	NOUN	_	_
+
+VID
+0	להעלות	העלה	VERB	_	_
+1	לראש	ראש	ADV	_	_
+
+LVC.cause
+0	נתנו	נתן	VERB	_	_
+1	תחושה	תחושה	NOUN	0	obj
+
+VID
+0	חיזק	חיזק	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	רוחם	רוחם	PROPN	_	_
+
+VID
+0	באים	בא	VERB	_	_
+1	עם	עם	ADP	3	case
+2	כל	כול	DET	3	det
+3	הלב	הלב	NOUN	0	obl
+
+VID
+0	להקדים	הקדים	VERB	_	_
+1	תרופה	תרופה	NOUN	0	obj
+2	למכה	מכ	ADJ	1	amod
+
+LVC.full
+0	תלך	הלך	VERB	_	_
+1	שבי	שב	NOUN	0	obj
+
+VPC.full
+0	לטרפד	טרפד	VERB	_	_
+1	כל	כול	DET	2	det
+2	שינוי	שינוי	NOUN	_	_
+
+VPC.full
+0	תעשה	עשה	VERB	_	_
+1	בהדרגה	בהדרגה	NOUN	0	obj
+
+VID
+0	עם	עם	ADP	1	case
+1	דם	דם	NOUN	_	_
+2	על	על	ADP	3	case
+3	הידיים	הידי	NOUN	_	_
+
+LVC.full
+0	לערוך	ערך	VERB	_	_
+1	חגיגה	חגיגה	NOUN	0	obj
+
+VID
+0	מסתובב	הסתובב	ADJ	_	_
+1	חופשי	חופש	ADJ	_	_
+
+LVC.full
+0	עלה	עלה	VERB	_	_
+1	לגלות	_	VERB	0	xcomp
+
+VID
+0	להקפיא	הקפיא	VERB	_	_
+1	את	את	PART	2	case:acc
+2	השביתה	השביתה	NOUN	0	obj
+
+LVC.full
+0	להגיע	הגיע	VERB	_	_
+1	להסכמה	הסכמ	VERB	0	dep
+
+LVC.full
+0	ייעשה	נעשה	VERB	_	_
+1	מאמץ	מאמץ	NOUN	0	nsubj
+
+VID
+0	להקפיא	הקפיא	VERB	_	_
+1	את	את	PART	_	_
+2	השביתה	השביתה	NOUN	_	_
+
+VID
+0	יחזיקו	החזיק	VERB	_	_
+1	בגרון	בגרון	PROPN	_	_
+
+VID
+0	ויחנקו	ויחנק	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	הכלכלה	הכלכלה	NOUN	_	_
+
+VID
+0	אינו	אינו	VERB	1	advmod
+1	רואה	ראה	VERB	_	_
+2	סיבה	סיבה	NOUN	1	obj
+
+LVC.full
+0	ההחלטה	ההחלטה	NOUN	_	_
+1	התקבלה	התקבל	VERB	_	_
+
+VID
+0	ההאשמות	ההאשם	NOUN	_	_
+1	העולות	העולה	VERB	_	_
+
+VID
+0	עולה	עלה	VERB	_	_
+1	בקנה	בקנה	NOUN	0	obj
+2	אחד	אחד	NUM	1	nummod
+
+VPC.full
+0	עמדו	עמד	VERB	_	_
+1	לרשותכם	לרשות	ADP	_	_
+
+LVC.full
+0	להביע	הביע	VERB	_	_
+1	ההערכה	ההערכה	NOUN	0	obj
+
+LVC.full
+0	נאום	נאום	NOUN	_	_
+1	שנשא	שנשא	VERB	_	_
+
+VID
+0	בהישג	בהישג	NOUN	_	_
+1	יד	יד	NOUN	0	compound:smixut
+
+LVC.full
+0	עשינו	עשה	VERB	_	_
+1	מאמצים	מאמץ	NOUN	0	obj
+
+VID
+0	שעורר	שעורר	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	חשדו	חשדו	PROPN	_	_
+
+VPC.full
+0	שואב	שאב	VERB	_	_
+1	את	את	PART	2	case:acc
+2	העוצמה	העוצמה	PRON	0	obj
+
+VPC.full
+0	שואב	שאב	VERB	_	_
+1	את	את	PART	2	case:acc
+2	העוצמה	העוצמה	NOUN	0	obj
+
+VID
+0	למסור	מסר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הנפש	הנפש	PROPN	0	obj
+
+VID
+0	למסור	מסר	VERB	_	_
+1	הנפש	הנפש	PROPN	0	obj
+
+VID
+0	למסור	מסר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הנפש	הנפש	NOUN	0	obj
+
+VID
+0	למסור	מסר	VERB	_	_
+1	הנפש	הנפש	NOUN	0	obj
+
+VID
+0	לתת	נתן	VERB	_	_
+1	יד	יד	NOUN	0	iobj
+
+LVC.full
+0	להחזיק	החזיק	VERB	_	_
+1	מעמד	מעמד	NOUN	0	iobj
+
+VID
+0	ובשים	ובש	VERB	_	_
+1	לב	לב	NOUN	0	obj
+
+VID
+0	ידינו	הדין	VERB	_	_
+1	הארוכה	הארוך	NOUN	2	nsubj
+2	תשיג	השיג	VERB	0	iobj
+
+VID
+0	מהווה	היווה	VERB	1	aux
+1	יריקה	יריקה	NOUN	_	_
+2	בפניהם	בפנ	ADP	_	_
+
+VID
+0	נרעיש	נרעיש	ADJ	_	_
+1	שמיים	שמיים	ADJ	_	_
+2	וארץ	_	PROPN	_	_
+
+VID
+0	מתהפך	התהפך	VERB	_	_
+1	בקברו	בקברו	VERB	0	advcl
+
+LVC.full
+0	הביעו	_	VERB	_	_
+1	דאגה	דאגה	NOUN	0	obj
+
+VPC.full
+0	שהלך	שהלך	VERB	_	_
+1	בראש	בראש	ADV	_	_
+2	המחנה	המחן	NOUN	_	_
+
+LVC.cause
+0	שיצר	שיצר	NOUN	_	_
+1	קשר	קשר	NOUN	0	compound:smixut
+
+LVC.full
+0	מביע	הביע	VERB	_	_
+1	תקווה	תקווה	NOUN	0	obj
+
+VPC.full
+0	עומדים	עמד	VERB	_	_
+1	להצבעה	הצבע	NUM	_	_
+
+LVC.full
+0	נרקמה	נרקם	VERB	_	_
+1	ברית	ברית	NOUN	0	obj
+
+LVC.full
+0	להגיש	הגיש	VERB	_	_
+1	ערעור	ערעור	NOUN	0	obj
+
+LVC.full
+0	העלה	העל	VERB	_	_
+1	חששו	חשש	PROPN	0	obj
+
+LVC.cause
+0	לעורר	עורר	VERB	_	_
+1	גלים	גל	NOUN	0	obj
+
+VPC.full
+0	להפשיר	הפשיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	היחסים	היחס	NOUN	0	obj
+
+VID
+0	אבן	אבן	NOUN	_	_
+1	בוחן	_	VERB	_	_
+
+VPC.full
+0	הגיע	הגיע	VERB	_	_
+1	לידיו	לידי	ADP	_	_
+
+VPC.full
+0	לבוא	בא	VERB	_	_
+1	על	על	ADP	2	case
+2	חשבון	חשבון	NOUN	0	iobj
+
+VPC.full
+0	ופועלים	ופועל	ADJ	_	_
+1	בהתאם	בהתאם	ADV	0	advmod
+
+VPC.full
+0	העלה	העלה	VERB	_	_
+1	את	את	PART	2	case:acc
+2	השאלה	השאלה	PRON	0	obj
+
+LVC.full
+0	הגיעו	הגיע	VERB	_	_
+1	למסקנה	למסקן	NOUN	0	nsubj
+
+LVC.full
+0	נעשה	נעשה	VERB	_	_
+1	שימוש	שימוש	NOUN	0	nsubj
+
+LVC.full
+0	הגיש	הגיש	VERB	_	_
+1	הצעת	הצעה	NOUN	_	_
+
+VPC.full
+0	יבוא	בא	VERB	_	_
+1	בגדר	בגדר	ADP	_	_
+
+LVC.full
+0	פורעי	פורעי	NOUN	_	_
+1	החוק	החק	NOUN	0	compound:smixut
+
+VPC.full
+0	ידחה	דחה	VERB	_	_
+1	על	על	ADP	2	case
+2	הסף	הסף	NOUN	0	obl
+
+LVC.cause
+0	נזק	נזק	NOUN	1	nsubj
+1	נגרם	נגרם	VERB	_	_
+
+LVC.full
+0	ונותנים	ונותן	VERB	_	_
+1	מענה	מענה	ADV	0	advmod
+
+LVC.cause
+0	למחלוקות	_	NOUN	_	_
+1	שמתעוררות	שמתעוררות	ADJ	0	amod
+
+LVC.full
+0	להגיע	הגיע	VERB	_	_
+1	לפשרה	פשר	NOUN	0	iobj
+
+VPC.full
+0	תפסו	תפס	VERB	_	_
+1	את	את	PART	_	_
+2	הראש	הראש	ADV	_	_
+
+VPC.full
+0	יוצאת	יצא	NOUN	_	_
+1	לאור	לאור	VERB	_	_
+
+LVC.full
+0	יעמדו	עמד	VERB	_	_
+1	הכן	הכן	NOUN	0	nsubj
+
+LVC.full
+0	לנקוט	נקט	VERB	_	_
+1	פעולות	פעולה	NOUN	0	iobj
+
+VID
+0	להפסקת	_	VERB	_	_
+1	האש	האש	ADV	0	advmod
+
+VPC.full
+0	לנצל	ניצל	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הפירצה	הפירצה	NOUN	_	_
+
+LVC.cause
+0	מעורר	עורר	VERB	_	_
+1	דאגה	דאגה	NOUN	0	obj
+
+VID
+0	להפסקת	_	NOUN	_	_
+1	אש	אש	NOUN	0	compound:smixut
+
+VPC.full
+0	עומד	עמד	VERB	_	_
+1	לצידו	ציד	VERB	0	xcomp
+
+VID
+0	להגיע	הגיע	VERB	_	_
+1	לפתחם	לפתחם	NOUN	0	iobj
+
+VPC.full
+0	פתח	פתח	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דבריו	_	PROPN	0	obj
+
+LVC.full
+0	והביע	והביע	NOUN	_	_
+1	תקווה	תקווה	NOUN	_	_
+
+VID
+0	חתם	חתם	PRON	_	_
+1	את	את	PART	2	case:acc
+2	דבריו	_	PROPN	_	_
+
+LVC.full
+0	הפעילו	הפעיל	VERB	_	_
+1	לחצים	חצים	VERB	0	iobj
+
+VID
+0	ורודף	ורודף	PROPN	_	_
+1	בצע	בצע	NOUN	0	flat:name
+
+VPC.full
+0	העובר	העובר	VERB	_	_
+1	בירושה	בירש	VERB	_	_
+
+VID
+0	חתם	חתם	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דבריו	_	NOUN	0	obj
+
+VPC.full
+0	חוזר	חזר	VERB	_	_
+1	על	על	ADP	2	case
+2	עצמו	עצמו	PRON	0	advmod
+
+LVC.full
+0	נוגדת	נגד	VERB	_	_
+1	החימצון	החימצון	NOUN	0	obj
+
+LVC.full
+0	להפיק	הפיק	VERB	_	_
+1	ותועלת	_	ADJ	_	_
+
+LVC.full
+0	לפתח	פיתח	VERB	_	_
+1	קשרים	קשר	NOUN	0	obj
+
+VID
+0	שנשקפה	שנשקפה	NOUN	_	_
+1	סכנה	סכנה	NOUN	_	_
+
+LVC.cause
+0	נותן	נתן	VERB	_	_
+1	לגיטימציה	לגיטימציה	NOUN	_	_
+
+LVC.full
+0	ולהביע	ולהביע	NOUN	_	_
+1	שאט	שט	NOUN	2	det
+2	נפש	נפש	NOUN	0	compound:smixut
+
+LVC.full
+0	לקחת	_	VERB	_	_
+1	בחשבון	בחשבון	NOUN	0	obj
+
+LVC.cause
+0	ליצור	יצר	VERB	_	_
+1	קשר	קשר	NOUN	0	obj
+
+LVC.full
+0	אפעיל	אפעיל	ADJ	_	_
+1	כח	כוח	NOUN	_	_
+
+VPC.full
+0	שהצילו	שהציל	VERB	_	_
+1	את	את	PART	2	case:acc
+2	חייו	_	PROPN	0	obj
+
+VPC.full
+0	שמוליכה	שמוליך	VERB	_	_
+1	את	את	PART	2	case:acc
+2	החוק	החוק	NOUN	0	obj
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	תקוותו	תקוותו	NOUN	0	obj
+
+LVC.full
+0	לקחה	לקח	VERB	_	_
+1	אחריות	אחריות	NOUN	0	obj
+
+LVC.full
+0	לוקחת	לקח	VERB	_	_
+1	אחריות	אחריות	NOUN	0	obj
+
+VID
+0	הובא	הובא	VERB	_	_
+1	למנוחות	מנוחה	ADV	0	advmod
+
+VID
+0	עוקבים	עקב	VERB	_	_
+1	אחר	אחר	ADP	2	case
+2	המתרחש	המתרחש	NOUN	0	obl
+
+VID
+0	פתחו	פתח	VERB	_	_
+1	באש	באש	ADV	_	_
+
+VPC.full
+0	נקטה	נקט	VERB	_	_
+1	בפעולה	בפעולה	NOUN	0	obj
+
+LVC.full
+0	ולשאת	ולשאת	ADP	1	case
+1	תפילה	תפילה	NOUN	_	_
+
+VPC.full
+0	שרויים	שרוי	VERB	_	_
+1	בהלם	בהלם	ADP	_	_
+
+VPC.full
+0	הולך	הלך	VERB	_	_
+1	להתמוטט	התמוטט	VERB	_	_
+
+VPC.full
+0	שימרו	שימר	VERB	_	_
+1	על	על	ADP	2	case
+2	השקט	השקט	NOUN	0	iobj
+
+VPC.full
+0	להחזיר	החזיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הסדר	הסדר	NOUN	0	obj
+3	על	על	ADP	4	case
+4	כנו	כ	PROPN	2	nmod
+
+VID
+0	נפתחה	נפתח	VERB	_	_
+1	אש	אש	NOUN	0	obj
+
+LVC.full
+0	נשא	נשא	VERB	_	_
+1	נאום	נאום	NOUN	0	obj
+
+LVC.cause
+0	להעניק	העניק	VERB	_	_
+1	סיוע	סיוע	NOUN	0	iobj
+
+VPC.full
+0	ולמצות	ולמצה	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	הדין	הדין	PROPN	_	_
+
+LVC.full
+0	והציעו	והציעו	VERB	_	_
+1	עזרתם	עזרתם	PRON	0	obj
+
+VPC.full
+0	מוכן	מוכן	AUX	_	_
+1	לפעולה	_	VERB	0	dep
+
+LVC.full
+0	להציע	הציע	VERB	_	_
+1	עזרה	עזרה	NOUN	0	obj
+
+LVC.cause
+0	גרמו	גרם	VERB	_	_
+1	הרס	הרס	NOUN	0	nsubj
+
+VID
+0	מתרבות	התרב	ADV	1	advmod
+1	והולכות	והולכה	VERB	_	_
+
+LVC.full
+0	ומביעה	ומביע	VERB	_	_
+1	תנחומיה	תנחומיה	NOUN	0	obj
+
+LVC.full
+0	שנוקפות	שנוקפה	NOUN	_	_
+1	השעות	השעה	NOUN	0	compound:smixut
+
+LVC.full
+0	נשא	נשא	VERB	_	_
+1	נאום	נאום	ADJ	_	_
+
+LVC.full
+0	האש	האש	NOUN	_	_
+1	שנפתחה	שנפתחה	NOUN	0	compound:smixut
+
+LVC.full
+0	מכחיש	הכחיש	VERB	_	_
+1	קשר	קשר	NOUN	0	obj
+
+VID
+0	פתחו	פתח	VERB	_	_
+1	באש	באש	NOUN	_	_
+
+LVC.cause
+0	וגרמו	וגרם	VERB	_	_
+1	נזק	נזק	NOUN	0	obj
+
+LVC.full
+0	לוקחים	וקחים	ADJ	_	_
+1	חלק	חלק	NOUN	_	_
+
+VID
+0	שמצאו	שמצא	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מותם	_	PROPN	0	obj
+
+VID
+0	מפציע	הפציע	VERB	_	_
+1	השחר	השחר	NOUN	0	obj
+
+LVC.cause
+0	יצרו	יצר	VERB	_	_
+1	קשר	קשר	NOUN	0	obj
+
+VID
+0	ככלב	ככלב	ADV	1	advmod
+1	שב	שב	VERB	_	_
+2	על	על	ADP	3	case
+3	קיאו	קאו	NOUN	1	iobj
+4	כסיל	כסיל	NOUN	3	acl
+5	שוגה	שוגה	NOUN	4	compound:smixut
+6	באיוולתו	באיוולת	VERB	4	acl:inf
+
+VID
+0	על	על	ADP	1	case
+1	חודו	_	NOUN	_	_
+2	של	של	PART	3	case:gen
+3	קול	קול	NOUN	1	nmod:poss
+
+VID
+0	על	על	ADP	_	_
+1	חודו	_	NOUN	_	_
+2	של	של	PART	3	case:gen
+3	קול	קול	NOUN	1	nmod:poss
+
+LVC.full
+0	הפעילה	הפעיל	NOUN	_	_
+1	לחץ	לחץ	NOUN	0	nmod
+
+VID
+0	ככלב	ככלב	NOUN	_	_
+1	שב	שב	VERB	_	_
+2	על	על	ADP	3	case
+3	קיאו	קאו	NOUN	1	obl
+4	כסיל	כסיל	NOUN	1	obj
+5	שוגה	שוגה	NOUN	4	compound:smixut
+6	באיוולתו	_	VERB	1	xcomp
+
+VID
+0	הולכים	הלך	VERB	_	_
+1	שולל	שולל	NOUN	0	obj
+
+VID
+0	מילאו	מילא	VERB	_	_
+1	ידיהם	ידיהם	PRON	0	obj
+2	בדם	בדם	ADV	0	advmod
+
+VID
+0	הצליח	הצליח	VERB	_	_
+1	בסיבוב	_	ADV	_	_
+2	ראשון	ראשון	NUM	_	_
+
+LVC.full
+0	ההחלטה	ההחלטה	NOUN	1	nsubj
+1	התקבלה	התקבל	VERB	_	_
+
+LVC.full
+0	רואה	ראה	VERB	_	_
+1	חשיבות	חשיבות	NOUN	_	_
+
+LVC.full
+0	לנהוג	נהג	VERB	_	_
+1	במשנה	במשנה	ADV	0	advmod
+2	זהירות	זהיר	NOUN	_	_
+
+LVC.cause
+0	נותנות	נתן	VERB	_	_
+1	שיקול	שיקול	NOUN	0	nsubj
+2	דעת	דעת	NOUN	1	compound:smixut
+
+LVC.full
+0	מביע	הביע	VERB	_	_
+1	תקווה	תקווה	NOUN	0	obl
+
+LVC.full
+0	ונשוב	ונשוב	AUX	_	_
+1	לראות	ראה	VERB	_	_
+
+LVC.full
+0	לעשות	עשה	VERB	_	_
+1	שימוש	שימוש	NOUN	0	iobj
+
+LVC.full
+0	צידד	צידד	PROPN	_	_
+1	בסירוב	_	ADP	_	_
+
+VPC.full
+0	נובעת	נבע	VERB	_	_
+1	מנסיון	מנסיון	NOUN	_	_
+
+LVC.full
+0	להבטיח	הבטיח	VERB	_	_
+1	תיאום	תיאום	NOUN	0	obj
+
+LVC.full
+0	עובד	עובד	NOUN	_	_
+1	לפרנסתו	_	VERB	0	acl:inf
+
+VID
+0	לקדם	קידם	VERB	_	_
+1	את	את	PART	2	case:acc
+2	פני	פנים	NOUN	0	obj
+3	הרעה	הרעה	NOUN	2	compound:smixut
+
+VID
+0	שולח	שולח	VERB	_	_
+1	חיצי	חיצה	NOUN	_	_
+2	ביקורת	ביקורת	NOUN	1	compound:smixut
+
+VID
+0	לרשת	רשת	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	כסאו	כסאו	PROPN	0	compound:smixut
+
+VID
+0	דברים	דבר	NOUN	_	_
+1	כדורבנות	כדורבת	NOUN	0	nsubj
+
+LVC.full
+0	תביא	הביא	VERB	_	_
+1	ליצירת	ליצירת	NOUN	0	compound:smixut
+
+VID
+0	עד	עד	ADP	1	case
+1	שייצא	שייצא	VERB	_	_
+2	עשן	עשן	NOUN	1	nsubj
+3	לבן	לב	ADJ	2	amod
+
+VID
+0	שהדבר	שהדבר	NOUN	_	_
+1	יוצא	יצא	VERB	0	amod
+2	החוצה	החוצה	ADV	1	advmod
+
+LVC.full
+0	מושכת	הושך	VERB	_	_
+1	התעניינות	התעניינות	NOUN	0	nsubj
+
+LVC.full
+0	תשתף	השתף	VERB	_	_
+1	פעולה	פעולה	NOUN	0	obj
+
+VID
+0	לעמוד	עמד	VERB	_	_
+1	מקרוב	מקרוב	ADV	0	advmod
+
+LVC.full
+0	פתחו	פתח	VERB	_	_
+1	בשביתת	בשביתה	ADV	_	_
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	תמיכתו	תמיכתו	NOUN	0	obj
+
+LVC.full
+0	מחדשות	חידש	NOUN	_	_
+1	קשריהן	קשר	NOUN	0	compound:smixut
+
+LVC.full
+0	יצאו	יצא	VERB	_	_
+1	פגישות	פגישה	NOUN	_	_
+
+VID
+0	עברה	עבר	VERB	_	_
+1	על	על	ADP	2	case
+2	חודו	_	NOUN	_	_
+3	של	של	PART	4	case:gen
+4	קול	קול	NOUN	2	nmod:poss
+
+LVC.full
+0	להלך	הילך	VERB	_	_
+1	אימים	אימים	NOUN	0	obj
+
+LVC.full
+0	עבר	עבר	VERB	_	_
+1	בחינה	בחינה	NOUN	0	obj
+
+VID
+0	הציתו	הצית	VERB	_	_
+1	גלים	גל	NOUN	0	obj
+
+VID
+0	תכריע	הכריע	VERB	_	_
+1	בסוגיה	בסוגיה	NOUN	0	obj
+
+LVC.full
+0	עושה	עשה	VERB	_	_
+1	סדר	סדר	NOUN	0	obj
+
+LVC.full
+0	מתחו	מתח	VERB	_	_
+1	ביקורת	ביקורת	NOUN	0	obj
+
+VID
+0	לתפור	תפר	VERB	_	_
+1	טלאי	טל	NOUN	0	iobj
+2	על	על	ADP	3	case
+3	טלאי	טל	NOUN	1	nmod
+
+LVC.full
+0	לקיים	קיים	VERB	_	_
+1	דיון	דיון	NOUN	0	obj
+
+VID
+0	העוסקים	העוסק	VERB	_	_
+1	במלאכה	במלאכה	ADP	_	_
+
+VID
+0	האוחזים	האוחז	ADJ	_	_
+1	בשולי	בשולי	ADV	_	_
+2	גלימת	_	NOUN	_	_
+
+VID
+0	ומקבלים	ומקבל	ADJ	_	_
+1	אפס	אפס	NOUN	_	_
+2	תמורתה	תמורת	ADV	_	_
+
+VPC.full
+0	מכסה	מכסה	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	הנזק	הנזק	NOUN	_	_
+
+LVC.full
+0	ילך	הלך	VERB	_	_
+1	לאיבוד	לאיבוד	ADP	_	_
+
+VID
+0	לסתום	סתם	VERB	_	_
+1	פיות	_	NOUN	0	obj
+
+VID
+0	פתיחה	פתיחה	NOUN	_	_
+1	באש	באש	ADV	_	_
+
+VID
+0	ופצעים	ופצע	VERB	_	_
+1	שלא	שלא	ADV	2	advmod
+2	יגלידו	גלייד	VERB	0	iobj
+
+VPC.full
+0	מעידים	העיד	NOUN	_	_
+1	על	על	ADP	2	case
+2	הפחד	הפחד	NOUN	0	nmod
+
+VID
+0	נשבר	נשבר	VERB	_	_
+1	שיא	שיא	NOUN	0	nsubj
+
+LVC.full
+0	קיימו	קיים	VERB	_	_
+1	פגישה	פגישה	NOUN	_	_
+
+VPC.full
+0	בחנו	בח	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הנושא	הנושא	PROPN	0	obj
+
+LVC.full
+0	לפרוץ	פרץ	VERB	_	_
+1	קדימה	קדימה	ADV	0	advmod
+
+LVC.cause
+0	ההקלות	ההקלה	NOUN	_	_
+1	ניתנות	ניתן	ADJ	0	amod
+
+VID
+0	יעלה	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	הדעת	הדעה	NOUN	0	obl
+
+LVC.full
+0	ותגרום	ותגרום	NOUN	_	_
+1	לקרע	לקרע	ADJ	0	amod
+
+VID
+0	ותשמש	ותשמש	VERB	_	_
+1	פרס	פרס	NOUN	0	obj
+
+VID
+0	לפקוח	פקח	VERB	_	_
+1	את	את	PART	_	_
+2	עיניהם	עיניים	NUM	_	_
+
+VID
+0	להחזיר	החזיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הגלגל	הגלגל	NOUN	0	obj
+3	לאחור	לאחור	ADV	_	_
+
+VID
+0	שהודחו	שהודחו	NOUN	_	_
+1	מתפקידם	התפקידם	VERB	0	amod
+
+LVC.cause
+0	ליתן	יתן	NOUN	_	_
+1	טעם	טעם	NOUN	0	compound:smixut
+
+VID
+0	להקריב	הקריב	VERB	_	_
+1	את	את	PART	2	case:acc
+2	חייו	חייו	PROPN	0	obj
+
+LVC.full
+0	התקיימה	התקיים	VERB	_	_
+1	הידברות	הידברות	NOUN	0	compound:smixut
+
+VID
+0	ידיהם	ידיהם	PRON	1	nsubj
+1	מלאו	מלא	VERB	_	_
+2	דם	דם	NOUN	1	obj
+
+VID
+0	על	על	ADP	2	case
+1	לא	לא	ADV	2	det
+2	חמס	חמס	PROPN	_	_
+3	בכפו	בכפה	PROPN	2	flat:name
+
+VID
+0	מתיר	התיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דמם	דמו	PRON	0	obj
+
+VID
+0	להשבר	השבר	VERB	_	_
+1	שיא	שיא	NOUN	0	nsubj
+
+VID
+0	הנוגעים	הנוגע	VERB	_	_
+1	במישרין	במישרין	ADV	_	_
+
+VID
+0	יעלה	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	הדעת	הדעה	NOUN	_	_
+
+LVC.full
+0	הותר	_	ADV	1	advmod
+1	לפרסום	פרסם	VERB	_	_
+
+VID
+0	לחדש	חידש	VERB	_	_
+1	את	את	PART	2	case:acc
+2	המגעים	המגע	NOUN	0	obj
+
+LVC.full
+0	להרים	הרים	VERB	_	_
+1	זעקה	זעקה	VERB	_	_
+
+LVC.full
+0	נוכחתי	נוכח	VERB	_	_
+1	לראות	ראה	VERB	_	_
+
+LVC.full
+0	באו	בא	VERB	_	_
+1	לביקור	לביקור	VERB	0	xcomp
+
+LVC.full
+0	להביע	הביע	VERB	_	_
+1	הזדהותו	_	NOUN	0	obj
+
+VPC.full
+0	נרתמו	נרתם	VERB	_	_
+1	לפעילות	_	VERB	0	xcomp
+
+VPC.full
+0	עומד	עמד	VERB	_	_
+1	מול	מול	ADP	2	case
+2	האיום	האיום	NOUN	0	obl
+
+VPC.full
+0	ולהעלותו	ולהעלו	VERB	_	_
+1	למנוחה	למנוח	NOUN	0	obj
+
+LVC.full
+0	נשנק	נשנק	VERB	_	_
+1	מדמעות	הדמע	VERB	0	obj
+
+VID
+0	מתו	מת	VERB	_	_
+1	מוטל	הוטל	VERB	0	obj
+2	לפניו	לפני	ADP	0	case
+
+LVC.full
+0	מקימים	הקים	VERB	_	_
+1	קול	קול	NOUN	0	obj
+2	זעקה	זעק	NOUN	1	compound:smixut
+
+VID
+0	שמחבר	_	VERB	_	_
+1	בעבותות	בעבותות	ADJ	_	_
+
+VID
+0	למסור	מסר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	נפשם	נפשם	NOUN	0	obj
+
+VID
+0	ישכון	ישכון	VERB	_	_
+1	לבטח	בטח	VERB	_	_
+
+VID
+0	כל	כול	DET	1	det
+1	המציל	המציל	NOUN	4	nsubj
+2	נפש	נפש	NOUN	1	compound:smixut
+3	אחת	אחת	NUM	4	nummod
+4	מישראל	מישרל	NOUN	_	_
+5	כאילו	כאילו	CCONJ	6	mark
+6	קיים	קיים	ADJ	4	acl:relcl
+7	עולם	עולם	NOUN	_	_
+
+VID
+0	ואומרים	_	NOUN	_	_
+1	בפה	בפה	NOUN	_	_
+2	מלא	מלא	ADJ	1	amod
+
+VID
+0	ייתן	נתן	VERB	_	_
+1	רוח	רוח	NOUN	0	obl
+2	גבית	גבית	ADJ	1	amod
+
+VID
+0	גזר	גזר	NOUN	_	_
+1	על	על	ADP	2	case
+2	החיים	החיים	NOUN	0	nmod
+3	מבקש	ביקש	VERB	_	_
+4	לגרש	גירש	VERB	3	xcomp
+5	את	את	PART	6	case:acc
+6	המתים	המת	NOUN	4	obj
+
+VID
+0	לעקור	עקר	VERB	_	_
+1	במחי	במח	NOUN	_	_
+2	יד	יד	NOUN	1	compound:smixut
+
+VID
+0	לא	לא	ADV	1	advmod
+1	עומדים	עמד	VERB	_	_
+2	רחוק	רחוק	ADJ	_	_
+
+VID
+0	להעלות	העלה	VERB	_	_
+1	על	על	ADP	2	case
+2	הדעת	הדעה	NOUN	0	iobj
+
+LVC.cause
+0	גורם	גורם	VERB	_	_
+1	לאפליה	לאפלי	PROPN	_	_
+
+LVC.full
+0	לפתוח	פתח	VERB	_	_
+1	בפעולות	בפעולה	NOUN	0	obj
+
+LVC.full
+0	גילתה	גילה	NOUN	_	_
+1	הבנה	הבנה	NOUN	0	nmod
+
+VID
+0	בוערת	בער	VERB	_	_
+1	תחת	תחת	ADP	2	case
+2	רגליהם	רגליים	PRON	_	_
+
+VID
+0	ביתי	ביתי	ADJ	_	_
+1	הוא	הוא	VERB	2	cop
+2	מבצרי	מבצרי	NOUN	_	_
+
+VID
+0	ולהפעיל	ולהפעיל	ADV	_	_
+1	שיקול	שיקול	NOUN	_	_
+2	דעת	דעת	NOUN	1	compound:smixut
+
+VPC.full
+0	לכבד	כבד	ADV	_	_
+1	את	את	PART	2	case:acc
+2	התוצאה	התוצאה	NOUN	_	_
+
+VID
+0	לא	לא	ADV	_	_
+1	ידינו	הדין	VERB	_	_
+2	שפכו	שפך	VERB	1	conj
+3	את	את	PART	4	case:acc
+4	הדם	הדם	ADV	2	obj
+
+VID
+0	ידינו	הדין	VERB	_	_
+1	לא	לא	ADV	2	advmod
+2	שפכו	שפך	VERB	0	conj
+3	את	את	PART	4	case:acc
+4	הדם	הדם	ADV	2	obj
+5	הזה	הזה	VERB	_	_
+
+VID
+0	קונה	קונה	NOUN	_	_
+1	זאת	זאת	PRON	0	amod
+
+VID
+0	גובל	גובל	PROPN	_	_
+1	בהפקרות	בהפקר	NOUN	_	_
+
+VID
+0	מוליך	הוליך	ADJ	_	_
+1	שולל	שולל	VERB	_	_
+
+LVC.full
+0	ליצור	יצר	VERB	_	_
+1	התלקחות	התלקחות	NOUN	0	obj
+
+VID
+0	מושיטים	הושיט	VERB	_	_
+1	יד	יד	NOUN	_	_
+
+LVC.full
+0	הגישו	הגיש	VERB	_	_
+1	עתירה	עתירה	NOUN	0	obj
+
+VPC.full
+0	נחזור	חזר	VERB	_	_
+1	בנו	ב	VERB	_	_
+
+VID
+0	כשר	כשר	ADJ	_	_
+1	אבל	אבל	CCONJ	2	cc
+2	מסריח	מסריח	VERB	_	_
+
+LVC.full
+0	והגיעו	והגיע	VERB	_	_
+1	לקריסה	לקריסה	NOUN	0	obj
+
+LVC.full
+0	להביע	הביע	VERB	_	_
+1	התנגדות	התנגדות	NOUN	0	obj
+
+VID
+0	נערך	נערך	VERB	_	_
+1	בסימן	בסימן	ADP	_	_
+
+VID
+0	יועמד	הועמד	PROPN	_	_
+1	לדין	לדין	PROPN	0	flat:name
+
+VID
+0	למצות	מיצה	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הדין	הדין	PROPN	0	obj
+
+LVC.full
+0	להעמיד	העמיד	VERB	_	_
+1	לדין	לדין	NOUN	0	obj
+
+LVC.full
+0	מעלים	מעל	NOUN	_	_
+1	חשדות	חשד	NOUN	_	_
+
+LVC.full
+0	פונים	פוני	VERB	_	_
+1	בבקשה	בבקשה	INTJ	0	obl
+
+VID
+0	יועמד	הועמד	VERB	_	_
+1	לדין	לדין	ADV	0	advmod
+
+LVC.full
+0	להעמיד	העמיד	VERB	_	_
+1	לדין	דין	ADV	0	advmod
+
+VPC.full
+0	להרחיב	הרחיב	VERB	_	_
+1	בעניין	בעניין	NOUN	_	_
+
+LVC.full
+0	יביא	הביא	VERB	_	_
+1	לרגיעה	רגיע	VERB	0	obj
+
+VID
+0	שהמיר	שהמיר	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	דתו	_	NOUN	_	_
+
+VID
+0	למלא	מילא	VERB	_	_
+1	את	את	PART	2	case:acc
+2	תפקידם	תפקידם	NOUN	0	obj
+
+LVC.full
+0	שתוגש	שתוגש	NOUN	1	nsubj
+1	תלונה	תלונה	VERB	_	_
+
+LVC.full
+0	שמסרו	שמסר	VERB	_	_
+1	עדויותיהם	עדויותיים	PRON	0	obj
+
+VID
+0	הגיעה	הגיע	VERB	_	_
+1	לשיא	שיא	VERB	_	_
+
+VID
+0	נפלו	נפל	VERB	_	_
+1	קורבן	קורבן	NOUN	0	nsubj
+
+LVC.full
+0	יחול	יחול	VERB	_	_
+1	שיפור	שיפור	NOUN	0	obj
+
+VID
+0	עושה	עשה	VERB	_	_
+1	כמיטב	כמיטב	ADV	0	advmod
+2	יכולתו	הכולת	VERB	0	conj
+
+VID
+0	להתחקות	התחקה	VERB	_	_
+1	אחרי	אחרי	ADP	2	case
+2	עקבותיהם	עקבותיים	PRON	0	obl
+
+LVC.full
+0	השמיעו	השמיע	VERB	_	_
+1	קריאות	קריה	NOUN	0	obl
+
+LVC.full
+0	תתקבל	התקבל	VERB	_	_
+1	ההחלטה	ההחלטה	NOUN	_	_
+
+LVC.full
+0	יבוא	בא	VERB	_	_
+1	לידי	לידי	ADP	2	case
+2	ביטוי	ביטוי	NOUN	0	iobj
+
+LVC.full
+0	מספקות	סיפק	VERB	_	_
+1	מידע	מידע	NOUN	0	obj
+
+VID
+0	הנועצות	הנועץ	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	שיניהן	שיניים	NOUN	0	obj
+
+VID
+0	שפותחת	שפותחה	NOUN	_	_
+1	שעריה	שעריה	PROPN	0	compound:smixut
+
+LVC.full
+0	פותחת	פתח	VERB	_	_
+1	חשבון	חשבון	NOUN	0	obj
+
+VID
+0	שוות	שווה	NOUN	_	_
+1	כקליפת	כקליפה	ADJ	0	amod
+2	השום	השום	SCONJ	_	_
+
+VID
+0	היד	היד	NOUN	_	_
+1	הארוכה	הארוך	NOUN	0	compound:smixut
+2	שתשיג	שתשיג	PROPN	1	flat:name
+
+VPC.full
+0	מוטלים	מוטל	ADJ	_	_
+1	מתחת	מתחת	ADP	2	case
+2	לקברים	לקבר	NOUN	_	_
+
+LVC.full
+0	עוררו	עורר	VERB	_	_
+1	תמיהות	תמיהה	NOUN	0	obj
+
+VID
+0	לאכוף	אכף	VERB	_	_
+1	את	את	PART	2	case:acc
+2	החוק	החוק	NOUN	0	obj
+
+VID
+0	יבואו	בא	VERB	_	_
+1	על	על	ADP	2	case
+2	עונשם	עונשם	NOUN	0	iobj
+
+LVC.full
+0	שנטלו	שנטל	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+VID
+0	להמיר	המיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דתו	_	NOUN	0	obj
+
+LVC.full
+0	קיבל	קיבל	VERB	_	_
+1	הודעה	הודעה	NOUN	_	_
+
+LVC.full
+0	הגיש	הגיש	VERB	_	_
+1	תלונה	תלונה	NOUN	0	obj
+
+VID
+0	להעמידם	העמיד	VERB	_	_
+1	לדין	לדין	ADV	0	advmod
+
+VID
+0	להמיר	המיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דתם	דתם	PRON	0	obj
+
+LVC.full
+0	להכריז	הכריז	VERB	_	_
+1	מלחמה	מלחמה	NOUN	0	iobj
+
+VID
+0	עומד	עמד	VERB	_	_
+1	על	על	ADP	2	case
+2	חודו	_	NOUN	_	_
+3	של	של	PART	4	case:gen
+4	קול	קול	NOUN	2	nmod:poss
+
+LVC.full
+0	לגבש	גיבש	VERB	_	_
+1	פשרה	פשרה	NOUN	0	obj
+
+VID
+0	להקים	הקים	VERB	_	_
+1	קול	קול	NOUN	0	obj
+2	זעקה	זעקה	NOUN	1	compound:smixut
+
+VID
+0	שיניחו	שיניחו	NOUN	_	_
+1	לנפשנו	לנפש	PROPN	0	nmod
+
+VID
+0	להעביר	העביר	VERB	_	_
+1	על	על	ADP	2	case
+2	דתם	דתם	PRON	0	obl
+
+LVC.cause
+0	לגרום	גרם	VERB	_	_
+1	נקיפות	נקיפות	NOUN	_	_
+2	מצפון	מצפון	NOUN	1	compound:smixut
+
+VID
+0	עומדים	עמד	VERB	_	_
+1	בפתח	בפתח	NOUN	0	obj
+2	תקופה	תקופה	NOUN	1	compound:smixut
+
+LVC.full
+0	לקבל	קיבל	VERB	_	_
+1	החלטות	החלטה	NOUN	_	_
+
+VID
+0	נשקפת	נשקף	VERB	_	_
+1	סכנה	סכנה	NOUN	0	iobj
+
+LVC.full
+0	הושמעו	הושמע	VERB	_	_
+1	קריאות	קריאה	NOUN	0	obl
+
+VID
+0	נפסיד	הפסיד	VERB	_	_
+1	במערכה	במערכה	ADV	_	_
+
+VPC.full
+0	מביעים	הביע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	ביטחונם	ביטחונם	ADV	0	obj
+
+VID
+0	להתמודד	התמודד	VERB	_	_
+1	על	על	ADP	2	case
+2	לב	לב	NOUN	0	iobj
+
+LVC.full
+0	לבצע	ביצע	VERB	_	_
+1	אונס	אונס	PROPN	_	_
+
+VID
+0	תשמוט	תשמוט	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	השטיח	השטיח	VERB	_	_
+
+VID
+0	שימנע	שימנע	VERB	_	_
+1	קרע	קרע	NOUN	0	obj
+
+LVC.full
+0	קיבלה	קיבל	VERB	_	_
+1	החלטה	החלטה	NOUN	_	_
+
+LVC.full
+0	עוברות	עוברות	NOUN	_	_
+1	בשתיקה	בשתיקה	NOUN	0	compound:smixut
+
+VID
+0	נרמסות	נרמס	VERB	_	_
+1	ברגל	ברגל	ADP	2	case
+2	גסה	גסה	PROPN	0	obl
+
+VID
+0	מסתובבות	הסתובב	VERB	_	_
+1	רוחות	רוח	NOUN	0	nsubj
+
+VID
+0	נותנים	נתן	VERB	_	_
+1	יד	יד	NOUN	_	_
+
+LVC.full
+0	ולהביע	ולהביע	VERB	_	_
+1	דעה	דעה	NOUN	_	_
+
+LVC.full
+0	שיבצעו	שיבצע	VERB	_	_
+1	התקפות	התקפה	NOUN	_	_
+
+LVC.full
+0	הגביר	הגביר	VERB	_	_
+1	לחציו	לחציו	PROPN	0	obj
+
+VID
+0	תאריך	האריך	NOUN	_	_
+1	ימים	יום	NOUN	0	compound:smixut
+
+LVC.full
+0	קיבל	קיבל	VERB	_	_
+1	הנחיות	הנחיה	NOUN	_	_
+
+VID
+0	ימצאו	מצא	VERB	_	_
+1	את	את	PART	2	case:acc
+2	עצמם	עצמו	PRON	_	_
+
+LVC.full
+0	בוצע	בוצע	NOUN	_	_
+1	ירי	ירי	ADJ	0	amod
+
+LVC.full
+0	תשתף	תשתף	VERB	_	_
+1	פעולה	פעולה	NOUN	0	obj
+
+VID
+0	עשו	עשה	VERB	_	_
+1	לו	לו	ADP	2	case
+2	תרגיל	רגיל	NOUN	0	obl
+
+VID
+0	אותו	_	PRON	_	_
+1	לאכוף	אכף	VERB	_	_
+
+LVC.full
+0	שזכה	שזכה	NOUN	_	_
+1	להצלחה	להצלח	ADJ	0	amod
+
+LVC.full
+0	שעלתה	שעלה	VERB	_	_
+1	לדיון	לדיון	PROPN	_	_
+
+VID
+0	לגשר	גישר	VERB	_	_
+1	על	על	ADP	2	case
+2	המצוקה	המצוקה	NOUN	0	obl
+
+LVC.full
+0	עושה	עשה	VERB	_	_
+1	מאמצים	מאמץ	NOUN	0	obj
+
+LVC.full
+0	יצא	יצא	VERB	_	_
+1	בטענה	בטענה	NOUN	_	_
+
+LVC.full
+0	נוטלים	נטל	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+LVC.full
+0	דואגים	דואגים	VERB	_	_
+1	לעשות	עשה	VERB	0	xcomp
+
+VID
+0	לעשות	עשה	VERB	_	_
+1	לביתי	לביתי	VERB	0	dep
+
+LVC.cause
+0	מובילה	הוביל	VERB	_	_
+1	מדיניות	מדיניות	NOUN	0	obj
+
+VID
+0	מצאו	מצא	VERB	_	_
+1	עצמן	עצמו	PRON	_	_
+
+LVC.cause
+0	לתת	נתן	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הדעת	הדעה	NOUN	0	obj
+
+LVC.full
+0	ומעודדת	ומעודד	ADJ	_	_
+1	שינוי	שינוי	NOUN	_	_
+
+VID
+0	ופיקוח	ופיקוח	NOUN	_	_
+1	נפש	נפש	NOUN	0	compound:smixut
+2	דוחה	דוחה	ADJ	0	amod
+
+LVC.full
+0	הוגשה	הוגש	VERB	_	_
+1	תשובתה	תשובתה	NOUN	0	nsubj
+
+LVC.full
+0	ילקח	הלקח	VERB	_	_
+1	בחשבון	בחשבון	NOUN	0	obj
+
+VPC.full
+0	מברך	מברך	VERB	_	_
+1	על	על	ADP	2	case
+2	החלטת	החלטה	NOUN	0	iobj
+
+VID
+0	משאירה	השאיר	VERB	_	_
+1	מקום	מקום	NOUN	0	obj
+2	לספק	סיפק	VERB	1	acl:inf
+
+VID
+0	נפלה	נפל	VERB	_	_
+1	על	על	ADP	2	case
+2	כתפיה	כתפיה	NOUN	0	obl
+
+VID
+0	לשאת	נשא	VERB	_	_
+1	באחריות	באחריה	ADJ	0	advmod
+
+VID
+0	מאמינים	האמין	VERB	_	_
+1	בכל	בכל	PROPN	_	_
+2	לב	לב	NOUN	1	flat:name
+
+VID
+0	מה	מה	ADV	_	_
+1	תצעק	הצעק	NOUN	_	_
+2	אלי	אל	PROPN	1	compound:smixut
+3	דבר	דבר	NOUN	_	_
+4	אלי	אל	PROPN	_	_
+5	בני	בן	NOUN	4	acl
+6	ישראל	ישראל	PROPN	5	compound:smixut
+
+VID
+0	לבקוע	בקע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הרקיעים	הרקיע	VERB	_	_
+
+VID
+0	לקרוע	קרע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	היום	היום	ADV	0	obj
+
+VID
+0	אפילו	אפילו	CCONJ	1	det
+1	חרב	חרב	NOUN	3	nsubj
+2	חדה	חד	ADJ	1	amod
+3	מונחת	הונח	VERB	_	_
+4	על	על	ADP	5	case
+5	צווארו	צווארו	PROPN	3	iobj
+6	של	של	PART	7	case:gen
+7	אדם	אדם	NOUN	5	nmod:poss
+8	אל	אל	ADP	9	case
+9	ימנע	ימנע	VERB	3	obl
+10	עצמו	עצמו	PRON	9	advmod
+11	מן	מן	ADP	12	case
+12	הרחמים	הרחמים	NOUN	9	obl
+
+VID
+0	דורס	דורס	PROPN	_	_
+1	כל	כול	DET	2	det
+2	מה	מה	ADV	3	obj
+3	שעומד	שעומד	VERB	_	_
+4	בדרכך	בדרך	ADV	_	_
+
+VPC.full
+0	יסייעו	סייע	VERB	_	_
+1	בסוגייה	בסוגייה	NOUN	0	obl
+
+LVC.full
+0	ליטול	נטל	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+LVC.full
+0	רואה	ראה	VERB	_	_
+1	חשיבות	חשיבות	NOUN	0	nsubj
+
+VID
+0	ולהידוק	ולהידוק	NOUN	_	_
+1	הקשרים	הקשרים	NOUN	0	compound:smixut
+
+LVC.full
+0	לצאת	יצא	VERB	_	_
+1	במתקפה	במתקפה	NOUN	0	iobj
+
+LVC.full
+0	לצאת	יצא	VERB	_	_
+1	נגד	נגד	ADP	_	_
+
+VID
+0	הביע	הביע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	חזונו	חזון	PROPN	0	obj
+
+VID
+0	לסתום	סתם	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הפה	הפה	NOUN	0	obj
+
+VID
+0	יש	יש	VERB	_	_
+1	בנו	ב	ADP	2	case
+2	אהבה	אהבה	NOUN	0	obl
+3	והיא	והוא	PRON	0	nsubj
+4	תנצח	ניצח	VERB	_	_
+
+LVC.full
+0	לעורר	עורר	VERB	_	_
+1	חשדות	חשד	NOUN	0	obj
+
+LVC.full
+0	לגרוף	גרוף	VERB	_	_
+1	רווחים	רווח	NOUN	0	iobj
+
+VID
+0	וחתם	וחתם	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	דבריו	_	PROPN	_	_
+
+VID
+0	אמר	אמר	VERB	_	_
+1	העם	העם	ADV	0	advmod
+2	את	את	PART	3	case:acc
+3	דברו	דברו	VERB	_	_
+
+LVC.full
+0	להטיל	הטיל	VERB	_	_
+1	אשמת	אשמת	NOUN	0	obj
+
+VID
+0	ומי	ומי	ADJ	_	_
+1	שאינו	שאה	CCONJ	2	mark
+2	סובל	סבל	VERB	_	_
+3	את	את	PART	4	case:acc
+4	חום	חום	NOUN	7	obj
+5	האש	האש	ADV	7	dep
+6	שלא	שלא	ADV	7	advmod
+7	ייכנס	היכנס	VERB	2	conj
+8	למטבח	מטבח	VERB	7	xcomp
+
+VID
+0	משחק	משחק	NOUN	_	_
+1	לידיהם	לידי	ADP	_	_
+
+VID
+0	לעשות	עשה	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מלאכתם	מלאכתם	PROPN	0	obj
+
+LVC.full
+0	המביע	המביע	VERB	_	_
+1	תקווה	תקווה	NOUN	0	obj
+
+LVC.full
+0	מתחו	מתח	VERB	_	_
+1	בקורת	בקורה	NOUN	_	_
+
+VID
+0	מפקיר	הפקיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	חיי	חיים	NOUN	0	obj
+
+LVC.full
+0	התנגדות	התנגדות	NOUN	1	nsubj
+1	הביע	הביע	VERB	_	_
+
+LVC.full
+0	יעלה	עלה	VERB	_	_
+1	הסיכון	הסיכון	NOUN	0	obj
+
+VID
+0	דחוסים	דחוס	ADJ	_	_
+1	כמו	כמו	ADP	2	case
+2	סרדינים	סרדין	NOUN	_	_
+
+VID
+0	תהיה	היה	VERB	4	aux
+1	עם	עם	ADP	2	case
+2	יד	יד	NOUN	0	obl
+3	על	על	ADP	4	case
+4	הדופק	הדופק	NOUN	_	_
+
+LVC.full
+0	פרץ	פרץ	VERB	_	_
+1	ויכוח	ויכוח	NOUN	0	obj
+
+LVC.full
+0	התפרץ	התפרץ	VERB	_	_
+1	בצעקות	בצעקה	NOUN	0	obj
+
+VID
+0	פתח	פתח	VERB	_	_
+1	באש	באש	ADV	_	_
+
+LVC.cause
+0	ויצרה	ויצרה	VERB	_	_
+1	תנאים	_	NOUN	0	obj
+
+LVC.cause
+0	נגרם	נגרם	VERB	_	_
+1	נזק	נזק	NOUN	_	_
+
+LVC.full
+0	מבצעים	ביצע	VERB	_	_
+1	אונס	אונס	NOUN	0	obl
+
+VID
+0	וסתימת	וסתים	ADJ	_	_
+1	פיות	פי	ADJ	_	_
+
+VID
+0	שבירת	שבירה	NOUN	_	_
+1	כלים	כלי	NOUN	0	compound:smixut
+
+VID
+0	שיוצא	שיוצא	NOUN	_	_
+1	הנשק	הנשק	NOUN	0	compound:smixut
+2	מהארסנל	מהארסנל	ADJ	_	_
+
+VID
+0	לעצור	עצר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	ציד	ציד	NOUN	0	obj
+3	המכשפות	המכשפה	NOUN	2	compound:smixut
+
+VID
+0	השתנתה	השתנה	VERB	_	_
+1	התמונה	התמן	NOUN	_	_
+
+LVC.full
+0	ובסגירת	ובסגירה	NOUN	_	_
+1	חשבונות	חשבון	NOUN	0	compound:smixut
+
+VID
+0	ודוהר	ודוהר	PROPN	_	_
+1	קדימה	קדימה	ADV	_	_
+
+VPC.full
+0	למצות	מיצה	VERB	_	_
+1	את	את	PART	2	case:acc
+2	המהלכים	המהלך	NOUN	0	obj
+
+VID
+0	ועשו	ועשה	VERB	_	_
+1	דין	דין	NOUN	0	obj
+2	לעצמם	עצמם	VERB	0	xcomp
+
+VID
+0	יתפרק	יתפרק	ADV	_	_
+1	מנשקו	מנשק	NOUN	_	_
+
+VID
+0	יתפרק	יתפרק	PROPN	_	_
+1	מנשקו	מנשק	NOUN	0	flat:name
+
+LVC.full
+0	הושגו	הושג	VERB	_	_
+1	הבנות	הבנה	NOUN	0	nsubj
+
+LVC.full
+0	פנתה	פנה	VERB	_	_
+1	בבקשה	בבקשה	INTJ	_	_
+
+VID
+0	להותיר	הותיר	VERB	_	_
+1	על	על	ADP	2	case
+2	כנה	כנה	NOUN	0	obl
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	תמיהה	תמיהה	NOUN	0	obj
+
+VID
+0	שנתנו	שנתן	VERB	_	_
+1	ידם	ידם	ADV	_	_
+
+LVC.full
+0	לתפוס	תפס	VERB	_	_
+1	מחסה	מחסה	NOUN	0	obj
+
+LVC.full
+0	הטילו	הטיל	VERB	_	_
+1	ספק	ספק	NOUN	0	obj
+
+LVC.full
+0	לפתוח	פתח	VERB	_	_
+1	בחקירה	בחקירה	NOUN	0	obj
+
+VID
+0	לוקחים	וקחים	NOUN	_	_
+1	אויר	אויר	NOUN	0	amod
+
+VID
+0	לוקחים	וקחים	NOUN	_	_
+1	אויר	אויר	NOUN	0	amod
+2	לריאות	לריאה	ADJ	1	amod
+
+VID
+0	מרהיב	הרהיב	VERB	_	_
+1	עין	עין	NOUN	0	obj
+
+VID
+0	מוצאים	מצא	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מותם	_	PROPN	0	obj
+
+VID
+0	והיווה	והיווה	PROPN	_	_
+1	ציון	ציון	PROPN	0	flat:name
+2	דרך	דרך	ADP	_	_
+
+VPC.full
+0	לחדור	חדר	VERB	_	_
+1	לתחום	תחום	NOUN	0	obj
+
+VID
+0	ולהעביר	ולהעביר	PROPN	_	_
+1	לידיה	לידיה	PROPN	_	_
+
+LVC.full
+0	להגיע	הגיע	VERB	_	_
+1	להסכמה	להסכמה	DET	_	_
+
+VID
+0	לאכוף	לאכוף	VERB	_	_
+1	אותו	_	PRON	_	_
+
+LVC.full
+0	באות	בא	ADJ	_	_
+1	להתלונן	התלונן	VERB	_	_
+
+VID
+0	ציירו	צייר	VERB	_	_
+1	תמונה	תמונה	NOUN	_	_
+
+LVC.full
+0	הוצאת	הוצאה	NOUN	_	_
+1	לשון	לשון	PROPN	0	compound:smixut
+2	הרע	הרע	VERB	_	_
+
+LVC.cause
+0	לעורר	עורר	VERB	_	_
+1	השאלה	השאלה	NOUN	0	obj
+
+VID
+0	לתת	נתן	VERB	_	_
+1	יד	יד	NOUN	_	_
+
+LVC.full
+0	להביא	הביא	VERB	_	_
+1	לידיעתם	ידיעתם	PROPN	0	iobj
+
+VID
+0	ידיו	ידיו	NOUN	1	nsubj
+1	מגואלות	הגואל	VERB	_	_
+2	בדם	בדם	ADP	_	_
+
+VID
+0	וממשיך	וממשיך	PROPN	_	_
+1	בדרכם	בדר	PROPN	_	_
+
+LVC.cause
+0	לעורר	עורר	VERB	_	_
+1	זכרונות	זכרון	NOUN	_	_
+
+LVC.full
+0	פתחו	פתח	VERB	_	_
+1	בקריאות	בקריאה	NOUN	_	_
+
+VID
+0	עורר	עורר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	חמתם	חמתם	PRON	0	obj
+
+VID
+0	לבצר	ביצר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מעמדם	מעמדם	NOUN	0	obj
+
+VID
+0	נפלו	נפל	VERB	_	_
+1	בחיקם	בחיקם	NOUN	_	_
+
+VID
+0	לפרק	פרק	ADV	_	_
+1	מנשקם	הנשקם	VERB	_	_
+
+LVC.cause
+0	שמתעורר	שמתעורר	VERB	_	_
+1	חשש	חשש	NOUN	_	_
+
+VID
+0	לפרק	פרק	ADV	_	_
+1	מנשקם	מנשקם	VERB	_	_
+
+VID
+0	בא	בא	VERB	_	_
+1	לידי	לידי	ADP	2	case
+2	ביטוי	ביטוי	NOUN	0	obl
+
+LVC.full
+0	המטילים	המטיל	ADJ	_	_
+1	צל	צל	NOUN	_	_
+
+LVC.full
+0	שהגיעו	_	NOUN	_	_
+1	למסקנה	למסקנה	VERB	0	nmod
+
+LVC.full
+0	שהגישו	שהגיש	VERB	_	_
+1	תביעת	תביעה	NOUN	0	obj
+
+LVC.full
+0	לקיים	קיים	VERB	_	_
+1	דיון	דיון	NOUN	0	iobj
+
+LVC.full
+0	תצא	יצא	VERB	_	_
+1	לפועל	פועל	VERB	0	xcomp
+
+VID
+0	רואים	ראה	VERB	_	_
+1	עין	עין	NOUN	0	obj
+2	בעין	בעין	ADV	1	advmod
+
+LVC.full
+0	לקבל	קיבל	VERB	_	_
+1	החלטות	החלטה	NOUN	0	obj
+
+VID
+0	שבא	שבא	VERB	_	_
+1	לידי	לידי	ADP	2	case
+2	ביטוי	ביטוי	NOUN	0	iobj
+
+VPC.full
+0	נמצאת	נמצא	VERB	_	_
+1	בדילמה	בדילמה	NOUN	0	nsubj
+
+VID
+0	על	על	ADP	1	case
+1	ראש	ראש	NOUN	_	_
+2	הגנב	הגנב	NOUN	1	compound:smixut
+3	בוער	בער	VERB	1	amod
+4	הכובע	הכובע	PROPN	1	appos
+
+LVC.full
+0	שיצא	שיצא	VERB	_	_
+1	בהודעת	בהודעה	NOUN	0	obj
+
+LVC.full
+0	נשא	נשא	VERB	_	_
+1	דברים	דבר	NOUN	0	obj
+
+VID
+0	נולדה	נולד	PROPN	_	_
+1	בחטא	בחטא	PROPN	0	flat:name
+
+VID
+0	גנב	גנב	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	דעתם	דעתם	PROPN	_	_
+
+VID
+0	כיריקה	כיריקה	PROPN	_	_
+1	בפרצופו	בפרצופו	PROPN	0	flat:name
+
+VID
+0	יריקה	יריקה	PROPN	_	_
+1	בפרצופו	בפרצופו	PROPN	0	flat:name
+
+VID
+0	שהגעתם	שהגעתם	PRON	_	_
+1	לכתובת	יכתוב	NOUN	0	dep
+2	הנכונה	הנכונה	ADJ	1	amod
+
+VID
+0	למשוך	משך	VERB	_	_
+1	את	את	PART	2	case:acc
+2	השטיח	השטיח	NOUN	0	obj
+
+VID
+0	ועבר	ועבר	ADV	_	_
+1	מפה	מף	VERB	_	_
+2	לאוזן	לאוזן	VERB	_	_
+
+VID
+0	מחזיק	החזיק	VERB	_	_
+1	בדעותיו	_	ADV	0	advmod
+
+VID
+0	שמתרגש	שמתרגש	NOUN	_	_
+1	עלינו	עלה	ADP	_	_
+
+LVC.full
+0	להביע	הביע	VERB	_	_
+1	הזדהות	הזדהות	NOUN	0	obj
+
+LVC.full
+0	הפעילה	הפעיל	ADJ	_	_
+1	לחצים	חצים	VERB	_	_
+
+LVC.full
+0	ולהשמיע	ולהשמיע	VERB	_	_
+1	זעקתה	זעקתה	NOUN	_	_
+
+LVC.full
+0	להפעיל	הפעיל	VERB	_	_
+1	לחץ	לחץ	NOUN	_	_
+
+VID
+0	מפנים	הפנה	VERB	_	_
+1	אצבע	אצבע	NOUN	_	_
+2	מאשימה	מאשים	ADJ	_	_
+
+VID
+0	להזיל	הזיל	VERB	_	_
+1	דמעה	דמעה	NOUN	0	obj
+
+VID
+0	פתח	פתח	NOUN	_	_
+1	צוהר	צוהר	ADJ	0	amod
+
+LVC.full
+0	נטלו	נטל	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+VPC.full
+0	ליפול	ליפול	VERB	_	_
+1	להיסטריה	היסטריה	ADP	_	_
+
+VID
+0	יתנו	_	VERB	_	_
+1	את	את	PART	2	case:acc
+2	ידם	ידם	ADV	_	_
+
+LVC.full
+0	רואה	ראה	VERB	_	_
+1	חשיבות	חשיבות	NOUN	0	obj
+
+VID
+0	לגשר	גישר	VERB	_	_
+1	על	על	ADP	2	case
+2	המרחק	המרחק	NOUN	0	iobj
+
+LVC.cause
+0	שיינתנו	שיינתן	VERB	_	_
+1	תמריצים	תמריץ	NOUN	0	nsubj
+
+LVC.full
+0	שיפעיל	שיפעיל	NOUN	_	_
+1	לחץ	לחץ	NOUN	0	compound:smixut
+
+LVC.full
+0	יפעיל	פעיל	VERB	_	_
+1	לחץ	לחץ	NOUN	0	obj
+
+LVC.full
+0	הטיחו	הטיחו	NOUN	_	_
+1	האשמות	האשמה	NOUN	_	_
+
+LVC.full
+0	הפעיל	הפעיל	VERB	_	_
+1	לחצים	חצים	VERB	0	xcomp
+
+VID
+0	נוטל	נטל	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+LVC.cause
+0	שנתנו	שנתן	NOUN	_	_
+1	קולם	קולם	NOUN	0	compound:smixut
+
+VID
+0	משנים	השן	VERB	_	_
+1	את	את	PART	2	case:acc
+2	עורם	עורם	NOUN	0	obj
+
+LVC.full
+0	והביעה	והביע	VERB	_	_
+1	תקווה	תקווה	NOUN	0	obj
+
+LVC.full
+0	קידמה	קידם	NOUN	1	obl
+1	בברכה	בברכה	VERB	_	_
+
+LVC.full
+0	מציע	הציע	VERB	_	_
+1	הסברים	הסבר	NOUN	0	obj
+
+VID
+0	ועברה	ועברה	VERB	_	_
+1	משוכות	משוכה	NOUN	0	obj
+
+VID
+0	שורר	שרר	VERB	_	_
+1	קצר	קצר	NOUN	_	_
+
+VID
+0	מלבלבת	הלבלב	VERB	_	_
+1	האהבה	האהבה	NOUN	0	obj
+
+VID
+0	שריחו	שריחו	PROPN	_	_
+1	נישא	נישא	VERB	_	_
+2	למרחוק	מרחק	VERB	1	xcomp
+
+VID
+0	משלבים	השלב	NOUN	_	_
+1	ידיים	הדיים	ADJ	0	amod
+
+LVC.full
+0	קיימו	קיים	VERB	_	_
+1	פגישת	פגישה	NOUN	0	nsubj
+
+LVC.full
+0	מקדמים	קדם	VERB	_	_
+1	בברכה	בברך	ADV	0	advmod
+
+VID
+0	שהצל	שהצל	NOUN	_	_
+1	שלו	של	PART	2	case:gen
+2	מוטל	מוטל	PROPN	0	nmod:poss
+
+LVC.cause
+0	נתן	נתן	VERB	_	_
+1	את	את	PART	2	case:acc
+2	האות	האות	NOUN	0	obj
+
+LVC.cause
+0	נתן	נתן	VERB	_	_
+1	האות	האות	NOUN	0	obj
+
+VID
+0	נפלה	נפל	VERB	_	_
+1	עליהם	על	ADP	2	case
+2	תרדמה	תרדמה	NOUN	0	iobj
+
+LVC.full
+0	וגורמת	וגרם	VERB	_	_
+1	נזק	נזק	NOUN	0	obj
+
+LVC.full
+0	מביעה	הביע	VERB	_	_
+1	תמיכה	תמיכה	NOUN	0	obj
+
+LVC.full
+0	שקיים	שקי	ADJ	_	_
+1	שיחות	שיחה	ADV	0	advmod
+
+LVC.full
+0	מהווה	היווה	VERB	1	aux
+1	איום	איום	NOUN	_	_
+
+LVC.cause
+0	לגרום	גרם	VERB	_	_
+1	נזק	נזק	NOUN	0	iobj
+
+VID
+0	ולהדק	ולהדק	X	_	_
+1	את	את	PART	2	case:acc
+2	הקשר	הקשר	NOUN	_	_
+
+VID
+0	עומדת	עמד	VERB	_	_
+1	על	על	ADP	2	case
+2	סף	סף	NOUN	_	_
+
+LVC.full
+0	פתחה	פתח	VERB	_	_
+1	פער	פער	NOUN	0	dep
+
+LVC.cause
+0	עורר	עורר	VERB	_	_
+1	עניין	עניין	NOUN	0	obj
+
+VID
+0	עולה	עלה	VERB	_	_
+1	בקנה	בקנה	NOUN	_	_
+2	אחד	אחד	NUM	1	nummod
+
+LVC.full
+0	ערך	ערך	VERB	_	_
+1	מחקר	מחקר	NOUN	0	nsubj
+
+LVC.full
+0	לחלוק	חלק	VERB	_	_
+1	כבוד	כבוד	NOUN	0	obj
+
+LVC.full
+0	נמסר	נמסר	VERB	_	_
+1	אישור	אישור	NOUN	0	nsubj
+
+VID
+0	עברה	עבר	VERB	_	_
+1	על	על	ADP	2	case
+2	החוק	החוק	NOUN	0	obl
+
+LVC.full
+0	יחול	יחול	VERB	_	_
+1	שיפור	שיפור	NOUN	0	nsubj
+
+VID
+0	לצאת	יצא	VERB	_	_
+1	מן	מן	ADP	2	case
+2	המבוי	המבוי	NOUN	0	iobj
+3	הסתום	הסתום	NOUN	2	compound:smixut
+
+VID
+0	הביע	הביע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	ביטחונו	יטחן	PROPN	_	_
+
+LVC.full
+0	ומתחו	ומתחו	NOUN	_	_
+1	ביקורת	ביקורת	NOUN	_	_
+
+LVC.full
+0	שהביע	שהביע	VERB	_	_
+1	תקוותו	תקוותו	NOUN	0	obj
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דאגתו	_	NOUN	0	obj
+
+LVC.full
+0	פנה	פנה	VERB	_	_
+1	בבקשה	בבקשה	INTJ	_	_
+
+LVC.full
+0	להפעיל	הפעיל	VERB	_	_
+1	לחץ	לחץ	NOUN	0	obj
+
+LVC.full
+0	למצוא	מצא	VERB	_	_
+1	פתרון	פתרון	NOUN	_	_
+
+VID
+0	הגענו	הגיע	VERB	_	_
+1	לימות	ימת	NOUN	0	obj
+2	המשיח	_	NOUN	1	compound:smixut
+
+LVC.full
+0	פנה	פנה	VERB	_	_
+1	בדרישה	בדרישה	NOUN	_	_
+
+LVC.cause
+0	הנזק	הנזק	NOUN	_	_
+1	שנגרם	שנגרם	ADP	_	_
+
+LVC.cause
+0	שגרמה	שגרם	VERB	_	_
+1	סבל	סבל	NOUN	0	nsubj
+
+LVC.full
+0	מקדמים	קדם	VERB	_	_
+1	בברכה	בברכה	ADV	0	advmod
+
+VID
+0	תחזיק	החזיק	VERB	_	_
+1	מעמד	מעמד	NOUN	0	obj
+
+LVC.full
+0	העלו	העלה	VERB	_	_
+1	הצעה	הצעה	NOUN	0	obj
+
+LVC.cause
+0	העניק	העניק	VERB	_	_
+1	אולטימטום	אולטימטום	NOUN	_	_
+
+VID
+0	שנשקפה	שנשקפה	NOUN	_	_
+1	סכנה	סכנה	ADJ	0	amod
+
+LVC.full
+0	וערך	וערך	NOUN	_	_
+1	תחקיר	תחקיר	NOUN	0	compound:smixut
+
+VID
+0	שעשה	שעשה	VERB	_	_
+1	בהם	ב	ADP	2	case
+2	שפטים	שפט	NOUN	0	obl
+
+LVC.cause
+0	הנזק	הנזק	PROPN	1	nsubj
+1	שנגרם	שנגרם	VERB	_	_
+
+VID
+0	ביקורת	ביקורת	NOUN	_	_
+1	שוטפת	שוטף	ADJ	0	amod
+
+LVC.cause
+0	שיצרו	שיצר	VERB	_	_
+1	תחושה	תחושה	NOUN	_	_
+
+VID
+0	העיבו	העיב	VERB	_	_
+1	על	על	ADP	2	case
+2	התמונה	התמונה	NOUN	0	obl
+
+LVC.cause
+0	עידוד	עידוד	NOUN	_	_
+1	העלייה	העלייה	NOUN	0	compound:smixut
+
+VID
+0	הוציאו	הוציא	VERB	_	_
+1	משלוותם	משלוותם	PROPN	0	dep
+
+VID
+0	להרויח	הרויח	VERB	_	_
+1	את	את	PART	2	case:acc
+2	לחמם	חימם	VERB	0	obj
+
+VID
+0	שלף	שלף	VERB	_	_
+1	שפנים	שפן	NOUN	0	obj
+2	משרוולו	משרוול	NOUN	1	compound:smixut
+
+VID
+0	קרסה	קרסה	PROPN	_	_
+1	תחת	תחת	ADP	2	case
+2	העומס	העומס	PROPN	_	_
+
+LVC.cause
+0	גרמה	גרמה	VERB	_	_
+1	צרות	צרה	NOUN	_	_
+
+VID
+0	מפיק	הפיק	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מיטבו	מיטבו	PROPN	0	obj
+
+LVC.full
+0	יביא	הביא	VERB	_	_
+1	לקידום	קידם	VERB	0	xcomp
+
+LVC.full
+0	יערכו	ערך	VERB	_	_
+1	סיור	סיור	NOUN	_	_
+
+LVC.full
+0	מתח	מתח	NOUN	_	_
+1	ביקורת	ביקורת	NOUN	_	_
+
+LVC.full
+0	מעורר	עורר	VERB	_	_
+1	זעם	זעם	VERB	0	xcomp
+
+LVC.full
+0	להשכין	השכין	VERB	_	_
+1	שקט	שקט	NOUN	0	obj
+
+LVC.cause
+0	נתן	נתן	VERB	_	_
+1	הנחיות	הנחיה	NOUN	0	obj
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	תמיכתן	תמיכתן	PROPN	_	_
+
+LVC.full
+0	מעוררי	מעוררי	NOUN	_	_
+1	גועל	גועל	PROPN	0	compound:smixut
+
+LVC.full
+0	עשה	עשה	VERB	_	_
+1	צדק	צדק	NOUN	_	_
+
+LVC.cause
+0	ונתן	ונתן	PROPN	_	_
+1	פתח	פתח	VERB	_	_
+
+LVC.full
+0	להשיב	השיב	VERB	_	_
+1	תחיה	תחייה	NOUN	0	obl
+
+VID
+0	סערה	סערה	NOUN	_	_
+1	בכוס	בכוס	NOUN	_	_
+2	מים	מים	NOUN	1	compound:smixut
+
+LVC.full
+0	נושאת	נשא	VERB	_	_
+1	באחריות	באחריה	NOUN	0	compound:smixut
+
+LVC.full
+0	ייחסו	היחס	VERB	_	_
+1	חשיבות	חשיבות	NOUN	_	_
+
+LVC.full
+0	קיימו	קיים	VERB	1	dep
+1	מגעים	מגע	VERB	_	_
+
+VID
+0	יעלה	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	הדעת	הדעה	NOUN	0	iobj
+
+VID
+0	יעלה	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	דעת	דעה	NOUN	0	obl
+
+LVC.full
+0	שהביע	שהביע	VERB	_	_
+1	מחאתו	מחאתו	NOUN	0	obj
+
+VID
+0	נותנים	נתן	VERB	_	_
+1	יד	יד	NOUN	0	nsubj
+
+VID
+0	מתהפך	התהפך	VERB	_	_
+1	בקברו	בקבר	VERB	0	conj
+
+LVC.cause
+0	העניקו	העניק	VERB	_	_
+1	חנינה	חנינה	NOUN	0	obj
+
+VID
+0	קיפחו	קיפח	VERB	_	_
+1	את	את	PART	_	_
+2	חייהם	חייים	NUM	_	_
+
+LVC.full
+0	שהשמיעו	שהשמיע	VERB	_	_
+1	קריאה	קריאה	NOUN	0	obj
+
+LVC.full
+0	הובעה	הובע	VERB	_	_
+1	אכזבה	אכזבה	NOUN	0	nsubj
+
+LVC.full
+0	פנה	פנה	VERB	_	_
+1	בבקשה	בבקשה	NOUN	_	_
+
+LVC.full
+0	הגיע	הגיע	VERB	_	_
+1	לסיומו	סיומ	ADP	_	_
+
+VID
+0	יצאה	יצא	VERB	_	_
+1	אל	אל	ADP	2	case
+2	הפועל	_	NOUN	_	_
+
+LVC.full
+0	נטלה	נטל	VERB	_	_
+1	חלק	חלק	NOUN	_	_
+
+VID
+0	בבושת	בבושת	NOUN	_	_
+1	פנים	פנים	NOUN	0	compound:smixut
+
+VID
+0	יורדת	ירד	VERB	_	_
+1	לטמיון	טמין	PROPN	0	nsubj
+
+LVC.full
+0	מגלים	גילה	VERB	_	_
+1	עניין	עניין	NOUN	0	obj
+
+LVC.full
+0	המביא	המביא	VERB	_	_
+1	למיתון	למיתון	NOUN	0	obj
+
+VID
+0	שבסופו	שבסוף	PROPN	_	_
+1	של	של	PART	2	case:gen
+2	דבר	דבר	NOUN	0	nmod:poss
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	דאגה	דאגה	NOUN	0	obj
+
+LVC.full
+0	קיבל	קיבל	VERB	_	_
+1	החלטות	החלטה	NOUN	_	_
+
+VID
+0	לעלות	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	פסים	פס	NOUN	0	iobj
+
+LVC.full
+0	לקח	לקח	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+LVC.cause
+0	שגרם	שגרם	VERB	_	_
+1	לסבל	סבל	NOUN	0	obl
+
+LVC.full
+0	הביאו	הביא	VERB	_	_
+1	לירידה	לירידה	NOUN	0	nsubj
+
+LVC.cause
+0	שגרמה	שגרמה	VERB	_	_
+1	להפסדים	הפסדים	NOUN	0	obj
+
+LVC.cause
+0	נגרם	נגרם	VERB	_	_
+1	נזק	נזק	NOUN	0	compound:smixut
+
+VID
+0	נזק	נזק	NOUN	_	_
+1	בלתי	בלתי	ADV	0	advmod
+2	הפיך	הפיך	VERB	_	_
+
+VID
+0	להניב	הניב	VERB	_	_
+1	פירות	פרי	NOUN	_	_
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	סיפוק	סיפוק	NOUN	0	obj
+
+VID
+0	לפלס	פלס	VERB	_	_
+1	דרכו	מ"דרכו	VERB	0	iobj
+
+VID
+0	לפלס	פלס	VERB	_	_
+1	את	את	PART	2	case:acc
+2	דרכו	מ"דרכו	VERB	0	iobj
+
+LVC.full
+0	הגיעו	הגיע	VERB	_	_
+1	למסקנה	למסקנה	NOUN	0	nsubj
+
+VID
+0	עומדת	עמד	VERB	_	_
+1	על	על	ADP	2	case
+2	סף	סף	NOUN	0	iobj
+
+LVC.cause
+0	בעיות	בעיה	NOUN	_	_
+1	שהתעוררו	שהתעורר	PROPN	_	_
+
+LVC.full
+0	לקחת	_	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+LVC.cause
+0	לתת	נתן	VERB	_	_
+1	את	את	PART	_	_
+2	הדין	הדין	NOUN	_	_
+
+VID
+0	לשתף	שיתף	VERB	_	_
+1	פעולה	פעולה	NOUN	0	obj
+
+VID
+0	הוצף	הוצף	VERB	_	_
+1	בבקשות	בבקשות	ADV	_	_
+
+VID
+0	שיבושם	שיבושם	ADV	_	_
+1	לו	ל	ADP	_	_
+
+VID
+0	לתקוע	תקע	VERB	_	_
+1	יתד	יתד	ADP	_	_
+
+VID
+0	חזר	חזר	VERB	_	_
+1	לזירה	זיר	VERB	0	xcomp
+
+LVC.full
+0	ונטל	ונטל	PROPN	_	_
+1	חלק	חלק	NOUN	_	_
+
+VID
+0	שברה	שבר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מחירי	מחיר	NOUN	0	obj
+3	השוק	השוק	NOUN	2	compound:smixut
+
+LVC.cause
+0	עורר	עורר	VERB	_	_
+1	תרעומת	תרעומה	NOUN	0	obj
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	מחאתו	מחאתו	NOUN	0	obj
+
+LVC.full
+0	הודעה	הודעה	NOUN	1	nsubj
+1	נמסרה	נמסר	VERB	_	_
+
+VID
+0	והתלונן	והתלונן	PROPN	_	_
+1	באוזינהם	באוזינהם	PROPN	0	flat:name
+
+VID
+0	יוצא	יצא	VERB	_	_
+1	דופן	דופן	NOUN	0	nsubj
+
+VID
+0	תמות	תמה	VERB	_	_
+1	נפשי	נפשי	ADJ	0	amod
+2	עם	עם	ADP	3	case
+3	פלשתים	פלשת	NOUN	0	obl
+
+LVC.full
+0	תצא	יצא	VERB	_	_
+1	לסיור	לסיור	VERB	_	_
+
+VID
+0	פעל	פעל	NOUN	_	_
+1	על	על	ADP	2	case
+2	דעתו	_	NOUN	0	nmod
+
+VID
+0	שקיים	שקיים	ADJ	_	_
+1	טעם	טעם	NOUN	_	_
+2	לפגם	פגם	PROPN	1	flat:name
+
+LVC.full
+0	מתח	מתח	NOUN	_	_
+1	ביקורת	ביקורת	NOUN	0	nsubj
+
+LVC.cause
+0	להעניק	העניק	VERB	_	_
+1	פטור	פטור	VERB	0	iobj
+
+VID
+0	הגיע	הגיע	VERB	_	_
+1	לשפל	שפל	NOUN	0	obj
+
+LVC.cause
+0	לגרום	גרם	VERB	_	_
+1	נזקים	נזק	NOUN	0	obj
+
+LVC.cause
+0	ונתנה	ונתנה	ADV	1	advmod
+1	ברכתה	ברכתה	ADV	_	_
+
+VID
+0	בעל	בעל	NOUN	_	_
+1	שיעור	שיעור	NOUN	0	compound:smixut
+2	קומה	קומה	NOUN	1	compound:smixut
+
+VID
+0	נעשה	נעשה	VERB	_	_
+1	לסלע	סלע	VERB	0	xcomp
+
+VID
+0	משל	_	NOUN	_	_
+1	בכיפה	בכיף	ADV	_	_
+
+VID
+0	עטורת	עטורת	ADP	1	case
+1	ההילה	ההיל	NOUN	_	_
+
+LVC.cause
+0	העניק	העניק	VERB	_	_
+1	ערך	ערך	NOUN	0	obl
+
+VID
+0	הנופל	הנופל	VERB	_	_
+1	ברשתם	ברשתם	PRON	0	obl
+
+VID
+0	סכום	סכום	NOUN	_	_
+1	הגדול	הגדול	ADJ	0	amod
+2	מאוסף	מאוסף	ADP	3	case
+3	מרכיביו	מרכיבי	NOUN	_	_
+
+VID
+0	יעלה	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	דעתו	_	NOUN	0	obl
+
+LVC.full
+0	תעמיס	העמיס	VERB	_	_
+1	קשיים	קושי	NOUN	0	obj
+
+LVC.full
+0	שהושיטה	שהושיט	NOUN	1	compound:smixut
+1	סיוע	סיוע	NOUN	_	_
+
+LVC.cause
+0	הובילו	הוביל	VERB	_	_
+1	לסילוקם	סילוקם	NOUN	_	_
+
+VID
+0	רוח	רוח	NOUN	_	_
+1	המקור	המקור	NOUN	0	compound:smixut
+
+LVC.full
+0	מעד	מעד	VERB	_	_
+1	לכישלון	לכישלון	VERB	_	_
+
+VID
+0	שסתמו	שסתם	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הגולל	הגולל	NOUN	0	obj
+
+VID
+0	יוצא	יצא	VERB	_	_
+1	מן	מן	ADP	2	case
+2	הכלל	הכלל	NOUN	0	obl
+
+LVC.full
+0	מביאים	הביא	VERB	_	_
+1	לרתיחה	לרתיח	NOUN	0	obj
+
+LVC.full
+0	תתנו	תתן	VERB	_	_
+1	צלצול	צלצול	NOUN	0	nsubj
+
+LVC.cause
+0	יעורר	עורר	VERB	_	_
+1	פקפוקים	פקפק	NOUN	0	obj
+
+VID
+0	קטני	קטן	NOUN	_	_
+1	אמונה	אמונה	NOUN	0	compound:smixut
+
+VID
+0	מחופש	חיופש	NOUN	_	_
+1	פעולה	פעולה	NOUN	0	compound:smixut
+
+LVC.full
+0	הביא	הביא	VERB	_	_
+1	לידיעתי	לידיע	VERB	0	obj
+
+VID
+0	הגיעה	הגיע	VERB	_	_
+1	לשיא	לשיא	VERB	_	_
+
+VID
+0	כורתים	כורת	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	הענף	הענף	NOUN	_	_
+3	שעליו	_	PROPN	2	compound:smixut
+4	הם	הוא	PROPN	2	appos
+5	חיים	חיים	PROPN	4	flat:name
+
+LVC.cause
+0	מעורר	עורר	VERB	_	_
+1	אכזבה	אכזבה	NOUN	0	obj
+
+VID
+0	דחה	דחה	VERB	_	_
+1	על	על	ADP	2	case
+2	הסף	הסף	NOUN	0	obl
+
+VID
+0	לצאת	יצא	VERB	_	_
+1	לאור	לאור	ADP	_	_
+
+LVC.full
+0	יצאו	יצאו	VERB	_	_
+1	במסע	במסע	NOUN	_	_
+2	השמצות	השמצה	NOUN	1	compound:smixut
+
+LVC.full
+0	יצאו	יצא	VERB	_	_
+1	לטיול	טיל	VERB	0	xcomp
+
+VID
+0	על	על	ADP	1	case
+1	חשבון	חשבון	NOUN	_	_
+2	הברון	הברון	NOUN	_	_
+
+VID
+0	את	את	PART	1	case:acc
+1	הסרט	הסרט	PROPN	2	obj
+2	הזה	הזה	VERB	_	_
+3	ראינו	ראה	VERB	2	dep
+
+VID
+0	בתחתית	בתחתית	ADV	_	_
+1	הסולם	הסולם	NOUN	0	nsubj
+
+VID
+0	נעה	נעה	VERB	_	_
+1	המטוטלת	המטוטלה	NOUN	0	nsubj
+
+LVC.cause
+0	מעורר	עורר	VERB	_	_
+1	עניין	עניין	NOUN	0	obj
+
+LVC.full
+0	מביעה	הביע	VERB	_	_
+1	מחאתה	מחאתה	NOUN	0	obj
+
+LVC.full
+0	ושמה	ושמה	PROPN	_	_
+1	דגש	דגש	NOUN	_	_
+
+VID
+0	שינתה	שינה	VERB	_	_
+1	את	את	PART	2	case:acc
+2	פניה	פניה	PROPN	0	obj
+
+VID
+0	המתרפקת	המתרפק	VERB	_	_
+1	על	על	ADP	2	case
+2	זיכרונותיה	זיכרונותיה	NOUN	0	iobj
+
+VID
+0	שהגיעה	שהגיע	NOUN	_	_
+1	לפרקה	לפרקה	VERB	0	amod
+
+LVC.cause
+0	להעניק	העניק	VERB	_	_
+1	טיפול	טיפול	NOUN	0	obj
+
+VID
+0	להוציא	הוציא	VERB	_	_
+1	לאור	לאור	VERB	0	xcomp
+
+VID
+0	ראה	ראה	VERB	_	_
+1	אור	אור	NOUN	0	obj
+
+VID
+0	ככלות	ככלות	NOUN	1	nsubj
+1	הרעה	הרעה	VERB	_	_
+
+LVC.full
+0	מלהטיל	מלהטיל	VERB	_	_
+1	עונש	עונש	NOUN	0	obl
+
+VID
+0	אינם	אינו	VERB	1	det
+1	מעלים	העל	NOUN	_	_
+2	ואינם	ואינם	PROPN	1	compound:smixut
+3	מורידים	הוריד	VERB	_	_
+
+LVC.full
+0	לעשות	עשה	VERB	_	_
+1	צדק	צדק	NOUN	0	obj
+
+VID
+0	ניקיון	נייקיון	NOUN	_	_
+1	כפיו	_	NOUN	0	compound:smixut
+
+LVC.full
+0	מעמידים	מעמיד	NOUN	_	_
+1	בספק	בספק	NOUN	_	_
+
+VID
+0	באה	בא	VERB	_	_
+1	לידי	לידי	ADP	2	case
+2	ביטוי	ביטוי	NOUN	_	_
+
+VID
+0	נחה	נח	VERB	_	_
+1	דעתם	דעתם	PART	_	_
+
+LVC.full
+0	יקח	יקח	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+VID
+0	עוצו	עוץ	VERB	_	_
+1	עצה	עצה	NOUN	0	obj
+2	ותופר	ותופר	NOUN	1	dep
+
+VID
+0	בנשימה	בנשימה	NOUN	_	_
+1	אחת	אחת	NUM	0	nummod
+
+VID
+0	לקבל	קיבל	VERB	_	_
+1	את	את	PART	2	case:acc
+2	פניו	פניו	PROPN	0	obj
+
+VID
+0	שירד	שירד	PROPN	_	_
+1	לטמיון	לטמיון	PROPN	0	flat:name
+
+VID
+0	שמחה	שמחה	NOUN	_	_
+1	לאיד	איד	PROPN	0	appos
+
+LVC.full
+0	מעמידה	העמיד	VERB	_	_
+1	בסימן	בסימן	ADP	2	case
+2	שאלה	שאלה	NOUN	0	obl
+
+LVC.full
+0	יחמיר	החמיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	המצב	המצב	NOUN	_	_
+
+VID
+0	להבין	הבין	VERB	_	_
+1	ללבם	ללבם	NOUN	0	obj
+
+LVC.full
+0	לשמש	שימש	VERB	_	_
+1	כר	כר	NOUN	0	obj
+2	לספיגת	נסופיג	VERB	1	acl:inf
+
+VID
+0	יוצאות	יוצאה	ADJ	_	_
+1	דופן	דופן	VERB	_	_
+
+LVC.full
+0	שהיוו	שהיווה	VERB	_	_
+1	פריצת	פריצה	NOUN	0	obj
+2	דרך	דרך	NOUN	1	compound:smixut
+
+LVC.full
+0	פתח	פתח	VERB	_	_
+1	בעיצומים	בעיצום	NOUN	0	obj
+
+LVC.full
+0	והביעה	והביע	VERB	_	_
+1	תקוותה	קוותה	NOUN	0	obj
+
+LVC.cause
+0	ועורר	ועורר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	זעמו	זעמו	VERB	0	obj
+
+VID
+0	ישא	ישא	VERB	_	_
+1	דברים	דבר	NOUN	0	obj
+
+LVC.cause
+0	ותינתן	ותינתן	PROPN	_	_
+1	אפשרות	אפשרות	NOUN	_	_
+
+VID
+0	להפיח	הפיח	VERB	_	_
+1	רוח	רוח	NOUN	0	obl
+2	חיים	חי	NOUN	1	compound:smixut
+
+VID
+0	לכלכל	כלכל	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	צעדיכם	צעדי	PROPN	_	_
+
+LVC.full
+0	מתח	מתח	VERB	_	_
+1	ביקורת	ביקורת	NOUN	0	obj
+
+LVC.full
+0	מוטלת	הוטל	VERB	_	_
+1	בספק	בספק	NOUN	0	obj
+
+LVC.cause
+0	להטבות	הטבה	ADV	_	_
+1	נתנה	נתן	VERB	_	_
+
+LVC.full
+0	ניצל	_	VERB	_	_
+1	ההזדמנות	ההזדמנות	NOUN	0	obj
+
+VID
+0	שבסופו	שבסוף	PROPN	_	_
+1	של	של	PART	2	case:gen
+2	דבר	דבר	NOUN	_	_
+
+LVC.full
+0	נטלו	נטל	VERB	_	_
+1	חלק	חלק	NOUN	_	_
+
+LVC.full
+0	למתוח	מתח	VERB	_	_
+1	ביקורת	ביקורת	NOUN	0	obj
+
+LVC.full
+0	לשלם	שילם	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מחירה	מחירה	NOUN	0	obj
+
+LVC.full
+0	ומסביר	ומסביר	PROPN	_	_
+1	פנים	פנים	NOUN	0	flat:name
+
+VID
+0	טרפו	טרפה	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הקלפים	הקלף	NOUN	_	_
+
+VID
+0	לחזור	חזר	VERB	_	_
+1	בו	בו	PROPN	0	iobj
+
+LVC.full
+0	יעשו	עשה	VERB	_	_
+1	מאמצים	מאמץ	NOUN	_	_
+
+VID
+0	עלתה	עלה	VERB	_	_
+1	על	על	ADP	2	case
+2	שרטון	שרטון	NOUN	0	iobj
+
+LVC.cause
+0	גרם	גרם	VERB	_	_
+1	למותם	למותם	NOUN	0	nsubj
+
+VID
+0	איבדה	איבד	VERB	_	_
+1	את	את	PART	2	case:acc
+2	המונופול	המונופול	PROPN	0	obj
+
+LVC.full
+0	להנחית	הנחית	VERB	_	_
+1	מכה	מכה	NOUN	0	obj
+
+VID
+0	עלה	עלה	VERB	_	_
+1	בידו	בידו	VERB	0	conj
+
+LVC.full
+0	שגילו	_	VERB	_	_
+1	התעניינות	התעניינות	NOUN	0	nsubj
+
+LVC.cause
+0	ייצרו	יצר	VERB	_	_
+1	קשרים	קשר	NOUN	0	obj
+
+VID
+0	עלה	עלה	VERB	_	_
+1	בידו	בידו	VERB	0	advcl
+
+VID
+0	באה	בא	VERB	_	_
+1	על	על	ADP	2	case
+2	חשבון	חשבון	NOUN	0	obl
+
+LVC.full
+0	שקט	שקט	NOUN	_	_
+1	על	על	ADP	2	case
+2	שמרי	שמר	NOUN	_	_
+
+LVC.full
+0	לצאת	יצא	VERB	_	_
+1	מכלל	מכלל	DET	2	det
+2	שליטה	שליטה	NOUN	0	iobj
+
+LVC.cause
+0	נתן	נתן	PROPN	_	_
+1	הכשר	הכשר	SCONJ	_	_
+
+LVC.full
+0	ידעו	הדע	VERB	_	_
+1	מראש	מראש	ADV	0	advmod
+
+LVC.full
+0	פתחה	פתח	VERB	_	_
+1	בחקירה	בחקירה	NOUN	0	obj
+
+LVC.full
+0	לבוא	בא	VERB	_	_
+1	על	על	ADP	2	case
+2	סיפוקם	סיפוקם	NOUN	0	obl
+
+VID
+0	לשבור	שבר	VERB	_	_
+1	ידיים	יד	NOUN	0	iobj
+2	ורגליים	ורגלי	ADJ	1	amod
+
+LVC.cause
+0	העניקה	העניק	VERB	_	_
+1	חנינה	חנינה	NOUN	0	obj
+
+LVC.full
+0	לסלול	סלל	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הדרך	הדרך	NOUN	0	obj
+
+LVC.full
+0	חידשה	חידש	VERB	_	_
+1	הקשרים	הקשר	NOUN	0	obj
+
+LVC.full
+0	הוצא	הוצא	VERB	_	_
+1	להורג	הורג	VERB	0	dep
+
+LVC.full
+0	מחריפים	חריף	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מאבקם	מאבקם	NOUN	0	obj
+
+LVC.cause
+0	וגרם	וגר	ADV	1	advmod
+1	נזקים	נזק	VERB	_	_
+
+LVC.full
+0	מוציאה	הוציא	VERB	_	_
+1	מכלל	מכלל	DET	_	_
+
+LVC.full
+0	לפתוח	פתח	VERB	_	_
+1	בשיחות	בשיחות	ADV	_	_
+
+VID
+0	הוכיחו	הוכיח	VERB	_	_
+1	את	את	PART	2	case:acc
+2	עצמן	עצמו	PRON	0	obj
+
+LVC.full
+0	נמתחה	נמתח	VERB	_	_
+1	ביקורת	ביקורת	NOUN	0	compound:smixut
+
+LVC.full
+0	מנותקת	מנותקה	NOUN	_	_
+1	מהציאות	מהציאה	NOUN	0	compound:smixut
+
+VID
+0	לשבור	שבר	VERB	_	_
+1	ידיים	יד	NOUN	0	obj
+2	ורגליים	ורגלי	ADJ	1	amod
+
+LVC.full
+0	עלה	עלה	VERB	_	_
+1	לכותרות	לכותרות	NOUN	0	nsubj
+
+LVC.full
+0	ששבה	ששבה	NOUN	_	_
+1	לכותרות	_	ADJ	0	amod
+
+VID
+0	ושבירת	ושבירה	NOUN	_	_
+1	העצמות	העצמה	NOUN	0	compound:smixut
+
+VID
+0	חדשות	חדש	NOUN	_	_
+1	לבקרים	לבקרים	ADJ	0	amod
+
+LVC.full
+0	פנה	פנה	VERB	_	_
+1	בבקשה	בבקש	INTJ	_	_
+
+LVC.full
+0	חשף	חשף	NOUN	2	obl
+1	את	את	PART	2	case:acc
+2	הנעשה	הנעשה	VERB	_	_
+
+LVC.full
+0	קבע	קבע	VERB	_	_
+1	את	את	PART	0	dep
+2	מותו	_	VERB	0	amod
+
+VID
+0	מתקבלת	התקבל	VERB	_	_
+1	על	על	ADP	2	case
+2	הדעת	הדעה	NOUN	0	iobj
+
+LVC.full
+0	יוצרת	יצר	VERB	_	_
+1	מתחים	התח	VERB	0	amod
+
+LVC.full
+0	התנהל	התנהל	VERB	_	_
+1	כשורה	כשור	ADV	0	advmod
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	ביטחון	ביטחון	NOUN	_	_
+
+LVC.full
+0	חלק	חלק	NOUN	_	_
+1	על	על	ADP	2	case
+2	דברי	דבר	NOUN	_	_
+
+LVC.full
+0	להינקט	ננקט	VERB	_	_
+1	עמדה	עמדה	NOUN	0	iobj
+
+LVC.full
+0	מכשירה	מכשירה	ADJ	_	_
+1	את	את	PART	2	case:acc
+2	הקרקע	הקרקע	NOUN	_	_
+
+LVC.full
+0	מוצא	מוצא	PROPN	_	_
+1	לנכון	לנכון	PROPN	0	flat:name
+
+VID
+0	לעמוד	עמד	VERB	_	_
+1	בראשו	בראשו	PROPN	0	iobj
+
+VID
+0	בשליפה	בשליפה	ADV	_	_
+1	מן	מן	ADP	2	case
+2	המותן	_	PRON	_	_
+
+LVC.full
+0	למסור	מסר	VERB	_	_
+1	פרטים	פרט	NOUN	0	obj
+
+VID
+0	מרחיקות	הרחיק	VERB	_	_
+1	לכת	לכת	NOUN	_	_
+
+LVC.full
+0	מחמיר	החמיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	המצב	המצב	NOUN	0	obj
+
+VID
+0	יושם	הושם	NOUN	_	_
+1	קץ	קץ	NOUN	0	compound:smixut
+
+LVC.full
+0	הגיע	הגיע	VERB	_	_
+1	לביקור	לביקור	VERB	_	_
+
+LVC.full
+0	להעמיד	העמיד	VERB	_	_
+1	לדין	לדין	ADV	0	advmod
+
+LVC.full
+0	להעמיד	העמיד	VERB	_	_
+1	לדין	לדין	NOUN	0	iobj
+
+LVC.full
+0	להעמיד	העמיד	VERB	_	_
+1	לדין	לדין	ADV	_	_
+
+LVC.full
+0	יפיק	הפיק	ADV	_	_
+1	לקחים	לקח	NOUN	_	_
+
+LVC.full
+0	שנעשה	שנעשה	NOUN	_	_
+1	שימוש	שימוש	NOUN	_	_
+
+LVC.full
+0	יש	יש	AUX	_	_
+1	האפשרות	האפשרות	AUX	_	_
+
+LVC.full
+0	ליישר	יישר	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	ההדורים	ההדור	NOUN	_	_
+
+LVC.full
+0	לפתוח	פתח	VERB	_	_
+1	בשיחות	בשיחות	ADV	0	advmod
+
+LVC.full
+0	קבע	קבע	VERB	_	_
+1	מחדש	מחדש	ADV	0	advmod
+
+LVC.full
+0	שומר	שומר	NOUN	_	_
+1	על	על	ADP	2	case
+2	זכותו	_	PRON	0	nmod
+
+LVC.full
+0	והביעו	והביעו	VERB	_	_
+1	תמיכתם	תמיכתם	PRON	0	obj
+
+VID
+0	לשים	שם	VERB	_	_
+1	קץ	קץ	NOUN	0	iobj
+
+LVC.full
+0	השכנת	השכנה	NOUN	_	_
+1	שלום	שלום	NOUN	0	compound:smixut
+
+VID
+0	להפסקת	_	NOUN	_	_
+1	האש	האש	NOUN	0	compound:smixut
+
+VID
+0	לתת	נתן	VERB	_	_
+1	יד	יד	NOUN	0	obj
+
+LVC.cause
+0	לתת	נתן	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הדין	הדין	PROPN	0	obj
+
+LVC.cause
+0	מעוררת	עורר	VERB	_	_
+1	תגובה	תגובה	NOUN	0	nsubj
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	חשש	חשש	NOUN	0	obj
+
+LVC.full
+0	והביעו	והביע	VERB	_	_
+1	צערם	צערם	NOUN	0	obj
+
+VID
+0	תלוייה	תלוייה	NOUN	_	_
+1	ועומדת	_	ADJ	0	amod
+
+LVC.full
+0	לשאת	נשא	VERB	_	_
+1	נאום	נאום	NOUN	0	obj
+
+LVC.full
+0	ישובו	שוב	VERB	_	_
+1	למסלולם	למסלולם	ADV	0	advmod
+
+VID
+0	להרגעת	יהרגע	VERB	_	_
+1	הרוחות	הרוחה	ADV	0	advmod
+
+LVC.full
+0	לקחת	לקח	VERB	_	_
+1	בחשבון	בחשבון	NOUN	0	obj
+
+LVC.cause
+0	ומעוררת	ומעוררה	ADJ	_	_
+1	תקווה	תקווה	NOUN	_	_
+
+LVC.full
+0	הגיע	הגיע	VERB	_	_
+1	לביקור	לביקור	NOUN	0	obj
+
+LVC.full
+0	ליפול	יפל	VERB	_	_
+1	קרבן	קרבן	ADP	_	_
+
+LVC.cause
+0	שיינתן	שיינתן	VERB	_	_
+1	שריון	שריון	NOUN	0	obj
+
+LVC.full
+0	מצאו	מצא	VERB	_	_
+1	את	את	PART	2	case:acc
+2	מותם	_	PROPN	0	obj
+
+LVC.full
+0	עומדת	עמד	VERB	_	_
+1	על	על	ADP	2	case
+2	זכותה	זכותה	NOUN	0	iobj
+
+LVC.full
+0	נתקל	נתקל	VERB	_	_
+1	בקשיים	בקש	ADV	0	advmod
+
+LVC.full
+0	מדברים	דיבר	VERB	_	_
+1	ללב	לב	ADV	0	advmod
+
+LVC.full
+0	נוצר	נוצר	VERB	_	_
+1	הקרע	הקרע	ADV	0	advmod
+
+VID
+0	לפשוט	פשוט	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הרגל	הרגל	NOUN	0	obj
+
+LVC.cause
+0	נתנה	נתן	VERB	_	_
+1	דעתה	דעתה	NOUN	0	obj
+
+LVC.cause
+0	התעורר	התעורר	VERB	_	_
+1	חשד	חשד	NOUN	0	nsubj
+
+LVC.full
+0	שומרת	שמר	VERB	_	_
+1	על	על	ADP	2	case
+2	שתיקה	שתיקה	NOUN	_	_
+
+LVC.full
+0	לדבר	דיבר	VERB	_	_
+1	על	על	ADP	2	case
+2	ליבו	ליבו	PROPN	0	obl
+
+LVC.full
+0	להביא	הביא	VERB	_	_
+1	למהפך	למהפך	VERB	0	dep
+
+LVC.full
+0	הביע	הביע	VERB	_	_
+1	תמיכה	תמיכה	NOUN	0	obj
+
+LVC.full
+0	להעמיד	העמיד	VERB	_	_
+1	לרשותו	רשות	VERB	0	xcomp
+
+LVC.full
+0	המביעה	המביע	VERB	_	_
+1	חרטה	חרטה	NOUN	0	obj
+
+LVC.full
+0	מקבל	קיבל	VERB	_	_
+1	אחריות	אחריות	NOUN	0	obj
+
+LVC.full
+0	מבקש	ביקש	VERB	_	_
+1	מחילה	מחילה	NOUN	0	nsubj
+
+LVC.cause
+0	מעורר	עורר	VERB	_	_
+1	חרדה	חרדה	NOUN	0	obj
+
+LVC.full
+0	לגרוף	גרוף	VERB	_	_
+1	רווחים	רווח	NOUN	0	obj
+
+LVC.full
+0	ועושים	ועוש	NUM	1	nummod
+1	מאמצים	מאמץ	NOUN	_	_
+
+LVC.full
+0	מגלים	גילה	VERB	_	_
+1	עניין	עניין	NOUN	0	iobj
+
+LVC.full
+0	תצא	יצא	VERB	_	_
+1	אל	אל	ADP	2	case
+2	הפועל	_	NOUN	0	iobj
+
+LVC.full
+0	שנטל	שנטל	VERB	_	_
+1	לידיו	לידיו	ADV	_	_
+
+VID
+0	הניח	הניח	VERB	_	_
+1	על	על	ADP	2	case
+2	שולחן	שולחן	NOUN	0	iobj
+
+VID
+0	לא	לא	ADV	1	advmod
+1	יהיה	היה	VERB	_	_
+2	טעם	טעם	NOUN	1	nsubj
+
+LVC.full
+0	לזקוף	זקף	VERB	_	_
+1	לזכותה	זיהכ	VERB	0	xcomp
+
+VID
+0	יצא	יצא	VERB	_	_
+1	לאור	לאור	ADP	_	_
+
+LVC.full
+0	שגילו	שגילה	VERB	_	_
+1	עניין	עניין	NOUN	0	obj
+
+LVC.full
+0	נושאת	נשא	VERB	_	_
+1	על	על	ADP	2	case
+2	גבה	גבה	NOUN	0	iobj
+
+VID
+0	מרחיקי	הרחיק	VERB	_	_
+1	לכת	לכת	NOUN	0	iobj
+
+LVC.full
+0	משיבים	השיב	VERB	_	_
+1	טובה	טובה	NOUN	0	obl
+
+LVC.full
+0	שירת	שירת	VERB	_	_
+1	את	את	PART	2	case:acc
+2	האינטרסים	האינטרס	NOUN	0	obj
+
+LVC.full
+0	ירימו	הרים	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הכפפה	הכפפה	NOUN	0	obj
+
+LVC.full
+0	יצאו	יצא	VERB	_	_
+1	לאור	לאור	ADP	_	_
+
+LVC.full
+0	משביעה	השביע	VERB	_	_
+1	רצון	רצון	NOUN	0	obj
+
+LVC.full
+0	לקחת	_	VERB	_	_
+1	חלק	חלק	NOUN	0	iobj
+
+LVC.full
+0	שנטלו	שנטלו	VERB	_	_
+1	חלק	חלק	NOUN	0	obj
+
+VID
+0	מושיטים	הושיט	VERB	_	_
+1	יד	יד	NOUN	0	obj
+
+LVC.full
+0	שהכין	שהכין	PROPN	_	_
+1	את	את	PART	2	case:acc
+2	הקרקע	הקרקע	NOUN	0	obj
+
+LVC.full
+0	מונח	הונח	NOUN	_	_
+1	על	על	ADP	2	case
+2	שולחנם	שולחנם	NOUN	0	nmod
+
+VID
+0	להעמיד	העמיד	VERB	_	_
+1	פנים	פנים	NOUN	0	obj
+
+VID
+0	נלמד	למד	VERB	_	_
+1	לקח	לקח	NOUN	0	obj
+
+LVC.full
+0	ערך	ערך	VERB	_	_
+1	מחקר	מחקר	NOUN	_	_
+
+VID
+0	באה	בא	VERB	_	_
+1	לידי	לידי	ADP	2	case
+2	ביטוי	ביטוי	NOUN	0	obl
+
+LVC.full
+0	יאירו	האיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	עינינו	עינין	PROPN	_	_
+
+LVC.full
+0	העלו	העלה	VERB	_	_
+1	על	על	ADP	2	case
+2	נס	נס	NOUN	0	iobj
+
+LVC.full
+0	הגיש	הגיש	VERB	_	_
+1	הצעת	הצעה	NOUN	0	obj
+
+LVC.full
+0	ההולכת	ההולכה	VERB	_	_
+1	וגדלה	וגדל	NOUN	0	obj
+
+LVC.full
+0	לעשות	עשה	VERB	_	_
+1	צדק	צדק	NOUN	0	iobj
+
+LVC.full
+0	להקריב	הקריב	VERB	1	xcomp
+1	למענה	למענה	PROPN	_	_
+
+LVC.full
+0	לעשות	עשה	VERB	_	_
+1	ההיסטוריה	ההיסטוריה	NOUN	0	obj
+
+VID
+0	לחזור	חזר	VERB	_	_
+1	בה	ב	ADP	0	advmod
+
+LVC.full
+0	להחזיר	החזיר	VERB	_	_
+1	למסלולו	מסלול	PROPN	_	_
+
+VID
+0	יוצא	יוצא	VERB	_	_
+1	דופן	דופן	ADV	0	advmod
+
+LVC.full
+0	ליטול	נטל	VERB	_	_
+1	חלק	חלק	NOUN	_	_
+
+VID
+0	יוצא	יוצא	NOUN	_	_
+1	מן	מן	ADP	2	case
+2	הכלל	הכלל	NOUN	0	nmod
+
+LVC.full
+0	לזקוף	זקף	VERB	_	_
+1	לזכותו	זכות	VERB	0	iobj
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	דאגה	דאג	NOUN	0	obj
+
+LVC.full
+0	נופל	נפל	VERB	_	_
+1	מכוחו	מכוחו	NOUN	0	obj
+
+LVC.full
+0	חסר	חסר	ADJ	_	_
+1	ערך	ערך	NOUN	0	obl
+
+LVC.cause
+0	מעוררת	עורר	VERB	_	_
+1	דאגתם	דאגתם	PROPN	0	obj
+
+VID
+0	לשפוך	לשפוך	ADP	1	case
+1	דמעות	דמעה	NOUN	_	_
+2	תנין	תנין	NOUN	1	compound:smixut
+
+LVC.full
+0	משאיר	השאיר	VERB	_	_
+1	ספק	ספק	NOUN	0	obj
+
+LVC.full
+0	להטיל	הטיל	VERB	_	_
+1	חרם	חרם	NOUN	0	obj
+
+VID
+0	בטל	בטל	PROPN	_	_
+1	בששים	בששים	NOUN	0	flat:name
+
+VID
+0	יושבי	יושבי	NOUN	_	_
+1	קרנות	קרן	NOUN	0	compound:smixut
+
+LVC.full
+0	להביא	הביא	VERB	_	_
+1	לידי	לידי	ADP	2	case
+2	ביטוי	ביטוי	NOUN	0	obl
+
+LVC.full
+0	להיות	היה	VERB	_	_
+1	לכלי	לכלי	ADJ	0	advmod
+
+LVC.full
+0	למצוא	מצא	VERB	_	_
+1	חן	חן	NOUN	0	obj
+
+LVC.full
+0	נוצרת	נוצר	NOUN	_	_
+1	אשליה	אשליה	NOUN	0	compound:smixut
+
+VID
+0	חשה	חש	NUM	_	_
+1	בנוח	בנוח	NOUN	_	_
+
+LVC.full
+0	יגזור	גזר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	עונשם	עונשם	NOUN	0	obj
+
+LVC.full
+0	קרובה	קרוב	ADJ	_	_
+1	ללבה	ללבה	VERB	_	_
+
+LVC.full
+0	פותחת	פתח	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הדרך	הדרך	NOUN	0	obj
+
+LVC.full
+0	להעלותם	העלותם	VERB	_	_
+1	ארצה	ארצה	ADV	0	advmod
+
+LVC.full
+0	ייעשה	נעשה	VERB	_	_
+1	מאמץ	מאמץ	NOUN	0	obj
+
+VID
+0	לעבור	עבר	VERB	_	_
+1	לסדר	סידר	VERB	0	xcomp
+2	היום	היום	ADV	1	obl:tmod
+
+VID
+0	באה	בא	VERB	_	_
+1	על	על	ADP	2	case
+2	חשבון	חשבון	NOUN	_	_
+
+LVC.full
+0	וסולל	_	ADJ	_	_
+1	דרך	דרך	NOUN	0	compound:smixut
+
+VID
+0	פירות	פרי	NOUN	_	_
+1	באושים	באוש	ADJ	0	amod
+
+VID
+0	הפירות	הפירות	NOUN	_	_
+1	הבאושים	הבאוש	NUM	0	amod
+
+LVC.full
+0	הועלו	הועלה	VERB	_	_
+1	הצעות	הצעה	NOUN	0	nsubj
+
+LVC.full
+0	פגיעה	פגיעה	NOUN	_	_
+1	בבטן	בבטן	NOUN	0	iobj
+2	הרכה	הרכה	NOUN	1	compound:smixut
+
+LVC.full
+0	תישא	נשא	NOUN	_	_
+1	ההוצאה	ההוצאה	NOUN	_	_
+
+LVC.cause
+0	ביצירת	ביצירה	NOUN	_	_
+1	קשרים	קשר	NOUN	0	compound:smixut
+
+LVC.full
+0	כורע	כורע	ADV	_	_
+1	תחת	תחת	ADP	2	case
+2	נטל	נטל	NOUN	_	_
+
+LVC.full
+0	היד	היד	VERB	_	_
+1	על	על	ADP	2	case
+2	הברז	הברז	NOUN	0	iobj
+
+LVC.full
+0	עלה	על	VERB	_	_
+1	לראש	ראש	ADV	0	dep
+
+LVC.full
+0	באה	בא	VERB	_	_
+1	בחשבון	בחשבון	NOUN	_	_
+
+LVC.full
+0	שאינו	שאה	CCONJ	1	advmod
+1	יודע	ידע	VERB	_	_
+2	את	את	PART	4	case:acc
+3	אשר	אשר	SCONJ	4	mark
+4	פיו	_	VERB	1	obj
+5	סח	סח	NOUN	1	obj
+
+LVC.full
+0	לשים	שם	VERB	_	_
+1	בפיו	_	NOUN	0	obj
+
+LVC.full
+0	שהעלה	שהעלה	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	קצפו	קצפו	PROPN	_	_
+
+VID
+0	באה	בא	NOUN	_	_
+1	על	על	ADP	2	case
+2	חשבון	חשבון	NOUN	_	_
+
+VID
+0	להעלים	העלים	NOUN	_	_
+1	עין	עין	NOUN	0	compound:smixut
+
+LVC.full
+0	להביאה	הביא	VERB	_	_
+1	בחשבון	בחשבון	NOUN	0	obj
+
+LVC.full
+0	לטהר	טהר	VERB	_	_
+1	אותו	_	PRON	3	det
+2	מן	מן	ADP	3	case
+3	השרץ	השרץ	NOUN	0	iobj
+4	שבדבריו	_	NOUN	_	_
+
+LVC.full
+0	נטל	נטל	VERB	_	_
+1	הרשות	הרשה	NOUN	_	_
+
+LVC.full
+0	מעבירה	העביר	VERB	_	_
+1	אותם	_	PRON	3	det
+2	על	על	ADP	3	case
+3	דעתם	דעתם	PRON	0	obl
+
+LVC.full
+0	לקבל	קיבל	VERB	_	_
+1	החלטות	החלטה	NOUN	0	iobj
+
+LVC.full
+0	לצאת	יצא	VERB	_	_
+1	נגדו	נגד	VERB	_	_
+
+VID
+0	שבע	שבע	VERB	_	_
+1	רצון	רצון	NOUN	0	obj
+
+LVC.full
+0	גילו	גילה	VERB	_	_
+1	נאמנות	נאמנות	NOUN	0	obl
+
+VID
+0	לשתף	שיתף	VERB	_	_
+1	פעולה	פעולה	NOUN	0	obl
+
+LVC.full
+0	נוטלים	נטל	VERB	_	_
+1	חלק	חלק	NOUN	0	iobj
+
+LVC.cause
+0	יינתן	ניתן	VERB	_	_
+1	היתר	_	ADV	0	advmod
+
+LVC.full
+0	יעמוד	עמד	VERB	_	_
+1	על	על	ADP	2	case
+2	השיקולים	השיקול	NOUN	0	iobj
+
+LVC.full
+0	להסב	הסב	VERB	_	_
+1	את	את	PART	2	case:acc
+2	תשומת	תשומה	NOUN	0	obj
+3	לבו	לבה	PROPN	2	compound:smixut
+
+LVC.full
+0	ילמדם	הלמדם	ADV	_	_
+1	הלקח	הלקח	NOUN	_	_
+
+LVC.full
+0	אפסה	אפסה	VERB	_	_
+1	התקווה	התקווה	NOUN	0	obj
+
+LVC.full
+0	ילמדו	למד	VERB	_	_
+1	הלקח	הלקח	NOUN	0	obj
+
+LVC.full
+0	ראתה	ראה	VERB	_	_
+1	טעם	טעם	NOUN	0	obj
+
+LVC.cause
+0	ונתנה	ונתן	ADV	1	advmod
+1	אמון	אמון	NOUN	_	_
+
+LVC.cause
+0	נתן	נתן	VERB	_	_
+1	תנופה	תנופה	NOUN	0	obj
+
+LVC.full
+0	נדונים	_	NOUN	_	_
+1	למוות	_	VERB	_	_
+
+LVC.full
+0	נתונות	נתן	VERB	_	_
+1	לוויכוח	לוויכוח	VERB	0	xcomp
+
+VID
+0	יוצא	יצא	VERB	_	_
+1	מהכלל	מהכלל	DET	_	_
+
+LVC.full
+0	הממשמש	הממשמש	ADV	1	advmod
+1	ובא	_	VERB	_	_
+
+LVC.full
+0	שינסו	שינס	PROPN	_	_
+1	מותניים	ותניים	ADJ	0	amod
+
+LVC.full
+0	הביא	הביא	VERB	_	_
+1	בשורה	בשורה	NOUN	_	_
+
+LVC.full
+0	התבוסה	התבוסה	NOUN	1	nsubj
+1	שנחלה	שנחלה	VERB	_	_
+
+VID
+0	שבסופו	שבסוף	VERB	_	_
+1	של	של	PART	2	case:gen
+2	דבר	דבר	NOUN	0	nmod:poss
+
+VID
+0	צוואר	צוואר	PROPN	_	_
+1	הבקבוק	הבקבוק	PROPN	0	flat:name
+
+VID
+0	חדשות	חדש	NOUN	_	_
+1	לבקרים	לבקרים	NOUN	0	compound:smixut
+
+LVC.full
+0	והטילה	והטיל	VERB	_	_
+1	ספק	ספק	NOUN	0	obj
+
+LVC.full
+0	נפל	נפל	VERB	_	_
+1	קרבן	קרבן	NOUN	0	obj
+
+LVC.full
+0	הביעה	הביע	VERB	_	_
+1	הדעה	הדעה	NOUN	0	obj
+
+VID
+0	שורש	שורש	NOUN	_	_
+1	הבעיה	הבעיה	NOUN	0	compound:smixut
+
+VID
+0	ובעלי	ובעל	NOUN	_	_
+1	ותק	ותק	NOUN	0	compound:smixut
+
+LVC.full
+0	לחלץ	חילץ	VERB	_	_
+1	מן	מן	ADP	2	case
+2	המשבר	המשבר	NOUN	_	_
+
+VID
+0	שייצא	שייצא	VERB	_	_
+1	לגימלאות	לגימלאה	NOUN	_	_
+
+LVC.full
+0	שהעלו	שהעלה	VERB	_	_
+1	על	על	ADP	2	case
+2	נס	נס	NOUN	0	iobj
+
+LVC.full
+0	תולים	תול	VERB	_	_
+1	תקוות	תקווה	NOUN	0	obj
+
+LVC.cause
+0	נתנה	נתן	VERB	_	_
+1	ביטוי	ביטוי	NOUN	0	obj
+
+LVC.full
+0	להטיל	הטיל	VERB	_	_
+1	מרותו	מרותו	NOUN	0	obj
+
+LVC.full
+0	וקיבלו	וקיבל	PROPN	_	_
+1	פניהם	פניים	PROPN	_	_
+
+LVC.full
+0	הביעו	הביע	VERB	_	_
+1	תמיכה	תמיכה	NOUN	_	_
+
+LVC.cause
+0	הבא	הבא	VERB	_	_
+1	לידי	לידי	ADP	2	case
+2	ביטוי	ביטוי	NOUN	0	obl
+
+LVC.full
+0	נוטלים	נטל	VERB	_	_
+1	חלק	חלק	NOUN	0	nsubj
+
+LVC.full
+0	הגיעו	הגיע	VERB	_	_
+1	להסכמה	הסכמ	VERB	0	advmod
+
+LVC.full
+0	מתח	מתח	VERB	_	_
+1	ביקורת	ביקורת	NOUN	_	_
+
+LVC.full
+0	הביעה	הביע	VERB	_	_
+1	נכונות	נכונות	NOUN	0	obj
+
+LVC.full
+0	יחזרו	חזר	VERB	_	_
+1	בהם	ב	ADP	_	_
+
+LVC.full
+0	המפירים	המפיר	ADJ	_	_
+1	החוק	החוק	NOUN	_	_
+
+LVC.full
+0	הביקורת	הביקורה	NOUN	_	_
+1	שנמתחה	שנמתחה	NOUN	0	compound:smixut
+
+LVC.cause
+0	לגרום	גרם	VERB	_	_
+1	נזק	נזק	NOUN	0	obj
+
+VID
+0	להוביל	הוביל	VERB	_	_
+1	את	את	PART	2	case:acc
+2	המערכה	המערכה	NOUN	0	obj
+
+VID
+0	לשאת	נשא	ADP	1	case
+1	ברמה	ברמה	NOUN	_	_
+
+VID
+0	אל	אל	ADP	1	case
+1	הנער	הנער	NOUN	3	obl
+2	הזה	הזה	NOUN	1	compound:smixut
+3	התפללנו	התפלל	VERB	_	_
+
+LVC.full
+0	והביע	והביע	NOUN	_	_
+1	תקווה	תקווה	NOUN	0	compound:smixut
+
+LVC.full
+0	מתח	מתח	NOUN	_	_
+1	ביקורת	ביקורת	NOUN	0	compound:smixut
+
+LVC.full
+0	לעשות	עשה	VERB	_	_
+1	מאמץ	מאמץ	NOUN	0	obj
+
+LVC.cause
+0	נגרם	נגרם	VERB	_	_
+1	נזק	נזק	NOUN	0	obj
+
+VID
+0	ליו	ליו	PROPN	_	_
+1	ר	ר	VERB	_	_
+
+LVC.full
+0	שהסיר	שהסיר	ADJ	_	_
+1	ספקות	ספקה	NOUN	0	advmod
+
+VID
+0	תישא	נשא	VERB	_	_
+1	בנטל	בנטל	NOUN	0	obj
+
+LVC.cause
+0	עורר	עורר	VERB	_	_
+1	תדהמה	תדהמה	NOUN	0	obj
+
+LVC.cause
+0	יצר	יצר	VERB	_	_
+1	הקשר	הקשר	NOUN	0	obj
+
+VID
+0	והעלה	והעלה	NOUN	_	_
+1	על	על	ADP	2	case
+2	נס	נס	NOUN	0	nmod
+
+LVC.full
+0	להטיל	הטיל	VERB	_	_
+1	ספק	ספק	NOUN	0	obj
+
+LVC.full
+0	פגישה	פגישה	NOUN	_	_
+1	קיימו	קיים	VERB	_	_
+
+VID
+0	ליו	ליו	PROPN	_	_
+1	ר	ר	PROPN	_	_
+
+LVC.full
+0	מתחו	מתחה	VERB	_	_
+1	ביקורת	ביקורת	NOUN	0	obj
+
+VID
+0	קיפח	קיפח	NOUN	_	_
+1	את	את	PART	2	case:acc
+2	חייו	_	PROPN	_	_
+
+LVC.cause
+0	יוצרים	יצר	NOUN	_	_
+1	קשר	קשר	NOUN	_	_
+
+VID
+0	שלא	שלא	ADV	1	advmod
+1	היה	היה	VERB	_	_
+2	ולא	ולא	CCONJ	3	advmod
+3	נברא	נברא	VERB	_	_
+
+LVC.full
+0	הוציא	הוציא	VERB	_	_
+1	עליו	_	ADP	2	case
+2	חוזה	חוזה	NOUN	0	obl
+
+VID
+0	שנקרעו	שנקרע	VERB	_	_
+1	לגזרים	לגזרים	VERB	0	xcomp
+
+VID
+0	הון	הון	NOUN	_	_
+1	עתק	העתק	NOUN	_	_
+
+LVC.full
+0	הפכה	הפך	VERB	_	_
+1	לרועץ	רועץ	VERB	_	_
+
+LVC.full
+0	ושמר	ושמר	PROPN	_	_
+1	על	על	ADP	2	case
+2	קשרים	קשר	NOUN	0	nmod
+
+LVC.full
+0	מביעים	הביע	VERB	_	_
+1	ספקות	ספקה	NOUN	0	obj
+
+VID
+0	עצרה	עצר	ADJ	_	_
+1	נשימתה	נשימתה	VERB	_	_
+
+LVC.full
+0	יצא	יצא	VERB	_	_
+1	נשכר	נשכר	VERB	0	conj:discourse
+
+LVC.full
+0	והעומדת	והעומדה	ADJ	_	_
+1	בראש	בראש	ADV	_	_
+
+LVC.full
+0	מצאו	מצא	VERB	_	_
+1	לנכון	לנכון	AUX	0	conj
+
+LVC.cause
+0	לעמוד	עמד	VERB	_	_
+1	בראש	בראש	ADV	0	advmod
+
+LVC.full
+0	נפלה	נפל	VERB	_	_
+1	החלטה	החלטה	NOUN	0	obj
+
+LVC.full
+0	תעבור	עבר	VERB	_	_
+1	בשתיקה	בשתיקה	NOUN	0	obj
+
+LVC.full
+0	נוכח	נכח	ADP	_	_
+1	לדעת	ידע	VERB	_	_
+
+LVC.cause
+0	שנתן	שנתן	VERB	_	_
+1	אמונו	אמון	PROPN	_	_
+
+LVC.full
+0	מאריכה	האריך	VERB	_	_
+1	חיים	חיים	PROPN	0	obj
+
+VID
+0	תשים	שם	VERB	_	_
+1	קץ	קץ	NOUN	0	obj
+
+LVC.full
+0	מחמיצים	החמיץ	VERB	_	_
+1	פנים	פנים	NOUN	0	nsubj
+
+VID
+0	וחוסר	וחוסר	PROPN	_	_
+1	ביטחון	ביטחון	NOUN	0	flat:name
+
+LVC.full
+0	שילבו	שילב	VERB	_	_
+1	ידיים	יד	NOUN	_	_
+
+LVC.cause
+0	מעוררת	עורר	VERB	_	_
+1	פלצות	פלצה	NOUN	0	obj
+
+VID
+0	בטלה	בטל	VERB	_	_
+1	בששים	בשש	NOUN	0	obj
+
+LVC.full
+0	מוכיח	הוכיח	VERB	_	_
+1	את	את	PART	2	case:acc
+2	עצמו	עצמו	PRON	0	obj
+
+VID
+0	אבן	אבן	NOUN	_	_
+1	שואבת	שאב	VERB	0	amod
+
+VID
+0	להתיר	התיר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	הרצועה	_	NOUN	0	obj
+
+VID
+0	פרצה	פרץ	VERB	_	_
+1	דרך	דרך	NOUN	0	dep
+
+VID
+0	בהעמדת	_	AUX	_	_
+1	סימן	סימן	VERB	0	xcomp
+2	שאלה	שאלה	NOUN	1	obj
+
+VID
+0	מעמיד	מיעמיד	ADV	_	_
+1	סימן	סימן	NOUN	_	_
+2	שאלה	שאלה	NOUN	1	compound:smixut
+
+VID
+0	אבן	אבן	NOUN	_	_
+1	בוחן	_	ADJ	0	amod
+
+VID
+0	הרואים	הראה	VERB	_	_
+1	אור	אור	NOUN	0	obj
+
+VID
+0	בעין	_	NOUN	_	_
+1	יפה	יפה	ADJ	0	amod
+
+LVC.cause
+0	שעוררו	שעורר	VERB	_	_
+1	את	את	PART	2	case:acc
+2	רוגזו	רוגזה	PROPN	0	obj
+
+VID
+0	לחזור	חזר	VERB	_	_
+1	בו	ב	ADP	_	_
+
+VID
+0	רואה	ראה	VERB	_	_
+1	אור	אור	NOUN	0	obj
+
+VID
+0	חדשות	חדש	NOUN	_	_
+1	לבקרים	בקרים	NOUN	0	compound:smixut
+
+LVC.full
+0	הגיעה	הגיע	VERB	_	_
+1	למסקנה	למסקן	VERB	0	iobj
+
+VID
+0	חזר	חזר	VERB	_	_
+1	בו	ב	ADP	_	_
+
+LVC.cause
+0	עוררה	עורר	NOUN	_	_
+1	תהיות	תהייה	ADJ	_	_
+
