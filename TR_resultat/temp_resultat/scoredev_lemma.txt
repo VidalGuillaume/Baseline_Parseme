@@ -1,0 +1,41 @@
+lemma
+265
+## Global evaluation
+* MWE-based: P=341/56061=0.0061 R=341/510=0.6686 F=0.0121
+* Tok-based: P=864/272506=0.0032 R=864/1054=0.8197 F=0.0063
+
+## Per-category evaluation (partition of Global)
+* LVC.full: MWE-proportion: gold=225/510=44% pred=26614/56061=47%
+* LVC.full: MWE-based: P=155/26614=0.0058 R=155/225=0.6889 F=0.0116
+* LVC.full: Tok-based: P=379/137522=0.0028 R=379/453=0.8366 F=0.0055
+* MVC: MWE-proportion: gold=0/510=0% pred=6570/56061=12%
+* MVC: MWE-based: P=0/6570=0.0000 R=0/0=0.0000 F=0.0000
+* MVC: Tok-based: P=0/15866=0.0000 R=0/0=0.0000 F=0.0000
+* VID: MWE-proportion: gold=285/510=56% pred=41648/56061=74%
+* VID: MWE-based: P=178/41648=0.0043 R=178/285=0.6246 F=0.0085
+* VID: Tok-based: P=469/157932=0.0030 R=469/601=0.7804 F=0.0059
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=256/510=50% pred=2094/56061=4%
+* Continuous: MWE-based: P=156/2094=0.0745 R=156/256=0.6094 F=0.1328
+* Discontinuous: MWE-proportion: gold=254/510=50% pred=53967/56061=96%
+* Discontinuous: MWE-based: P=185/53967=0.0034 R=185/254=0.7283 F=0.0068
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=510/510=100% pred=55903/56061=100%
+* Multi-token: MWE-based: P=341/55903=0.0061 R=341/510=0.6686 F=0.0121
+* Single-token: MWE-proportion: gold=0/510=0% pred=158/56061=0%
+* Single-token: MWE-based: P=0/158=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=165/510=32% pred=1701/56061=3%
+* Seen-in-train: MWE-based: P=152/1701=0.0894 R=152/165=0.9212 F=0.1629
+* Unseen-in-train: MWE-proportion: gold=345/510=68% pred=54360/56061=97%
+* Unseen-in-train: MWE-based: P=189/54360=0.0035 R=189/345=0.5478 F=0.0069
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=99/165=60% pred=1610/1701=95%
+* Variant-of-train: MWE-based: P=88/1610=0.0547 R=88/99=0.8889 F=0.1030
+* Identical-to-train: MWE-proportion: gold=66/165=40% pred=91/1701=5%
+* Identical-to-train: MWE-based: P=64/91=0.7033 R=64/66=0.9697 F=0.8153
+

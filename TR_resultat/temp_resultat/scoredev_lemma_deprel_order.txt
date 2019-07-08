@@ -1,0 +1,41 @@
+lemma_deprel_order
+251
+## Global evaluation
+* MWE-based: P=318/20250=0.0157 R=318/510=0.6235 F=0.0306
+* Tok-based: P=775/84597=0.0092 R=775/1054=0.7353 F=0.0181
+
+## Per-category evaluation (partition of Global)
+* LVC.full: MWE-proportion: gold=225/510=44% pred=14278/20250=71%
+* LVC.full: MWE-based: P=149/14278=0.0104 R=149/225=0.6622 F=0.0205
+* LVC.full: Tok-based: P=356/55381=0.0064 R=356/453=0.7859 F=0.0128
+* MVC: MWE-proportion: gold=0/510=0% pred=6375/20250=31%
+* MVC: MWE-based: P=0/6375=0.0000 R=0/0=0.0000 F=0.0000
+* MVC: Tok-based: P=0/14045=0.0000 R=0/0=0.0000 F=0.0000
+* VID: MWE-proportion: gold=285/510=56% pred=14041/20250=69%
+* VID: MWE-based: P=160/14041=0.0114 R=160/285=0.5614 F=0.0223
+* VID: Tok-based: P=405/44209=0.0092 R=405/601=0.6739 F=0.0181
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=256/510=50% pred=1333/20250=7%
+* Continuous: MWE-based: P=137/1333=0.1028 R=137/256=0.5352 F=0.1724
+* Discontinuous: MWE-proportion: gold=254/510=50% pred=18917/20250=93%
+* Discontinuous: MWE-based: P=181/18917=0.0096 R=181/254=0.7126 F=0.0189
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=510/510=100% pred=20092/20250=99%
+* Multi-token: MWE-based: P=318/20092=0.0158 R=318/510=0.6235 F=0.0309
+* Single-token: MWE-proportion: gold=0/510=0% pred=158/20250=1%
+* Single-token: MWE-based: P=0/158=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=165/510=32% pred=608/20250=3%
+* Seen-in-train: MWE-based: P=135/608=0.2220 R=135/165=0.8182 F=0.3493
+* Unseen-in-train: MWE-proportion: gold=345/510=68% pred=19642/20250=97%
+* Unseen-in-train: MWE-based: P=183/19642=0.0093 R=183/345=0.5304 F=0.0183
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=99/165=60% pred=519/608=85%
+* Variant-of-train: MWE-based: P=73/519=0.1407 R=73/99=0.7374 F=0.2362
+* Identical-to-train: MWE-proportion: gold=66/165=40% pred=89/608=15%
+* Identical-to-train: MWE-based: P=62/89=0.6966 R=62/66=0.9394 F=0.8000
+
