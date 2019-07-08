@@ -1,0 +1,4794 @@
+VID
+0	avut	avea	VERB	_	_
+1	loc	loc	NOUN	0	fixed
+
+IRV
+0	își	sine	PRON	1	iobj
+1	propune	propune	VERB	_	_
+
+LVC.full
+0	lua	lua	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+VID
+0	având	avea	VERB	_	_
+1	dreptul	drept	NOUN	0	obj
+
+LVC.full
+0	facă	face	VERB	_	_
+1	dovada	dovadă	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	adresează	adresa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	desfășura	desfășura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adresează	adresa	VERB	_	_
+
+LVC.cause
+0	pus	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziție	dispoziție	NOUN	0	obl
+
+VID
+0	avea	avea	VERB	_	_
+1	loc	loc	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	derulează	derula	VERB	_	_
+
+IRV
+0	Se	sine	PRON	_	_
+1	înscrie	înscrie	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	desfășoară	desfășura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	deplasa	deplasa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ridica	ridica	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	manifestat	manifesta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	datorat	datora	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	deplasat	deplasa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	redusese	reduce	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reflectă	reflecta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	reîntors	reîntoarce	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reciclează	recicla	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	familiarizează	familiariza	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	concretizat	concretiza	VERB	_	_
+
+VID
+0	ține	ține	VERB	_	_
+1	cont	cont	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	arătat	arăta	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	împărtăși	împărtăși	VERB	_	_
+
+IRV
+0	Mă	eu	PRON	1	obj
+1	rog	ruga	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	prezintă	prezenta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	dovedit	dovedi	VERB	_	_
+
+LVC.cause
+0	puse	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziție	dispoziție	NOUN	0	obl
+
+VID
+0	stat	sta	VERB	_	_
+1	de	de	ADP	2	case
+2	vorbă	vorbă	NOUN	0	nmod:pmod
+
+IRV
+0	ne	eu	PRON	1	iobj
+1	gândi	gândi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îmbunătățește	îmbunătăți	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	schimbă	schimba	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	consacră	consac	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	referă	referi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	naște	naște	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	bazează	baza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	echilibrează	echilibra	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	reglează	regla	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	îmbunătățește	îmbunătăți	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	cheamă	chema	VERB	_	_
+
+VID
+0	avut	avea	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	se-	sine	PRON	1	expl:pv
+1	arată	arăta	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	bucur	bucura	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	obj
+1	pun	pune	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	gândesc	gând	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	duc	duce	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	simt	simți	VERB	_	_
+
+IRV
+0	mă	eu	PRON	_	_
+1	bucura	bucura	VERB	_	_
+
+IRV
+0	uitându	uita	VERB	_	_
+1	-mă	eu	PRON	0	obj
+
+VID
+0	îmi	eu	PRON	1	iobj
+1	dau	da	VERB	_	_
+2	seama	seamă	NOUN	1	fixed
+
+VID
+0	-și	sine	PRON	1	iobj
+1	pună	pune	VERB	_	_
+2	capăt	capăt	NOUN	1	fixed
+3	vieții	viață	NOUN	1	iobj
+
+LVC.cause
+0	pună	pune	VERB	_	_
+1	capăt	capăt	NOUN	0	fixed
+
+VID
+0	dat	da	VERB	_	_
+1	viață	viață	NOUN	0	obj
+
+VID
+0	pus	pune	VERB	_	_
+1	suflet	suflet	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	pare	părea	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	ocup	ocupa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	juca	juca	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	produs	produce	VERB	_	_
+
+VID
+0	zis	zice	VERB	_	_
+1	din	din	ADP	2	case
+2	vers	vers	NOUN	0	obl
+
+VID
+0	ținut	ține	VERB	_	_
+1	în	în	ADP	2	case
+2	palme	palmă	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	cutremură	cutremura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	poate	putea	VERB	_	_
+
+VID
+0	luați	lua	VERB	_	_
+1	legătura	legătură	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	confruntă	confrunta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	situează	situa	VERB	_	_
+
+IRV
+0	își	sine	PRON	1	expl:poss
+1	propune	propune	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	înregistrat	înregistra	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	desfășurat	desfășura	VERB	_	_
+
+VID
+0	având	avea	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	află	afla	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	implicat	implica	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	desfășurat	desfășura	VERB	_	_
+
+VID
+0	aibă	avea	VERB	_	_
+1	loc	loc	NOUN	0	fixed
+
+VID
+0	luat	lua	VERB	_	_
+1	cunoștință	cunoștință	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ridică	ridica	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	număra	număra	VERB	_	_
+
+VID
+0	Este	fi	VERB	_	_
+1	vorba	vorbă	NOUN	0	nsubj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	afle	afla	VERB	_	_
+
+VID
+0	scot	scoate	VERB	_	_
+1	la	la	ADP	2	case
+2	rampă	rampă	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	inspirat	inspira	VERB	_	_
+
+VID
+0	punându	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	valoare	valoare	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	familiarizeze	familiariza	VERB	_	_
+
+IRV
+0	v-	tu	PRON	1	obj
+1	ascuns	ascunde	VERB	_	_
+
+LVC.full
+0	avea	avea	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înfățișa	înfățișa	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	născut	naște	VERB	_	_
+
+VID
+0	dat	da	VERB	_	_
+1	în	în	ADP	2	case
+2	folosință	folosință	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	adaugă	adăuga	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	_	_
+
+VID
+0	are	avea	VERB	_	_
+1	loc	loc	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	mărește	mări	VERB	_	_
+
+IRV
+0	Se	sine	PRON	1	expl:pass
+1	împlinesc	împlini	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	născut	naște	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	semnala	semnala	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	situa	situa	VERB	_	_
+
+LVC.full
+0	puse	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	vânzare	vânzare	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	numără	număra	VERB	_	_
+
+LVC.full
+0	au	avea	AUX	1	aux
+1	acces	accege	VERB	_	_
+
+LVC.full
+0	are	avea	VERB	_	_
+1	acces	acces	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	prezinte	prezenta	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	prezenta	prezenta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	încheia	încheia	VERB	_	_
+
+VID
+0	ieșit	ieși	VERB	_	_
+1	de	de	ADP	3	case
+2	sub	sub	ADP	1	fixed
+3	tipar	tipar	NOUN	0	nmod:pmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adesează	adesea	VERB	_	_
+
+LVC.cause
+0	pus	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	vânzare	vânzare	NOUN	0	obl
+
+VID
+0	având	avea	VERB	_	_
+1	loc	loc	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	cifra	cifra	VERB	_	_
+
+VID
+0	stă	sta	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziție	dispoziție	NOUN	0	obl
+
+VID
+0	luată	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	considerare	considerare	NOUN	0	obl
+
+IRV
+0	Ne	eu	PRON	1	expl:pv
+1	bucurăm	bucura	VERB	_	_
+
+VID
+0	au	avea	VERB	_	_
+1	dreptul	drept	NOUN	0	obj
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	adresați	adresa	VERB	_	_
+
+LVC.full
+0	faceți	face	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	bucura	bucura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	adresa	adresa	VERB	_	_
+
+VID
+0	are	avea	VERB	_	_
+1	dreptul	drept	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	convinge	convinge	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	debranșez	debranșeza	VERB	_	_
+
+IRV
+0	mă	eu	PRON	_	_
+1	adresa	adresa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	impune	impune	VERB	_	_
+
+VID
+0	fost	fi	AUX	1	cop
+1	vorba	vorbă	NOUN	_	_
+
+VID
+0	are	avea	VERB	_	_
+1	loc	loc	NOUN	0	fixed
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	transferați	transfera	VERB	_	_
+
+IRV
+0	ne	eu	PRON	_	_
+1	pronunța	pronunța	VERB	_	_
+
+VID
+0	Având	avea	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+VID
+0	dă	da	ADP	1	case
+1	naștere	naștere	NOUN	_	_
+
+IRV
+0	vă	tu	PRON	1	obj
+1	prezenta	prezenta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	supun	supune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	poate	putea	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	mișcat	mișca	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	sustrăgea	sustrage	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	afla	afla	VERB	_	_
+
+VID
+0	spiritele	spirit	NOUN	2	nsubj
+1	s-	sine	PRON	2	expl:pv
+2	încins	încinge	VERB	_	_
+
+VID
+0	și-	sine	PRON	1	expl:poss
+1	pierdut	pierde	VERB	_	_
+2	viața	viață	NOUN	1	obj
+
+LVC.full
+0	și-	sine	PRON	1	expl:poss
+1	făcut	face	VERB	_	_
+2	apariția	apariție	NOUN	1	obj
+
+VID
+0	este	fi	VERB	_	_
+1	vorba	vorbă	NOUN	0	nsubj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	petrecut	petrece	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	răsturnat	răsturna	VERB	_	_
+
+IRV
+0	Se	sine	PRON	1	expl:pass
+1	înregistrează	înregistra	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îndrepta	îndrepta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	luat	lua	VERB	_	_
+
+VID
+0	trimis	trimite	VERB	_	_
+1	în	în	ADP	2	case
+2	judecată	judecată	NOUN	0	obl
+
+VID
+0	și	și	PRON	1	expl:poss
+1	vărsa	vărsa	VERB	_	_
+2	nervii	nerv	NOUN	1	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	consumat	consuma	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	petreacă	petrece	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	retras	retrage	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	odihneau	odihni	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	gândit	gândi	VERB	_	_
+
+VID
+0	dat	da	VERB	_	_
+1	pe	pe	ADP	2	case
+2	gât	gât	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	culce	culca	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	întins	întinde	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	întors	întoarce	VERB	_	_
+
+VID
+0	pus	pune	VERB	_	_
+1	mâna	mână	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	întâmplat	întâmpla	VERB	_	_
+
+VID
+0	luat	lua	VERB	_	_
+1	cu	cu	ADP	2	case
+2	asalt	asalt	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	întâlnit	întâlni	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	refugiat	refugia	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	terminat	termina	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	confruntat	confrunta	VERB	_	_
+
+VID
+0	lua	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	considerare	considerare	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	implice	implica	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	prăbușit	prăbuși	VERB	_	_
+
+VID
+0	pierzându	pierde	VERB	_	_
+1	-și	sine	PRON	0	expl:poss
+2	viața	viață	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	răscoale	răscol	ADJ	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	comporte	comporta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	îmbolnăvit	îmbolnăvi	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	îndreptat	îndrepta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	soldat	solda	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	reunit	reuni	VERB	_	_
+
+VID
+0	discuția	discuție	NOUN	_	_
+1	purtat	purta	VERB	0	acl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	asigura	asigura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	alăture	alătura	VERB	_	_
+
+IRV
+0	temându	tema	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	instalându	instala	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	Se	sine	PRON	1	expl:pass
+1	face	face	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	impus	impune	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	clasat	clasa	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	încheiat	încheia	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	disputat	disputa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	disputa	disputa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	desfășura	desfășura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	retrage	retrage	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	putea	putea	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	disputa	disputa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	confruntă	confrunta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	vede	vedea	VERB	_	_
+
+IRV
+0	ne	eu	PRON	1	expl:pv
+1	bucurăm	bucura	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	circulație	circulație	NOUN	0	nmod:pmod
+
+IRV
+0	se	sine	PRON	_	_
+1	adresa	adresa	VERB	_	_
+
+LVC.cause
+0	la	la	ADP	1	case
+1	dispoziția	dispoziție	NOUN	_	_
+2	puse	pune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâlnesc	întâlni	VERB	_	_
+
+LVC.full
+0	pun	pune	VERB	_	_
+1	întrebări	întrebare	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înscriu	înscrie	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încheia	încheia	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	desfășoară	desfășura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	mențin	menține	VERB	_	_
+
+VID
+0	ținându	ține	VERB	_	_
+1	cont	cont	NOUN	0	xcomp
+
+LVC.full
+0	fac	face	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+IRV
+0	aflându	afla	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	intrat	intra	VERB	_	_
+1	în	în	ADP	0	advmod
+2	vigoare	vigoare	NOUN	1	fixed
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	prezentat	prezenta	VERB	_	_
+
+VID
+0	intrat	intra	VERB	_	_
+1	în	în	ADP	2	case
+2	posesia	posesie	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	prezenta	prezenta	VERB	_	_
+
+VID
+0	atrăgea	atrage	VERB	_	_
+1	atenția	atenție	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	cifrează	cifra	VERB	_	_
+
+IRV
+0	adăugându	adăuga	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	este	fi	VERB	_	_
+1	vorba	vorbă	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	prezenta	prezenta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	impune	impune	VERB	_	_
+
+IRV
+0	cifrându	cifra	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	atrage	atrage	VERB	_	_
+1	atenția	atenție	NOUN	0	nsubj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încadrează	încadra	VERB	_	_
+
+IRV
+0	s-	sine	PRON	_	_
+1	prezenta	prezenta	VERB	_	_
+
+VID
+0	atrage	atrage	VERB	_	_
+1	atenția	atenție	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încheie	încheia	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	familiariza	familiariza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	gândesc	gândi	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	derula	derula	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	califica	califica	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	intitulează	intitula	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	numește	numi	VERB	_	_
+
+LVC.full
+0	puse	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	vânzare	vânzare	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înscrie	înscrie	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reuni	reuni	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	deplasat	deplasa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	aflau	afla	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	opri	opri	VERB	_	_
+
+VID
+0	ține	ține	VERB	_	_
+1	hățurile	hăț	NOUN	0	obj
+2	în	în	ADP	3	case
+3	mână	mână	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	apropie	apropia	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	prezintă	prezenta	VERB	_	_
+
+VID
+0	dădea	da	VERB	_	_
+1	dreptul	drept	NOUN	0	obj
+
+VID
+0	luat	lua	VERB	_	_
+1	cu	cu	ADP	_	_
+2	asalt	asalt	DET	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	rupt	rupe	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	mute	muta	VERB	_	_
+
+VID
+0	deschis	deschide	VERB	_	_
+1	ochii	ochi	NOUN	0	obj
+
+LVC.full
+0	avut	avea	VERB	_	_
+1	grijă	grijă	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	instalase	instala	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	dus	duce	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	plimbau	plimba	VERB	_	_
+
+VID
+0	îmi	eu	PRON	_	_
+1	dau	da	VERB	_	_
+2	seama	seamă	NOUN	1	fixed
+
+IRV
+0	m-	eu	PRON	1	obj
+1	dus	duce	VERB	_	_
+
+VID
+0	adus	aduce	VERB	_	_
+1	aminte	aminte	ADV	0	advmod
+
+VID
+0	aduceți	aduce	VERB	_	_
+1	aminte	aminte	ADV	0	advmod
+
+IRV
+0	Se	sine	PRON	1	expl:pv
+1	găsește	găsi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	diminuează	diminua	VERB	_	_
+
+VID
+0	făcut	face	VERB	_	_
+1	cu	cu	ADP	2	case
+2	sare	sare	NOUN	0	obl
+3	și	și	CCONJ	4	cc
+4	oțet	oțet	NOUN	2	conj
+
+VID
+0	împart	împărți	VERB	_	_
+1	pâinea	pâine	NOUN	0	obj
+2	și	și	CCONJ	3	cc
+3	sarea	sare	NOUN	1	conj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ascunde	ascunde	VERB	_	_
+
+VID
+0	aduce	aduce	VERB	_	_
+1	aminte	amintă	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dezvolta	dezvolta	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	întoarce	întoarce	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	trezit	trezi	VERB	_	_
+
+VID
+0	ne	eu	PRON	_	_
+1	da	da	VERB	_	_
+2	seama	seamă	NOUN	1	fixed
+
+IRV
+0	vă	tu	PRON	_	_
+1	adresa	adresa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adreseze	adresa	VERB	_	_
+
+IRV
+0	vă	tu	PRON	1	iobj
+1	adresa	adresa	VERB	_	_
+
+IRV
+0	își	sine	PRON	1	expl:poss
+1	asuma	asuma	VERB	_	_
+
+IRV
+0	adresați	adresa	VERB	_	_
+1	-vă	tu	PRON	0	obj
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	prezentați	prezent	VERB	_	_
+
+VID
+0	aveți	avea	VERB	_	_
+1	dreptul	drept	NOUN	0	obj
+
+LVC.full
+0	faceți	face	VERB	_	_
+1	dovada	dovadă	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	obligat	obliga	VERB	_	_
+
+LVC.full
+0	face	face	VERB	_	_
+1	dovada	dovadă	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ocupă	ocupa	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	asociat	asocia	VERB	_	_
+
+VID
+0	tras	trage	VERB	_	_
+1	tare	tare	ADV	0	advmod
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	ales	alege	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	asigurat	asigura	VERB	_	_
+
+VID
+0	făcut	face	VERB	_	_
+1	rost	rost	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	refereau	referi	VERB	_	_
+
+VID
+0	lovitură	lovitură	NOUN	1	nsubj:pass
+1	dată	da	VERB	_	_
+
+LVC.full
+0	ia	lua	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	folosesc	folosi	VERB	_	_
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	decizia	decizie	NOUN	0	obj
+
+VID
+0	face	face	VERB	_	_
+1	uz	uz	NOUN	0	obj
+
+VID
+0	pierzându	pierde	VERB	_	_
+1	-și	sine	PRON	2	expl:poss
+2	viața	viață	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	opun	opune	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	născut	naște	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	aflat	afla	VERB	_	_
+
+VID
+0	sunt	fi	AUX	2	cop
+1	de	de	ADP	2	case
+2	părere	părere	NOUN	_	_
+
+LVC.full
+0	ia	lua	VERB	_	_
+1	cuvântul	cuvânt	NOUN	0	obj
+
+VID
+0	intra	intra	VERB	_	_
+1	în	în	ADP	2	case
+2	funcțiune	funcțiune	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	apropiau	apropia	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	convingă	convinge	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	așezat	așeza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	alătura	alătura	VERB	_	_
+
+VID
+0	are	avea	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+VID
+0	poartă	purta	VERB	_	_
+1	semnătura	semnătură	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	împlinesc	împlini	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îmbogăți	îmbogăți	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	conformat	conforma	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	dispoziție	dispoziție	NOUN	0	fixed
+
+IRV
+0	-se	sine	PRON	_	_
+1	adresa	adresa	NOUN	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	derula	derula	VERB	_	_
+
+VID
+0	intrat	intra	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vigoare	vigoare	NOUN	0	fixed
+
+VID
+0	pus	pune	VERB	_	_
+1	bazele	bază	NOUN	0	obj
+
+LVC.full
+0	făcut	face	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încălzi	încălzi	VERB	_	_
+
+IRV
+0	desfășurându	desfășura	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	_	_
+1	înscrie	înscrie	VERB	_	_
+
+LVC.full
+0	își	sine	PRON	_	_
+1	aduce	aduce	VERB	_	_
+2	aportul	aport	NOUN	1	obj
+
+IRV
+0	se	sine	PRON	1	expl:impers
+1	poate	putea	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	vânzare	vânzare	NOUN	0	obl
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	referiți	referi	VERB	_	_
+
+LVC.full
+0	lua	lua	VERB	_	_
+1	hotărâre	hotărâre	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	_	_
+1	pensiona	pensiona	VERB	_	_
+
+IRV
+0	Ne	eu	PRON	1	iobj
+1	bucurăm	bucura	VERB	_	_
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	numărați	număr	VERB	_	_
+
+LVC.full
+0	ia	lua	VERB	_	_
+1	hotărârea	hotărâre	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	_	_
+1	ivi	ivi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	diminuat	diminua	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îndreptat	îndrepta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îngriji	îngriji	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	regăsește	regăsi	VERB	_	_
+
+LVC.full
+0	făcut	face	VERB	_	_
+1	referire	referire	NOUN	0	obj
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	aflați	afla	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâmplă	întâmpla	VERB	_	_
+
+VID
+0	da	da	VERB	_	_
+1	alarma	alarmă	NOUN	0	obj
+
+VID
+0	facă	face	VERB	_	_
+1	rost	rost	NOUN	0	fixed
+
+VID
+0	furase	fura	VERB	_	_
+1	somnul	somn	NOUN	0	nsubj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	duseseră	duse	VERB	_	_
+
+IRV
+0	și-	sine	PRON	1	expl:poss
+1	însușit	însuși	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	petrecuse	petrece	VERB	_	_
+
+VID
+0	dat	da	VERB	_	_
+1	nas	nas	NOUN	0	obj
+2	în	în	ADP	3	case
+3	nas	nas	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ascundea	ascunde	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	petrece	petrece	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	ascunde	ascunde	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	destrămat	destrăma	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	predat	preda	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	pregătesc	pregăti	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	sinucide	sinucide	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	oprește	opri	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	stabilește	stabili	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adresa	adresa	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	calificat	califica	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	simți	simți	VERB	_	_
+
+IRV
+0	-și	sine	PRON	1	expl:poss
+1	adjudece	adjudeca	VERB	_	_
+
+IRV
+0	-și	sine	PRON	_	_
+1	permite	permite	VERB	_	_
+
+VID
+0	avem	avea	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâlnească	întâlni	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	informa	informa	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	înrăutățit	înrăutăți	VERB	_	_
+
+IRV
+0	ne	eu	PRON	1	expl:pv
+1	gândim	gândi	VERB	_	_
+
+VID
+0	avea	avea	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+VID
+0	avea	avea	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	ridicat	ridica	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	împlinit	împlini	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	arată	arăta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ridice	ridica	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	gândit	gândi	VERB	_	_
+
+IRV
+0	ne	eu	PRON	1	iobj
+1	bucurăm	bucura	VERB	_	_
+
+IRV
+0	Împărtășindu	Împărtăși	VERB	_	_
+1	-ne	eu	PRON	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	bucure	bucura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	roagă	roage	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	derulează	derula	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	desfășoare	desfășorî	ADJ	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	impun	impune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	produce	produce	VERB	_	_
+
+VID
+0	țină	ține	VERB	_	_
+1	seama	seamă	NOUN	0	fixed
+
+LVC.cause
+0	pun	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	dispoziție	dispoziție	NOUN	0	fixed
+
+VID
+0	adus	aduce	VERB	_	_
+1	la	la	ADP	2	case
+2	cunoștință	cunoștință	NOUN	0	obl
+
+LVC.cause
+0	puse	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	dispoziție	dispoziție	NOUN	0	fixed
+
+VID
+0	pus	pune	VERB	_	_
+1	piatra	piatră	NOUN	0	nsubj:pass
+2	de	de	ADP	3	case
+3	temelie	temelie	NOUN	1	nmod
+
+IRV
+0	s-	sine	PRON	2	expl:pv
+1	a	avea	AUX	2	aux
+2	dezvoltat	dezvolta	VERB	_	_
+
+VID
+0	stă	sta	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	0	obl
+
+LVC.full
+0	lua	lua	VERB	_	_
+1	foc	foc	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	instaura	instaura	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	alăturat	alătura	VERB	_	_
+
+VID
+0	Este	fi	VERB	_	_
+1	vorba	vorbă	NOUN	0	fixed
+
+VID
+0	aduce	aduce	VERB	_	_
+1	o	un	DET	2	det
+2	rază	rază	NOUN	0	obj
+3	de	de	ADP	4	case
+4	lumină	lumină	NOUN	2	nmod
+
+VID
+0	luat	lua	VERB	_	_
+1	ființă	ființă	NOUN	0	fixed
+
+LVC.full
+0	face	face	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+VID
+0	avut	avea	VERB	_	_
+1	la	la	ADP	2	case
+2	origine	origine	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	împlini	împlini	VERB	_	_
+
+VID
+0	Fiind	fi	VERB	_	_
+1	vorba	vorbă	NOUN	0	fixed
+
+IRV
+0	și-	sine	PRON	1	expl:poss
+1	asumat	asuma	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	ocupat	ocupa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	regăsesc	regăsi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	înregistra	înregistra	VERB	_	_
+
+VID
+0	ține	ține	VERB	_	_
+1	cont	cont	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	transformă	transforma	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	diminuează	diminua	VERB	_	_
+
+VID
+0	stă	sta	VERB	_	_
+1	la	la	ADP	2	case
+2	baza	bază	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	desprins	desprinde	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	luptă	lupta	VERB	_	_
+
+VID
+0	au	avea	VERB	_	_
+1	drepturi	drept	NOUN	0	obj
+
+VID
+0	se	sine	PRON	1	expl:pass
+1	dau	da	VERB	_	_
+2	bătuți	bătute	NOUN	1	obj
+
+VID
+0	pus	pune	VERB	_	_
+1	bazele	bază	NOUN	0	nsubj:pass
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	diversificat	diversifica	VERB	_	_
+
+IRV
+0	axându	axa	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	ameliorat	ameliora	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	afla	afla	VERB	_	_
+
+VID
+0	dată	da	VERB	_	_
+1	în	în	ADP	2	case
+2	folosință	folosință	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	autogospodărească	autogospodări	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	face	face	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	arătat	arăta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adăuga	adăuga	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	încheie	încheia	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	deruleze	derula	VERB	_	_
+
+VID
+0	atrage	atrage	VERB	_	_
+1	atenția	atenție	NOUN	0	fixed
+
+VID
+0	pus	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	punct	punct	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	bucură	bucura	VERB	_	_
+
+VID
+0	atrăgându	atrăga	VERB	_	_
+1	atenția	atenție	NOUN	0	obj
+
+LVC.full
+0	face	face	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	produs	produce	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	afirmat	afirma	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încadra	încadra	VERB	_	_
+
+LVC.full
+0	au	avea	AUX	1	aux
+1	acces	accege	NOUN	_	_
+
+LVC.full
+0	fac	face	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	vă	tu	PRON	1	obj
+1	referiți	referi	VERB	_	_
+
+VID
+0	dat	da	VERB	_	_
+1	curs	curs	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	înscris	înscrie	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	deplasează	deplasa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	scurgă	scurge	VERB	_	_
+
+VID
+0	este	fi	AUX	_	_
+1	vorba	vorbă	NOUN	_	_
+
+VID
+0	avea	avea	VERB	_	_
+1	dreptul	drept	NOUN	0	obj
+
+VID
+0	ia	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	calcul	calcul	NOUN	0	obl
+
+LVC.full
+0	facem	face	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	ne-	eu	PRON	1	expl:pv
+1	referit	referi	VERB	_	_
+
+VID
+0	intra	intra	VERB	_	_
+1	în	în	ADP	0	advmod
+2	vigoare	vigoare	NOUN	1	fixed
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	iscat	isca	VERB	_	_
+
+LVC.full
+0	făcea	face	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	izbit	izbi	VERB	_	_
+
+IRV
+0	transformându	transforma	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	strâns	strânge	VERB	_	_
+
+VID
+0	da	da	VERB	_	_
+1	socoteală	socoteală	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	recomandat	recomanda	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	văzut	vedea	VERB	_	_
+
+VID
+0	ia	lua	VERB	_	_
+1	în	în	ADP	0	fixed
+2	considerare	considerare	NOUN	0	fixed
+
+VID
+0	pus	pune	VERB	_	_
+1	la	la	ADP	0	advmod
+2	îndoială	îndoială	NOUN	1	fixed
+
+VID
+0	luat	lua	VERB	_	_
+1	naștere	naștere	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întrunește	întruni	VERB	_	_
+
+VID
+0	căzut	cădea	VERB	_	_
+1	de	de	ADP	2	case
+2	acord	acord	NOUN	0	nmod:pmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	descurca	descurca	VERB	_	_
+
+VID
+0	poartă	purta	VERB	_	_
+1	semnăturile	semnătură	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	folosește	folosi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întoarce	întoarce	VERB	_	_
+
+LVC.cause
+0	pun	pune	VERB	_	_
+1	în	în	ADP	_	_
+2	pericol	pericol	NOUN	_	_
+
+VID
+0	aduce	aduce	VERB	_	_
+1	la	la	ADP	2	case
+2	picioarele	picior	NOUN	0	obl
+
+VID
+0	pune	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	evidență	evidență	NOUN	0	obl
+
+VID
+0	sub	sub	ADP	1	case
+1	semnul	semn	NOUN	_	_
+2	stă	sta	VERB	1	acl
+
+VID
+0	început	începe	VERB	_	_
+1	cu	cu	ADP	2	case
+2	stângul	stângu	NOUN	0	obl
+
+VID
+0	startul	start	NOUN	1	nsubj
+1	da	da	VERB	_	_
+
+LVC.cause
+0	pus	pune	VERB	_	_
+1	capăt	capăt	NOUN	0	fixed
+
+VID
+0	ținând	ține	VERB	_	_
+1	cont	cont	ADV	0	advmod
+
+VID
+0	luat	lua	VERB	_	_
+1	startul	start	NOUN	0	obj
+
+VID
+0	avea	avea	VERB	_	_
+1	pe	pe	ADP	2	case
+2	grila	grilă	NOUN	0	obl
+3	de	de	ADP	4	case
+4	start	start	NOUN	2	nmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întrece	întrece	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	antrenează	antrena	VERB	_	_
+
+IRV
+0	ne	eu	PRON	_	_
+1	referim	referi	AUX	_	_
+
+IRV
+0	Constituindu	constitui	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	întâlnesc	întâlni	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	sinucid	sinucide	VERB	_	_
+
+VID
+0	ieșit	ieși	VERB	_	_
+1	de	de	ADP	3	case
+2	sub	sub	ADP	1	fixed
+3	tipar	tipar	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	înregistrat	înregistra	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dispute	disputa	VERB	_	_
+
+VID
+0	da	da	VERB	_	_
+1	în	în	ADP	_	_
+2	judecată	judecată	NOUN	1	fixed
+
+LVC.full
+0	decizia	decizie	NOUN	_	_
+1	luat	lua	VERB	0	acl
+
+VID
+0	ieșindu	ieși	VERB	_	_
+1	-și	sine	PRON	0	expl:poss
+2	din	din	ADP	3	case
+3	fire	fire	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	_	_
+1	plimba	plimba	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	referit	referi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	asocia	asocia	VERB	_	_
+
+IRV
+0	Referindu	referi	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+LVC.cause
+0	pus	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	dispoziție	dispoziție	NOUN	0	fixed
+
+IRV
+0	derulându	derula	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	intra	intra	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vigoare	vigoare	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	preocupa	preocupa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	informeze	informa	VERB	_	_
+
+VID
+0	fost	fi	AUX	2	cop
+1	de	de	ADP	2	case
+2	acord	acord	NOUN	_	_
+
+VID
+0	Luând	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	considerare	considerare	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	_	_
+1	număra	număra	VERB	_	_
+
+VID
+0	pusă	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	funcțiune	funcțiune	NOUN	0	obl
+
+VID
+0	da	da	VERB	_	_
+1	în	în	ADP	2	case
+2	folosință	folosință	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	numără	număra	VERB	_	_
+
+IRV
+0	își	sine	PRON	_	_
+1	propune	propune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	implica	implica	VERB	_	_
+
+LVC.full
+0	lua	lua	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	foc	foc	ADV	_	_
+
+VID
+0	pune	pune	VERB	_	_
+1	accent	accent	NOUN	0	obj
+
+IRV
+0	și-	sine	PRON	1	nmod
+1	propus	propune	VERB	_	_
+
+VID
+0	prinde	prinde	VERB	_	_
+1	viață	viață	NOUN	0	fixed
+
+IRV
+0	pregătindu	pregăti	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	bucură	bucura	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	adunat	aduna	VERB	_	_
+
+LVC.cause
+0	pus	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	0	obl
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	impus	impune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	constituie	constitui	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	arată	arăta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	bucurat	bucura	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	părut	părea	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	învrednicit	învrednici	VERB	_	_
+
+VID
+0	vine	veni	VERB	_	_
+1	să	să	PART	2	mark
+2	creadă	crede	VERB	0	ccomp
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	menține	menține	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	perfecționeze	perfecționa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	deosebește	deosebi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	concentrează	concentra	VERB	_	_
+
+LVC.cause
+0	punând	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	0	obl
+
+IRV
+0	ne	eu	PRON	1	expl:pv
+1	îndoim	îndoi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâmplat	întâmpla	VERB	_	_
+
+LVC.full
+0	ia	lua	VERB	_	_
+1	hotărâri	hotărâre	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	supune	supune	VERB	_	_
+
+LVC.full
+0	faceți	face	VERB	_	_
+1	referire	referire	NOUN	0	obj
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	prezentați	prezenta	VERB	_	_
+
+IRV
+0	Adresați	adresa	VERB	_	_
+1	-vă	tu	PRON	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	căsătorească	căsători	VERB	_	_
+
+LVC.full
+0	dat	da	VERB	_	_
+1	atacul	atac	NOUN	0	obj
+
+VID
+0	și-	sine	PRON	1	expl:poss
+1	făcut	face	VERB	_	_
+2	socoteala	socoteală	NOUN	1	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	angajat	angaja	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	petrecut	petrece	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reface	reface	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	derulat	derula	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	sustrage	sustrage	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	opus	opune	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	pronunțat	pronunța	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	întrunit	întruni	VERB	_	_
+
+IRV
+0	ridicându	ridica	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	deschis	deschide	VERB	_	_
+1	focul	foc	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ducă	duce	VERB	_	_
+
+VID
+0	spună	spune	VERB	_	_
+1	adio	adio	INTJ	0	obj
+
+IRV
+0	Se	sine	PRON	1	expl:pv
+1	află	afla	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	scurge	scurge	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	lăsat	lăsa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	gândească	gândi	VERB	_	_
+
+IRV
+0	v-	tu	PRON	1	iobj
+1	ascuns	ascunde	VERB	_	_
+
+LVC.full
+0	face	face	VERB	_	_
+1	sex	sex	NOUN	0	obj
+
+LVC.full
+0	face	face	VERB	_	_
+1	dragoste	dragoste	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	impus	impune	VERB	_	_
+
+VID
+0	trecut	trece	VERB	_	_
+1	în	în	ADP	2	case
+2	neființă	neființă	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	încăierat	încăiera	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	descurcat	descurca	VERB	_	_
+
+VID
+0	facă	face	VERB	_	_
+1	față	față	NOUN	0	fixed
+
+IRV
+0	S	S	NOUN	_	_
+1	retras	retrage	VERB	_	_
+
+IRV
+0	regăsindu	regăsi	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întinde	întinde	VERB	_	_
+
+IRV
+0	trezindu	trezi	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	aliniat	alinia	VERB	_	_
+
+VID
+0	atrag	atrage	VERB	_	_
+1	atenția	atenție	NOUN	0	obj
+
+VID
+0	pus	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	cale	cale	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	distrează	distra	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	înscris	înscrie	VERB	_	_
+
+LVC.full
+0	lua	lua	VERB	_	_
+1	decizii	decizie	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâlni	întâlni	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adauge	adauge	VERB	_	_
+
+VID
+0	luând	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	calcul	calcul	NOUN	0	obl
+
+LVC.cause
+0	pun	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	pericol	pericol	NOUN	0	fixed
+
+VID
+0	avându	ava	VERB	_	_
+1	în	în	ADP	2	case
+2	vedere	vedere	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	refere	referi	VERB	_	_
+
+IRV
+0	soldându	solda	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	desfășoare	desfășorî	NOUN	_	_
+
+IRV
+0	își	sine	PRON	1	expl:poss
+1	propun	propune	VERB	_	_
+
+IRV
+0	adăugându	adăuga	VERB	_	_
+1	-se	sine	PRON	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	preocupă	preocupa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	lanseze	lansa	VERB	_	_
+
+VID
+0	văzut	vedea	VERB	_	_
+1	lumina	lumină	NOUN	0	obj
+2	zilei	zi	NOUN	1	nmod
+
+VID
+0	pune	pune	VERB	_	_
+1	accentul	accent	NOUN	0	nsubj:pass
+
+VID
+0	luat	lua	VERB	_	_
+1	ființă	ființă	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	evidențiaseră	evidenția	VERB	_	_
+
+VID
+0	pusă	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	scenă	scenă	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	constituit	constitui	VERB	_	_
+
+LVC.full
+0	puse	pune	VERB	_	_
+1	în	în	ADP	0	fixed
+2	scenă	scenă	NOUN	0	fixed
+
+LVC.full
+0	făcut	face	VERB	_	_
+1	parte	parte	NOUN	_	_
+
+VID
+0	scos	scoate	VERB	_	_
+1	la	la	ADP	2	case
+2	rampă	rampă	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	transferat	transfera	VERB	_	_
+
+VID
+0	pus	pune	VERB	_	_
+1	în	în	ADP	0	fixed
+2	scenă	scenă	NOUN	0	fixed
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	bucurat	bucura	VERB	_	_
+
+IRV
+0	ne	eu	PRON	_	_
+1	grăbim	grăbi	AUX	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	evapore	evapora	ADJ	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adună	aduna	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dilată	dila	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îmbăia	îmbăi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	manifestă	manifesta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	lasă	lăsa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	transforma	transforma	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	mulțumește	mulțumi	VERB	_	_
+
+VID
+0	-ți	tu	PRON	_	_
+1	lua	lua	VERB	_	_
+2	zborul	zbor	NOUN	1	obj
+
+VID
+0	prinde	prinde	VERB	_	_
+1	bine	bine	ADV	0	advmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	antreneze	antrena	VERB	_	_
+
+VID
+0	și-	sine	PRON	1	expl:poss
+1	dat	da	VERB	_	_
+2	acordul	acord	NOUN	1	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	așază	așa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	umflă	umfla	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	capăt	capăt	NOUN	0	fixed
+
+IRV
+0	ne	eu	PRON	1	expl:pv
+1	referim	referi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	perfecționa	perfecționa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	conforma	conforma	VERB	_	_
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	referindu	referi	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	derulat	derula	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îndreptau	îndrepta	VERB	_	_
+
+IRV
+0	alăturându	alătura	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	situau	situa	VERB	_	_
+
+LVC.full
+0	facă	face	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	axat	axa	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	desfășura	desfășura	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	deschis	deschide	VERB	_	_
+
+LVC.full
+0	pus	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	aplicare	aplicare	NOUN	0	obl
+
+LVC.full
+0	declarații	declarație	NOUN	_	_
+1	date	da	VERB	0	acl
+
+IRV
+0	adresându	adresa	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dezvolte	dezvolta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	alinieze	alinia	VERB	_	_
+
+VID
+0	ținând	ține	VERB	_	_
+1	cont	cont	NOUN	0	obj
+
+VID
+0	au	avea	AUX	_	_
+1	loc	loc	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	pregătesc	pregăti	VERB	_	_
+
+IRV
+0	încheindu	încheia	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	au	avea	VERB	_	_
+1	în	în	ADP	2	case
+2	îngrijire	îngrijire	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	răci	răci	ADJ	_	_
+
+LVC.full
+0	au	avea	VERB	_	_
+1	acces	acces	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	instala	instala	VERB	_	_
+
+VID
+0	aduce	aduce	VERB	_	_
+1	la	la	ADP	2	case
+2	cunoștința	cunoștință	NOUN	0	obl
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziție	dispoziție	NOUN	0	obl
+
+VID
+0	dat	da	VERB	_	_
+1	în	în	ADP	2	case
+2	funcțiune	funcțiune	NOUN	0	obl
+
+IRV
+0	Ne	eu	PRON	1	expl:pv
+1	îndoim	îndoi	VERB	_	_
+
+IRV
+0	vă	tu	PRON	_	_
+1	adresați	adresa	VERB	_	_
+
+IRV
+0	vă	tu	PRON	1	obj
+1	adresați	adresa	VERB	_	_
+
+LVC.cause
+0	pun	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	pericol	pericol	NOUN	0	obl
+
+VID
+0	și	și	CCONJ	1	cc
+1	câștigă	câștiga	VERB	_	_
+2	pâinea	pâine	NOUN	1	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	refugiase	refugia	VERB	_	_
+
+VID
+0	dat	da	VERB	_	_
+1	de	de	ADP	_	_
+2	urma	urmă	NOUN	1	fixed
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	înfruntat	înfrunta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	electrocutat	electrocuta	VERB	_	_
+
+VID
+0	călcat	călca	VERB	_	_
+1	hoții	hoție	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	mutat	muta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	stabilit	stabili	VERB	_	_
+
+IRV
+0	izbindu	izbi	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	trimiși	trimite	VERB	_	_
+1	în	în	ADP	2	case
+2	judecată	judecată	NOUN	0	obl
+
+VID
+0	luat	lua	VERB	_	_
+1	legătura	legătură	NOUN	0	nmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	pronunțe	pronunța	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	revolte	revolta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	pregătește	pregăti	VERB	_	_
+
+IRV
+0	Se	sine	PRON	1	expl:pv
+1	încheie	încheia	VERB	_	_
+
+IRV
+0	S	S	NOUN	_	_
+1	încheiat	încheia	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	specializat	specializa	VERB	_	_
+
+IRV
+0	remarcându	remarca	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	-și	sine	PRON	1	expl:poss
+1	câștige	câștiga	VERB	_	_
+2	existența	existență	NOUN	1	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	adunau	aduna	VERB	_	_
+
+LVC.full
+0	făcând	face	VERB	_	_
+1	referiri	referire	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	întrepătrund	întrepătrunde	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	împletesc	împleti	VERB	_	_
+
+VID
+0	duce	duce	VERB	_	_
+1	la	la	ADP	3	case
+2	bun	bun	ADJ	3	amod
+3	sfârșit	sfârșit	NOUN	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	convertit	converti	VERB	_	_
+
+IRV
+0	și-	sine	PRON	1	expl:poss
+1	adjudecat	adjudeca	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	antrena	antrena	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	retragă	retrage	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	răsucit	răsuci	VERB	_	_
+
+VID
+0	pune	pune	VERB	_	_
+1	accent	accent	ADV	0	advmod
+
+VID
+0	intre	intra	VERB	_	_
+1	în	în	ADP	0	advmod
+2	vigoare	vigoare	NOUN	1	fixed
+
+VID
+0	au	avea	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	documentează	documentea	VERB	_	_
+
+IRV
+0	Se	sine	PRON	1	expl:pass
+1	impune	impune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	răsfrânge	răsfrânge	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	datorează	datora	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	epuizat	epuiza	VERB	_	_
+
+VID
+0	ținând	ține	VERB	_	_
+1	seama	seamă	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	_	_
+1	înscrie	înscrie	NOUN	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	făcut	face	VERB	_	_
+
+VID
+0	avute	avea	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+LVC.full
+0	făcând	face	VERB	_	_
+1	referire	referire	NOUN	0	obj
+
+VID
+0	ține	ține	VERB	_	_
+1	seama	seamă	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	numi	numi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	număra	număra	VERB	_	_
+
+LVC.full
+0	luată	lua	VERB	_	_
+1	decizia	decizie	NOUN	0	nsubj:pass
+
+VID
+0	ținem	ține	VERB	_	_
+1	cont	cont	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	găsea	găsi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înece	îneca	VERB	_	_
+
+LVC.full
+0	făcându	face	VERB	_	_
+1	-și	sine	PRON	0	expl:poss
+2	apariția	apariție	NOUN	0	obj
+
+VID
+0	se	sine	PRON	1	expl:pass
+1	da	da	VERB	_	_
+2	în	în	ADP	3	case
+3	spectacol	spectacol	NOUN	1	obl
+
+VID
+0	luate	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	stăpânire	stăpânire	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	înregistrează	înregistra	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	joacă	juca	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	plimbă	plimba	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	desprinde	desprinde	VERB	_	_
+
+IRV
+0	Se	sine	PRON	1	expl:pv
+1	înscrie	înscrie	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	suprapune	suprapune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	găsește	găsi	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	mândrit	mândri	VERB	_	_
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	distanță	distanță	NOUN	0	obj
+
+LVC.full
+0	făceau	face	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	decizia	decizie	NOUN	0	nsubj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	teamă	teama	NOUN	_	_
+
+VID
+0	treacă	trece	VERB	_	_
+1	hopul	hop	NOUN	0	obj
+
+IRV
+0	ne	eu	PRON	1	iobj
+1	bucuram	bucura	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	afirmat	afirma	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	putut	putea	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	regăsesc	regăsi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	termină	termina	VERB	_	_
+
+IRV
+0	m-	eu	PRON	1	obj
+1	întors	întoarce	VERB	_	_
+
+IRV
+0	M	M	NOUN	1	nsubj
+1	întors	întoarce	VERB	_	_
+
+VID
+0	aduce	aduce	VERB	_	_
+1	aminte	aminte	ADV	0	advmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înapoia	înapoi	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	interesat	interesate	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	iscat	isca	VERB	_	_
+
+VID
+0	le	el	PRON	1	iobj
+1	rămână	rămâne	VERB	_	_
+2	oasele	os	NOUN	1	nsubj
+
+VID
+0	le-	el	PRON	1	expl
+1	înghețat	înghețate	VERB	_	_
+2	sângele	sânge	NOUN	4	nsubj
+3	în	în	ADP	4	case
+4	vine	veni	VERB	1	ccomp
+
+VID
+0	și-	sine	PRON	1	expl:poss
+1	făcut	face	VERB	_	_
+2	cruce	cruce	NOUN	1	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	petrecea	petrece	VERB	_	_
+
+VID
+0	Parcă	parcă	ADV	2	advmod
+1	a	avea	AUX	2	aux
+2	văzut	vedea	VERB	_	_
+3	pe	pe	ADP	4	case
+4	Dumnezeu	Dumnezeu	PROPN	2	obj
+
+IRV
+0	ne-	eu	PRON	1	obj
+1	împrietenit	împrieteni	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	luminat	lumina	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	pregătească	pregăti	VERB	_	_
+
+LVC.full
+0	au	avea	AUX	_	_
+1	în	în	ADP	2	case
+2	proprietate	proprietat	NOUN	0	obl
+
+VID
+0	Având	avea	VERB	_	_
+1	la	la	ADP	2	case
+2	bază	bază	NOUN	0	obl
+
+VID
+0	prinde	prinde	VERB	_	_
+1	viață	viață	NOUN	0	obj
+
+IRV
+0	și-	sine	PRON	1	expl:poss
+1	propus	propune	VERB	_	_
+
+VID
+0	își	sine	PRON	1	expl:poss
+1	da	da	VERB	_	_
+2	concursul	concurs	NOUN	1	obj
+
+LVC.cause
+0	puse	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	hotărât	hotărî	VERB	_	_
+
+VID
+0	pusă	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	slujba	slujbă	NOUN	0	obl
+
+VID
+0	are	avea	VERB	_	_
+1	în	în	ADP	_	_
+2	vedere	vedere	NOUN	1	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	constituie	constitui	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	mărește	mări	VERB	_	_
+
+IRV
+0	Se	sine	PRON	1	expl:pv
+1	împlinesc	împlini	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	răci	răci	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	clarifica	clarifica	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	califice	califica	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	dispoziția	dispoziție	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	împlini	împlini	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înfățișeze	înfățișa	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	adresez	adresa	VERB	_	_
+
+IRV
+0	Vă	tu	PRON	_	_
+1	adresa	adresa	VERB	_	_
+
+VID
+0	luat	lua	VERB	_	_
+1	legătura	legătură	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dusese	duce	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	arătat	arăta	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	înțeles	înțelege	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	părut	părea	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	asigure	asigura	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	cinstească	cinsti	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	luat	lua	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	năpustit	năpusti	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	scurs	scurge	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	simte	simți	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	oprit	opri	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	simtă	simți	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	jucau	juca	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	sinucidă	sinucide	VERB	_	_
+
+LVC.full
+0	întâlnirea	întâlnire	NOUN	_	_
+1	avea	avea	VERB	0	acl
+
+IRV
+0	își	sine	PRON	1	expl:pv
+1	propune	propune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	orienta	orienta	VERB	_	_
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	foc	foc	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	trezește	trezi	VERB	_	_
+
+VID
+0	dea	da	VERB	_	_
+1	lovitura	lovitură	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	căsătorit	căsători	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ascund	ascunde	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	lasă	lăsa	VERB	_	_
+
+VID
+0	se	sine	PRON	1	expl:pass
+1	lasă	lăsa	VERB	_	_
+2	întunericul	întuneric	NOUN	1	nsubj:pass
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	prăbușească	prăbuși	VERB	_	_
+
+VID
+0	în	în	ADP	1	case
+1	calcul	calcul	NOUN	2	obl
+2	luate	lua	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	caracterizează	caracteriza	VERB	_	_
+
+VID
+0	luat	lua	VERB	_	_
+1	legătura	legătură	NOUN	0	fixed
+
+VID
+0	stea	sta	VERB	_	_
+1	la	la	ADP	2	case
+2	baza	bază	NOUN	0	obl
+
+VID
+0	ținut	ține	VERB	_	_
+1	la	la	ADP	2	case
+2	curent	curent	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	fac	face	VERB	_	_
+
+VID
+0	au	avea	AUX	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+VID
+0	dat	da	VERB	_	_
+1	în	în	ADP	2	case
+2	folosință	folosință	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	_	_
+1	încadra	încadra	VERB	_	_
+
+LVC.full
+0	luate	lua	VERB	_	_
+1	măsurile	măsură	NOUN	0	nsubj:pass
+
+IRV
+0	datorându	datora	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	strâng	strânge	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	identifica	identifica	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înregistra	înregistra	VERB	_	_
+
+VID
+0	ia	lua	VERB	_	_
+1	calea	cale	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	agravează	agrava	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	destramă	destrma	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	răspândesc	răspândi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încline	înclina	VERB	_	_
+
+VID
+0	își	sine	PRON	1	expl:poss
+1	dau	da	VERB	_	_
+2	seama	seamă	NOUN	1	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	aliniază	alinia	VERB	_	_
+
+VID
+0	își	sine	PRON	1	expl:poss
+1	pun	pune	VERB	_	_
+2	speranțele	speranță	NOUN	1	obj
+
+IRV
+0	identificându	identifica	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâlneau	întâlni	VERB	_	_
+
+VID
+0	dă	da	VERB	_	_
+1	startul	start	NOUN	0	obj
+
+VID
+0	ia	lua	VERB	_	_
+1	startul	start	NOUN	0	obj
+
+VID
+0	stat	sta	VERB	_	_
+1	la	la	ADP	2	case
+2	baza	bază	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	numeau	numi	VERB	_	_
+
+VID
+0	face	face	VERB	_	_
+1	tot	tot	PRON	0	obj
+2	ce	ce	PRON	3	nsubj
+3	sta	sta	VERB	1	acl
+4	în	în	ADP	3	fixed
+5	putință	putință	NOUN	3	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	hazardează	hazarda	VERB	_	_
+
+IRV
+0	s-	sine	PRON	_	_
+1	alăturat	alăturat	ADV	_	_
+
+VID
+0	o	el	PRON	1	obj
+1	ia	lua	VERB	_	_
+2	la	la	ADP	3	case
+3	goană	goană	NOUN	1	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	plângă	plânge	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	distreze	distrez	VERB	_	_
+
+VID
+0	luat	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	calcul	calcul	NOUN	0	obl
+
+VID
+0	pună	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	bătaie	bătaie	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	hazarda	hazarda	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	interesează	interesea	VERB	_	_
+
+VID
+0	lua	lua	VERB	_	_
+1	în	în	ADP	0	fixed
+2	considerare	considerare	NOUN	0	fixed
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	interesat	interesa	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	prezint	prezinta	ADV	_	_
+
+IRV
+0	m-	eu	PRON	1	obj
+1	ocupat	ocupa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	transferă	transfera	VERB	_	_
+
+VID
+0	luate	lua	VERB	_	_
+1	în	în	ADP	0	fixed
+2	considerare	considerare	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	prezinte	prezenta	VERB	_	_
+
+VID
+0	Ținând	ține	VERB	_	_
+1	seama	seamă	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dovedește	dovedi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	soldează	solda	VERB	_	_
+
+VID
+0	fiind	fi	VERB	_	_
+1	vorba	vorbă	NOUN	0	nsubj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	axa	axa	VERB	_	_
+
+LVC.full
+0	iau	lua	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	adaugă	adăuga	VERB	_	_
+
+VID
+0	văzut	vedea	VERB	_	_
+1	lumina	lumină	NOUN	0	obj
+2	tiparului	tipar	NOUN	1	nmod
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	aplecat	aplecate	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	detașează	detașa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	confruntau	confrunta	VERB	_	_
+
+IRV
+0	Ne	eu	PRON	1	expl:pv
+1	vedem	vedea	VERB	_	_
+
+IRV
+0	ne	eu	PRON	1	expl:pv
+1	limităm	limită	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	redus	reduce	VERB	_	_
+
+VID
+0	punându	pune	VERB	_	_
+1	punct	punct	NOUN	0	obl
+2	final	final	ADJ	1	amod
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	ajuns	ajunge	VERB	_	_
+
+VID
+0	este	fi	AUX	1	cop
+1	vorba	vorbă	NOUN	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	delectează	delecta	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	întoarce	întoarce	VERB	_	_
+
+IRV
+0	S	S	NOUN	_	_
+1	apropiat	apropiat	ADJ	0	amod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	căsători	căsători	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	așeza	așeza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	urcau	urca	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	năruit	nărui	VERB	_	_
+
+IRV
+0	M	M	NOUN	1	nsubj
+1	trezit	trezi	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	rog	ruga	VERB	_	_
+
+VID
+0	făcut	face	VERB	_	_
+1	tot	tot	PRON	0	obj
+2	ce	ce	PRON	3	nsubj
+3	stat	sta	VERB	1	acl
+4	în	în	ADP	5	case
+5	puteri	putere	NOUN	3	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ferească	feri	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	stingea	stinge	VERB	_	_
+
+VID
+0	se	sine	PRON	1	expl:pv
+1	stingea	stinge	VERB	_	_
+2	pe	pe	ADP	3	case
+3	picioare	picior	NOUN	1	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	satură	satura	NOUN	_	_
+
+VID
+0	duce	duce	VERB	_	_
+1	în	în	ADP	2	case
+2	cârcă	cârcă	NOUN	0	nmod:pmod
+
+IRV
+0	se	sine	PRON	_	_
+1	consulta	consulta	VERB	_	_
+
+LVC.cause
+0	pusă	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	vânzare	vânzare	NOUN	0	obl
+
+LVC.full
+0	au	avea	VERB	_	_
+1	în	în	ADP	2	case
+2	proprietate	proprietate	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dovedise	dovedi	VERB	_	_
+
+VID
+0	stă	sta	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziție	dispoziție	NOUN	0	fixed
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	dispoziția	dispoziție	NOUN	0	nsubj
+
+VID
+0	luat	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	considerare	considerare	NOUN	0	obl
+
+VID
+0	avea	avea	VERB	_	_
+1	dreptul	drept	NOUN	0	fixed
+
+IRV
+0	Adresați	adresa	VERB	_	_
+1	-vă	tu	PRON	0	expl:poss
+
+VID
+0	are	avea	VERB	_	_
+1	voie	voie	NOUN	0	obj
+
+VID
+0	avut	avea	VERB	_	_
+1	dreptul	drept	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încadrau	încadra	VERB	_	_
+
+IRV
+0	și-	sine	PRON	_	_
+1	însușit	însuși	VERB	_	_
+
+VID
+0	a	avea	AUX	1	aux
+1	dat	da	VERB	_	_
+2	roade	rod	NOUN	1	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înregistrează	înregistra	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	ascuns	ascunde	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	găseau	găsi	VERB	_	_
+
+VID
+0	purtat	purta	VERB	_	_
+1	discuție	discuție	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	_	_
+1	afla	afla	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	deplasa	deplasa	VERB	_	_
+
+VID
+0	avut	avea	VERB	_	_
+1	un	un	DET	2	det
+2	schimb	schimb	NOUN	0	obj
+3	de	de	ADP	4	case
+4	păreri	părere	NOUN	2	nmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	opună	opune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	prăbușește	prăbuși	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	clasa	clasa	VERB	_	_
+
+VID
+0	pună	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	punct	punct	NOUN	0	fixed
+
+VID
+0	avea	avea	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vedere	vedere	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	deplasează	deplasa	VERB	_	_
+
+IRV
+0	înmulțindu	înmulți	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	Avându	Ava	VERB	_	_
+1	în	în	ADP	2	case
+2	vedere	vedere	NOUN	0	obl
+
+LVC.full
+0	avea	avea	VERB	_	_
+1	acces	acces	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	remarcă	remarca	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	înfățișat	înfățișa	VERB	_	_
+
+VID
+0	luându	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	considerare	considerare	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	alătura	alătura	VERB	_	_
+
+IRV
+0	Bazându	baza	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	atrăgea	atrage	VERB	_	_
+1	atenția	atenție	NOUN	0	nsubj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	situat	situa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	remarcă	remarca	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	nască	naște	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	opresc	opri	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	numesc	numi	VERB	_	_
+
+VID
+0	țină	ține	VERB	_	_
+1	-n	în	ADP	2	case
+2	frâu	frâu	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	teamă	teama	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	schimba	schimba	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	poate	putea	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	gândeam	gândi	VERB	_	_
+
+IRV
+0	se-	sine	PRON	1	expl:pv
+1	ngrijește	ngriji	VERB	_	_
+
+IRV
+0	Mă	eu	PRON	1	expl:pv
+1	numesc	numi	VERB	_	_
+
+IRV
+0	asumându	asuma	VERB	_	_
+1	-și	sine	PRON	0	expl:poss
+
+VID
+0	ia	lua	VERB	_	_
+1	prin	prin	ADP	2	case
+2	surprindere	surprindere	NOUN	0	obl
+
+LVC.full
+0	pune	pune	VERB	_	_
+1	întrebări	întrebare	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	disting	distinge	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	orienteze	orienta	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	numărat	număra	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	prezentat	prezenta	VERB	_	_
+
+IRV
+0	Se	sine	PRON	_	_
+1	prezenta	prezenta	VERB	_	_
+
+VID
+0	avem	avea	VERB	_	_
+1	cunoștință	cunoștință	NOUN	0	obj
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	recăsătorit	recăsători	VERB	_	_
+
+VID
+0	băgat	băga	VERB	_	_
+1	bani	ban	NOUN	0	obj
+2	în	în	ADP	3	case
+3	buzunar	buzunar	NOUN	0	obl
+
+VID
+0	trece	trece	VERB	_	_
+1	clasa	clasă	NOUN	0	obj
+
+LVC.full
+0	intrat	intra	VERB	_	_
+1	în	în	ADP	2	case
+2	coliziune	coliziune	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	plictisit	plictisi	VERB	_	_
+
+LVC.cause
+0	dându	da	VERB	_	_
+1	foc	foca	VERB	0	advcl
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	oprit	opri	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	pregăteau	pregăti	VERB	_	_
+
+VID
+0	pune	pune	VERB	_	_
+1	în	în	ADP	0	fixed
+2	practică	practică	NOUN	0	fixed
+
+VID
+0	dea	da	VERB	_	_
+1	curs	curs	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	hotărește	hotări	VERB	_	_
+
+VID
+0	găsit	găsi	VERB	_	_
+1	drumul	drum	NOUN	0	fixed
+2	în	în	ADP	3	case
+3	viață	viață	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dedică	dedica	VERB	_	_
+
+VID
+0	ia	lua	VERB	_	_
+1	destinul	destin	NOUN	0	obj
+2	în	în	ADP	4	case
+3	propriile	propriu	ADJ	4	amod
+4	mâini	mână	NOUN	0	obl
+
+VID
+0	este	fi	AUX	2	cop
+1	de	de	ADP	2	case
+2	părere	părere	NOUN	_	_
+
+LVC.full
+0	făcând	face	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+VID
+0	spune	spune	VERB	_	_
+1	adio	adio	INTJ	0	nsubj
+
+LVC.full
+0	are	avea	VERB	_	_
+1	intenția	intenție	NOUN	0	obj
+
+VID
+0	lua	lua	VERB	_	_
+1	startul	start	NOUN	0	obj
+
+VID
+0	puse	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	bătaie	bătaie	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	încadreze	încadra	VERB	_	_
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	cuvântul	cuvânt	NOUN	0	obj
+
+VID
+0	ținând	ține	VERB	_	_
+1	cont	cont	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	pretinde	pretinde	VERB	_	_
+
+VID
+0	avută	avea	VERB	_	_
+1	în	în	ADP	_	_
+2	vedere	vedere	NOUN	1	fixed
+
+VID
+0	lua	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	calcul	calcul	NOUN	0	obl
+
+VID
+0	are	avea	VERB	_	_
+1	în	în	ADP	2	case
+2	vedere	vedere	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	găsesc	găsi	VERB	_	_
+
+VID
+0	fiind	fi	VERB	_	_
+1	vorba	vorbă	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	conforma	conforma	VERB	_	_
+
+VID
+0	pun	pune	VERB	_	_
+1	accent	accent	ADV	0	advmod
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	întrec	întrece	VERB	_	_
+
+VID
+0	aduc	aduce	VERB	_	_
+1	aminte	aminte	ADV	0	advmod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înălța	înălța	VERB	_	_
+
+IRV
+0	S	S	NOUN	1	nsubj
+1	căsătorit	căsători	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	numea	numi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâmpla	întâmpla	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dovedesc	dovedi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ocupe	ocupa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	culcau	culca	VERB	_	_
+
+LVC.full
+0	dat	da	VERB	_	_
+1	citire	citire	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	transformă	transforma	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	ascundeau	ascunde	VERB	_	_
+
+LVC.full
+0	face	face	VERB	_	_
+1	recunoașteri	recunoaștere	NOUN	0	obj
+
+VID
+0	dea	da	VERB	_	_
+1	o	un	DET	2	det
+2	fugă	fugă	NOUN	0	fixed
+
+IRV
+0	Se	sine	PRON	1	expl:pv
+1	aflau	afla	VERB	_	_
+
+LVC.cause
+0	pus	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	circulație	circulație	NOUN	0	obl
+
+LVC.full
+0	făcut	face	VERB	_	_
+1	parte	parte	NOUN	0	fixed
+
+VID
+0	tragă	trage	VERB	_	_
+1	un	un	DET	2	det
+2	semnal	semnal	NOUN	0	obj
+3	de	de	ADP	4	case
+4	alarmă	alarmă	NOUN	2	nmod
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	alege	alege	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înalțe	înalța	VERB	_	_
+
+LVC.cause
+0	da	da	VERB	_	_
+1	întâlnire	întâlnire	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	întrece	întrece	VERB	_	_
+
+VID
+0	Accentul	accent	NOUN	1	nsubj
+1	pune	pune	VERB	_	_
+
+IRV
+0	ne-	eu	PRON	1	iobj
+1	hotărât	hotărî	VERB	_	_
+
+IRV
+0	vă	tu	PRON	1	expl:pv
+1	adresa	adresa	VERB	_	_
+
+VID
+0	aduse	aduce	VERB	_	_
+1	la	la	ADP	2	case
+2	cunoștința	cunoștință	NOUN	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pass
+1	împlinit	împlini	VERB	_	_
+
+LVC.full
+0	își	sine	PRON	_	_
+1	aduc	aduce	VERB	_	_
+2	aportul	aport	NOUN	1	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	culcase	culca	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	prostitueze	prostitua	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întoarcă	întoarce	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	bazeze	baza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	alinia	alinia	VERB	_	_
+
+LVC.full
+0	decizia	decizie	NOUN	1	nsubj
+1	lua	lua	VERB	_	_
+
+VID
+0	da	da	VERB	_	_
+1	în	în	ADP	0	fixed
+2	judecată	judecată	NOUN	1	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întorceau	întorce	VERB	_	_
+
+VID
+0	luat	lua	VERB	_	_
+1	în	în	ADP	0	fixed
+2	considerare	considerare	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	delimitează	delimita	VERB	_	_
+
+VID
+0	scoate	scoate	VERB	_	_
+1	la	la	ADP	2	case
+2	rampă	rampă	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îndoaie	înduia	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	ridica	ridica	VERB	_	_
+
+LVC.cause
+0	punând	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziție	dispoziție	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	opune	opune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reunește	reuni	VERB	_	_
+
+VID
+0	în	în	ADP	1	case
+1	joc	joc	NOUN	2	obl
+2	puse	pune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	oglindește	oglindi	VERB	_	_
+
+IRV
+0	ne	eu	PRON	1	iobj
+1	regăsi	regăsi	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	zbătea	zbate	VERB	_	_
+
+LVC.cause
+0	pune	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	circulație	circulație	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	materializat	materializa	VERB	_	_
+
+VID
+0	adus	aduce	VERB	_	_
+1	pe	pe	ADP	2	case
+2	lume	lume	NOUN	0	obl
+
+LVC.full
+0	dă	da	VERB	_	_
+1	asigurări	asigurare	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	deschid	deschide	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	constitui	constitui	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reorganizeze	reorganiza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reorganiza	reorganiza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	învecinează	învecina	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	întruni	întruni	VERB	_	_
+
+LVC.full
+0	Hotărârea	hotărâre	NOUN	_	_
+1	luată	lua	VERB	_	_
+
+LVC.full
+0	lua	lua	VERB	_	_
+1	hotărârea	hotărâre	NOUN	0	obj
+
+LVC.full
+0	hotărârea	hotărâre	NOUN	_	_
+1	luată	lua	VERB	_	_
+
+LVC.full
+0	dat	da	VERB	_	_
+1	consimțământul	consimțământ	NOUN	0	obj
+
+LVC.full
+0	dau	da	VERB	_	_
+1	consimțământul	consimțământ	NOUN	0	obj
+
+VID
+0	aibă	avea	VERB	_	_
+1	loc.	loc.	NOUN	0	obj
+
+VID
+0	punându	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	vedere	vedere	NOUN	0	obl
+
+VID
+0	ținându	ține	VERB	_	_
+1	seama	seamă	NOUN	0	fixed
+
+VID
+0	având	avea	VERB	_	_
+1	la	la	ADP	2	case
+2	bază	bază	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	face	face	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	supună	supune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	abțină	abține	VERB	_	_
+
+IRV
+0	își	sine	PRON	1	expl:poss
+1	asumă	asuma	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	compun	compune	VERB	_	_
+
+LVC.full
+0	Hotărârile	Hotărâre	NOUN	1	nsubj:pass
+1	luate	lua	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	fac	face	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întruni	întruni	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	desfășoare	desfășorî	NOUN	_	_
+
+LVC.full
+0	pusă	pune	VERB	_	_
+1	în	în	ADP	2	case
+2	aplicare	aplicare	NOUN	0	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	conformeze	conforma	VERB	_	_
+
+LVC.full
+0	pună	pune	VERB	_	_
+1	întrebări	întrebare	NOUN	0	obj
+
+LVC.cause
+0	pună	pune	VERB	_	_
+1	la	la	ADP	0	fixed
+2	dispoziție	dispoziție	NOUN	0	fixed
+
+LVC.full
+0	avea	avea	VERB	_	_
+1	acces	acces	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	asigura	asigura	VERB	_	_
+
+VID
+0	accent	accent	NOUN	1	nsubj
+1	pus	pune	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	deplaseze	deplasa	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	conturează	contura	VERB	_	_
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	hotărâre	hotărâre	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	lansa	lansa	VERB	_	_
+
+IRV
+0	și	și	PRON	1	iobj
+1	propus	propune	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	îndepărtat	îndepărta	VERB	_	_
+
+LVC.full
+0	lua	lua	VERB	_	_
+1	decizie	decizie	NOUN	0	obj
+
+VID
+0	intră	intra	VERB	_	_
+1	în	în	ADP	0	fixed
+2	vigoare	vigoare	NOUN	0	fixed
+
+VID
+0	da	da	VERB	_	_
+1	curs	curs	NOUN	0	obj
+
+IRV
+0	v-	tu	PRON	1	nsubj
+1	mutat	muta	VERB	_	_
+
+VID
+0	ne	eu	PRON	1	expl:pv
+1	dăm	da	VERB	_	_
+2	seama	seamă	NOUN	1	fixed
+
+IRV
+0	ne	eu	PRON	1	expl:pv
+1	ocupăm	ocupa	VERB	_	_
+
+IRV
+0	adresați	adresa	VERB	_	_
+1	-vă	tu	PRON	0	iobj
+
+VID
+0	spus	spune	VERB	_	_
+1	ultimul	ultim	NUM	2	nummod
+2	cuvânt	cuvânt	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	constitui	constitui	VERB	_	_
+
+VID
+0	dea	da	VERB	_	_
+1	de	de	ADP	_	_
+2	urma	urmă	NOUN	1	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	achite	achita	VERB	_	_
+
+VID
+0	scoată	scoate	VERB	_	_
+1	basma	basma	NOUN	0	nsubj
+2	curată	curat	ADJ	1	amod
+
+VID
+0	trimisă	trimite	VERB	_	_
+1	în	în	ADP	2	case
+2	judecată	judecată	NOUN	0	obl
+
+IRV
+0	te	tu	PRON	_	_
+1	baza	baza	VERB	_	_
+
+VID
+0	pus	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	punct	punct	NOUN	0	obl
+
+VID
+0	facă	face	VERB	_	_
+1	lumină	lumină	NOUN	0	obj
+
+VID
+0	ține	ține	VERB	_	_
+1	la	la	ADP	2	case
+2	curent	curent	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	conformat	conforma	VERB	_	_
+
+IRV
+0	și	și	CCONJ	1	cc
+1	propun	propune	VERB	_	_
+
+VID
+0	au	avea	AUX	1	aux
+1	loc	loc	NOUN	_	_
+
+IRV
+0	impunându	impune	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	impuneau	impune	VERB	_	_
+
+LVC.full
+0	face	face	VERB	_	_
+1	dovada	dovadă	NOUN	0	nsubj:pass
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	desprindă	desprinde	VERB	_	_
+
+VID
+0	Atrage	atrage	VERB	_	_
+1	atenția	atenție	NOUN	0	nsubj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	îmbogățește	îmbogăți	VERB	_	_
+
+LVC.full
+0	face	face	VERB	_	_
+1	referire	referire	NOUN	0	nsubj:pass
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	producă	produce	VERB	_	_
+
+VID
+0	vine	veni	VERB	_	_
+1	să	să	PART	2	mark
+2	crezi	crede	VERB	0	csubj
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	dezangajeze	dezangaja	VERB	_	_
+
+VID
+0	pus	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	cale	cale	NOUN	0	fixed
+
+IRV
+0	Mă	eu	PRON	1	expl:pv
+1	bucur	bucura	VERB	_	_
+
+IRV
+0	deplasându	deplasa	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+LVC.cause
+0	puși	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	0	obl
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	îndrăgostit	îndrăgosti	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	înalță	înalța	VERB	_	_
+
+IRV
+0	Ne	eu	PRON	1	iobj
+1	rugăm	ruga	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	terminase	termina	VERB	_	_
+
+IRV
+0	se-	sine	PRON	1	expl:pv
+1	nghesuiau	nghesui	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	petrecuseră	petrece	VERB	_	_
+
+VID
+0	avut	avea	VERB	_	_
+1	parte	parte	NOUN	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	roage	roage	VERB	_	_
+
+VID
+0	aveam	avea	VERB	_	_
+1	de	de	ADP	2	case
+2	gând	gând	NOUN	0	obl
+
+IRV
+0	ne	eu	PRON	1	expl:pv
+1	ducem	duce	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	disting	distinge	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	numească	numi	VERB	_	_
+
+VID
+0	Este	fi	AUX	1	cop
+1	poate	putea	VERB	_	_
+
+IRV
+0	se	sine	PRON	_	_
+1	răci	răci	CCONJ	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	semnala	semnala	VERB	_	_
+
+LVC.full
+0	facă	face	VERB	_	_
+1	schimb	schimb	NOUN	0	fixed
+
+LVC.cause
+0	La	la	ADP	1	case
+1	dispoziția	dispoziție	NOUN	2	obl
+2	pune	pune	VERB	_	_
+
+VID
+0	luate	lua	VERB	_	_
+1	în	în	ADP	2	case
+2	calcul	calcul	NOUN	0	obl
+
+LVC.full
+0	făcut	face	VERB	_	_
+1	propuneri	propunere	NOUN	0	nsubj:pass
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	profilează	profila	VERB	_	_
+
+VID
+0	trecut	trece	VERB	_	_
+1	la	la	ADP	2	case
+2	cele	acela	PRON	0	nmod:pmod
+3	veșnice	veșnic	ADJ	_	_
+
+LVC.cause
+0	pusă	pus	ADJ	_	_
+1	la	la	ADP	2	case
+2	dispoziția	dispoziție	NOUN	_	_
+
+VID
+0	intra	intra	VERB	_	_
+1	în_vigoare	în_vigoare	NOUN	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	deschide	deschide	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	atinge	atinge	VERB	_	_
+
+IRV
+0	Se	sine	PRON	1	expl:pv
+1	afla	afla	VERB	_	_
+
+VID
+0	intra	intra	VERB	_	_
+1	în	în	ADP	2	case
+2	relație	relație	NOUN	0	obl
+
+LVC.full
+0	face	face	VERB	_	_
+1	vizită	vizită	NOUN	_	_
+
+VID
+0	băut	bea	VERB	_	_
+1	până_la	până_lă	NOUN	0	obj
+2	ultima	ultim	NUM	3	nummod
+3	picătură	picătură	NOUN	1	nmod
+4	paharul	pahar	NOUN	_	_
+5	amar	amar	ADJ	4	amod
+
+VID
+0	bate	bate	VERB	_	_
+1	filmele	film	NOUN	0	nsubj
+
+VID
+0	o	el	PRON	1	obj
+1	iei	lua	VERB	_	_
+2	de_la	de_la	VERB	1	advcl
+3	capăt	capăt	NOUN	2	obj
+
+IRV
+0	dăruin-du	dăruin-du	PROPN	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	pus	pune	VERB	_	_
+1	suflet	suflet	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	ridică	ridica	VERB	_	_
+
+IRV
+0	primenindu	primeni	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	cifra	cifra	VERB	_	_
+
+VID
+0	călcat	călca	VERB	_	_
+1	hoții	hoție	NOUN	_	_
+
+IRV
+0	S-	sine	PRON	1	expl:pv
+1	convertit	converti	VERB	_	_
+
+LVC.full
+0	dau	da	VERB	_	_
+1	asigurare	asigurare	NOUN	0	obj
+
+VID
+0	intre	intra	VERB	_	_
+1	în_vigoare	în_vigoare	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	documentează	documentea	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	întinde	întinde	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	suprapune	suprapune	VERB	_	_
+
+IRV
+0	S-	sine	PRON	1	expl:pv
+1	afirmat	afirma	VERB	_	_
+
+IRV
+0	S-	sine	PRON	1	expl:pv
+1	interesat	interesa	VERB	_	_
+
+IRV
+0	S-	sine	PRON	1	expl:pv
+1	iscat	isca	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	proceda	proceda	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	transmite	transmite	VERB	_	_
+
+VID
+0	a	avea	AUX	1	aux
+1	avut	avea	VERB	_	_
+2	loc	loc	NOUN	1	fixed
+
+VID
+0	se	sine	PRON	1	expl:pv
+1	are	avea	VERB	_	_
+2	în	în	ADP	_	_
+3	vedere	vedere	NOUN	2	fixed
+
+IRV
+0	S-	sine	PRON	1	expl:pv
+1	impus	impune	VERB	_	_
+
+VID
+0	Au	avea	AUX	1	aux
+1	intrat	intra	VERB	_	_
+2	în_vigoare	în_vigor	NOUN	1	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	aproviziona	aproviziona	VERB	_	_
+
+VID
+0	au	avea	AUX	1	aux
+1	luat	lua	VERB	_	_
+2	legătura	legătură	NOUN	1	obj
+
+IRV
+0	S-	sine	PRON	1	expl:pv
+1	luat	lua	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	practică	practica	VERB	_	_
+
+LVC.full
+0	iau	lua	VERB	_	_
+1	parte	parte	NOUN	0	obj
+
+IRV
+0	Se	sine	PRON	1	expl:pass
+1	practică	practica	VERB	_	_
+
+IRV
+0	Se	sine	PRON	2	expl:pv
+1	va	vrea	AUX	2	aux
+2	reveni	reveni	VERB	_	_
+
+VID
+0	aduse	aduce	VERB	_	_
+1	la	la	ADP	2	case
+2	cunoștința	cunoștință	NOUN	0	nmod:pmod
+
+VID
+0	trimiși	trimite	VERB	_	_
+1	în	în	ADP	0	advmod
+2	judecată	judecată	NOUN	1	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	bazeze	baza	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	transfere	transfera	VERB	_	_
+
+VID
+0	au	avea	AUX	1	aux
+1	luat	lua	VERB	_	_
+2	în	în	ADP	1	fixed
+3	considerare	considerare	NOUN	1	fixed
+
+LVC.cause
+0	va	vrea	AUX	1	aux
+1	pune	pune	VERB	_	_
+2	la	la	ADP	3	case
+3	dispoziția	dispoziție	NOUN	1	obl
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	putea	putea	VERB	_	_
+
+VID
+0	intra	intra	VERB	_	_
+1	în_vigoare	în_vigoare	NOUN	0	nsubj
+
+VID
+0	au	avea	AUX	_	_
+1	în	în	ADP	2	case
+2	îngrijire	îngrijire	NOUN	0	obl
+
+VID
+0	luând	lua	VERB	_	_
+1	calea	cale	NOUN	0	obj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	numeau	numi	VERB	_	_
+
+IRV
+0	Ne	eu	PRON	1	expl:pv
+1	bazăm	bază	VERB	_	_
+
+IRV
+0	mă	eu	PRON	1	expl:pv
+1	prezint	prezinta	ADJ	_	_
+
+IRV
+0	m-	eu	PRON	1	expl:pv
+1	ocupat	ocupa	VERB	_	_
+
+LVC.cause
+0	punând	pune	VERB	_	_
+1	la	la	ADP	_	_
+2	dispoziție	dispoziție	NOUN	1	fixed
+
+IRV
+0	încadrându	încadra	VERB	_	_
+1	-vă	tu	PRON	0	nsubj
+
+IRV
+0	M-	eu	PRON	1	obj
+1	născut	naște	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	potrivește	potrivi	VERB	_	_
+
+IRV
+0	lăsându	lăsa	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+VID
+0	lăsându	lăsa	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+2	așteptat	aștepta	ADJ	0	xcomp
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	reflecta	reflecta	VERB	_	_
+
+VID
+0	ieșit	ieși	VERB	_	_
+1	la	la	ADP	0	fixed
+2	iveală	iveală	NOUN	0	fixed
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	angajaseră	angaja	VERB	_	_
+
+VID
+0	scos	scoate	VERB	_	_
+1	la	la	ADP	2	case
+2	iveală	iveală	NOUN	0	obl
+
+LVC.full
+0	avea	avea	VERB	_	_
+1	intenția	intenție	NOUN	_	_
+
+VID
+0	sărit	sări	VERB	_	_
+1	în	în	ADP	2	case
+2	ochi	ochi	NOUN	0	obl
+
+VID
+0	pună	pune	VERB	_	_
+1	la	la	ADP	2	case
+2	cale	cale	NOUN	0	obl
+
+VID
+0	nu	nu	PART	1	advmod
+1	privea	privi	VERB	_	_
+2	cu	cu	ADP	3	case
+3	ochi	ochi	NOUN	1	obl
+4	buni	bun	ADJ	3	amod
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	întâmplase	întâmpla	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	sinucis	sinucide	VERB	_	_
+
+LVC.full
+0	luat	lua	VERB	_	_
+1	hotărârea	hotărâre	NOUN	0	nsubj
+
+VID
+0	văzut	vedea	VERB	_	_
+1	lumina	lumină	NOUN	0	obj
+2	tiparului	tipar	NOUN	0	iobj
+
+IRV
+0	se	sine	PRON	1	expl:pass
+1	așteaptă	aștepta	VERB	_	_
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	concretiza	concretiza	VERB	_	_
+
+IRV
+0	numărându	număra	VERB	_	_
+1	-se	sine	PRON	0	expl:pv
+
+IRV
+0	se	sine	PRON	1	expl:pv
+1	referi	referi	VERB	_	_
+
+IRV
+0	s-	sine	PRON	1	expl:pv
+1	deteriorat	deteriora	VERB	_	_
+
