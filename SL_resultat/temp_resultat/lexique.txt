@@ -1,0 +1,7298 @@
+IRV
+0	se	se	_	1	del
+1	vrnili	vrniti	_	_	_
+
+IAV
+0	Na	na	_	_	_
+1	opozorjeni	opozorjen	_	_	_
+
+LVC.full
+0	nima	imeti	_	_	_
+1	volje	volja	_	0	dve
+
+LVC.full
+0	imela	imeti	_	_	_
+1	vlogo	vloga	_	0	dve
+
+VID
+0	podpira	podpirati	_	_	_
+1	tri	trije	_	2	dol
+2	vogale	vogal	_	0	dve
+
+LVC.cause
+0	vplivom	vpliv	_	_	_
+1	imel	imeti	_	0	dol
+
+VID
+0	Spati	spati	_	2	dol
+1	ne	ne	_	2	del
+2	da	dati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	težave	težava	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	odločili	odločiti	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	načrte	načrt	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	pomerili	pomeriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	merili	meriti	_	_	_
+
+IRV
+0	Se	se	_	1	del
+1	zgodilo	zgoditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zgodilo	zgoditi	_	_	_
+
+IAV
+0	prišlo	priti	_	_	_
+1	do	do	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	predstavljamo	predstavljati	_	_	_
+
+LVC.full
+0	Na	na	_	1	dol
+1	izbiro	izbira	_	2	štiri
+2	imel	imeti	_	_	_
+
+IAV
+0	opozoriti	opozoriti	_	_	_
+1	na	na	_	_	_
+
+IAV
+0	gre	iti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	dela	delati	_	_	_
+1	razlike	razlika	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	odloči	odločiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pojavlja	pojavljati	_	_	_
+
+IRV
+0	Se	se	_	1	del
+1	merite	meriti	_	_	_
+
+VID
+0	šlo	iti	_	_	_
+1	po	po	_	2	dol
+2	glavi	glava	_	0	štiri
+
+VID
+0	bilo	biti	_	_	_
+1	narobe	narobe	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	mislil	misliti	_	_	_
+
+VID
+0	šlo	iti	_	_	_
+1	v	v	_	2	dol
+2	nič	nič	_	0	štiri
+
+IAV
+0	skrbeli	skrbeti	_	_	_
+1	zanjo	zame	_	0	dve
+
+IRV
+0	Zgodilo	zgoditi	_	_	_
+1	se	se	_	0	del
+
+VID
+0	imeti	imeti	_	_	_
+1	radi	rad	_	_	_
+
+IAV
+0	SE	se	_	1	del
+1	ZAVZEMA	zavzemati	_	_	_
+2	ZA	za	_	_	_
+
+IRV
+0	SE	se	_	1	del
+1	POGAJAJO	pogajati	_	_	_
+
+LVC.full
+0	IMA	imeti	_	_	_
+1	PRAVICO	pravica	_	0	dve
+
+IAV
+0	TEMELJI	temeljiti	_	_	_
+1	NA	na	_	_	_
+
+IAV
+0	PRIPELJE	pripeljati	_	_	_
+1	DO	do	_	_	_
+
+IAV
+0	IZ	iz	_	_	_
+1	IZHAJA	izhajati	_	_	_
+
+IAV
+0	GRE	iti	_	_	_
+1	ZA	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izjalovili	izjaloviti	_	_	_
+
+LVC.full
+0	imele	imeti	_	_	_
+1	koristi	korist	_	0	dve
+
+VID
+0	stvar	stvar	_	1	dol
+1	je	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	splača	splačati	_	_	_
+
+VID
+0	res	res	_	_	_
+1	je	biti	_	_	_
+
+IAV
+0	prišel	priti	_	_	_
+1	do	do	_	_	_
+
+VID
+0	bili	biti	_	_	_
+1	na	na	_	2	dol
+2	očeh	oči	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	spuščala	spuščati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	lotili	lotiti	_	_	_
+
+LVC.full
+0	imeli	imeti	_	_	_
+1	sestanek	sestanek	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zgodil	zgoditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zahvaljujem	zahvaljevati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	lotil	lotiti	_	_	_
+
+IRV
+0	Zdi	zdeti	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	Gre	iti	_	_	_
+1	za	za	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	lastnosti	lastnost	_	_	_
+
+IAV
+0	za	za	_	_	_
+1	gre	iti	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	upali	upati	_	_	_
+
+LVC.cause
+0	vpliv	vpliv	_	1	dve
+1	imelo	imeti	_	_	_
+
+VID
+0	bilo	biti	_	_	_
+1	jasno	jasen	_	0	dol
+
+LVC.full
+0	mnenja	mnenje	_	1	dol
+1	so	biti	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	ogledali	ogledati	_	_	_
+
+VID
+0	kruh	kruh	_	1	dve
+1	služijo	služiti	_	_	_
+
+IAV
+0	za	za	_	_	_
+1	poskrbeli	poskrbeti	_	_	_
+
+LVC.full
+0	imela	imeti	_	_	_
+1	poguma	pogum	_	0	dve
+
+VID
+0	na	na	_	1	dol
+1	misel	misel	_	2	štiri
+2	prišel	priti	_	_	_
+
+LVC.full
+0	imela	imeti	_	_	_
+1	pogovor	pogovor	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zdi	zdeti	_	_	_
+
+VID
+0	Vzemite	vzeti	_	_	_
+1	si	se	_	0	del
+2	čas	čas	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	ZJEZITE	zjeziti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zjeziti	zjeziti	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	narobe	narobe	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spomnili	spomniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zavedati	zavedati	_	_	_
+
+VID
+0	odpreti	odpreti	_	_	_
+1	vrata	vrata	_	0	dve
+
+VID
+0	narediti	narediti	_	_	_
+1	korak	korak	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	potikajo	potikati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	mudili	muditi	_	_	_
+
+IAV
+0	skrbi	skrbeti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	gremo	iti	_	_	_
+1	predaleč	predaleč	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	pogovarjali	pogovarjati	_	_	_
+
+VID
+0	nimajo	imeti	_	_	_
+1	pojma	pojem	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	obnaša	obnašati	_	_	_
+
+VID
+0	brije	briti	_	_	_
+1	norca	norec	_	0	dve
+
+LVC.full
+0	imam	imeti	_	_	_
+1	občutek	občutek	_	0	dve
+
+VID
+0	dobiti	dobiti	_	_	_
+1	v	v	_	2	dol
+2	roke	roka	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	polasti	polastiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vzpenjajo	vzpenjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	prebija	prebijati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovorili	pogovoriti	_	_	_
+
+VID
+0	bog	bog	_	_	_
+1	ve	vedeti	_	0	skup
+
+IAV
+0	naletimo	naleteti	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarjala	pogovarjati	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	na	na	_	2	dol
+2	vrhu	vrh	_	0	štiri
+
+IAV
+0	se	se	_	1	del
+1	spopadajo	spopadati	_	_	_
+2	s	z	_	_	_
+
+VID
+0	Res	res	_	_	_
+1	je	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izogniti	izogniti	_	_	_
+
+IAV
+0	skrbeti	skrbeti	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	vplivajo	vplivati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zgodi	zgoditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovorite	pogovoriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	boji	bati	_	_	_
+
+LVC.full
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	navadi	navada	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	razve	razvedeti	_	_	_
+
+IAV
+0	skrbela	skrbeti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	prizadevajo	prizadevati	_	_	_
+
+IAV
+0	Za	za	_	_	_
+1	skrbelo	skrbeti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	narobe	narobe	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pritožil	pritožiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dal	dati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odvijala	odvijati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pojavljajo	pojavljati	_	_	_
+
+IAV
+0	veljalo	veljati	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	velja	veljati	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	boje	bati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	borile	boriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odločiti	odločiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	igrala	igrati	_	_	_
+
+VID
+0	Dajte	dati	_	_	_
+1	vse	ves	_	0	dve
+2	od	od	_	3	dol
+3	sebe	se	_	0	štiri
+
+IRV
+0	potrudite	potruditi	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	zavedal	zavedati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odločila	odločiti	_	_	_
+
+VID
+0	Na	na	_	1	dol
+1	dan	dan	_	2	štiri
+2	potegnili	potegniti	_	_	_
+
+IAV
+0	gradijo	graditi	_	_	_
+1	na	na	_	_	_
+
+VID
+0	postalo	postati	_	_	_
+1	jasno	jasen	_	0	dol
+
+VID
+0	imajo	imeti	_	_	_
+1	radi	rad	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	obnesla	obnesti	_	_	_
+
+IAV
+0	naleteli	naleteti	_	_	_
+1	na	na	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	stvar	stvar	_	0	dol
+
+IRV
+0	se	se	_	1	del
+1	znašlo	znajti	_	_	_
+
+VID
+0	bila	biti	_	_	_
+1	všeč	všeč	_	_	_
+
+VID
+0	imata	imeti	_	_	_
+1	v	v	_	2	dol
+2	rokah	roka	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	pojavil	pojaviti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	tiče	tikati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	ogledate	ogledati	_	_	_
+
+IAV
+0	šla	iti	_	_	_
+1	skozi	skozi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pripetila	pripetiti	_	_	_
+
+VID
+0	izgubil	izgubiti	_	_	_
+1	življenje	življenje	_	0	dve
+
+IAV
+0	se	se	_	1	del
+1	spoprijeti	spoprijeti	_	_	_
+2	z	z	_	_	_
+
+LVC.cause
+0	imajo	imeti	_	_	_
+1	učinek	učinek	_	0	dve
+
+LVC.full
+0	naredil	narediti	_	_	_
+1	študijo	študija	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	spomniti	spomniti	_	_	_
+
+VID
+0	imelo	imeti	_	_	_
+1	opraviti	opraviti	_	0	dol
+2	z	z	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	prizadevala	prizadevati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zdel	zdeti	_	_	_
+
+VID
+0	stisnil	stisniti	_	_	_
+1	roko	roka	_	0	dve
+
+IRV
+0	Spominjam	spominjati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	Trudila	truditi	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	Pogovarjala	pogovarjati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	prilegal	prilegati	_	_	_
+
+IRV
+0	Zdel	zdeti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	počutil	počutiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	nasmejal	nasmejati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zapletel	zaplesti	_	_	_
+
+IRV
+0	Zberi	zbrati	_	_	_
+1	se	se	_	0	del
+
+VID
+0	kaj	kaj	_	_	_
+1	se	se	_	2	del
+2	greš	iti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zbrati	zbrati	_	_	_
+
+VID
+0	Od	od	_	1	dol
+1	srca	srce	_	3	štiri
+2	se	se	_	3	del
+3	odvalil	odvaliti	_	_	_
+4	kamen	kamen	_	3	ena
+
+VID
+0	je	biti	_	_	_
+1	pri	pri	_	3	dol
+2	zdravi	zdrav	_	3	dol
+3	pameti	pamet	_	0	štiri
+
+IRV
+0	Spominjal	spominjati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	otresti	otresti	_	_	_
+
+IAV
+0	Na	na	_	_	_
+1	opozarjajo	opozarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarjal	pogovarjati	_	_	_
+
+LVC.full
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	težavah	težava	_	0	štiri
+
+IRV
+0	si	se	_	1	del
+1	opomogli	opomoči	_	_	_
+
+VID
+0	kdo	kdo	_	_	_
+1	ve	vedeti	_	0	skup
+
+IAV
+0	vpliva	vplivati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izreklo	izreči	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	oglasili	oglasiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izogibati	izogibati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	da	dati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izplača	izplačati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izplačalo	izplačati	_	_	_
+
+IAV
+0	se	se	_	2	del
+1	s	z	_	_	_
+2	ukvarjati	ukvarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pojavila	pojaviti	_	_	_
+
+VID
+0	delati	delati	_	_	_
+1	gužvo	gužva	_	0	dve
+
+VID
+0	ustrelita	ustreliti	_	_	_
+1	mimo	mimo	_	0	štiri
+
+VID
+0	streljali	streljati	_	_	_
+1	mimo	mimo	_	0	štiri
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	težave	težava	_	_	_
+
+LVC.full
+0	so	biti	_	_	_
+1	mnenja	mnenje	_	0	dol
+
+IAV
+0	od	od	_	_	_
+1	živeti	živeti	_	_	_
+
+IAV
+0	računa	računati	_	_	_
+1	nanjo	name	_	0	dve
+
+VID
+0	bili	biti	_	_	_
+1	na	na	_	2	dol
+2	tesnem	tesen	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	izkazali	izkazati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	uprli	upreti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	bojevalo	bojevati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	dokopati	dokopati	_	_	_
+2	do	do	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zazdi	zazdeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	bojim	bati	_	_	_
+
+IRV
+0	Pojavili	pojaviti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	V	v	_	1	dol
+1	zraku	zrak	_	2	štiri
+2	je	biti	_	_	_
+
+VID
+0	si	se	_	1	del
+1	niso	biti	_	_	_
+2	edini	edin	_	1	dol
+
+VID
+0	Nisem	biti	_	1	del
+1	mogel	moči	_	_	_
+2	verjeti	verjeti	_	1	dol
+3	svojim	svoj	_	4	dol
+4	očem	oči	_	2	dve
+
+VID
+0	kdor	kdor	_	1	vez
+1	gre	iti	_	5	ena
+2	na	na	_	3	dol
+3	Dunaj	Dunaj	_	_	_
+4	naj	naj	_	5	del
+5	pusti	pustiti	_	_	_
+6	trebuh	trebuh	_	5	dve
+7	zunaj	zunaj	_	5	štiri
+
+IRV
+0	se	se	_	1	del
+1	nagarali	nagarati	_	_	_
+
+IRV
+0	trudil	truditi	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	znašli	znajti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zdelo	zdeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	obneslo	obnesti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vtaknili	vtakniti	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	prizadevate	prizadevati	_	_	_
+
+LVC.cause
+0	bili	biti	_	_	_
+1	v	v	_	2	dol
+2	pomoč	pomoč	_	0	štiri
+
+LVC.full
+0	ima	imeti	_	_	_
+1	vlogo	vloga	_	0	dve
+
+LVC.cause
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	pomoč	pomoč	_	0	štiri
+
+VID
+0	bo	biti	_	_	_
+1	jasno	jasen	_	0	dol
+
+IAV
+0	pritiskate	pritiskati	_	_	_
+1	nanj	name	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	odločil	odločiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	počuti	počutiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	gremo	iti	_	_	_
+
+VID
+0	bilo	biti	_	_	_
+1	všeč	všeč	_	_	_
+
+LVC.full
+0	smo	biti	_	_	_
+1	mnenja	mnenje	_	0	dol
+
+VID
+0	kuhate	kuhati	_	_	_
+1	mulo	mula	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zapijal	zapijati	_	_	_
+
+VID
+0	stopil	stopiti	_	_	_
+1	v	v	_	2	dol
+2	stik	stik	_	0	štiri
+
+IRV
+0	Izkazalo	izkazati	_	_	_
+1	se	se	_	0	del
+
+VID
+0	bila	biti	_	_	_
+1	kos	kos	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	sprijazniti	sprijazniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	streznil	strezniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	znebil	znebiti	_	_	_
+
+LVC.full
+0	imamo	imeti	_	_	_
+1	priložnost	priložnost	_	0	dve
+
+IAV
+0	se	se	_	_	_
+1	ukvarjal	ukvarjati	_	_	_
+2	z	z	_	_	_
+
+LVC.cause
+0	imelo	imeti	_	_	_
+1	vpliv	vpliv	_	0	dve
+
+LVC.full
+0	ima	imeti	_	_	_
+1	možnosti	možnost	_	0	dve
+
+LVC.full
+0	možnosti	možnost	_	1	dve
+1	ima	imeti	_	_	_
+
+IRV
+0	mudil	muditi	_	_	_
+1	se	se	_	0	del
+
+VID
+0	stopili	stopiti	_	_	_
+1	na	na	_	2	dol
+2	stopnički	stopnička	_	0	štiri
+
+IAV
+0	Na	na	_	_	_
+1	opozoril	opozoriti	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	gledajo	gledati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	lastnost	lastnost	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	prijelo	prijeti	_	_	_
+
+IAV
+0	pripraviti	pripraviti	_	_	_
+1	do	do	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	zavzel	zavzeti	_	_	_
+2	za	za	_	_	_
+
+IAV
+0	naletel	naleteti	_	_	_
+1	na	na	_	_	_
+
+IAV
+0	označil	označiti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spominjali	spominjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vrača	vračati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	loteva	lotevati	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	možnost	možnost	_	0	dve
+
+IRV
+0	si	se	_	1	del
+1	prizadeva	prizadevati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pozna	poznati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	kobacali	kobacati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	zapomnili	zapomniti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	jasno	jasen	_	0	dol
+
+LVC.full
+0	so	biti	_	_	_
+1	priča	priča	_	0	dol
+
+VID
+0	nima	imeti	_	_	_
+1	za	za	_	2	dol
+2	kruh	kruh	_	0	štiri
+
+LVC.full
+0	nimajo	imeti	_	_	_
+1	možnosti	možnost	_	0	dve
+
+VID
+0	v	v	_	1	dol
+1	zraku	zrak	_	2	štiri
+2	visijo	viseti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarja	pogovarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izmika	izmikati	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	pristala	pristati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogaja	pogajati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zgodila	zgoditi	_	_	_
+
+IAV
+0	je	biti	_	_	_
+1	proti	proti	_	_	_
+
+IAV
+0	ima	imeti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odpovedati	odpovedati	_	_	_
+
+LVC.full
+0	dajejo	dajati	_	_	_
+1	odgovore	odgovor	_	0	dve
+
+IAV
+0	temelji	temeljiti	_	_	_
+1	na	na	_	_	_
+
+LVC.cause
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	podporo	podpora	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	znajde	znajti	_	_	_
+
+VID
+0	v	v	_	1	dol
+1	žep	žep	_	2	štiri
+2	vtaknil	vtakniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dogovorili	dogovoriti	_	_	_
+
+IRV
+0	Zjutrilo	zjutriti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	si	se	_	1	del
+1	predstavlja	predstavljati	_	_	_
+
+IAV
+0	se	se	_	2	del
+1	na	na	_	_	_
+2	spoznajo	spoznati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	spozna	spoznati	_	_	_
+2	na	na	_	_	_
+
+VID
+0	našla	najti	_	_	_
+1	princa	princ	_	0	dve
+2	svojih	svoj	_	3	dol
+3	sanj	sanja	_	1	dol
+
+IRV
+0	si	se	_	1	del
+1	privoščil	privoščiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izognil	izogniti	_	_	_
+
+LVC.full
+0	prednost	prednost	_	_	_
+1	ima	imeti	_	0	dol
+
+VID
+0	poslali	poslati	_	_	_
+1	po	po	_	2	dol
+2	kostanj	kostanj	_	0	štiri
+3	v	v	_	4	dol
+4	žerjavico	žerjavica	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	odpraviti	odpraviti	_	_	_
+
+IRV
+0	zvrstilo	zvrstiti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	odzove	odzvati	_	_	_
+
+IAV
+0	pripravi	pripraviti	_	_	_
+1	do	do	_	_	_
+
+VID
+0	Na	na	_	2	dol
+1	lastni	lasten	_	2	dol
+2	koži	koža	_	4	štiri
+3	se	se	_	4	del
+4	prepričali	prepričati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	navzamejo	navzeti	_	_	_
+
+LVC.full
+0	Vprašanje	vprašanje	_	1	dve
+1	postavimo	postaviti	_	_	_
+
+LVC.full
+0	Pravico	pravica	_	1	dve
+1	imajo	imeti	_	_	_
+
+IAV
+0	opozarja	opozarjati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	Izogibajmo	izogibati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	zahvalim	zahvaliti	_	_	_
+
+VID
+0	bil	biti	_	_	_
+1	na	na	_	2	dol
+2	udaru	udar	_	0	štiri
+
+VID
+0	igrali	igrati	_	_	_
+1	vloge	vloga	_	0	dve
+
+LVC.full
+0	dali	dati	_	_	_
+1	predloge	predlog	_	0	dve
+
+IAV
+0	skrbijo	skrbeti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarjajo	pogovarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dogovorijo	dogovoriti	_	_	_
+
+IAV
+0	Z	z	_	_	_
+1	razpolagali	razpolagati	_	_	_
+
+IAV
+0	Za	za	_	_	_
+1	poskrbel	poskrbeti	_	_	_
+
+IRV
+0	Pritožujejo	pritoževati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	pretvarjajo	pretvarjati	_	_	_
+
+LVC.cause
+0	ostalo	ostati	_	_	_
+1	v	v	_	2	dol
+2	spominu	spomin	_	0	štiri
+
+LVC.cause
+0	V	v	_	1	dol
+1	spominu	spomin	_	2	štiri
+2	ostale	ostati	_	_	_
+
+IAV
+0	Šlo	iti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	Izplača	izplačati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	pojavijo	pojaviti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	nasmehnila	nasmehniti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	vživeti	vživeti	_	_	_
+2	v	v	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zahvalili	zahvaliti	_	_	_
+
+VID
+0	zvabila	zvabiti	_	_	_
+1	v	v	_	2	dol
+2	past	past	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	soočiti	soočiti	_	_	_
+
+VID
+0	V	v	_	1	dol
+1	naročje	naročje	_	2	štiri
+2	padel	pasti	_	_	_
+
+VID
+0	v	v	_	1	dol
+1	zraku	zrak	_	2	štiri
+2	čutiti	čutiti	_	_	_
+
+IRV
+0	Strinjali	strinjati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	spominjam	spominjati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	predstavljali	predstavljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	sprijateljil	sprijateljiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ujela	ujeti	_	_	_
+
+VID
+0	postavil	postaviti	_	_	_
+1	na	na	_	2	dol
+2	noge	noga	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	hihitala	hihitati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	poročiti	poročiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zdele	zdeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarjamo	pogovarjati	_	_	_
+
+LVC.full
+0	dali	dati	_	_	_
+1	podporo	podpora	_	0	dve
+
+LVC.full
+0	ima	imeti	_	_	_
+1	pravico	pravica	_	0	dve
+
+LVC.full
+0	koristi	korist	_	1	dve
+1	imeli	imeti	_	_	_
+
+LVC.full
+0	So	biti	_	_	_
+1	mnenja	mnenje	_	0	dol
+
+IRV
+0	se	se	_	1	del
+1	lotiti	lotiti	_	_	_
+
+VID
+0	se	se	_	1	del
+1	lotiti	lotiti	_	_	_
+2	s	z	_	3	dol
+3	pestmi	pest	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	lotila	lotiti	_	_	_
+
+VID
+0	zavijali	zavijati	_	_	_
+1	z	z	_	2	dol
+2	očmi	oči	_	_	_
+
+VID
+0	zmajevali	zmajevati	_	_	_
+1	z	z	_	2	dol
+2	glavo	glava	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ukvarja	ukvarjati	_	_	_
+2	z	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	veselil	veseliti	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	upaš	upati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	oddahneš	oddahniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	bojijo	bati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vesti	vesti	_	_	_
+
+VID
+0	prirasel	prirasti	_	_	_
+1	k	k	_	2	dol
+2	srcu	srce	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	trudili	truditi	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	zamišljal	zamišljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ulegel	uleči	_	_	_
+
+VID
+0	kot	kot	_	_	_
+1	je	biti	_	_	_
+2	dolg	dolg	_	_	_
+3	in	in	_	4	vez
+4	širok	širok	_	2	prir
+
+IRV
+0	se	se	_	1	del
+1	domislil	domisliti	_	_	_
+
+VID
+0	bil	biti	_	_	_
+1	spet	spet	_	0	štiri
+2	na	na	_	3	dol
+3	nogah	noga	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	šel	iti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	usedel	usesti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	usedati	usedati	_	_	_
+
+IRV
+0	Se	se	_	1	del
+1	zavedajte	zavedati	_	_	_
+
+IAV
+0	prišli	priti	_	_	_
+1	do	do	_	_	_
+
+VID
+0	na	na	_	2	dol
+1	stranski	stranski	_	2	dol
+2	tir	tir	_	3	štiri
+3	postaviti	postaviti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	skladajo	skladati	_	_	_
+2	s	z	_	_	_
+
+VID
+0	vrnila	vrniti	_	_	_
+1	udarec	udarec	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	držijo	držati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	veselijo	veseliti	_	_	_
+
+VID
+0	priskočil	priskočiti	_	_	_
+1	na	na	_	2	dol
+2	pomoč	pomoč	_	0	štiri
+
+LVC.full
+0	imela	imeti	_	_	_
+1	mir	mir	_	0	dve
+
+VID
+0	imeti	imeti	_	_	_
+1	opravka	opravek	_	0	dve
+2	z	z	_	_	_
+
+VID
+0	pusti	pustiti	_	_	_
+1	pri	pri	_	2	dol
+2	miru	mir	_	0	štiri
+
+IRV
+0	Se	se	_	1	del
+1	zdi	zdeti	_	_	_
+
+VID
+0	točil	točiti	_	_	_
+1	solze	solza	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	nadeja	nadejati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	poročiti	poročiti	_	_	_
+
+VID
+0	stala	stati	_	_	_
+1	ob	ob	_	2	dol
+2	strani	stran	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	smehljam	smehljati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	predstavljati	predstavljati	_	_	_
+
+VID
+0	rad	rad	_	_	_
+1	ima	imeti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	dokopal	dokopati	_	_	_
+2	do	do	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	znašel	znajti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	nanaša	nanašati	_	_	_
+2	na	na	_	_	_
+
+IAV
+0	temeljijo	temeljiti	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	izmislili	izmisliti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zaljubila	zaljubiti	_	_	_
+
+IRV
+0	da	da	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	roditi	roditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vzpenjati	vzpenjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ozrli	ozreti	_	_	_
+
+VID
+0	odprl	odpreti	_	_	_
+1	ust	usta	_	0	dve
+
+IRV
+0	si	se	_	1	del
+1	omisliti	omisliti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	smeji	smejati	_	_	_
+
+IAV
+0	poka	pokati	_	_	_
+1	od	od	_	_	_
+
+IRV
+0	Dobila	dobiti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	obnašali	obnašati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	obnašala	obnašati	_	_	_
+
+LVC.full
+0	imeli	imeti	_	_	_
+1	težave	težava	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	rokovali	rokovati	_	_	_
+
+VID
+0	peljali	peljati	_	_	_
+1	v	v	_	3	dol
+2	druge	drug	_	3	dol
+3	vode	voda	_	0	štiri
+
+VID
+0	pocukal	pocukati	_	_	_
+1	za	za	_	2	dol
+2	rokav	rokav	_	0	štiri
+
+IAV
+0	se	se	_	1	del
+1	ukvarjava	ukvarjati	_	_	_
+2	z	z	_	_	_
+
+IAV
+0	prihajalo	prihajati	_	_	_
+1	do	do	_	_	_
+
+IAV
+0	izhajajo	izhajati	_	_	_
+1	iz	iz	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	bala	bati	_	_	_
+
+IRV
+0	Spomnimo	spomniti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	bojimo	bati	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	odnos	odnos	_	0	dve
+
+IAV
+0	naredil	narediti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dotakniti	dotakniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovori	pogovoriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarjata	pogovarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	znebi	znebiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odpravili	odpraviti	_	_	_
+
+IAV
+0	skrbel	skrbeti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	Zmajal	zmajati	_	_	_
+1	z	z	_	2	dol
+2	glavo	glava	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	vrnil	vrniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	počutila	počutiti	_	_	_
+
+VID
+0	si	se	_	1	del
+1	dajal	dajati	_	_	_
+2	opravka	opravek	_	1	dve
+3	s	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	oglasil	oglasiti	_	_	_
+
+IRV
+0	Vojskovati	vojskovati	_	_	_
+
+VID
+0	plačala	plačati	_	_	_
+1	cena	cena	_	0	ena
+
+IRV
+0	se	se	_	1	del
+1	vojskuje	vojskovati	_	_	_
+
+LVC.full
+0	imaš	imeti	_	_	_
+1	težave	težava	_	0	dve
+
+VID
+0	ima	imeti	_	_	_
+1	na	na	_	2	dol
+2	vesti	vest	_	0	štiri
+
+IAV
+0	se	se	_	1	del
+1	ukvarjajo	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IRV
+0	Ukvarjal	ukvarjati	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	se	se	_	1	del
+1	sklada	skladati	_	_	_
+2	s	z	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ukvarjala	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IAV
+0	opozori	opozoriti	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	zdelo	zdeti	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	pride	priti	_	_	_
+1	do	do	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	prizadevale	prizadevati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	uprle	upreti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	upreti	upreti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	znašla	znajti	_	_	_
+
+VID
+0	imeli	imeti	_	_	_
+1	zvezane	zvezan	_	2	dol
+2	roke	roka	_	0	dve
+
+IAV
+0	segali	segati	_	_	_
+1	po	po	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	strinja	strinjati	_	_	_
+
+IAV
+0	je	biti	_	_	_
+1	proti	proti	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	rodila	roditi	_	_	_
+
+LVC.full
+0	Imate	imeti	_	_	_
+1	pravico	pravica	_	0	dve
+
+VID
+0	odgrneva	odgrniti	_	_	_
+1	tančic	tančica	_	0	dve
+
+VID
+0	se	se	_	1	del
+1	postavil	postaviti	_	_	_
+2	na	na	_	3	dol
+3	stran	stran	_	1	štiri
+
+IRV
+0	se	se	_	1	del
+1	prikupil	prikupiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	smehljati	smehljati	_	_	_
+
+IRV
+0	Zdelo	zdeti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	zavedali	zavedati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	pravico	pravica	_	0	dve
+
+IAV
+0	opozoril	opozoriti	_	_	_
+1	nase	nase	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	spominjamo	spominjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dogajali	dogajati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zgodili	zgoditi	_	_	_
+
+VID
+0	bilo	biti	_	_	_
+1	pri	pri	_	2	dol
+2	duši	duša	_	0	štiri
+
+VID
+0	vprašanj	vprašanje	_	1	štiri
+1	odprl	odpreti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	znebiti	znebiti	_	_	_
+
+VID
+0	skomizgnil	skomizgniti	_	_	_
+1	z	z	_	2	dol
+2	rameni	rame	_	0	dve
+
+VID
+0	si	se	_	1	del
+1	bili	biti	_	_	_
+2	edini	edin	_	1	dol
+
+LVC.full
+0	imeli	imeti	_	_	_
+1	priložnost	priložnost	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	počutili	počutiti	_	_	_
+
+VID
+0	dali	dati	_	_	_
+1	iz	iz	_	2	dol
+2	rok	roka	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	potrudili	potruditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ujele	ujeti	_	_	_
+
+IRV
+0	Bojijo	bati	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	se	se	_	1	del
+1	ukvarjajo	ukvarjati	_	_	_
+2	z	z	_	_	_
+
+VID
+0	Hočeš	hoteti	_	_	_
+1	nočeš	hoteti	_	0	skup
+
+VID
+0	jo	on	_	1	dve
+1	ubrala	ubrati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ukvarja	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IAV
+0	pristati	pristati	_	_	_
+1	na	na	_	_	_
+
+VID
+0	se	se	_	1	del
+1	cedila	cediti	_	_	_
+2	mleko	mleko	_	1	ena
+3	in	in	_	4	vez
+4	med	med	_	2	prir
+
+IAV
+0	za	za	_	_	_
+1	oprezal	oprezati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zapodil	zapoditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zatekel	zateči	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odzvati	odzvati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ukvarjati	ukvarjati	_	_	_
+
+IRV
+0	zdi	zdeti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	niso	biti	_	_	_
+1	kos	kos	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	kosa	kosati	_	_	_
+
+VID
+0	narobe	narobe	_	_	_
+1	je	biti	_	_	_
+
+VID
+0	noge	noga	_	1	ena
+1	nesle	nesti	_	_	_
+
+LVC.full
+0	imela	imeti	_	_	_
+1	moči	moč	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	sestal	sestati	_	_	_
+
+VID
+0	imel	imeti	_	_	_
+1	rad	rad	_	_	_
+
+VID
+0	mislil	misliti	_	_	_
+1	s	z	_	3	dol
+2	svojo	svoj	_	3	dol
+3	glavo	glava	_	_	_
+
+VID
+0	stale	stati	_	_	_
+1	ob	ob	_	2	dol
+2	strani	stran	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	veselimo	veseliti	_	_	_
+
+IRV
+0	Zdijo	zdeti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	vzeti	vzeti	_	_	_
+1	nase	nase	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	povzpeti	povzpeti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	na	na	_	2	dol
+2	razpolago	razpolaga	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dobi	dobiti	_	_	_
+
+VID
+0	spusti	spustiti	_	_	_
+1	vse	ves	_	0	dve
+2	iz	iz	_	3	dol
+3	rok	roka	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	trudil	truditi	_	_	_
+
+IAV
+0	maram	marati	_	_	_
+1	za	za	_	_	_
+
+VID
+0	se	se	_	1	del
+1	postaviš	postaviti	_	_	_
+2	na	na	_	3	dol
+3	mesto	mesto	_	1	štiri
+
+VID
+0	se	se	_	1	del
+1	postaviti	postaviti	_	_	_
+2	na	na	_	3	dol
+3	mesto	mesto	_	1	štiri
+
+VID
+0	je	biti	_	_	_
+1	žal	žal	_	_	_
+
+VID
+0	Kdo	kdo	_	1	ena
+1	ve	vedeti	_	_	_
+
+LVC.full
+0	ni	biti	_	_	_
+1	v	v	_	2	dol
+2	navadi	navada	_	0	štiri
+
+VID
+0	ne	ne	_	1	del
+1	pozna	poznati	_	_	_
+2	meja	meja	_	1	dve
+
+VID
+0	ubral	ubrati	_	_	_
+1	drugačno	drugačen	_	2	dol
+2	pot	pot	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	strinjal	strinjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	gnetle	gnesti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	usmilili	usmiliti	_	_	_
+
+VID
+0	pokazali	pokazati	_	_	_
+1	kako	kako	_	4	vez
+2	se	se	_	4	del
+3	stvari	stvar	_	4	dve
+4	streže	streči	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	odvija	odvijati	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	se	se	_	2	del
+2	nanaša	nanašati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pojavljalo	pojavljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odvijajo	odvijati	_	_	_
+
+IAV
+0	iti	iti	_	_	_
+1	skozi	skozi	_	_	_
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	izobrazbo	izobrazba	_	0	dve
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	izobrazbo	izobrazba	_	_	_
+
+IAV
+0	izhaja	izhajati	_	_	_
+1	iz	iz	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	obnašati	obnašati	_	_	_
+
+VID
+0	držali	držati	_	_	_
+1	korak	korak	_	0	dve
+2	z	z	_	_	_
+
+LVC.full
+0	nima	imeti	_	_	_
+1	prednosti	prednost	_	0	dve
+
+IAV
+0	segli	seči	_	_	_
+1	po	po	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	posreči	posrečiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zgoditi	zgoditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	podajmo	podati	_	_	_
+
+IRV
+0	Odzvale	odzvati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	zavedajo	zavedati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	nadejajo	nadejati	_	_	_
+
+VID
+0	dal	dati	_	_	_
+1	pečat	pečat	_	0	dve
+
+LVC.full
+0	dala	dati	_	_	_
+1	predlogov	predlog	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	ravnali	ravnati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	navezovala	navezovati	_	_	_
+2	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odlikuje	odlikovati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	ogledamo	ogledati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vrnemo	vrniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	basati	basati	_	_	_
+
+VID
+0	kar	kar	_	2	vez
+1	srce	srce	_	2	ena
+2	poželi	poželeti	_	_	_
+
+VID
+0	imel	imeti	_	_	_
+1	prav	prav	_	_	_
+
+LVC.full
+0	so	biti	_	_	_
+1	v	v	_	2	dol
+2	sporu	spor	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	strinjali	strinjati	_	_	_
+
+VID
+0	uživate	uživati	_	_	_
+1	na	na	_	2	dol
+2	lovorikah	lovorika	_	0	štiri
+
+LVC.full
+0	imeli	imeti	_	_	_
+1	koristi	korist	_	0	dve
+
+VID
+0	ni	biti	_	_	_
+1	po	po	_	2	dol
+2	godu	god	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	savnalo	savnati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odpovedali	odpovedati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	prelevil	preleviti	_	_	_
+
+LVC.full
+0	Imel	imeti	_	_	_
+1	mnenje	mnenje	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	obnašal	obnašati	_	_	_
+
+VID
+0	ima	imeti	_	_	_
+1	ves	ves	_	2	dol
+2	čas	čas	_	0	dve
+3	na	na	_	5	dol
+4	tem	ta	_	5	dol
+5	svetu	svet	_	2	dol
+
+IRV
+0	se	se	_	1	del
+1	zaganjajte	zaganjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	nahajajo	nahajati	_	_	_
+
+LVC.full
+0	nimam	imeti	_	_	_
+1	težav	težava	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	pojavi	pojaviti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	rodil	roditi	_	_	_
+
+IAV
+0	za	za	_	_	_
+1	skrbi	skrbeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	začel	začeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zbala	zbati	_	_	_
+
+IRV
+0	Spomnil	spomniti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	o	o	_	_	_
+1	ni	biti	_	_	_
+2	ne	ne	_	3	vez
+3	duha	duh	_	1	ena
+4	ne	ne	_	5	vez
+5	sluha	sluh	_	3	prir
+
+IRV
+0	se	se	_	1	del
+1	vmešal	vmešati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vmešavajo	vmešavati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	prebiti	prebiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zagnal	zagnati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	mislili	misliti	_	_	_
+
+VID
+0	zamenjal	zamenjati	_	_	_
+1	strani	stran	_	0	dve
+
+VID
+0	trenili	treniti	_	_	_
+1	z	z	_	2	dol
+2	očesom	oko	_	0	dve
+
+VID
+0	prav	prav	_	_	_
+1	imate	imeti	_	_	_
+
+VID
+0	pride	priti	_	_	_
+1	do	do	_	2	dol
+2	izraza	izraz	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	izkaže	izkazati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	lotevajo	lotevati	_	_	_
+
+IAV
+0	proglasil	proglasiti	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	skrbele	skrbeti	_	_	_
+1	za	za	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	povezavo	povezava	_	0	dve
+
+IAV
+0	niso	biti	_	_	_
+1	pod	pod	_	_	_
+
+IAV
+0	pade	pasti	_	_	_
+1	pod	pod	_	_	_
+
+LVC.full
+0	nima	imeti	_	_	_
+1	v	v	_	2	dol
+2	lasti	last	_	0	štiri
+
+VID
+0	imelo	imeti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ukvarjati	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+VID
+0	imeli	imeti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IRV
+0	Odločili	odločiti	_	_	_
+1	smo	biti	_	0	del
+
+IAV
+0	iz	iz	_	_	_
+1	izšli	iziti	_	_	_
+
+VID
+0	korak	korak	_	1	dve
+1	naredil	narediti	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	ogledati	ogledati	_	_	_
+
+IAV
+0	računala	računati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dalo	dati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	borila	boriti	_	_	_
+
+VID
+0	Pred	pred	_	1	dol
+1	vrati	vrata	_	2	štiri
+2	so	biti	_	_	_
+
+VID
+0	Pusti	pustiti	_	_	_
+1	pri	pri	_	2	dol
+2	miru	mir	_	0	štiri
+
+IAV
+0	vplivati	vplivati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	borili	boriti	_	_	_
+
+VID
+0	na	na	_	1	dol
+1	voljo	volja	_	_	_
+2	je	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	posvetujte	posvetovati	_	_	_
+
+VID
+0	Na	na	_	1	dol
+1	voljo	volja	_	_	_
+2	je	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	udeležila	udeležiti	_	_	_
+
+IAV
+0	so	biti	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	so	biti	_	_	_
+1	proti	proti	_	_	_
+
+VID
+0	V	v	_	1	dol
+1	igri	igra	_	2	štiri
+2	so	biti	_	_	_
+
+IAV
+0	za	za	_	_	_
+1	skrbela	skrbeti	_	_	_
+
+IRV
+0	Vrnemo	vrniti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	pomerile	pomeriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	potrudil	potruditi	_	_	_
+
+VID
+0	ga	on	_	1	dve
+1	imel	imeti	_	_	_
+2	pod	pod	_	3	dol
+3	kapo	kapa	_	1	štiri
+
+IAV
+0	razglasili	razglasiti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	pometimo	pomesti	_	_	_
+1	pred	pred	_	3	dol
+2	svojim	svoj	_	3	dol
+3	pragom	prag	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	izkazati	izkazati	_	_	_
+
+VID
+0	uspel	uspeti	_	_	_
+1	veliki	velik	_	2	dol
+2	met	met	_	0	ena
+
+LVC.full
+0	imeli	imeti	_	_	_
+1	srečo	sreča	_	0	dve
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	sreče	sreča	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	prebilo	prebiti	_	_	_
+
+IRV
+0	Predstavljajmo	predstavljati	_	_	_
+1	si	se	_	0	del
+
+IAV
+0	kliče	klicati	_	_	_
+1	po	po	_	_	_
+
+VID
+0	vzel	vzeti	_	_	_
+1	v	v	_	2	dol
+2	roke	roka	_	0	štiri
+
+VID
+0	spravila	spraviti	_	_	_
+1	pod	pod	_	2	dol
+2	krov	krov	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	loti	lotiti	_	_	_
+
+IAV
+0	gre	iti	_	_	_
+1	v	v	_	_	_
+
+VID
+0	obudil	obuditi	_	_	_
+1	k	k	_	_	_
+2	življenju	življenje	_	_	_
+
+VID
+0	Sive	siv	_	1	dol
+1	lase	las	_	2	dve
+2	dela	delati	_	_	_
+
+IAV
+0	poseči	poseči	_	_	_
+1	po	po	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	spuščajo	spuščati	_	_	_
+2	v	v	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	igra	igrati	_	_	_
+
+VID
+0	se	se	_	1	del
+1	postaviti	postaviti	_	_	_
+2	v	v	_	3	dol
+3	kožo	koža	_	1	štiri
+
+IRV
+0	se	se	_	1	del
+1	zdijo	zdeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pritožiti	pritožiti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	všeč	všeč	_	_	_
+
+VID
+0	gordijski	gordijski	_	1	dol
+1	vozel	vozel	_	2	dve
+2	presekati	presekati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	seznanijo	seznaniti	_	_	_
+
+LVC.full
+0	imata	imeti	_	_	_
+1	težave	težava	_	0	dve
+
+VID
+0	so	biti	_	_	_
+1	pod	pod	_	2	dol
+2	stresom	stres	_	_	_
+
+LVC.cause
+0	nimajo	imeti	_	_	_
+1	vpliva	vpliv	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	posveča	posvečati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	bali	bati	_	_	_
+
+IAV
+0	nanje	name	_	1	dve
+1	opozarjati	opozarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dogaja	dogajati	_	_	_
+
+IRV
+0	spomnimo	spomniti	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	se	se	_	1	del
+1	zavzemali	zavzemati	_	_	_
+2	za	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	upirali	upirati	_	_	_
+
+IAV
+0	opozarjal	opozarjati	_	_	_
+1	na	na	_	_	_
+
+IAV
+0	imenovali	imenovati	_	_	_
+1	za	za	_	_	_
+
+LVC.cause
+0	bila	biti	_	_	_
+1	v	v	_	2	dol
+2	pomoč	pomoč	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	odločijo	odločiti	_	_	_
+
+VID
+0	imeli	imeti	_	_	_
+1	na	na	_	2	dol
+2	razpolago	razpolaga	_	_	_
+
+VID
+0	bo	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ponesrečila	ponesrečiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	primerilo	primeriti	_	_	_
+
+IRV
+0	Oglasite	oglasiti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	znebijo	znebiti	_	_	_
+
+LVC.cause
+0	bodo	biti	_	_	_
+1	v	v	_	2	dol
+2	pomoč	pomoč	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	odločali	odločati	_	_	_
+
+IAV
+0	označila	označiti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	spustili	spustiti	_	_	_
+1	na	na	_	3	dol
+2	tanek	tanek	_	3	dol
+3	led	led	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	sestali	sestati	_	_	_
+
+IAV
+0	Zavzeli	zavzeti	_	_	_
+1	se	se	_	0	del
+2	za	za	_	_	_
+
+VID
+0	Še	še	_	_	_
+1	pes	pes	_	2	ena
+2	ima	imeti	_	_	_
+3	rad	rad	_	_	_
+4	mir	mir	_	2	dve
+5	pri	pri	_	6	dol
+6	jedi	jed	_	2	štiri
+
+LVC.full
+0	ima	imeti	_	_	_
+1	rad	rad	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	mir	mir	_	0	dve
+
+IAV
+0	na	na	_	_	_
+1	računali	računati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	pravic	pravica	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zaljubil	zaljubiti	_	_	_
+
+IAV
+0	sovpada	sovpadati	_	_	_
+1	s	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	udeleži	udeležiti	_	_	_
+
+VID
+0	jo	on	_	1	dve
+1	mahnila	mahniti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	potegoval	potegovati	_	_	_
+2	za	za	_	_	_
+
+VID
+0	izgubila	izgubiti	_	_	_
+1	dar	dar	_	0	dve
+2	govora	govor	_	1	dol
+
+IRV
+0	se	se	_	1	del
+1	smejati	smejati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	smejal	smejati	_	_	_
+
+IAV
+0	priti	priti	_	_	_
+1	do	do	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ukvarjamo	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IAV
+0	se	se	_	2	del
+1	s	z	_	_	_
+2	ukvarjajo	ukvarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	drsti	drstiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	drstijo	drstiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zadržuje	zadrževati	_	_	_
+
+IRV
+0	Zadržuje	zadrževati	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	naletimo	naleteti	_	_	_
+1	nanj	name	_	0	dve
+
+IRV
+0	Drstiti	drstiti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	se	se	_	1	del
+1	ponovila	ponoviti	_	_	_
+2	stara	star	_	3	dol
+3	zgodba	zgodba	_	1	ena
+
+IRV
+0	se	se	_	1	del
+1	bati	bati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	opravičil	opravičiti	_	_	_
+
+VID
+0	plačuje	plačevati	_	_	_
+1	ceno	cena	_	0	dve
+
+VID
+0	prihajalo	prihajati	_	_	_
+1	na	na	_	2	dol
+2	misel	misel	_	0	štiri
+
+IRV
+0	si	se	_	1	del
+1	upal	upati	_	_	_
+
+IAV
+0	se	se	_	2	del
+1	nate	name	_	2	štiri
+2	obrnilo	obrniti	_	_	_
+
+VID
+0	okrog	okrog	_	_	_
+1	zgradil	zgraditi	_	_	_
+2	zid	zid	_	1	dve
+
+IRV
+0	se	se	_	1	del
+1	bliža	bližati	_	_	_
+
+IRV
+0	Ozrem	ozreti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	imela	imeti	_	_	_
+1	opravka	opravek	_	0	dve
+2	z	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	počutijo	počutiti	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	težave	težava	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	sprijaznite	sprijazniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovoriti	pogovoriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odtujili	odtujiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	imeli	imeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarjati	pogovarjati	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	občutek	občutek	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	vtikajo	vtikati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	sprijaznijo	sprijazniti	_	_	_
+2	s	z	_	_	_
+
+VID
+0	boste	biti	_	_	_
+1	na	na	_	2	dol
+2	strani	stran	_	0	štiri
+
+VID
+0	so	biti	_	_	_
+1	pod	pod	_	2	dol
+2	pritiskom	pritisk	_	0	štiri
+
+IAV
+0	se	se	_	1	del
+1	obračali	obračati	_	_	_
+2	na	na	_	_	_
+
+VID
+0	nosi	nositi	_	_	_
+1	imeni	ime	_	0	dve
+
+IAV
+0	šteli	šteti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	bila	biti	_	_	_
+1	vrata	vrata	_	0	ena
+2	široko	široko	_	3	dol
+3	odprta	odprt	_	0	dol
+
+VID
+0	vrata	vrata	_	1	dve
+1	odpirali	odpirati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zdiš	zdeti	_	_	_
+
+VID
+0	boli	boleti	_	_	_
+1	kurac	kurec	_	0	ena
+
+IRV
+0	se	se	_	1	del
+1	bal	bati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	skremži	skremžiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zarežu	zarežati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odločt	odločiti	_	_	_
+
+VID
+0	boli	boleti	_	_	_
+1	kurac	kurec	_	0	ena
+2	za	za	_	3	dol
+3	vse	ves	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	splazm	splaziti	_	_	_
+
+VID
+0	mam	meti	_	_	_
+1	pred	pred	_	2	dol
+2	očmi	oči	_	0	štiri
+
+IRV
+0	Dere	dreti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	gre	iti	_	_	_
+1	na	na	_	2	dol
+2	kurac	kurec	_	0	štiri
+
+IAV
+0	skoz	skozi	_	1	štiri
+1	dal	dati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	reži	režati	_	_	_
+
+VID
+0	v	v	_	1	dol
+1	roke	roka	_	2	štiri
+2	dobim	dobiti	_	_	_
+
+IAV
+0	kse	kse	_	2	del
+1	s	z	_	_	_
+2	bavu	baviti	_	_	_
+
+IRV
+0	Odločm	odločiti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	vrnila	vrniti	_	_	_
+
+VID
+0	potegnil	potegniti	_	_	_
+1	nase	nase	_	0	štiri
+
+IAV
+0	potegnil	potegniti	_	_	_
+1	gor	gor	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	zareži	zarežati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	udeležile	udeležiti	_	_	_
+
+IAV
+0	naredila	narediti	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	za	za	_	_	_
+1	poskrbela	poskrbeti	_	_	_
+
+VID
+0	imela	imeti	_	_	_
+1	v	v	_	2	dol
+2	mislih	misel	_	0	štiri
+
+VID
+0	nosi	nositi	_	_	_
+1	ime	ime	_	0	dve
+
+IRV
+0	si	se	_	1	del
+1	zamislil	zamisliti	_	_	_
+
+VID
+0	smo	biti	_	_	_
+1	priča	priča	_	0	dol
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	vlogo	vloga	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	osredotočimo	osredotočiti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	res	res	_	_	_
+
+VID
+0	Nič	nič	_	1	ena
+1	ni	biti	_	_	_
+2	večno	večen	_	1	dol
+
+IAV
+0	se	se	_	1	del
+1	ukvarjal	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IAV
+0	veljajo	veljati	_	_	_
+1	za	za	_	_	_
+
+VID
+0	se	se	_	4	del
+1	na	na	_	3	dol
+2	lastni	lasten	_	3	dol
+3	koži	koža	_	4	štiri
+4	prepričali	prepričati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ubadali	ubadati	_	_	_
+2	z	z	_	_	_
+
+IAV
+0	vplivalo	vplivati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pojavili	pojaviti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	poistimo	poistiti	_	_	_
+2	z	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	distanciramo	distancirati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ravnamo	ravnati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odločimo	odločiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odzvali	odzvati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zavemo	zavedeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zahvalila	zahvaliti	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	je	biti	_	_	_
+
+IAV
+0	nimam	imeti	_	_	_
+1	proti	proti	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	srečo	sreča	_	0	dve
+
+IRV
+0	si	se	_	1	del
+1	zaželel	zaželeti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ukvarjali	ukvarjati	_	_	_
+2	z	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pritožili	pritožiti	_	_	_
+
+IAV
+0	sloni	sloneti	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	glasi	glasiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	veselila	veseliti	_	_	_
+
+VID
+0	postavi	postaviti	_	_	_
+1	pod	pod	_	2	dol
+2	vprašaj	vprašaj	_	0	štiri
+
+VID
+0	stopiti	stopiti	_	_	_
+1	v	v	_	2	dol
+2	stik	stik	_	0	štiri
+
+VID
+0	so	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	naletite	naleteti	_	_	_
+
+IRV
+0	Ogledali	ogledati	_	_	_
+1	si	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	pojavilo	pojaviti	_	_	_
+
+VID
+0	Na	na	_	1	dol
+1	voljo	volja	_	_	_
+2	imate	imeti	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	pravico	pravica	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	dogovoril	dogovoriti	_	_	_
+
+IAV
+0	spoznalo	spoznati	_	_	_
+1	za	za	_	_	_
+
+LVC.full
+0	V	v	_	1	dol
+1	skrbeh	skrb	_	2	štiri
+2	smo	biti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	zavzema	zavzemati	_	_	_
+2	za	za	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	zgledovala	zgledovati	_	_	_
+2	po	po	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	godi	goditi	_	_	_
+
+VID
+0	Poročni	poročen	_	1	dol
+1	zvonovi	zvon	_	2	ena
+2	zapeli	zapeti	_	_	_
+
+VID
+0	delali	delati	_	_	_
+1	družbo	družba	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	začelo	začeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izogibal	izogibati	_	_	_
+
+IAV
+0	preraslo	prerasti	_	_	_
+1	v	v	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	bohotijo	bohotiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	glasijo	glasiti	_	_	_
+
+VID
+0	pride	priti	_	_	_
+1	prav	prav	_	_	_
+
+IAV
+0	šel	iti	_	_	_
+1	v	v	_	_	_
+
+VID
+0	biti	biti	_	_	_
+1	v	v	_	2	dol
+2	koraku	korak	_	0	štiri
+3	s	z	_	_	_
+
+VID
+0	damo	dati	_	_	_
+1	besedo	beseda	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zmotil	zmotiti	_	_	_
+
+VID
+0	igral	igrati	_	_	_
+1	vlogo	vloga	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	dogovorila	dogovoriti	_	_	_
+
+VID
+0	imel	imeti	_	_	_
+1	v	v	_	2	dol
+2	mislih	misel	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	distanciral	distancirati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zavzeli	zavzeti	_	_	_
+
+IAV
+0	temeljili	temeljiti	_	_	_
+1	na	na	_	_	_
+
+VID
+0	barve	barva	_	1	dve
+1	zastopali	zastopati	_	_	_
+
+VID
+0	bili	biti	_	_	_
+1	priča	priča	_	0	dol
+
+IAV
+0	poskrbel	poskrbeti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pobrali	pobrati	_	_	_
+
+VID
+0	vse	ves	_	1	dol
+1	niti	nit	_	4	dve
+2	v	v	_	3	dol
+3	nogah	noga	_	4	štiri
+4	držali	držati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zmedel	zmesti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	nahaja	nahajati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	rodijo	roditi	_	_	_
+
+IRV
+0	Predstavljaj	predstavljati	_	_	_
+1	si	se	_	0	del
+
+IAV
+0	imeli	imeti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	Všeč	všeč	_	_	_
+1	je	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ozre	ozreti	_	_	_
+
+IAV
+0	šlo	iti	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	upal	upati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	potrudim	potruditi	_	_	_
+
+VID
+0	pljunil	pljuniti	_	_	_
+1	v	v	_	2	dol
+2	roke	roka	_	0	štiri
+
+VID
+0	padel	pasti	_	_	_
+1	krog	krog	_	2	dol
+2	vratu	vrat	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	zazdelo	zazdeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	šopiri	šopiriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	gristi	gristi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zvečerilo	zvečeriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	uzrl	uzreti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pritoževala	pritoževati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dogajalo	dogajati	_	_	_
+
+IRV
+0	Odločili	odločiti	_	_	_
+1	se	se	_	0	del
+
+LVC.full
+0	ima	imeti	_	_	_
+1	koristi	korist	_	0	dve
+
+VID
+0	igrala	igrati	_	_	_
+1	na	na	_	2	dol
+2	karto	karta	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odzivali	odzivati	_	_	_
+
+IAV
+0	Prišlo	priti	_	_	_
+1	do	do	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vedli	vesti	_	_	_
+
+IAV
+0	naleteti	naleteti	_	_	_
+1	na	na	_	_	_
+
+IAV
+0	Velja	veljati	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	Opozoril	opozoriti	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	ogledal	ogledati	_	_	_
+
+IRV
+0	odločil	odločiti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	razlegalo	razlegati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ponesreči	ponesrečiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	trudi	truditi	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	izmislil	izmisliti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spominja	spominjati	_	_	_
+
+IRV
+0	Razšel	raziti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	zavijte	zaviti	_	_	_
+1	v	v	_	2	dol
+2	vato	vata	_	0	štiri
+
+VID
+0	se	se	_	1	del
+1	pravi	praviti	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	privoščila	privoščiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	prikradla	prikrasti	_	_	_
+
+LVC.full
+0	postaviti	postaviti	_	_	_
+1	trditev	trditev	_	0	dve
+
+LVC.full
+0	postavlja	postavljati	_	_	_
+1	vprašanja	vprašanje	_	0	dve
+
+LVC.cause
+0	ima	imeti	_	_	_
+1	vpliv	vpliv	_	0	dve
+
+IAV
+0	vplivala	vplivati	_	_	_
+1	na	na	_	_	_
+
+VID
+0	živeli	živeti	_	_	_
+1	na	na	_	2	dol
+2	račun	račun	_	0	štiri
+
+LVC.full
+0	imelo	imeti	_	_	_
+1	vlogo	vloga	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zavedamo	zavedati	_	_	_
+
+VID
+0	bil	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+VID
+0	imel	imeti	_	_	_
+1	krit	krit	_	2	dol
+2	hrbet	hrbet	_	0	dve
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	v	v	_	2	dol
+2	načrtu	načrt	_	0	štiri
+
+VID
+0	ostati	ostati	_	_	_
+1	na	na	_	3	dol
+2	trdnih	trden	_	3	dol
+3	tleh	tla	_	0	štiri
+
+VID
+0	prihiteli	prihiteti	_	_	_
+1	na	na	_	2	dol
+2	pomoč	pomoč	_	0	štiri
+
+IAV
+0	do	do	_	_	_
+1	prišlo	priti	_	_	_
+
+VID
+0	šlo	iti	_	_	_
+1	v	v	_	2	dol
+2	nos	nos	_	0	štiri
+
+IAV
+0	Z	z	_	_	_
+1	ravna	ravnati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odzivajo	odzivati	_	_	_
+
+VID
+0	vodi	voditi	_	_	_
+1	za	za	_	2	dol
+2	nos	nos	_	0	štiri
+
+VID
+0	se	se	_	1	del
+1	igra	igrati	_	_	_
+2	kot	kot	_	3	vez
+3	mačka	mačka	_	_	_
+4	z	z	_	5	dol
+5	mišjo	miš	_	3	dol
+
+IAV
+0	do	do	_	_	_
+1	pridemo	priti	_	_	_
+
+IAV
+0	S	z	_	_	_
+1	se	se	_	2	del
+2	ukvarjati	ukvarjati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	sprevrglo	sprevreči	_	_	_
+2	v	v	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	obregnil	obregniti	_	_	_
+2	obnjo	obme	_	1	dve
+
+IAV
+0	se	se	_	1	del
+1	obregnil	obregniti	_	_	_
+2	ob	ob	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	udeležijo	udeležiti	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	se	se	_	2	del
+2	nanašajo	nanašati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	lastiti	lastiti	_	_	_
+
+VID
+0	kozarec	kozarec	_	1	ena
+1	ni	biti	_	_	_
+2	napol	napol	_	3	dol
+3	prazen	prazen	_	1	dol
+4	ampak	ampak	_	6	vez
+5	napol	napol	_	6	dol
+6	poln	poln	_	_	_
+
+VID
+0	zravnali	zravnati	_	_	_
+1	z	z	_	2	dol
+2	zemljo	zemlja	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izkazalo	izkazati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	obrnil	obrniti	_	_	_
+2	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vržejo	vreči	_	_	_
+
+VID
+0	držalo	držati	_	_	_
+1	ob	ob	_	2	dol
+2	strani	stran	_	0	štiri
+
+IAV
+0	Veljal	veljati	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	Zavzemal	zavzemati	_	_	_
+1	se	se	_	0	del
+2	za	za	_	_	_
+
+IRV
+0	Rodi	roditi	_	_	_
+1	se	se	_	0	del
+
+VID
+0	so	biti	_	_	_
+1	v	v	_	2	dol
+2	vlogi	vloga	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	spogledala	spogledati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ravnal	ravnati	_	_	_
+
+VID
+0	prišlo	priti	_	_	_
+1	na	na	_	2	dol
+2	misel	misel	_	0	štiri
+
+VID
+0	videl	videti	_	_	_
+1	vse	ves	_	2	dol
+2	zvezde	zvezda	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zahahljala	zahahljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zmešalo	zmešati	_	_	_
+
+IRV
+0	Se	se	_	1	del
+1	zdelo	zdeti	_	_	_
+
+VID
+0	zaprlo	zapreti	_	_	_
+1	sapo	sapa	_	0	dve
+
+VID
+0	sapo	sapa	_	1	dve
+1	vzelo	vzeti	_	_	_
+
+VID
+0	Pustila	pustiti	_	_	_
+1	pri	pri	_	2	dol
+2	miru	mir	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	razgledala	razgledati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	smejale	smejati	_	_	_
+
+VID
+0	Glavno	glaven	_	1	dol
+1	besedo	beseda	_	3	dve
+2	je	biti	_	3	del
+3	imela	imeti	_	_	_
+
+IRV
+0	Nasmehnila	nasmehniti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	Premerila	premeriti	_	_	_
+1	od	od	_	2	dol
+2	vrha	vrh	_	0	štiri
+3	do	do	_	4	dol
+4	tal	tla	_	0	štiri
+
+VID
+0	Skomignila	skomigniti	_	_	_
+1	z	z	_	2	dol
+2	rameni	rame	_	_	_
+
+IRV
+0	Oddahnila	oddahniti	_	_	_
+1	si	se	_	0	del
+
+VID
+0	Nisem	biti	_	2	del
+1	si	se	_	3	del
+2	mogla	moči	_	_	_
+3	pomagati	pomagati	_	2	dol
+
+LVC.full
+0	pozornost	pozornost	_	_	_
+1	namenjena	namenjen	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	malo	malo	_	3	dol
+2	čez	čez	_	3	dol
+3	les	les	_	0	štiri
+
+VID
+0	skomignila	skomigniti	_	_	_
+1	z	z	_	2	dol
+2	rameni	rame	_	_	_
+
+VID
+0	zamahnila	zamahniti	_	_	_
+1	z	z	_	2	dol
+2	roko	roka	_	_	_
+
+IRV
+0	Rodila	roditi	_	_	_
+1	se	se	_	0	del
+
+VID
+0	Na	na	_	1	dol
+1	svet	svet	_	3	štiri
+2	sem	biti	_	3	del
+3	prišla	priti	_	_	_
+
+LVC.cause
+0	dala	dati	_	_	_
+1	ime	ime	_	0	dve
+
+VID
+0	imam	imeti	_	_	_
+1	rada	rad	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ukvarjam	ukvarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	družim	družiti	_	_	_
+
+VID
+0	imela	imeti	_	_	_
+1	čez	čez	_	2	dol
+2	glavo	glava	_	_	_
+
+VID
+0	nimam	imeti	_	_	_
+1	pojma	pojem	_	0	dve
+
+IAV
+0	zapadli	zapasti	_	_	_
+1	v	v	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	druži	družiti	_	_	_
+
+VID
+0	bo	biti	_	_	_
+1	kos	kos	_	_	_
+
+VID
+0	gredo	iti	_	_	_
+1	po	po	_	3	dol
+2	isti	isti	_	3	dol
+3	poti	pot	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	začenja	začenjati	_	_	_
+
+VID
+0	imel	imeti	_	_	_
+1	na	na	_	2	dol
+2	razpolago	razpolaga	_	0	štiri
+
+VID
+0	ima	imeti	_	_	_
+1	pred	pred	_	2	dol
+2	očmi	oči	_	0	štiri
+
+IRV
+0	se	se	_	_	_
+1	pustil	pustiti	_	_	_
+
+VID
+0	zamižala	zamižati	_	_	_
+1	na	na	_	3	dol
+2	eno	en	_	3	dol
+3	oko	oko	_	0	štiri
+
+VID
+0	zadale	zadati	_	_	_
+1	smrtni	smrten	_	2	dol
+2	udarec	udarec	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	ozira	ozirati	_	_	_
+
+VID
+0	nositi	nositi	_	_	_
+1	težo	teža	_	0	dve
+
+VID
+0	počela	početi	_	_	_
+1	kar	kar	_	4	vez
+2	bi	biti	_	4	del
+3	se	se	_	4	del
+4	zahotelo	zahoteti	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	upira	upirati	_	_	_
+
+IAV
+0	vztrajali	vztrajati	_	_	_
+1	pri	pri	_	_	_
+
+VID
+0	spraviti	spraviti	_	_	_
+1	s	z	_	2	dol
+2	sveta	svet	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	dogajale	dogajati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	poteguje	potegovati	_	_	_
+
+VID
+0	bo	biti	_	_	_
+1	na	na	_	2	dol
+2	tleh	tla	_	0	štiri
+
+IRV
+0	se	se	_	_	_
+1	da	dati	_	0	skup
+
+VID
+0	hočeš	hoteti	_	_	_
+1	nočeš	hoteti	_	0	skup
+
+IRV
+0	se	se	_	1	del
+1	spomnimo	spomniti	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	skladalo	skladati	_	_	_
+2	z	z	_	_	_
+
+IAV
+0	postavil	postaviti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	vzel	vzeti	_	_	_
+1	v	v	_	2	dol
+2	zakup	zakup	_	0	štiri
+
+IAV
+0	smatral	smatrati	_	_	_
+1	za	za	_	_	_
+
+LVC.cause
+0	dajo	dati	_	_	_
+1	videz	videz	_	0	dve
+
+VID
+0	bila	biti	_	_	_
+1	pri	pri	_	2	dol
+2	srcu	srce	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	pokazale	pokazati	_	_	_
+
+VID
+0	prišli	priti	_	_	_
+1	skupaj	skupaj	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	poslužili	poslužiti	_	_	_
+
+IAV
+0	Pod	pod	_	_	_
+1	prišlo	priti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zvrstila	zvrstiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	sestajali	sestajati	_	_	_
+
+VID
+0	vzeli	vzeti	_	_	_
+1	časa	čas	_	0	dve
+
+VID
+0	Radi	rad	_	_	_
+1	imajo	imeti	_	_	_
+
+IAV
+0	veljala	veljati	_	_	_
+1	za	za	_	_	_
+
+VID
+0	se	se	_	1	del
+1	zavil	zaviti	_	_	_
+2	v	v	_	3	dol
+3	molk	molk	_	1	dve
+
+IRV
+0	se	se	_	1	del
+1	dotika	dotikati	_	_	_
+
+IAV
+0	diši	dišati	_	_	_
+1	po	po	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pojavljale	pojavljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	znašle	znajti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	kosati	kosati	_	_	_
+
+IAV
+0	Za	za	_	_	_
+1	skrbijo	skrbeti	_	_	_
+
+VID
+0	rodilo	roditi	_	_	_
+1	sadov	sad	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	ukvarja	ukvarjati	_	_	_
+
+VID
+0	bila	biti	_	_	_
+1	na	na	_	2	dol
+2	mestu	mesto	_	0	štiri
+
+IAV
+0	računa	računati	_	_	_
+1	na	na	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	jasno	jasen	_	0	dol
+
+IAV
+0	se	se	_	1	del
+1	postaviti	postaviti	_	_	_
+2	zase	zase	_	1	dve
+
+IAV
+0	ravnate	ravnati	_	_	_
+1	z	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	porodila	poroditi	_	_	_
+
+VID
+0	šle	iti	_	_	_
+1	dol	dol	_	0	štiri
+
+VID
+0	bil	biti	_	_	_
+1	všeč	všeč	_	_	_
+
+IRV
+0	bojte	bati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	si	se	_	1	del
+1	mislimo	misliti	_	_	_
+
+IAV
+0	opletati	opletati	_	_	_
+1	z	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zjokal	zjokati	_	_	_
+
+VID
+0	Najkrajšo	kratek	_	1	dve
+1	potegnili	potegniti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dogovoriti	dogovoriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zvrstili	zvrstiti	_	_	_
+
+VID
+0	dal	dati	_	_	_
+1	na	na	_	2	dol
+2	izbiro	izbira	_	0	štiri
+
+VID
+0	delala	delati	_	_	_
+1	razliko	razlika	_	0	dve
+
+IAV
+0	izšel	iziti	_	_	_
+1	iz	iz	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	mudil	muditi	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odločile	odločiti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	na	na	_	2	dol
+2	krmilu	krmilo	_	0	štiri
+
+LVC.full
+0	imel	imeti	_	_	_
+1	možnosti	možnost	_	0	dve
+
+IAV
+0	na	na	_	_	_
+1	vplivata	vplivati	_	_	_
+
+VID
+0	dvignila	dvigniti	_	_	_
+1	roke	roka	_	0	dve
+2	od	od	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	razšla	raziti	_	_	_
+
+IAV
+0	razglasila	razglasiti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	sesula	sesuti	_	_	_
+1	v	v	_	2	dol
+2	prah	prah	_	0	štiri
+
+VID
+0	šlo	iti	_	_	_
+1	na	na	_	2	dol
+2	bolje	dobro	_	_	_
+
+IRV
+0	Udeležila	udeležiti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	Bila	biti	_	_	_
+1	prava	pravi	_	2	dol
+2	mora	mora	_	0	dol
+
+IAV
+0	s	z	_	_	_
+1	se	se	_	2	del
+2	ukvarjala	ukvarjati	_	_	_
+
+LVC.cause
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	korist	korist	_	0	štiri
+
+VID
+0	imamo	imeti	_	_	_
+1	na	na	_	2	dol
+2	sumu	sum	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	predaja	predajati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	poteguje	potegovati	_	_	_
+2	za	za	_	_	_
+
+VID
+0	so	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	0	štiri
+
+VID
+0	igra	igrati	_	_	_
+1	vloge	vloga	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	spomnil	spomniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dogajala	dogajati	_	_	_
+
+IAV
+0	privedla	privesti	_	_	_
+1	do	do	_	_	_
+
+IAV
+0	opozorim	opozoriti	_	_	_
+1	na	na	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	sporu	spor	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	zavzela	zavzeti	_	_	_
+2	za	za	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	stvar	stvar	_	0	dol
+
+LVC.full
+0	imamo	imeti	_	_	_
+1	pravico	pravica	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	obnašamo	obnašati	_	_	_
+
+VID
+0	bo	biti	_	_	_
+1	pri	pri	_	2	dol
+2	srcu	srce	_	0	štiri
+
+IAV
+0	se	se	_	1	del
+1	sklicuje	sklicevati	_	_	_
+2	na	na	_	_	_
+
+IAV
+0	sovpadal	sovpadati	_	_	_
+1	z	z	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	se	se	_	2	del
+2	naslonil	nasloniti	_	_	_
+
+VID
+0	bodo	biti	_	_	_
+1	na	na	_	2	dol
+2	preizkušnji	preizkušnja	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izmikal	izmikati	_	_	_
+
+VID
+0	ujame	ujeti	_	_	_
+1	v	v	_	2	dol
+2	zanko	zanka	_	0	štiri
+
+VID
+0	prižigam	prižigati	_	_	_
+1	pipico	pipica	_	0	dve
+2	miru	mir	_	1	dol
+
+LVC.cause
+0	ima	imeti	_	_	_
+1	posledice	posledica	_	0	dve
+
+VID
+0	ima	imeti	_	_	_
+1	polne	poln	_	2	dol
+2	roke	roka	_	0	dve
+
+VID
+0	gre	iti	_	_	_
+1	od	od	_	2	dol
+2	rok	roka	_	0	štiri
+
+IAV
+0	Za	za	_	_	_
+1	gre	iti	_	_	_
+
+IRV
+0	Bojim	bati	_	_	_
+1	se	se	_	0	del
+
+VID
+0	prišli	priti	_	_	_
+1	na	na	_	2	dol
+2	ušesa	uho	_	0	štiri
+
+LVC.full
+0	imeli	imeti	_	_	_
+1	pravice	pravica	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	glasil	glasiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izjalovil	izjaloviti	_	_	_
+
+VID
+0	prav	prav	_	_	_
+1	je	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	oddolžili	oddolžiti	_	_	_
+
+IAV
+0	razpolagalo	razpolagati	_	_	_
+1	z	z	_	_	_
+
+IRV
+0	zataknil	zatakniti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	je	biti	_	_	_
+1	pri	pri	_	2	dol
+2	roki	roka	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	udeleževali	udeleževati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	ponašajo	ponašati	_	_	_
+2	s	z	_	_	_
+
+VID
+0	se	se	_	1	del
+1	postavi	postaviti	_	_	_
+2	po	po	_	3	dol
+3	robu	rob	_	1	štiri
+
+IRV
+0	se	se	_	1	del
+1	trudijo	truditi	_	_	_
+
+LVC.full
+0	imamo	imeti	_	_	_
+1	občutek	občutek	_	0	dve
+
+VID
+0	pustiti	pustiti	_	_	_
+1	pri	pri	_	2	dol
+2	miru	mir	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	iztekel	izteči	_	_	_
+
+VID
+0	Na	na	_	1	dol
+1	voljo	volja	_	_	_
+2	bilo	biti	_	_	_
+
+VID
+0	igra	igrati	_	_	_
+1	vlogo	vloga	_	0	dve
+
+VID
+0	Nič	nič	_	2	ena
+1	ne	ne	_	2	del
+2	de	deti	_	_	_
+
+IRV
+0	Usedite	usesti	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	z	z	_	_	_
+1	se	se	_	2	del
+2	spopadati	spopadati	_	_	_
+
+VID
+0	napravili	napraviti	_	_	_
+1	korak	korak	_	0	dve
+2	nazaj	nazaj	_	1	dol
+
+VID
+0	daleč	daleč	_	1	štiri
+1	prišli	priti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vrne	vrniti	_	_	_
+
+IRV
+0	mračilo	mračiti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	si	se	_	1	del
+1	vzeti	vzeti	_	_	_
+2	čas	čas	_	1	dve
+
+IRV
+0	se	se	_	1	del
+1	pripravljalo	pripravljati	_	_	_
+
+LVC.full
+0	imela	imeti	_	_	_
+1	zamero	zamera	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	prerekati	prerekati	_	_	_
+
+IRV
+0	boji	bati	_	_	_
+1	se	se	_	0	del
+
+VID
+0	napeljati	napeljati	_	_	_
+1	vodo	voda	_	0	dve
+2	na	na	_	4	dol
+3	svoj	svoj	_	4	dol
+4	mlin	mlin	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	ponorčujejo	ponorčevati	_	_	_
+
+IAV
+0	Zanašajo	zanašati	_	_	_
+1	se	se	_	0	del
+2	na	na	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	nanašata	nanašati	_	_	_
+2	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ljubilo	ljubiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pogovarjati	pogovarjati	_	_	_
+
+IAV
+0	pristanejo	pristati	_	_	_
+1	na	na	_	_	_
+
+IAV
+0	pristane	pristati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izognete	izogniti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	mar	mar	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	interes	interes	_	0	dve
+
+LVC.full
+0	dajala	dajati	_	_	_
+1	soglasje	soglasje	_	0	dve
+
+VID
+0	ubirata	ubirati	_	_	_
+1	poti	pot	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	izteka	iztekati	_	_	_
+
+VID
+0	so	biti	_	_	_
+1	v	v	_	2	dol
+2	postopku	postopek	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	izognemo	izogniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odpravite	odpraviti	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	poročila	poročiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	lotimo	lotiti	_	_	_
+
+VID
+0	Na	na	_	1	dol
+1	razpolago	razpolaga	_	2	štiri
+2	so	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	držal	držati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	začeli	začeti	_	_	_
+
+LVC.cause
+0	je	biti	_	_	_
+1	muka	muka	_	0	dol
+
+IAV
+0	se	se	_	1	del
+1	odklonili	odkloniti	_	_	_
+2	od	od	_	_	_
+
+IAV
+0	pridejo	priti	_	_	_
+1	do	do	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	usesti	usesti	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	hodite	hoditi	_	_	_
+
+IAV
+0	skrbite	skrbeti	_	_	_
+1	za	za	_	_	_
+
+LVC.full
+0	imate	imeti	_	_	_
+1	možnost	možnost	_	0	dve
+
+LVC.full
+0	postavlja	postavljati	_	_	_
+1	diagnoze	diagnoza	_	0	dve
+
+VID
+0	meče	metati	_	_	_
+1	luč	luč	_	0	dve
+2	na	na	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	v	v	_	2	dol
+2	čast	čast	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	odločamo	odločati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odločati	odločati	_	_	_
+
+VID
+0	prosil	prositi	_	_	_
+1	za	za	_	2	dol
+2	besedo	beseda	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	oglasim	oglasiti	_	_	_
+
+VID
+0	Se	se	_	1	del
+1	pravi	praviti	_	_	_
+
+LVC.full
+0	dali	dati	_	_	_
+1	odgovora	odgovor	_	0	dve
+
+LVC.full
+0	vprašanj	vprašanje	_	_	_
+1	postaviti	postaviti	_	_	_
+
+IAV
+0	prišel	priti	_	_	_
+1	skozi	skozi	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	izkazal	izkazati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pritožujejo	pritoževati	_	_	_
+
+LVC.full
+0	damo	dati	_	_	_
+1	soglasje	soglasje	_	0	dve
+
+VID
+0	se	se	_	1	del
+1	vrnejo	vrniti	_	_	_
+2	na	na	_	4	dol
+3	zeleno	zelen	_	4	dol
+4	vejo	veja	_	1	štiri
+
+IRV
+0	se	se	_	1	del
+1	spominjajo	spominjati	_	_	_
+
+VID
+0	imeli	imeti	_	_	_
+1	za	za	_	2	dol
+2	seboj	se	_	0	štiri
+
+VID
+0	zapišejo	zapisati	_	_	_
+1	z	z	_	3	dol
+2	zlatimi	zlat	_	3	dol
+3	črkami	črka	_	_	_
+
+VID
+0	ima	imeti	_	_	_
+1	na	na	_	2	dol
+2	grbi	grba	_	_	_
+
+VID
+0	bilo	biti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	naleteli	naleteti	_	_	_
+
+IAV
+0	ostal	ostati	_	_	_
+1	brez	brez	_	2	dol
+2	besed	beseda	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spodobilo	spodobiti	_	_	_
+
+VID
+0	Vse	ves	_	1	dol
+1	upe	up	_	2	dve
+2	stavi	staviti	_	_	_
+3	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	nadejati	nadejati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odzvale	odzvati	_	_	_
+
+IAV
+0	obračunali	obračunati	_	_	_
+1	s	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	lesketali	lesketati	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	problemov	problem	_	0	dve
+
+IRV
+0	Pogovarjali	pogovarjati	_	_	_
+1	se	se	_	0	del
+
+VID
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	igri	igra	_	0	štiri
+
+IAV
+0	odvisna	odvisen	_	_	_
+1	od	od	_	_	_
+
+IAV
+0	iz	iz	_	_	_
+1	izhaja	izhajati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spomnim	spomniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	opotekla	opoteči	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	v	v	_	2	dol
+2	lasti	last	_	0	štiri
+
+VID
+0	ima	imeti	_	_	_
+1	na	na	_	2	dol
+2	voljo	volja	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	se	se	_	2	del
+2	spozna	spoznati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spodobi	spodobiti	_	_	_
+
+VID
+0	obrnila	obrniti	_	_	_
+1	hrbta	hrbet	_	0	dve
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	težav	težava	_	0	dve
+
+VID
+0	so	biti	_	_	_
+1	na	na	_	2	dol
+2	poti	pot	_	_	_
+
+VID
+0	postane	postati	_	_	_
+1	vroče	vroč	_	0	dol
+
+IRV
+0	Odločite	odločiti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	zvrsti	zvrstiti	_	_	_
+
+VID
+0	pomagal	pomagati	_	_	_
+1	na	na	_	3	dol
+2	drugi	drug	_	3	dol
+3	svet	svet	_	0	štiri
+
+VID
+0	storil	storiti	_	_	_
+1	silo	sila	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	pošalila	pošaliti	_	_	_
+
+VID
+0	za	za	_	_	_
+1	izgubila	izgubiti	_	_	_
+2	sled	sled	_	1	ena
+
+IRV
+0	se	se	_	2	del
+1	z	z	_	_	_
+2	ukvarjala	ukvarjati	_	_	_
+
+VID
+0	si	se	_	1	del
+1	vzel	vzeti	_	_	_
+2	čas	čas	_	1	dve
+
+LVC.cause
+0	imele	imeti	_	_	_
+1	vpliva	vpliv	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zbali	zbati	_	_	_
+
+LVC.cause
+0	nima	imeti	_	_	_
+1	vpliva	vpliv	_	0	dve
+
+IRV
+0	si	se	_	1	del
+1	ogledala	ogledati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	vzrok	vzrok	_	0	dve
+
+IRV
+0	bojijo	bati	_	_	_
+1	se	se	_	0	del
+
+LVC.full
+0	ima	imeti	_	_	_
+1	prednosti	prednost	_	_	_
+
+IRV
+0	udeležilo	udeležiti	_	_	_
+1	se	se	_	0	del
+
+VID
+0	je	biti	_	_	_
+1	pika	pika	_	_	_
+2	na	na	_	3	dol
+3	i	i	_	1	dol
+
+IRV
+0	se	se	_	1	del
+1	zgodijo	zgoditi	_	_	_
+
+VID
+0	Jasno	jasen	_	1	dol
+1	je	biti	_	_	_
+
+IRV
+0	Si	se	_	1	del
+1	predstavljate	predstavljati	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	prizadevati	prizadevati	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	težnjo	težnja	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	dotakne	dotakniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	norčujejo	norčevati	_	_	_
+
+VID
+0	naredil	narediti	_	_	_
+1	svoje	svoj	_	0	dve
+
+IAV
+0	Na	na	_	_	_
+1	vplival	vplivati	_	_	_
+
+IAV
+0	razpolaga	razpolagati	_	_	_
+1	s	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zoperstavljati	zoperstavljati	_	_	_
+
+IAV
+0	Za	za	_	_	_
+1	veljajo	veljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	strinjam	strinjati	_	_	_
+
+VID
+0	se	se	_	1	del
+1	povzpeti	povzpeti	_	_	_
+2	na	na	_	3	dol
+3	stopničko	stopnička	_	1	štiri
+
+IAV
+0	poskrbela	poskrbeti	_	_	_
+1	za	za	_	_	_
+
+LVC.full
+0	Ima	imeti	_	_	_
+1	ambicije	ambicija	_	0	dve
+
+LVC.full
+0	Mnenja	mnenje	_	1	štiri
+1	je	biti	_	_	_
+
+IAV
+0	V	v	_	_	_
+1	videti	videti	_	_	_
+
+LVC.cause
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	interesu	interes	_	0	štiri
+
+IRV
+0	na	na	_	1	dol
+1	podlagi	podlaga	_	_	_
+
+IRV
+0	potrudil	potruditi	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	osi	os	_	_	_
+
+IAV
+0	izhajajoč	izhajajoč	_	_	_
+1	iz	iz	_	_	_
+
+IAV
+0	navezali	navezati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	Zazri	zazreti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	spomni	spomniti	_	_	_
+1	se	se	_	0	del
+
+LVC.full
+0	ima	imeti	_	_	_
+1	izobrazbo	izobrazba	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zgledujejo	zgledovati	_	_	_
+
+VID
+0	jo	on	_	1	dve
+1	mahnete	mahniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	podate	podati	_	_	_
+
+LVC.cause
+0	učinke	učinek	_	1	dve
+1	daje	dajati	_	_	_
+
+LVC.full
+0	bil	biti	_	_	_
+1	mnenja	mnenje	_	0	dol
+
+IAV
+0	prihaja	prihajati	_	_	_
+1	do	do	_	_	_
+
+IRV
+0	varovati	varovati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	izogne	izogniti	_	_	_
+
+IRV
+0	Sporazumevamo	sporazumevati	_	_	_
+1	se	se	_	0	del
+
+LVC.full
+0	izobrazbo	izobrazba	_	1	dve
+1	ima	imeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	pogovarjate	pogovarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	izmikati	izmikati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odzval	odzvati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	počutimo	počutiti	_	_	_
+
+IRV
+0	Opotekel	opoteči	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	izvirajo	izvirati	_	_	_
+1	iz	iz	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zavzema	zavzemati	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	spopadati	spopadati	_	_	_
+2	s	z	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	preizkusil	preizkusiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	udeležili	udeležiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	deli	deliti	_	_	_
+
+IAV
+0	pripeljejo	pripeljati	_	_	_
+1	do	do	_	_	_
+
+IAV
+0	Do	do	_	_	_
+1	prihajalo	prihajati	_	_	_
+
+IAV
+0	vzele	vzeti	_	_	_
+1	za	za	_	_	_
+
+IAV
+0	pristajajo	pristajati	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spomni	spomniti	_	_	_
+
+VID
+0	vlogo	vloga	_	1	dve
+1	odigral	odigrati	_	_	_
+
+VID
+0	ob	ob	_	1	dol
+1	bok	bok	_	2	štiri
+2	postavil	postaviti	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	napake	napaka	_	0	dve
+
+VID
+0	upov	up	_	1	dve
+1	polagajo	polagati	_	_	_
+2	na	na	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	tepejo	tepsti	_	_	_
+2	za	za	_	_	_
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	naskok	naskok	_	0	dve
+
+IAV
+0	na	na	_	_	_
+1	vpliva	vplivati	_	_	_
+
+IAV
+0	Se	se	_	1	del
+1	soočamo	soočati	_	_	_
+2	s	z	_	_	_
+
+VID
+0	odšel	oditi	_	_	_
+1	s	z	_	2	dol
+2	trebuhom	trebuh	_	0	dve
+3	za	za	_	4	dol
+4	kruhom	kruh	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	vračali	vračati	_	_	_
+
+VID
+0	Strah	strah	_	1	ena
+1	bilo	biti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	odzivati	odzivati	_	_	_
+
+VID
+0	trenila	treniti	_	_	_
+1	z	z	_	2	dol
+2	očesom	oko	_	0	dve
+
+LVC.full
+0	imela	imeti	_	_	_
+1	pripombo	pripomba	_	0	dve
+
+LVC.full
+0	imela	imeti	_	_	_
+1	opazko	opazka	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ujemati	ujemati	_	_	_
+
+IAV
+0	odstopa	odstopati	_	_	_
+1	od	od	_	_	_
+
+IAV
+0	se	se	_	1	del
+1	poigravamo	poigravati	_	_	_
+2	s	z	_	_	_
+
+VID
+0	imamo	imeti	_	_	_
+1	opravka	opravek	_	0	dve
+2	s	z	_	_	_
+
+LVC.full
+0	nima	imeti	_	_	_
+1	povezave	povezava	_	0	dve
+
+VID
+0	igrajo	igrati	_	_	_
+1	vlogo	vloga	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	prijeli	prijeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	znajdemo	znajti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	masti	mastiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	začelo	začeti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	šoku	šok	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	zaletita	zaleteti	_	_	_
+
+VID
+0	vlekli	vleči	_	_	_
+1	na	na	_	2	dol
+2	plan	plan	_	0	štiri
+
+IAV
+0	se	se	_	1	del
+1	spravljamo	spravljati	_	_	_
+2	nad	nad	_	_	_
+
+IAV
+0	nad	nad	_	_	_
+1	šli	iti	_	_	_
+
+VID
+0	imata	imeti	_	_	_
+1	zeleno	zelen	_	2	dol
+2	luč	luč	_	0	dve
+
+VID
+0	dajte	dati	_	_	_
+1	košarice	košarica	_	0	dve
+
+LVC.full
+0	imela	imeti	_	_	_
+1	težav	težava	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	zastrmela	zastrmeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	spominjal	spominjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zastrmel	zastrmeti	_	_	_
+
+IRV
+0	Ozrl	ozreti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	bale	bati	_	_	_
+
+LVC.full
+0	imam	imeti	_	_	_
+1	napade	napad	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	premislila	premisliti	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	na	na	_	2	dol
+2	preži	preža	_	0	štiri
+
+IAV
+0	se	se	_	1	del
+1	vtikati	vtikati	_	_	_
+2	v	v	_	_	_
+
+VID
+0	mignila	migniti	_	_	_
+1	s	z	_	2	dol
+2	prstom	prst	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	potuhnil	potuhniti	_	_	_
+
+IAV
+0	vplivali	vplivati	_	_	_
+1	na	na	_	_	_
+
+VID
+0	vtisnil	vtisniti	_	_	_
+1	v	v	_	2	dol
+2	spomin	spomin	_	0	štiri
+
+VID
+0	se	se	_	1	del
+1	vtisnil	vtisniti	_	_	_
+2	v	v	_	3	dol
+3	spomin	spomin	_	1	štiri
+
+IRV
+0	si	se	_	1	del
+1	misli	misliti	_	_	_
+
+IRV
+0	srečevala	srečevati	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	se	se	_	2	del
+1	s	z	_	_	_
+2	ukvarjal	ukvarjati	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	težav	težava	_	0	dve
+
+VID
+0	prešteli	prešteti	_	_	_
+1	na	na	_	2	dol
+2	prste	prst	_	0	štiri
+3	ene	en	_	4	dol
+4	roke	roka	_	2	dol
+
+IRV
+0	se	se	_	1	del
+1	zahvalil	zahvaliti	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	skrbi	skrb	_	0	dve
+
+IRV
+0	si	se	_	1	del
+1	privošči	privoščiti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	rodi	roditi	_	_	_
+
+LVC.full
+0	je	biti	_	_	_
+1	v	v	_	2	dol
+2	dvomih	dvom	_	0	štiri
+
+IRV
+0	se	se	_	1	del
+1	nagibajo	nagibati	_	_	_
+
+IAV
+0	Na	na	_	_	_
+1	se	se	_	2	del
+2	navezuje	navezovati	_	_	_
+
+IAV
+0	do	do	_	_	_
+1	pripeljalo	pripeljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zarežal	zarežati	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	pred	pred	_	2	dol
+2	vrati	vrata	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zahahljal	zahahljati	_	_	_
+
+IRV
+0	začelo	začeti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	pomerijo	pomeriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	strinjale	strinjati	_	_	_
+
+IAV
+0	Do	do	_	_	_
+1	prišel	priti	_	_	_
+
+VID
+0	dela	delati	_	_	_
+1	škodo	škoda	_	0	dve
+
+VID
+0	dela	delati	_	_	_
+1	preglavic	preglavica	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	odziva	odzivati	_	_	_
+
+VID
+0	ji	on	_	1	dve
+1	ni	biti	_	_	_
+2	para	par	_	1	ena
+
+IAV
+0	Za	za	_	_	_
+1	skrbi	skrbeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	prerekajo	prerekati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	vrnilo	vrniti	_	_	_
+
+VID
+0	prišlo	priti	_	_	_
+1	pod	pod	_	2	dol
+2	roke	roka	_	0	štiri
+
+IRV
+0	Pojavile	pojaviti	_	_	_
+1	se	se	_	0	del
+
+LVC.full
+0	imel	imeti	_	_	_
+1	pomanjkljivosti	pomanjkljivost	_	0	dve
+
+VID
+0	stvari	stvar	_	1	dve
+1	postavila	postaviti	_	_	_
+2	na	na	_	4	dol
+3	pravo	pravi	_	4	dol
+4	mesto	mesto	_	1	dve
+
+VID
+0	s	z	_	1	dol
+1	pogledom	pogled	_	2	dve
+2	objela	objeti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ozrla	ozreti	_	_	_
+
+VID
+0	sta	biti	_	_	_
+1	v	v	_	2	dol
+2	porastu	porast	_	0	štiri
+
+IAV
+0	vpliva	vplivati	_	_	_
+1	tudi	tudi	_	_	_
+
+IRV
+0	si	se	_	1	del
+1	zamišljamo	zamišljati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	potruditi	potruditi	_	_	_
+
+LVC.full
+0	dati	dati	_	_	_
+1	zgled	zgled	_	0	dve
+
+IRV
+0	si	se	_	1	del
+1	zapomnite	zapomniti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zahvalite	zahvaliti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	dotaknili	dotakniti	_	_	_
+
+VID
+0	si	se	_	2	del
+1	nisem	biti	_	2	del
+2	mogel	moči	_	_	_
+3	kaj	kaj	_	2	dve
+
+IRV
+0	Izteklo	izteči	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	dogovarjati	dogovarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	strinjati	strinjati	_	_	_
+
+VID
+0	Ni	biti	_	_	_
+1	žal	žal	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	poslovila	posloviti	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	priložnost	priložnost	_	0	dve
+
+LVC.full
+0	Imela	imeti	_	_	_
+1	zveze	zveza	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	znajti	znajti	_	_	_
+
+IRV
+0	Spomnim	spomniti	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	znašli	znajti	_	_	_
+1	se	se	_	0	del
+
+IAV
+0	s	z	_	_	_
+1	se	se	_	2	del
+2	ukvarjate	ukvarjati	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	ponaša	ponašati	_	_	_
+
+LVC.cause
+0	imela	imeti	_	_	_
+1	posledice	posledica	_	0	dve
+
+IRV
+0	se	se	_	1	del
+1	vrniti	vrniti	_	_	_
+
+LVC.full
+0	nimajo	imeti	_	_	_
+1	izhodišč	izhodišče	_	0	dve
+
+LVC.full
+0	nimajo	imeti	_	_	_
+1	potreb	potreba	_	_	_
+
+LVC.full
+0	nimajo	imeti	_	_	_
+1	možnosti	možnost	_	_	_
+
+LVC.full
+0	nimajo	imeti	_	_	_
+1	interesov	interes	_	_	_
+
+IRV
+0	Bližamo	bližati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	zdela	zdeti	_	_	_
+
+IRV
+0	Strinjam	strinjati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	meriti	meriti	_	_	_
+
+IRV
+0	se	se	_	1	del
+1	zavedela	zavedeti	_	_	_
+
+VID
+0	Rada	rad	_	_	_
+1	imela	imeti	_	_	_
+
+IRV
+0	zavedala	zavedati	_	_	_
+1	se	se	_	0	del
+
+IRV
+0	se	se	_	1	del
+1	spomnila	spomniti	_	_	_
+
+IRV
+0	motiš	motiti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zdi	zdeti	_	_	_
+
+IAV
+0	za	za	_	_	_
+1	stale	stati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	sporazumejo	sporazumeti	_	_	_
+
+IAV
+0	Do	do	_	_	_
+1	prišla	priti	_	_	_
+
+IRV
+0	Postaral	postarati	_	_	_
+1	se	se	_	_	_
+
+LVC.full
+0	nimam	imeti	_	_	_
+1	moči	moč	_	_	_
+
+IAV
+0	ni	biti	_	_	_
+1	do	do	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zaletim	zaleteti	_	_	_
+
+VID
+0	nima	imeti	_	_	_
+1	smisla	smisel	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	počutil	počutiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	ukvarjaš	ukvarjati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pogovarjamo	pogovarjati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zarežijo	zarežati	_	_	_
+
+IRV
+0	sežem	seči	_	_	_
+1	po	po	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	znebiti	znebiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	rodili	roditi	_	_	_
+
+VID
+0	stiskam	stiskati	_	_	_
+1	zobe	zob	_	_	_
+
+IRV
+0	Zdelo	zdeti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odloča	odločati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	boji	bati	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	domišljajo	domišljati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	pravico	pravica	_	_	_
+
+VID
+0	so	biti	_	_	_
+1	v	v	_	_	_
+2	sporu	spor	_	_	_
+
+VID
+0	se	se	_	_	_
+1	podrl	podreti	_	_	_
+2	svet	svet	_	_	_
+
+VID
+0	bil	biti	_	_	_
+1	ves	ves	_	_	_
+2	iz	iz	_	_	_
+3	sebe	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	drži	držati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pogovarjaš	pogovarjati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	gredo	iti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	oglasila	oglasiti	_	_	_
+
+IAV
+0	zapadlo	zapasti	_	_	_
+1	v	v	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	ukvarjal	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zdimo	zdeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	oglasim	oglasiti	_	_	_
+
+IAV
+0	naletela	naleteti	_	_	_
+1	na	na	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	zatopila	zatopiti	_	_	_
+2	vanjo	vame	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zdela	zdeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odločil	odločiti	_	_	_
+
+IRV
+0	Predstavljal	predstavljati	_	_	_
+1	si	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odziva	odzivati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	držal	držati	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	nanaša	nanašati	_	_	_
+2	na	na	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	prikazal	prikazati	_	_	_
+
+IRV
+0	Bližal	bližati	_	_	_
+1	se	se	_	_	_
+
+IAV
+0	na	na	_	_	_
+1	se	se	_	_	_
+2	obrne	obrniti	_	_	_
+
+VID
+0	kar	kar	_	_	_
+1	se	se	_	_	_
+2	da	dati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zavedal	zavedati	_	_	_
+
+LVC.full
+0	bili	biti	_	_	_
+1	mnenja	mnenje	_	_	_
+
+IAV
+0	Za	za	_	_	_
+1	štejejo	šteti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	lotili	lotiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	upre	upreti	_	_	_
+
+VID
+0	plača	plačati	_	_	_
+1	ceno	cena	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	upira	upirati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dogaja	dogajati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	da	dati	_	_	_
+
+IRV
+0	Trudimo	truditi	_	_	_
+1	se	se	_	_	_
+
+VID
+0	beseda	beseda	_	_	_
+1	ni	biti	_	_	_
+2	postala	postati	_	_	_
+3	meso	meso	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	zamislila	zamisliti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odločili	odločiti	_	_	_
+
+IRV
+0	še	še	_	_	_
+1	spomnite	spomniti	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	spraviti	spraviti	_	_	_
+2	nad	nad	_	_	_
+
+VID
+0	vzeti	vzeti	_	_	_
+1	v	v	_	_	_
+2	roke	roka	_	_	_
+
+VID
+0	ima	imeti	_	_	_
+1	za	za	_	_	_
+2	seboj	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	borili	boriti	_	_	_
+
+LVC.cause
+0	narediti	narediti	_	_	_
+1	vtis	vtis	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	razšel	raziti	_	_	_
+2	z	z	_	_	_
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	sreče	sreča	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odločamo	odločati	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	obrniti	obrniti	_	_	_
+2	na	na	_	_	_
+
+IAV
+0	postregli	postreči	_	_	_
+1	s	z	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	borijo	boriti	_	_	_
+
+LVC.full
+0	imela	imeti	_	_	_
+1	občutek	občutek	_	_	_
+
+VID
+0	šel	iti	_	_	_
+1	v	v	_	_	_
+2	pozabo	pozaba	_	_	_
+
+LVC.full
+0	nima	imeti	_	_	_
+1	zaslug	zasluga	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	poslovil	posloviti	_	_	_
+
+VID
+0	ima	imeti	_	_	_
+1	zadosti	zadosti	_	_	_
+
+IRV
+0	Se	se	_	_	_
+1	odločiti	odločiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	vračamo	vračati	_	_	_
+
+VID
+0	lekcijo	lekcija	_	_	_
+1	dobili	dobiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	razvnela	razvneti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	povzpelo	povzpeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	vrnem	vrniti	_	_	_
+
+VID
+0	dela	delati	_	_	_
+1	kot	kot	_	_	_
+2	svinja	svinja	_	_	_
+3	z	z	_	_	_
+4	mehom	meh	_	_	_
+
+VID
+0	temu	ta	_	_	_
+1	ni	biti	_	_	_
+2	tako	tako	_	_	_
+
+VID
+0	kot	kot	_	_	_
+1	se	se	_	_	_
+2	zdi	zdeti	_	_	_
+
+VID
+0	kot	kot	_	_	_
+1	radi	rad	_	_	_
+2	rečemo	reči	_	_	_
+
+VID
+0	smo	biti	_	_	_
+1	priča	priča	_	_	_
+
+IAV
+0	računamo	računati	_	_	_
+1	s	z	_	_	_
+
+VID
+0	bije	biti	_	_	_
+1	plat	plat	_	_	_
+2	zvona	zvon	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	zanj	zame	_	_	_
+2	potegovali	potegovati	_	_	_
+
+VID
+0	prirasejo	prirasti	_	_	_
+1	k	k	_	_	_
+2	srcu	srce	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	ukvarjali	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IRV
+0	Izkazali	izkazati	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	udeležili	udeležiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	usidrali	usidrati	_	_	_
+
+IRV
+0	Se	se	_	_	_
+1	zavedajo	zavedati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	sklicujejo	sklicevati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	vrnete	vrniti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zatikajo	zatikati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	sestala	sestati	_	_	_
+
+LVC.cause
+0	daje	dajati	_	_	_
+1	upanje	upanje	_	_	_
+
+LVC.full
+0	vprašanje	vprašanje	_	_	_
+1	postavili	postaviti	_	_	_
+
+IAV
+0	za	za	_	_	_
+1	si	biti	_	_	_
+
+IAV
+0	si	biti	_	_	_
+1	proti	proti	_	_	_
+
+LVC.cause
+0	zbujajo	zbujati	_	_	_
+1	vtis	vtis	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	strinjali	strinjati	_	_	_
+
+VID
+0	požrli	požreti	_	_	_
+1	cmok	cmok	_	_	_
+
+IAV
+0	naletite	naleteti	_	_	_
+1	na	na	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zgodi	zgoditi	_	_	_
+
+VID
+0	zaškrtate	zaškrtati	_	_	_
+1	z	z	_	_	_
+2	zobmi	zob	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	počutila	počutiti	_	_	_
+
+LVC.full
+0	imamo	imeti	_	_	_
+1	spoštovanje	spoštovanje	_	_	_
+
+LVC.full
+0	Imela	imeti	_	_	_
+1	strahove	strah	_	_	_
+
+LVC.full
+0	dali	dati	_	_	_
+1	predloge	predlog	_	_	_
+
+IRV
+0	Sestali	sestati	_	_	_
+1	se	se	_	_	_
+
+LVC.full
+0	nima	imeti	_	_	_
+1	vstopa	vstop	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	v	v	_	_	_
+2	povojih	povoj	_	_	_
+
+VID
+0	že	že	_	_	_
+1	vrabci	vrabec	_	_	_
+2	čivkajo	čivkati	_	_	_
+
+IAV
+0	razglaša	razglašati	_	_	_
+1	za	za	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	nahaja	nahajati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dalo	dati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	udeleževala	udeleževati	_	_	_
+
+VID
+0	postavil	postaviti	_	_	_
+1	ob	ob	_	_	_
+2	bok	bok	_	_	_
+
+LVC.cause
+0	dati	dati	_	_	_
+1	prednost	prednost	_	_	_
+
+LVC.cause
+0	daje	dajati	_	_	_
+1	prednost	prednost	_	_	_
+
+VID
+0	padlo	pasti	_	_	_
+1	na	na	_	_	_
+2	pameti	pamet	_	_	_
+
+VID
+0	trda	trd	_	_	_
+1	prede	presti	_	_	_
+
+IRV
+0	Izkazalo	izkazati	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	izcimila	izcimiti	_	_	_
+
+VID
+0	bile	biti	_	_	_
+1	v	v	_	_	_
+2	konfliktih	konflikt	_	_	_
+
+LVC.cause
+0	nimajo	imeti	_	_	_
+1	posledic	posledica	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	ukvarja	ukvarjati	_	_	_
+2	z	z	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	cilje	cilj	_	_	_
+
+IAV
+0	pahnile	pahniti	_	_	_
+1	v	v	_	_	_
+
+VID
+0	vreči	vreči	_	_	_
+1	čez	čez	_	_	_
+2	prag	prag	_	_	_
+
+VID
+0	šla	iti	_	_	_
+1	daleč	daleč	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pustila	pustiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zgodilo	zgoditi	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	zavzema	zavzemati	_	_	_
+2	za	za	_	_	_
+
+VID
+0	greš	iti	_	_	_
+1	po	po	_	_	_
+2	poti	pot	_	_	_
+
+IAV
+0	skrbeli	skrbeti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	imajo	imeti	_	_	_
+1	na	na	_	_	_
+2	voljo	volja	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	v	v	_	_	_
+2	redu	red	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zvrstile	zvrstiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pogovarjal	pogovarjati	_	_	_
+
+VID
+0	bo	biti	_	_	_
+1	zunaj	zunaj	_	_	_
+
+IAV
+0	imela	imeti	_	_	_
+1	za	za	_	_	_
+
+VID
+0	padli	pasti	_	_	_
+1	v	v	_	_	_
+2	nemilost	nemilost	_	_	_
+
+IRV
+0	Znašli	znajti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	nasmehnil	nasmehniti	_	_	_
+
+LVC.cause
+0	delala	delati	_	_	_
+1	preglavic	preglavica	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	obneslo	obnesti	_	_	_
+
+VID
+0	nista	biti	_	_	_
+1	mogli	moči	_	_	_
+2	do	do	_	_	_
+3	živega	živ	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zavedajo	zavedati	_	_	_
+
+VID
+0	segla	seči	_	_	_
+1	v	v	_	_	_
+2	srce	srce	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pogovorimo	pogovoriti	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	zatisnil	zatisniti	_	_	_
+2	očesa	oko	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pritožuje	pritoževati	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	upajo	upati	_	_	_
+
+IRV
+0	izkazal	izkazati	_	_	_
+1	se	se	_	_	_
+
+VID
+0	so	biti	_	_	_
+1	na	na	_	_	_
+2	voljo	volja	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	spozna	spoznati	_	_	_
+2	na	na	_	_	_
+
+VID
+0	prevzeli	prevzeti	_	_	_
+1	v	v	_	_	_
+2	svoje	svoj	_	_	_
+3	roke	roka	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	trudiš	truditi	_	_	_
+
+VID
+0	spravil	spraviti	_	_	_
+1	v	v	_	_	_
+2	dobro	dober	_	_	_
+3	voljo	volja	_	_	_
+
+VID
+0	zaprli	zapreti	_	_	_
+1	poglavje	poglavje	_	_	_
+
+LVC.full
+0	obljubo	obljuba	_	_	_
+1	dali	dati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pripetilo	pripetiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	poznanima	poznan	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	ogledali	ogledati	_	_	_
+
+LVC.full
+0	podporo	podpora	_	_	_
+1	imam	imeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	spominja	spominjati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	soočila	soočiti	_	_	_
+
+VID
+0	nosite	nositi	_	_	_
+1	v	v	_	_	_
+2	mislih	misel	_	_	_
+
+IRV
+0	Upirala	upirati	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	počutita	počutiti	_	_	_
+
+LVC.full
+0	zastaviti	zastaviti	_	_	_
+1	vprašanje	vprašanje	_	_	_
+
+LVC.cause
+0	naredili	narediti	_	_	_
+1	vtisa	vtis	_	_	_
+
+LVC.cause
+0	spravilo	spraviti	_	_	_
+1	v	v	_	_	_
+2	smeh	smeh	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	poigravati	poigravati	_	_	_
+2	z	z	_	_	_
+
+VID
+0	ima	imeti	_	_	_
+1	na	na	_	_	_
+2	razpolago	razpolaga	_	_	_
+
+IRV
+0	Spomnil	spomniti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	potrudili	potruditi	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odvija	odvijati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	sukali	sukati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	bal	bati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	želje	želja	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zavedati	zavedati	_	_	_
+
+VID
+0	Časi	čas	_	_	_
+1	se	se	_	_	_
+2	spreminjajo	spreminjati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	poklonil	pokloniti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	polenili	poleniti	_	_	_
+
+VID
+0	Na	na	_	_	_
+1	ogled	ogled	_	_	_
+2	so	biti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	udeležiti	udeležiti	_	_	_
+
+VID
+0	pljunili	pljuniti	_	_	_
+1	v	v	_	_	_
+2	roke	roka	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	srečujem	srečevati	_	_	_
+2	s	z	_	_	_
+
+VID
+0	kot	kot	_	_	_
+1	sem	biti	_	_	_
+2	dolg	dolg	_	_	_
+3	in	in	_	_	_
+4	širok	širok	_	_	_
+
+IRV
+0	Dogajalo	dogajati	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	Ogibajmo	ogibati	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zavedajmo	zavedati	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	mislimo	misliti	_	_	_
+
+LVC.cause
+0	učinke	učinek	_	_	_
+1	daje	dajati	_	_	_
+
+IAV
+0	postregel	postreči	_	_	_
+1	s	z	_	_	_
+
+VID
+0	pridejo	priti	_	_	_
+1	prav	prav	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	izgubimo	izgubiti	_	_	_
+
+IRV
+0	Izkaže	izkazati	_	_	_
+1	se	se	_	_	_
+
+VID
+0	pride	priti	_	_	_
+1	do	do	_	_	_
+2	izraza	izraz	_	_	_
+
+VID
+0	prišel	priti	_	_	_
+1	na	na	_	_	_
+2	zamisel	zamisel	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	vrnemo	vrniti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	udeležil	udeležiti	_	_	_
+
+IAV
+0	pripeljal	pripeljati	_	_	_
+1	do	do	_	_	_
+
+VID
+0	hočeš	hoteti	_	_	_
+1	nočeš	hoteti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odpovedati	odpovedati	_	_	_
+
+IAV
+0	gledajo	gledati	_	_	_
+1	na	na	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	zavzemamo	zavzemati	_	_	_
+2	za	za	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	izliva	izlivati	_	_	_
+2	v	v	_	_	_
+
+IRV
+0	Si	se	_	_	_
+1	omislili	omisliti	_	_	_
+
+IRV
+0	Se	se	_	_	_
+1	motim	motiti	_	_	_
+
+VID
+0	pred	pred	_	_	_
+1	vrati	vrata	_	_	_
+2	so	biti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	glasi	glasiti	_	_	_
+
+LVC.full
+0	Imamo	imeti	_	_	_
+1	stike	stik	_	_	_
+
+LVC.full
+0	stikov	stik	_	_	_
+1	imela	imeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odpove	odpovedati	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	zapomnijo	zapomniti	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	zapomniš	zapomniti	_	_	_
+
+LVC.full
+0	Imeti	imeti	_	_	_
+1	pravico	pravica	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	posloviti	posloviti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	izplača	izplačati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	poti	potiti	_	_	_
+
+IAV
+0	oskrbijo	oskrbeti	_	_	_
+1	z	z	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dokazovati	dokazovati	_	_	_
+
+LVC.full
+0	težave	težava	_	_	_
+1	imajo	imeti	_	_	_
+
+IAV
+0	smo	biti	_	_	_
+1	proti	proti	_	_	_
+
+IAV
+0	Nismo	biti	_	_	_
+1	proti	proti	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	prizadevajo	prizadevati	_	_	_
+
+VID
+0	si	se	_	_	_
+1	da	dati	_	_	_
+2	dela	delo	_	_	_
+3	s	z	_	_	_
+
+IRV
+0	Pogovorita	pogovoriti	_	_	_
+1	se	se	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	možnost	možnost	_	_	_
+
+LVC.full
+0	Imel	imeti	_	_	_
+1	srečo	sreča	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	privoščiti	privoščiti	_	_	_
+
+IRV
+0	Zdi	zdeti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	oddahnite	oddahniti	_	_	_
+
+VID
+0	si	se	_	_	_
+1	utrgati	utrgati	_	_	_
+2	časa	čas	_	_	_
+
+VID
+0	prav	prav	_	_	_
+1	pridejo	priti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zasmilijo	zasmiliti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odpravimo	odpraviti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	prebijemo	prebiti	_	_	_
+
+IRV
+0	bojimo	bati	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	sestal	sestati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	prihulil	prihuliti	_	_	_
+
+IRV
+0	priplazijo	priplaziti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	ozre	ozreti	_	_	_
+
+IRV
+0	Pridružil	pridružiti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	soočali	soočati	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	dovolila	dovoliti	_	_	_
+
+LVC.full
+0	potrebe	potreba	_	_	_
+1	imajo	imeti	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	vživeti	vživeti	_	_	_
+2	v	v	_	_	_
+
+LVC.full
+0	učinek	učinek	_	_	_
+1	imajo	imeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pojavila	pojaviti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pojavilo	pojaviti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odzvala	odzvati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pridružila	pridružiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	držim	držati	_	_	_
+
+VID
+0	dati	dati	_	_	_
+1	vse	ves	_	_	_
+2	od	od	_	_	_
+3	sebe	se	_	_	_
+
+LVC.cause
+0	Ima	imeti	_	_	_
+1	posledice	posledica	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	boriti	boriti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zataknilo	zatakniti	_	_	_
+
+VID
+0	šlo	iti	_	_	_
+1	dobro	dobro	_	_	_
+
+VID
+0	šlo	iti	_	_	_
+1	od	od	_	_	_
+2	rok	roka	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	posrečil	posrečiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	udeležila	udeležiti	_	_	_
+
+IAV
+0	opravila	opraviti	_	_	_
+1	s	z	_	_	_
+
+VID
+0	so	biti	_	_	_
+1	na	na	_	_	_
+2	trnih	trn	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dogajajo	dogajati	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	pregled	pregled	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	obrnjeno	obrnjen	_	_	_
+2	na	na	_	_	_
+3	glavo	glava	_	_	_
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	prednost	prednost	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	ukvarja	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	ukvarjajo	ukvarjati	_	_	_
+2	z	z	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pojavi	pojaviti	_	_	_
+
+VID
+0	naredi	narediti	_	_	_
+1	svoje	svoj	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	prav	prav	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pojavljajo	pojavljati	_	_	_
+
+VID
+0	zaidejo	zaiti	_	_	_
+1	v	v	_	_	_
+2	vode	voda	_	_	_
+
+IAV
+0	Do	do	_	_	_
+1	prišlo	priti	_	_	_
+
+LVC.full
+0	je	biti	_	_	_
+1	mnenja	mnenje	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	boril	boriti	_	_	_
+
+IRV
+0	zdelo	zdeti	_	_	_
+1	se	se	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	govore	govor	_	_	_
+
+LVC.full
+0	imel	imeti	_	_	_
+1	srečanja	srečanje	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	ločil	ločiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	poročil	poročiti	_	_	_
+
+LVC.full
+0	nimate	imeti	_	_	_
+1	težav	težava	_	_	_
+
+VID
+0	šlo	iti	_	_	_
+1	po	po	_	_	_
+2	načrtih	načrt	_	_	_
+
+VID
+0	Steklo	steči	_	_	_
+1	kot	kot	_	_	_
+2	namazano	namazan	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dogovorili	dogovoriti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	smeje	smejati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zahvalil	zahvaliti	_	_	_
+
+VID
+0	zatresel	zatresti	_	_	_
+1	hlače	hlače	_	_	_
+
+VID
+0	obraz	obraz	_	_	_
+1	razjasnil	razjasniti	_	_	_
+
+IAV
+0	Nanj	name	_	_	_
+1	računati	računati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	daniti	daniti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	priplazila	priplaziti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	razlegalo	razlegati	_	_	_
+
+VID
+0	dosegli	doseči	_	_	_
+1	vrh	vrh	_	_	_
+
+VID
+0	našli	najti	_	_	_
+1	prostor	prostor	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	občutek	občutek	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	udeleži	udeležiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dogovoril	dogovoriti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	izkazali	izkazati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odzvali	odzvati	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	zavzemali	zavzemati	_	_	_
+2	za	za	_	_	_
+
+IAV
+0	odvrniti	odvrniti	_	_	_
+1	od	od	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	spovedujejo	spovedovati	_	_	_
+
+LVC.full
+0	dal	dati	_	_	_
+1	pobudo	pobuda	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zahvaljujemo	zahvaljevati	_	_	_
+
+VID
+0	šlo	iti	_	_	_
+1	na	na	_	_	_
+2	roke	roka	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	stvar	stvar	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	prikazala	prikazati	_	_	_
+
+IRV
+0	Bliža	bližati	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pozanimali	pozanimati	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	ogledajo	ogledati	_	_	_
+
+IAV
+0	šlo	iti	_	_	_
+1	v	v	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	obnesla	obnesti	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	prizadeva	prizadevati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dogajalo	dogajati	_	_	_
+
+IRV
+0	Prizadevamo	prizadevati	_	_	_
+1	si	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zaletavali	zaletavati	_	_	_
+
+VID
+0	na	na	_	_	_
+1	pomoč	pomoč	_	_	_
+2	poklicali	poklicati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	godilo	goditi	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	premislila	premisliti	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	vlogo	vloga	_	_	_
+
+VID
+0	Je	biti	_	_	_
+1	res	res	_	_	_
+
+VID
+0	potegnili	potegniti	_	_	_
+1	črte	črta	_	_	_
+
+VID
+0	na	na	_	_	_
+1	pomoč	pomoč	_	_	_
+2	priskočila	priskočiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	lotiti	lotiti	_	_	_
+
+VID
+0	pove	povedati	_	_	_
+1	svoje	svoj	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	znašel	znajti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	počutite	počutiti	_	_	_
+
+VID
+0	imate	imeti	_	_	_
+1	radi	rad	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	samozadovoljujejo	samozadovoljevati	_	_	_
+
+VID
+0	gre	iti	_	_	_
+1	od	od	_	_	_
+2	rok	roka	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	tiče	tikati	_	_	_
+
+VID
+0	imeli	imeti	_	_	_
+1	opravka	opravek	_	_	_
+2	s	z	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	sprijazniti	sprijazniti	_	_	_
+
+IAV
+0	Do	do	_	_	_
+1	prihaja	prihajati	_	_	_
+
+VID
+0	odigrajo	odigrati	_	_	_
+1	vlogo	vloga	_	_	_
+
+LVC.full
+0	imajo	imeti	_	_	_
+1	lastnost	lastnost	_	_	_
+
+LVC.cause
+0	nimajo	imeti	_	_	_
+1	vpliva	vpliv	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	soočamo	soočati	_	_	_
+2	s	z	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	ukvarjajo	ukvarjati	_	_	_
+2	s	z	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dotaknilo	dotakniti	_	_	_
+
+VID
+0	prišlo	priti	_	_	_
+1	prav	prav	_	_	_
+
+VID
+0	zaušnico	zaušnica	_	_	_
+1	prisolil	prisoliti	_	_	_
+
+VID
+0	kdo	kdo	_	_	_
+1	ve	vedeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pomenita	pomeniti	_	_	_
+
+VID
+0	Strah	strah	_	_	_
+1	je	biti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	udeležijo	udeležiti	_	_	_
+
+LVC.full
+0	problem	problem	_	_	_
+1	ima	imeti	_	_	_
+
+IAV
+0	razpravljal	razpravljati	_	_	_
+1	o	o	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	status	status	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zgleduje	zgledovati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	sklada	skladati	_	_	_
+
+LVC.full
+0	je	biti	_	_	_
+1	v	v	_	_	_
+2	prednosti	prednost	_	_	_
+
+VID
+0	odprl	odpreti	_	_	_
+1	srce	srce	_	_	_
+
+VID
+0	dajal	dajati	_	_	_
+1	videz	videz	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pojavil	pojaviti	_	_	_
+
+IAV
+0	pripravite	pripraviti	_	_	_
+1	do	do	_	_	_
+
+VID
+0	ima	imeti	_	_	_
+1	rada	rad	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	povzpel	povzpeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pomudite	pomuditi	_	_	_
+
+LVC.cause
+0	Vzrok	vzrok	_	_	_
+1	je	biti	_	_	_
+
+IRV
+0	Pojavila	pojaviti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	nahajajo	nahajati	_	_	_
+
+IRV
+0	Pojavile	pojaviti	_	_	_
+1	se	se	_	_	_
+
+IAV
+0	pretvori	pretvoriti	_	_	_
+1	v	v	_	_	_
+
+VID
+0	bo	biti	_	_	_
+1	moč	moč	_	_	_
+
+VID
+0	je	biti	_	_	_
+1	na	na	_	_	_
+2	voljo	volja	_	_	_
+
+IRV
+0	Zavedal	zavedati	_	_	_
+1	se	se	_	_	_
+
+LVC.cause
+0	zasluge	zasluga	_	_	_
+1	imel	imeti	_	_	_
+
+IRV
+0	Spominjam	spominjati	_	_	_
+1	se	se	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	naslonili	nasloniti	_	_	_
+2	na	na	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	izkazalo	izkazati	_	_	_
+
+VID
+0	izgublja	izgubljati	_	_	_
+1	živce	živec	_	_	_
+
+VID
+0	obrodilo	obroditi	_	_	_
+1	sadove	sad	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	ujema	ujemati	_	_	_
+2	s	z	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pojavlja	pojavljati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pojavijo	pojaviti	_	_	_
+
+IRV
+0	Veseli	veseliti	_	_	_
+1	se	se	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	čuditi	čuditi	_	_	_
+
+VID
+0	dalo	dati	_	_	_
+1	polet	polet	_	_	_
+
+IAV
+0	zahrepenel	zahrepeneti	_	_	_
+1	po	po	_	_	_
+
+VID
+0	se	se	_	_	_
+1	ujeli	ujeti	_	_	_
+2	v	v	_	_	_
+3	past	past	_	_	_
+
+VID
+0	smo	biti	_	_	_
+1	pri	pri	_	_	_
+
+VID
+0	mesto	mesto	_	_	_
+1	zasedli	zasesti	_	_	_
+
+IAV
+0	izvira	izvirati	_	_	_
+1	iz	iz	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zavzemal	zavzemati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pogovarjajo	pogovarjati	_	_	_
+
+LVC.full
+0	imeli	imeti	_	_	_
+1	stališča	stališče	_	_	_
+
+VID
+0	pride	priti	_	_	_
+1	na	na	_	_	_
+2	plan	plan	_	_	_
+
+VID
+0	zadeli	zadeti	_	_	_
+1	žebljico	žebljica	_	_	_
+2	na	na	_	_	_
+3	glavico	glavica	_	_	_
+
+IAV
+0	podkrepil	podkrepiti	_	_	_
+1	s	z	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	zgledujemo	zgledovati	_	_	_
+2	po	po	_	_	_
+
+VID
+0	segla	seči	_	_	_
+1	preko	preko	_	_	_
+2	meja	meja	_	_	_
+
+VID
+0	spremljale	spremljati	_	_	_
+1	do	do	_	_	_
+2	konca	konec	_	_	_
+3	življenja	življenje	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	pogovarjali	pogovarjati	_	_	_
+
+VID
+0	pustil	pustiti	_	_	_
+1	pri	pri	_	_	_
+2	miru	mir	_	_	_
+
+VID
+0	našel	najti	_	_	_
+1	stik	stik	_	_	_
+
+VID
+0	ujeli	ujeti	_	_	_
+1	v	v	_	_	_
+2	past	past	_	_	_
+
+VID
+0	si	se	_	_	_
+1	dajala	dajati	_	_	_
+2	opravka	opravek	_	_	_
+
+LVC.full
+0	prednost	prednost	_	_	_
+1	imel	imeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	utrga	utrgati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zdeti	zdeti	_	_	_
+
+VID
+0	dvignil	dvigniti	_	_	_
+1	kozarec	kozarec	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	zdel	zdeti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	vrne	vrniti	_	_	_
+
+IAV
+0	videti	videti	_	_	_
+1	v	v	_	_	_
+
+IAV
+0	hodi	hoditi	_	_	_
+1	v	v	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	varuje	varovati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	igra	igrati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	posmehujejo	posmehovati	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	opredeljevali	opredeljevati	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	težave	težava	_	_	_
+
+LVC.full
+0	ima	imeti	_	_	_
+1	težav	težava	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	odreže	odrezati	_	_	_
+
+VID
+0	ni	biti	_	_	_
+1	kos	kos	_	_	_
+
+IRV
+0	Ogledali	ogledati	_	_	_
+1	si	se	_	_	_
+
+IAV
+0	se	se	_	_	_
+1	s	z	_	_	_
+2	ukvarjali	ukvarjati	_	_	_
+
+VID
+0	stali	stati	_	_	_
+1	ob	ob	_	_	_
+2	strani	stran	_	_	_
+
+VID
+0	rabiš	rabiti	_	_	_
+1	orožno	orožen	_	_	_
+2	dovoljenje	dovoljenje	_	_	_
+
+IAV
+0	Na	na	_	_	_
+1	temeljila	temeljiti	_	_	_
+
+IRV
+0	se	se	_	_	_
+1	dogajale	dogajati	_	_	_
+
+LVC.full
+0	nima	imeti	_	_	_
+1	vizije	vizija	_	_	_
+
+IRV
+0	si	se	_	_	_
+1	prisvoji	prisvojiti	_	_	_
+
+IAV
+0	računati	računati	_	_	_
+1	na	na	_	_	_
+
+LVC.full
+0	imeti	imeti	_	_	_
+1	pogum	pogum	_	_	_
+

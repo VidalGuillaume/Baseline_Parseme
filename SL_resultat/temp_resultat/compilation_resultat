@@ -1,0 +1,167 @@
+==> baseline/temp_resultat/scoredev_form.txt <==
+form
+114
+## Global evaluation
+* MWE-based: P=199/1274=0.1562 R=199/500=0.3980 F=0.2244
+* Tok-based: P=483/2615=0.1847 R=483/1111=0.4347 F=0.2593
+
+==> baseline/temp_resultat/scoredev_form_deprel.txt <==
+form_deprel
+124
+## Global evaluation
+* MWE-based: P=198/1193=0.1660 R=198/500=0.3960 F=0.2339
+* Tok-based: P=471/2444=0.1927 R=471/1111=0.4239 F=0.2650
+
+==> baseline/temp_resultat/scoredev_form_deprel_order.txt <==
+form_deprel_order
+123
+## Global evaluation
+* MWE-based: P=190/806=0.2357 R=190/500=0.3800 F=0.2910
+* Tok-based: P=442/1632=0.2708 R=442/1111=0.3978 F=0.3223
+
+==> baseline/temp_resultat/scoredev_form_lemma.txt <==
+form_lemma
+124
+## Global evaluation
+* MWE-based: P=197/1215=0.1621 R=197/500=0.3940 F=0.2297
+* Tok-based: P=478/2470=0.1935 R=478/1111=0.4302 F=0.2670
+
+==> baseline/temp_resultat/scoredev_form_lemma_deprel.txt <==
+form_lemma_deprel
+127
+## Global evaluation
+* MWE-based: P=196/1146=0.1710 R=196/500=0.3920 F=0.2382
+* Tok-based: P=466/2323=0.2006 R=466/1111=0.4194 F=0.2714
+
+==> baseline/temp_resultat/scoredev_form_lemma_deprel_order.txt <==
+form_lemma_deprel_order
+129
+## Global evaluation
+* MWE-based: P=188/694=0.2709 R=188/500=0.3760 F=0.3149
+* Tok-based: P=422/1406=0.3001 R=422/1111=0.3798 F=0.3353
+
+==> baseline/temp_resultat/scoredev_form_lemma_order.txt <==
+form_lemma_order
+121
+## Global evaluation
+* MWE-based: P=189/737=0.2564 R=189/500=0.3780 F=0.3056
+* Tok-based: P=435/1496=0.2908 R=435/1111=0.3915 F=0.3337
+
+==> baseline/temp_resultat/scoredev_form_lemma_upostag.txt <==
+form_lemma_upostag
+124
+## Global evaluation
+* MWE-based: P=197/1215=0.1621 R=197/500=0.3940 F=0.2297
+* Tok-based: P=478/2470=0.1935 R=478/1111=0.4302 F=0.2670
+
+==> baseline/temp_resultat/scoredev_form_lemma_upostag_deprel.txt <==
+form_lemma_upostag_deprel
+131
+## Global evaluation
+* MWE-based: P=196/1146=0.1710 R=196/500=0.3920 F=0.2382
+* Tok-based: P=466/2323=0.2006 R=466/1111=0.4194 F=0.2714
+
+==> baseline/temp_resultat/scoredev_form_lemma_upostag_deprel_order.txt <==
+form_lemma_upostag_deprel_order
+125
+## Global evaluation
+* MWE-based: P=188/694=0.2709 R=188/500=0.3760 F=0.3149
+* Tok-based: P=422/1406=0.3001 R=422/1111=0.3798 F=0.3353
+
+==> baseline/temp_resultat/scoredev_form_lemma_upostag_order.txt <==
+form_lemma_upostag_order
+125
+## Global evaluation
+* MWE-based: P=189/737=0.2564 R=189/500=0.3780 F=0.3056
+* Tok-based: P=435/1496=0.2908 R=435/1111=0.3915 F=0.3337
+
+==> baseline/temp_resultat/scoredev_form_order.txt <==
+form_order
+113
+## Global evaluation
+* MWE-based: P=191/859=0.2224 R=191/500=0.3820 F=0.2811
+* Tok-based: P=453/1742=0.2600 R=453/1111=0.4077 F=0.3176
+
+==> baseline/temp_resultat/scoredev_form_upostag.txt <==
+form_upostag
+126
+## Global evaluation
+* MWE-based: P=199/1274=0.1562 R=199/500=0.3980 F=0.2244
+* Tok-based: P=483/2615=0.1847 R=483/1111=0.4347 F=0.2593
+
+==> baseline/temp_resultat/scoredev_form_upostag_deprel.txt <==
+form_upostag_deprel
+125
+## Global evaluation
+* MWE-based: P=198/1193=0.1660 R=198/500=0.3960 F=0.2339
+* Tok-based: P=471/2444=0.1927 R=471/1111=0.4239 F=0.2650
+
+==> baseline/temp_resultat/scoredev_form_upostag_deprel_order.txt <==
+form_upostag_deprel_order
+128
+## Global evaluation
+* MWE-based: P=190/806=0.2357 R=190/500=0.3800 F=0.2910
+* Tok-based: P=442/1632=0.2708 R=442/1111=0.3978 F=0.3223
+
+==> baseline/temp_resultat/scoredev_form_upostag_order.txt <==
+form_upostag_order
+124
+## Global evaluation
+* MWE-based: P=191/859=0.2224 R=191/500=0.3820 F=0.2811
+* Tok-based: P=453/1742=0.2600 R=453/1111=0.4077 F=0.3176
+
+==> baseline/temp_resultat/scoredev_lemma.txt <==
+lemma
+115
+## Global evaluation
+* MWE-based: P=355/4177=0.0850 R=355/500=0.7100 F=0.1518
+* Tok-based: P=827/9103=0.0908 R=827/1111=0.7444 F=0.1619
+
+==> baseline/temp_resultat/scoredev_lemma_deprel.txt <==
+lemma_deprel
+115
+## Global evaluation
+* MWE-based: P=354/3649=0.0970 R=354/500=0.7080 F=0.1706
+* Tok-based: P=818/7639=0.1071 R=818/1111=0.7363 F=0.1870
+
+==> baseline/temp_resultat/scoredev_lemma_deprel_order.txt <==
+lemma_deprel_order
+116
+## Global evaluation
+* MWE-based: P=329/2415=0.1362 R=329/500=0.6580 F=0.2257
+* Tok-based: P=747/4932=0.1515 R=747/1111=0.6724 F=0.2472
+
+==> baseline/temp_resultat/scoredev_lemma_order.txt <==
+lemma_order
+114
+## Global evaluation
+* MWE-based: P=331/2674=0.1238 R=331/500=0.6620 F=0.2086
+* Tok-based: P=765/5571=0.1373 R=765/1111=0.6886 F=0.2290
+
+==> baseline/temp_resultat/scoredev_lemma_upostag.txt <==
+lemma_upostag
+115
+## Global evaluation
+* MWE-based: P=355/4177=0.0850 R=355/500=0.7100 F=0.1518
+* Tok-based: P=827/9103=0.0908 R=827/1111=0.7444 F=0.1619
+
+==> baseline/temp_resultat/scoredev_lemma_upostag_deprel.txt <==
+lemma_upostag_deprel
+119
+## Global evaluation
+* MWE-based: P=354/3649=0.0970 R=354/500=0.7080 F=0.1706
+* Tok-based: P=818/7639=0.1071 R=818/1111=0.7363 F=0.1870
+
+==> baseline/temp_resultat/scoredev_lemma_upostag_deprel_order.txt <==
+lemma_upostag_deprel_order
+118
+## Global evaluation
+* MWE-based: P=329/2415=0.1362 R=329/500=0.6580 F=0.2257
+* Tok-based: P=747/4932=0.1515 R=747/1111=0.6724 F=0.2472
+
+==> baseline/temp_resultat/scoredev_lemma_upostag_order.txt <==
+lemma_upostag_order
+117
+## Global evaluation
+* MWE-based: P=331/2674=0.1238 R=331/500=0.6620 F=0.2086
+* Tok-based: P=765/5571=0.1373 R=765/1111=0.6886 F=0.2290
