@@ -1,0 +1,7475 @@
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	وجود	وجود	NOUN	2	compound:lvc
+2	آورد	آورد	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	فراموشی	فراموشی	NOUN	2	obl
+2	سپرده	سپرد	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	بیرون	بیرون	ADV	1	advmod
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	بین	بین	NOUN	2	obl
+2	ببرد	بر	VERB	_	_
+
+LVC.full
+0	دنبال	دنبال	NOUN	1	obj
+1	می‌گشتم	گشت	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	بسیج	بسیج	ADJ	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	_	_
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	نکردم	کرد	VERB	_	_
+
+LVC.full
+0	تقاضای	تقاضا	NOUN	1	advmod
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	نگه	نگه	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	مواجه	مواجه	NOUN	1	obl
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تهیه	تهیه	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	استفاده	استفاده	NOUN	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	اضافه	اضافه	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	متوقف	متوقف	ADJ	_	_
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	برانداز	برانداز	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	2	obl
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	پایبند	پایبند	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	صورت	صورت	NOUN	1	compound:lvc
+1	می‌گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	بکشد	کش	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خرج	خرج	NOUN	_	_
+2	می‌دادی	داد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	امان	امان	NOUN	2	obl
+2	بماند	مان	VERB	_	_
+
+LVC.full
+0	حیف	حیف	ADJ	1	amod
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	گره	گره	NOUN	1	obj
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	بیرون	بیرون	ADV	1	advmod
+1	می‌زند	زن	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	_	_
+1	دارم	دار	VERB	_	_
+
+LVC.full
+0	هل	هل	NOUN	1	obj
+1	دادند	داد	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	رها	رها	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	دست	دست	NOUN	2	compound:lvc
+2	آورد	آورد	VERB	_	_
+
+LVC.full
+0	صبر	صبر	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	advmod
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	پاک	پاک	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	چشم	چشم	NOUN	2	compound:lvc
+2	می‌خورد	خورد	VERB	_	_
+
+LVC.full
+0	صحبتی	صحبت	NOUN	1	obj
+1	نکردند	کرد	VERB	_	_
+
+LVC.full
+0	خودنمایی	خودنمایی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	سر	سر	ADP	1	case
+1	حال	حال	NOUN	2	obl
+2	آمد	آمد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	کنار	کنار	ADV	1	advmod
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	compound:lvc
+1	بگیرند	گیر	VERB	_	_
+
+LVC.full
+0	تمام	تمام	ADJ	_	_
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	می‌کنی	کن	VERB	_	_
+
+LVC.full
+0	تجزیه	تجزیه	NOUN	1	compound:lvc
+1	می‌کنیم	کن	VERB	_	_
+
+LVC.full
+0	تبدیل	تبدیل	NOUN	1	compound:lvc
+1	می‌کنیم	کن	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	قورت	قورت	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	گاز	گاز	NOUN	1	obj
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	پدید	پدید	NOUN	1	compound:lvc
+1	آمده	آمد	VERB	_	_
+
+LVC.full
+0	جان	جان	NOUN	_	_
+1	گرفته	گرفت	VERB	0	fixed
+
+LVC.full
+0	خلاص	خلاص	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	استفاده	استفاده	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	نظر	نظر	NOUN	2	compound:lvc
+2	بگیر	گیر	VERB	_	_
+
+LVC.full
+0	نیازی	نیاز	NOUN	1	obj
+1	داریم	دار	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	بدهد	ده	VERB	_	_
+
+LVC.full
+0	نیاز	نیاز	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	کار	کار	NOUN	2	compound:lvc
+2	ببریم	بر	VERB	_	_
+
+LVC.full
+0	مد	مد	ADP	1	case
+1	نظر	نظر	NOUN	_	_
+2	داشته	داشت	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	ندارد	دار	VERB	_	_
+
+LVC.full
+0	استفاده	استفاده	NOUN	1	compound:lvc
+1	می‌کردیم	کرد	VERB	_	_
+
+LVC.full
+0	کفایت	کفایت	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	xcomp
+1	می‌شوی	شو	VERB	_	_
+
+LVC.full
+0	فکری	فکر	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	ترجیح	ترجیح	NOUN	1	compound:lvc
+1	می‌دهی	ده	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	advmod
+1	نشدی	شد	VERB	_	_
+
+LVC.full
+0	مطمئن	مطمئن	ADJ	_	_
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	لب	لب	NOUN	2	obj
+1	باز	باز	ADJ	2	compound:lvc
+2	کند	کن	VERB	_	_
+
+LVC.full
+0	سعی	سعی	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تحویل	تحویل	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	گاز	گاز	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	xcomp
+1	نیستی	است	VERB	_	_
+
+LVC.full
+0	ناممکن	ناممکن	ADJ	1	compound:lvc
+1	می‌کنیم	کن	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	می‌شوند	شو	VERB	_	_
+
+LVC.full
+0	بیان	بیان	NOUN	1	obl
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	1	compound:lvc
+1	دارد	دار	VERB	_	_
+
+LVC.full
+0	احتیاجی	احتیاج	NOUN	1	nsubj
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	عنوان	عنوان	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	نمی‌شود	شو	VERB	_	_
+
+LVC.full
+0	درک	درک	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	مکث	مکث	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	کنترل	کنترل	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تردید	تردید	NOUN	_	_
+1	داشت	داشت	VERB	0	acl:relcl
+
+LVC.full
+0	از	از	ADP	_	_
+1	بین	بین	NOUN	_	_
+2	می‌رود	رو	VERB	_	_
+
+LVC.full
+0	نابود	نابود	ADJ	1	xcomp
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	تبدیل	تبدیل	NOUN	1	compound:lvc
+1	می‌شوند	شو	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	نداشته	داشت	VERB	_	_
+
+LVC.full
+0	تفاوت	تفاوت	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	obj
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	خطور	خطور	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	compound:lvc
+1	می‌زند	زن	VERB	_	_
+
+LVC.full
+0	خوش	خوش	ADJ	1	xcomp
+1	نمی‌آید	آ	VERB	_	_
+
+LVC.full
+0	تمام	تمام	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جابه‌جا	جابه‌جا	NOUN	1	fixed
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	گوش	گوش	NOUN	1	obl
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	موافقت	موافقت	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	موافق	موافق	ADJ	1	compound:lvc
+1	م	است	VERB	_	_
+
+LVC.full
+0	قطع	قطع	ADJ	1	compound:lvc
+1	نمی‌شد	شد	VERB	_	_
+
+LVC.full
+0	منعکس	منعکس	ADJ	1	xcomp
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	تشخیص	تشخیص	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	مطمئن	مطمئن	ADJ	1	advmod
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	حال	حال	NOUN	2	obl
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	وجود	وجود	NOUN	2	obl
+2	آورده	آورد	VERB	_	_
+
+LVC.full
+0	محکوم	محکوم	ADJ	_	_
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	خواهان	خواهان	NOUN	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	ستایش	ستایش	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فرقی	فرق	NOUN	1	obj
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	_	_
+1	و	و	CONJ	_	_
+2	بسته	بسته	ADJ	_	_
+3	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	هم	هم	PRON	2	obl
+2	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	ساکت	ساکت	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	فکر	فکر	NOUN	2	obl
+2	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	لو	لو	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	دچار	دچار	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	کم	کم	ADJ	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	پایبند	پایبند	ADJ	_	_
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	احترام	احترام	NOUN	1	obj
+1	می‌گذاشت	گذاشت	VERB	_	_
+
+LVC.full
+0	شادی	شادی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	متنفر	متنفر	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	برابری	برابری	NOUN	1	compound:lvc
+1	نمی‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	اعتقاد	اعتقاد	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	رفت‌وآمد	رفت‌وآمد	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	ممنوع	ممنوع	ADJ	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	حساب	حساب	NOUN	2	obl
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	جمع	جمع	ADJ	1	compound:lvc
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	پی	پی	NOUN	1	compound:lvc
+1	می‌برد	برد	VERB	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	رشد	رشد	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	بالا	بالا	ADV	_	_
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	مجسم	مجسم	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	دست	دست	NOUN	2	compound:lvc
+2	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	سلام	سلام	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	بازی	بازی	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	کن	کن	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	غلط	غلط	ADJ	_	_
+1	نکنم	کن	VERB	_	_
+
+LVC.full
+0	قد	قد	NOUN	1	compound:lvc
+1	نمی‌دهد	ده	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	کردی	کرد	VERB	_	_
+
+LVC.full
+0	صرف	صرف	NOUN	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	تلاش	تلاش	NOUN	1	compound:lvc
+1	می‌کنیم	کن	VERB	_	_
+
+LVC.full
+0	راه	راه	NOUN	1	compound:lvc
+1	بیندازیم	انداز	VERB	_	_
+
+LVC.full
+0	نمایش	نمایش	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	کوچک	کوچک	ADJ	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	هدف	هدف	NOUN	_	_
+1	گرفته	گرفت	VERB	0	fixed
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	دارند	دار	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	_	_
+1	است	است	VERB	_	_
+
+LVC.full
+0	چیکار	چیکار	PRON	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	advcl
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تعقیب	تعقیب	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	تحویل	تحویل	NOUN	1	obj
+1	می‌دهند	ده	VERB	_	_
+
+LVC.full
+0	دنبال	دنبال	NOUN	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	جا	جا	NOUN	1	obj
+1	خورده	خورد	VERB	_	_
+
+LVC.full
+0	حتم	حتم	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	جلب	جلب	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	احتمال	احتمال	NOUN	1	compound:lvc
+1	دادم	داد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	سر	سر	NOUN	0	fixed
+2	آمد	آمد	VERB	_	_
+
+LVC.full
+0	تعجبی	تعجب	NOUN	1	obj
+1	نداره	دار	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	ریسک	ریسک	NOUN	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	تایید	تایید	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	توجه	توجه	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	یافته	یافت	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	می‌دهد	ده	VERB	_	_
+
+LVC.full
+0	صورت	صورت	NOUN	1	compound:lvc
+1	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	رژه	رژه	NOUN	1	obj
+1	رفتند	رفت	VERB	_	_
+
+LVC.full
+0	فراهم	فراهم	NOUN	1	compound:lvc
+1	نموده	نمود	VERB	_	_
+
+LVC.full
+0	تقدیر	تقدیر	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	ارائه	ارائه	NOUN	_	_
+1	می‌شود	شو	VERB	0	aux:pass
+
+LVC.full
+0	تکمیل	تکمیل	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تکرار	تکرار	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	عادت	عادت	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	خیره	خیره	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	گوش	گوش	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	دنبال	دنبال	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	پر	پر	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	دقت	دقت	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	سرازیر	سرازیر	ADJ	1	compound:lvc
+1	نکند	کن	VERB	_	_
+
+LVC.full
+0	پخش	پخش	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	گوش	گوش	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	صورت	صورت	NOUN	_	_
+1	گرفته	گرفت	VERB	0	fixed
+
+LVC.full
+0	کاهش	کاهش	NOUN	1	compound:lvc
+1	می‌یابد	یاب	VERB	_	_
+
+LVC.full
+0	اعلام	اعلام	NOUN	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	_	_
+1	بود	بود	VERB	0	cop
+
+LVC.full
+0	به	به	ADP	_	_
+1	روی	رو	NOUN	0	fixed
+2	نیاوردند	آورد	VERB	_	_
+
+LVC.full
+0	ادعا	ادعا	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	وصل	وصل	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	compound:lvc
+1	انداخت	انداخت	VERB	_	_
+
+LVC.full
+0	کلک	کلک	NOUN	1	obj
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	بی‌تابی	بی‌تابی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خاطر	خاطر	NOUN	2	obl
+2	داشت	داشت	VERB	_	_
+
+LVC.full
+0	کافی	کافی	ADJ	_	_
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خاطر	خاطر	NOUN	2	obl
+2	بیاورد	آور	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	نمی‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	عذاب	عذاب	NOUN	1	obj
+1	می‌کشید	کشید	VERB	_	_
+
+LVC.full
+0	ثابت	ثابت	ADJ	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	رنج	رنج	NOUN	1	compound:lvc
+1	می‌برد	برد	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	1	xcomp
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	obl
+1	انداخت	انداخت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	تن	تن	NOUN	_	_
+2	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	فرقی	فرق	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	شباهت	شباهت	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	_	_
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	معرفی	معرفی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	فراهم	فراهم	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	پایان	پایان	NOUN	_	_
+2	رسید	رسید	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	تکان	تکان	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	تحویل	تحویل	NOUN	1	compound:lvc
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	advmod
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	xcomp
+1	نمی‌شد	شد	VERB	_	_
+
+LVC.full
+0	رفت‌وآمد	رفت‌وآمد	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	xcomp
+1	نمی‌شدند	شد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	fixed
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	تلاقی	تلاقی	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	عرق	عرق	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	چشم	چشم	NOUN	1	obj
+1	دوخته	دوخت	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	جای	جا	NOUN	2	obl
+2	گذاشته	گذاشت	VERB	_	_
+
+LVC.full
+0	دنبال	دنبال	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	نمی‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	گوش	گوش	NOUN	_	_
+1	بدهد	ده	VERB	_	_
+
+LVC.full
+0	ابراز	ابراز	NOUN	1	obj
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	حاصل	حاصل	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	هجوم	هجوم	NOUN	1	compound:lvc
+1	آوردند	آورد	VERB	_	_
+
+LVC.full
+0	احتمال	احتمال	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	مراقب	مراقب	ADJ	1	xcomp
+1	نبوده	بود	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	می‌کرده	کرد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	سعی	سعی	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	محسوب	محسوب	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	پشت	پشت	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	به‌دنبال	به‌دنبال	ADP	_	_
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	خاموش	خاموش	ADJ	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	جلوگیری	جلوگیری	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	احتمال	احتمال	NOUN	_	_
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	هدر	هدر	NOUN	1	obj
+1	می‌رفت	رفت	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	_	_
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	تعریف	تعریف	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	آتش	آتش	NOUN	2	obl
+2	کشیدند	کشید	VERB	_	_
+
+LVC.full
+0	آتش	آتش	NOUN	1	obj
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	امتحان	امتحان	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	کمک	کمک	NOUN	1	compound:lvc
+1	می‌کنه	کن	VERB	_	_
+
+LVC.full
+0	ملحق	ملحق	ADJ	1	amod
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	compound:lvc
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	آرایشی	آرایش	NOUN	1	nsubj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	جلب	جلب	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	آرایش	آرایش	NOUN	1	obj
+1	نمی‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	زبان	زبان	NOUN	2	compound:lvc
+2	آورد	آورد	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	آن	آن	PRON	2	obl
+2	می‌داشت	داشت	VERB	_	_
+
+LVC.full
+0	پرت	پرت	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	دور	دور	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	آشکار	آشکار	ADJ	1	compound:lvc
+1	سازند	ساز	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	_	_
+1	است	است	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	یاد	یاد	NOUN	0	fixed
+2	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	امکان	امکان	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	داخل	داخل	NOUN	1	obl
+1	شدم	شد	VERB	_	_
+
+LVC.full
+0	عبور	عبور	NOUN	1	compound:lvc
+1	کردیم	کرد	VERB	_	_
+
+LVC.full
+0	وارد	وارد	NOUN	1	advmod
+1	شدیم	شد	VERB	_	_
+
+LVC.full
+0	تف	تف	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	ازدواج	ازدواج	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	اطلاع	اطلاع	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	2	obl
+2	رسید	رسید	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	مشام	مشام	NOUN	2	obl
+2	می‌رسد	رس	VERB	_	_
+
+LVC.full
+0	خطور	خطور	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	استفاده	استفاده	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	راضی	راضی	ADJ	1	xcomp
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	مرتکب	مرتکب	NOUN	1	compound:lvc
+1	نشده	شد	VERB	_	_
+
+LVC.full
+0	محکوم	محکوم	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	دستگیر	دستگیر	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	دستگیر	دستگیر	ADJ	1	compound:lvc
+1	نمی‌شدی	شد	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	ADJ	1	advmod
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	راضی	راضی	ADJ	1	advmod
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	نادیده	نادیده	ADJ	1	compound:lvc
+1	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	اعتراف	اعتراف	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	کنترل	کنترل	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	تایید	تایید	NOUN	2	obl
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	انتخاب	انتخاب	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	خودداری	خودداری	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	پرهیز	پرهیز	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	تلقین	تلقین	NOUN	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	بیان	بیان	NOUN	1	compound:lvc
+1	نمی‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	پدید	پدید	ADJ	1	compound:lvc
+1	آمده	آمد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	وجود	وجود	NOUN	2	obl
+2	بیایند	آ	VERB	_	_
+
+LVC.full
+0	پرورش	پرورش	NOUN	1	compound:lvc
+1	یابند	یاب	VERB	_	_
+
+LVC.full
+0	تناسب	تناسب	NOUN	_	_
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	سعی	سعی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	سعی	سعی	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	جلوه	جلوه	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	2	compound:lvc
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	تشویق	تشویق	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	نمی‌داد	داد	VERB	_	_
+1	در	در	ADP	2	case
+2	میان	میان	NOUN	_	_
+3	نبود	بود	VERB	_	_
+
+LVC.full
+0	پی	پی	NOUN	_	_
+1	نمی‌بردی	برد	VERB	0	fixed
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	2	compound:lvc
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	روبرو	روبرو	ADJ	1	advcl
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	دیکته	دیکته	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	لقب	لقب	NOUN	_	_
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	لمس	لمس	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	_	_
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	می‌شد	شد	VERB	0	conj
+
+LVC.full
+0	تسلیم	تسلیم	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	1	advmod
+1	می‌کشید	کشید	VERB	_	_
+
+LVC.full
+0	مقاومت	مقاومت	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	punct
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	توافق	توافق	NOUN	2	obl
+2	می‌رسیدند	رسید	VERB	_	_
+
+LVC.full
+0	موافق	موافق	ADJ	_	_
+1	نبود	بود	VERB	0	aux
+
+LVC.full
+0	اصرار	اصرار	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	یادآوری	یادآوری	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	نکند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	کار	کار	NOUN	2	compound:lvc
+2	می‌برد	برد	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	بردارند	بردار	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	compound:lvc
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	موافقت	موافقت	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تصور	تصور	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	آورد	آورد	VERB	_	_
+
+LVC.full
+0	همسری	همسر	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خورد	خورد	NOUN	2	obl
+2	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	محو	محو	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	دارد	دار	VERB	_	_
+
+LVC.full
+0	امتناع	امتناع	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	تصمیم	تصمیم	NOUN	1	compound:lvc
+1	می‌گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	ADJ	_	_
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	محسوب	محسوب	ADJ	1	xcomp
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	دسترسی	دسترسی	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	_	_
+1	می‌شد	شد	VERB	0	conj
+
+LVC.full
+0	تمام	تمام	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	کردم	کرد	VERB	_	_
+
+LVC.full
+0	آگاهی	آگاهی	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	دستگیر	دستگیر	ADJ	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	رها	رها	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	اعتراف	اعتراف	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	ترک	ترک	NOUN	_	_
+1	بردارد	بردار	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	چشم	چشم	NOUN	2	compound:lvc
+2	نمی‌خورد	خورد	VERB	_	_
+
+LVC.full
+0	موج	موج	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	دادم	داد	VERB	_	_
+
+LVC.full
+0	التیام	التیام	NOUN	1	compound:lvc
+1	نداد	داد	VERB	_	_
+
+LVC.full
+0	وسوسه	وسوسه	NOUN	1	obj
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	جستجو	جستجو	NOUN	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	_	_
+1	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	تشکیل	تشکیل	NOUN	1	obj
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	امکان	امکان	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	ظهور	ظهور	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	متلاشی	متلاشی	ADJ	1	compound:lvc
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	جمع	جمع	NOUN	1	compound:lvc
+1	شوند	شو	VERB	_	_
+
+LVC.full
+0	خلاصه	خلاصه	ADJ	1	advmod
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	کافی	کافی	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	پا	پا	NOUN	_	_
+2	خیزند	خیز	VERB	_	_
+
+LVC.full
+0	متلاشی	متلاشی	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	تصمیم	تصمیم	NOUN	1	compound:lvc
+1	می‌گرفتند	گرفت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	2	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	آورد	آورد	VERB	_	_
+
+LVC.full
+0	قدم	قدم	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	فریاد	فریاد	NOUN	1	compound:lvc
+1	می‌زدند	زد	VERB	_	_
+
+LVC.full
+0	تداوم	تداوم	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	تپش	تپش	NOUN	_	_
+2	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	ازدحام	ازدحام	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	غرق	غرق	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تبدیل	تبدیل	NOUN	1	punct
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	باز	باز	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	متهم	متهم	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	راه	راه	NOUN	2	obl
+2	افتاده	افتاد	VERB	_	_
+
+LVC.full
+0	درگیر	درگیر	ADJ	_	_
+1	شده	شد	VERB	0	aux:pass
+
+LVC.full
+0	تماشا	تماشا	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	سر	سر	NOUN	1	compound:lvc
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	طغیان	طغیان	NOUN	_	_
+1	نکنند	کن	VERB	_	_
+
+LVC.full
+0	طغیان	طغیان	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	ادعا	ادعا	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	گرسنگی	گرسنگی	NOUN	1	obj
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	شلاق	شلاق	NOUN	1	compound:lvc
+1	می‌زدند	زد	VERB	_	_
+
+LVC.full
+0	استعمار	استعمار	NOUN	1	obj
+1	می‌کرده	کرد	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	1	amod
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	تاکید	تاکید	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	دارند	دار	VERB	_	_
+
+LVC.full
+0	نگه	نگه	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	نیازی	نیاز	NOUN	1	nsubj
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	اهمیتی	اهمیت	NOUN	1	obj
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	بودند	بود	VERB	0	aux
+
+LVC.full
+0	رها	رها	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	سپری	سپری	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	ازدواج	ازدواج	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	بدرود	بدرود	NOUN	_	_
+1	می‌گفتند	گفت	VERB	_	_
+
+LVC.full
+0	تشکیل	تشکیل	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	سرگرم	سرگرم	ADJ	_	_
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	صورت	صورت	NOUN	1	compound:lvc
+1	نمی‌گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	مجاب	مجاب	ADJ	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	درگیر	درگیر	ADJ	_	_
+1	می‌شد	شد	VERB	0	cop
+
+LVC.full
+0	بیداد	بیداد	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	اهمیتی	اهمیت	NOUN	1	compound:lvc
+1	نمی‌دادند	داد	VERB	_	_
+
+LVC.full
+0	رخ	رخ	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	پیروی	پیروی	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	تبلیغ	تبلیغ	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	سختگیری	سختگیری	NOUN	1	obj
+1	نمی‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	مشاهده	مشاهده	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	تاکید	تاکید	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	پی	پی	NOUN	_	_
+1	برد	برد	VERB	0	fixed
+
+LVC.full
+0	جلب	جلب	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	امانت	امانت	NOUN	_	_
+1	گرفته	گرفت	VERB	0	fixed
+
+LVC.full
+0	شروع	شروع	NOUN	1	advmod
+1	نمود	نمود	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	کتک	کتک	NOUN	1	compound:lvc
+1	می‌زدند	زد	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	_	_
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	تن	تن	NOUN	2	obl
+2	دارد	داشت	VERB	_	_
+
+LVC.full
+0	محسوب	محسوب	ADJ	1	compound:lvc
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	تعلق	تعلق	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	بیکار	بیکار	ADJ	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	رها	رها	ADJ	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	تلف	تلف	NOUN	1	compound:lvc
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	اطاعت	اطاعت	NOUN	_	_
+1	نکند	کن	VERB	_	_
+
+LVC.full
+0	خم	خم	ADJ	_	_
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	خطاب	خطاب	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	یادآوری	یادآوری	NOUN	1	conj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	حقیقت	حقیقت	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	تلاش	تلاش	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	فریاد	فریاد	NOUN	1	compound:lvc
+1	بزنند	زن	VERB	_	_
+
+LVC.full
+0	عبارت	عبارت	NOUN	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	کر	کر	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	عمر	عمر	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	ثابت	ثابت	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	برخوردار	برخوردار	ADJ	_	_
+1	بودند	بود	VERB	0	aux
+
+LVC.full
+0	تکذیب	تکذیب	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	محو	محو	ADJ	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	مبدل	مبدل	ADJ	_	_
+1	می‌شد	شد	VERB	0	ccomp
+
+LVC.full
+0	پاک	پاک	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	دست	دست	NOUN	2	compound:lvc
+2	آورده	آورد	VERB	_	_
+
+LVC.full
+0	پاک	پاک	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	نگه	نگه	NOUN	1	compound:lvc
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	آغاز	آغاز	NOUN	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	باقی	باقی	ADJ	1	compound:lvc
+1	نماند	ماند	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	بین	بین	NOUN	2	obl
+2	رفتند	رفت	VERB	_	_
+
+LVC.full
+0	متهم	متهم	ADJ	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	پنهان	پنهان	ADJ	1	advmod
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	اعدام	اعدام	NOUN	1	compound:lvc
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	دستگیر	دستگیر	ADJ	1	compound:lvc
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	اعتراف	اعتراف	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	منجر	منجر	NOUN	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	اعتراف	اعتراف	NOUN	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	گرفتند	گرفت	VERB	_	_
+
+LVC.full
+0	جبران	جبران	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	جا	جا	NOUN	2	obl
+2	مانده	ماند	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	_	_
+2	می‌افتادند	افتاد	VERB	_	_
+
+LVC.full
+0	سروکار	سروکار	NOUN	1	obj
+1	بیفتد	افت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	سر	سر	NOUN	2	compound:lvc
+2	می‌بردند	برد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	چاپ	چاپ	NOUN	2	obl
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	تکرار	تکرار	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	obj
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تکان	تکان	NOUN	1	compound:lvc
+1	نخوردند	خورد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	شرکت	شرکت	NOUN	1	compound:lvc
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	ثبت	ثبت	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	صاف	صاف	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	پی	پی	NOUN	1	compound:lvc
+1	برد	برد	VERB	_	_
+
+LVC.full
+0	اعتراف	اعتراف	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	پرواز	پرواز	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	گفتگو	گفتگو	NOUN	1	nsubj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	3	case
+1	اختیار	اختیار	NOUN	3	obj
+2	قرار	قرار	NOUN	3	compound:lvc
+3	داده	داد	VERB	_	_
+
+LVC.full
+0	ثبت	ثبت	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	حساب	حساب	NOUN	2	compound:lvc
+2	نمی‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	مرتکب	مرتکب	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	1	obj
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	conj
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	روشن	روشن	ADJ	1	compound:lvc
+1	نماید	نما	VERB	_	_
+
+LVC.full
+0	چاپ	چاپ	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	باز	باز	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	هل	هل	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	کاری	کار	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	پی	پی	NOUN	1	advmod
+1	ببرد	بر	VERB	_	_
+
+LVC.full
+0	برملا	برملا	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	صبر	صبر	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	وحشت	وحشت	NOUN	_	_
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	تبدیل	تبدیل	NOUN	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	نگه	نگه	NOUN	1	compound:lvc
+1	می‌داشت	داشت	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	جای	جای	NOUN	2	obl
+2	نمانده	ماند	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	_	_
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	_	_
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	کاهش	کاهش	NOUN	1	obj
+1	یافته	یافت	VERB	_	_
+
+LVC.full
+0	بازسازی	بازسازی	NOUN	1	obl
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	خیانت	خیانت	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	دوباره‌نویسی	دوباره‌نویسی	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	صورت	صورت	NOUN	1	compound:lvc
+1	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	عذاب	عذاب	NOUN	1	obj
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	1	compound:lvc
+1	داشتی	داشت	VERB	_	_
+
+LVC.full
+0	محسوب	محسوب	NOUN	1	compound:lvc
+1	می‌شدی	شد	VERB	_	_
+
+LVC.full
+0	وحشت	وحشت	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	اشتباه	اشتباه	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	ناراحت	ناراحت	ADJ	1	xcomp
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	چاپ	چاپ	NOUN	1	dep
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	خیره	خیره	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	رسوخ	رسوخ	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	قانع	قانع	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	اطمینان	اطمینان	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	1	compound:lvc
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	اعلام	اعلام	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	مطرح	مطرح	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	ایجاب	ایجاب	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	انکار	انکار	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	قایل	قایل	NOUN	1	obl
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	جان	جان	NOUN	1	compound:lvc
+1	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	خطاب	خطاب	NOUN	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	اطمینان	اطمینان	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	القا	القا	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	تردید	تردید	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	توانایی	توانایی	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	ارائه	ارائه	NOUN	1	compound:lvc
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	اشتباه	اشتباه	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	دفاع	دفاع	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	نمی‌کند	کن	VERB	_	_
+
+LVC.full
+0	سقوط	سقوط	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	تجسم	تجسم	NOUN	1	obj
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	مطرح	مطرح	ADJ	1	compound:lvc
+1	می‌نماید	نما	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	توقف	توقف	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	گم	گم	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	زق‌زق	زق‌زق	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	پیاده‌روی	پیاده‌روی	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	کنترل	کنترل	NOUN	1	compound:lvc
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	شرکت	شرکت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	وسوسه	وسوسه	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	حس	حس	NOUN	1	obj
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	روغن‌کاری	روغن‌کاری	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	راه	راه	NOUN	2	obl
+2	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	خارج	خارج	NOUN	1	obl
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	می‌کردی	کرد	VERB	_	_
+
+LVC.full
+0	جمع	جمع	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	یادآوری	یادآوری	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	راه	راه	NOUN	1	compound:lvc
+1	می‌رفتند	رفت	VERB	_	_
+
+LVC.full
+0	بازی	بازی	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	توجهی	توجه	NOUN	1	obj
+1	نداشتند	داشت	VERB	_	_
+
+LVC.full
+0	قلاب	قلاب	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	برانداز	برانداز	NOUN	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	خشک	خشک	ADJ	1	xcomp
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	متوقف	متوقف	ADJ	1	xcomp
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	تمام	تمام	ADJ	1	advmod
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	جلب	جلب	NOUN	1	compound:lvc
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	کافی	کافی	ADJ	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	به	به	ADP	_	_
+1	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	بغل	بغل	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	اشاره	اشاره	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فریاد	فریاد	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	1	compound:lvc
+1	کشید	کشید	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	بین	بین	NOUN	2	obl
+2	برده	برد	VERB	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	advcl
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	قطع	قطع	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	وارد	وارد	NOUN	1	punct
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	اتفاقی	اتفاق	NOUN	_	_
+1	افتاده	افتاد	VERB	0	acl:relcl
+
+LVC.full
+0	ادامه	ادامه	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	بگومگو	بگومگو	NOUN	1	obl
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	فاصله	فاصله	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	برنده	برنده	ADJ	1	xcomp
+1	نشده	شد	VERB	_	_
+
+LVC.full
+0	برنده	برنده	ADJ	_	_
+1	شده	شد	VERB	0	aux:pass
+
+LVC.full
+0	غلاف	غلاف	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	بس	بس	ADJ	1	xcomp
+1	ه	است	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	1	xcomp
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	میان	میان	NOUN	_	_
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	کاری	کار	NOUN	1	obj
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	حضور	حضور	NOUN	1	compound:lvc
+1	نداشتند	داشت	VERB	_	_
+
+LVC.full
+0	پرداخت	پرداخت	NOUN	_	_
+1	می‌شد	شد	VERB	0	fixed
+
+LVC.full
+0	مجبور	مجبور	ADJ	_	_
+1	بودی	بود	VERB	_	_
+
+LVC.full
+0	اعتماد	اعتماد	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	می‌کردی	کرد	VERB	_	_
+
+LVC.full
+0	ایمان	ایمان	NOUN	1	compound:lvc
+1	می‌آوردی	آورد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	زبان	زبان	NOUN	_	_
+2	می‌آوردی	آورد	VERB	_	_
+
+LVC.full
+0	منتهی	منتهی	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	پیچ	پیچ	NOUN	1	obj
+1	می‌خورد	خورد	VERB	_	_
+
+LVC.full
+0	تهیه	تهیه	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	یخ	یخ	NOUN	1	obj
+1	بسته	بست	VERB	_	_
+
+LVC.full
+0	وارد	وارد	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	شکل	شکل	NOUN	1	compound:lvc
+1	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	باقی	باقی	ADJ	1	compound:lvc
+1	مانده	ماند	VERB	_	_
+
+LVC.full
+0	تسلیم	تسلیم	NOUN	1	conj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	ارائه	ارائه	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	1	xcomp
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	رونویسی	رونویسی	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	پدیدار	پدیدار	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	سر	سر	NOUN	0	fixed
+2	زد	زد	VERB	_	_
+
+LVC.full
+0	وارد	وارد	NOUN	1	compound:lvc
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	عبور	عبور	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	موجب	موجب	NOUN	_	_
+1	شود	شو	VERB	0	ccomp
+
+LVC.full
+0	نادیده	نادیده	ADJ	_	_
+1	گرفته	گرفت	VERB	0	fixed
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	احتمال	احتمال	NOUN	1	nsubj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	مشام	مشام	NOUN	2	obl
+2	خورد	خورد	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	برقرار	برقرار	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	حس	حس	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	قطع	قطع	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	جریان	جریان	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	بود	بود	VERB	0	conj
+
+LVC.full
+0	به‌دنبال	به‌دنبال	ADP	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	حلقه	حلقه	NOUN	1	compound:lvc
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	تماشا	تماشا	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	سینه	سینه	NOUN	1	obj
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	نمی‌شه	شو	VERB	_	_
+
+LVC.full
+0	تکیه	تکیه	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	خم	خم	ADJ	1	advcl
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	درست	درست	ADJ	1	advmod
+1	کن	کن	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	compound:lvc
+1	بدم	ده	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	می‌کردیم	کرد	VERB	_	_
+
+LVC.full
+0	ایجاد	ایجاد	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	بین	بین	NOUN	2	obl
+2	رفت	رفت	VERB	_	_
+
+LVC.full
+0	مهمان	مهمان	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	جلو	جلو	ADV	1	advmod
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	توجهی	توجه	NOUN	1	obj
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	رو	رو	NOUN	2	obl
+1	به	به	ADP	_	_
+2	کرد	کرد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	advmod
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	سر	سر	NOUN	2	nmod
+2	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	_	_
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	اطمینان	اطمینان	NOUN	2	obj
+1	حاصل	حاصل	NOUN	2	compound:lvc
+2	کرد	کرد	VERB	_	_
+
+LVC.full
+0	رفع	رفع	NOUN	1	obl
+1	نمی‌کنه	کن	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	1	compound:lvc
+1	ی	است	VERB	_	_
+
+LVC.full
+0	رخ	رخ	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	نوش	نوش	NOUN	2	obj
+1	جان	جان	NOUN	2	compound:lvc
+2	کنم	کن	VERB	_	_
+
+LVC.full
+0	غیب	غیب	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	advmod
+1	هست	است	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	1	xcomp
+1	ه	است	VERB	_	_
+
+LVC.full
+0	حقیقت	حقیقت	NOUN	1	obj
+1	نداشته	داشت	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	دارم	دار	VERB	_	_
+
+LVC.full
+0	تفاوت	تفاوت	NOUN	1	compound:lvc
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	بهره‌مند	بهره‌مند	ADJ	_	_
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	سوار	سوار	NOUN	_	_
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	advmod
+1	انداختی	انداخت	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	می‌کردم	کرد	VERB	_	_
+
+LVC.full
+0	کرایه	کرایه	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	دستور	دستور	NOUN	_	_
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	شلاق	شلاق	NOUN	1	obj
+1	بزنند	زن	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	_	_
+1	بودید	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	هیجان	هیجان	NOUN	2	obl
+2	آمد	آمد	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	advmod
+1	ه	است	VERB	_	_
+
+LVC.full
+0	گوش	گوش	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	_	_
+1	نیست	است	VERB	0	cop
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	می‌کنید	کن	VERB	_	_
+
+LVC.full
+0	رفتار	رفتار	NOUN	1	obj
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	خطاب	خطاب	NOUN	1	compound:lvc
+1	می‌کردید	کرد	VERB	_	_
+
+LVC.full
+0	رد	رد	NOUN	_	_
+1	می‌شدید	شد	VERB	_	_
+
+LVC.full
+0	حقیقت	حقیقت	NOUN	1	obj
+1	دارد	دار	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	می‌دادم	داد	VERB	_	_
+
+LVC.full
+0	نقل	نقل	NOUN	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	advmod
+1	مونده	ماند	VERB	_	_
+
+LVC.full
+0	برگزار	برگزار	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	نمی‌کنی	کن	VERB	_	_
+
+LVC.full
+0	پررویی	پررویی	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	تحویل	تحویل	NOUN	1	compound:lvc
+1	می‌دم	ده	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	_	_
+1	نکنید	کن	VERB	_	_
+
+LVC.full
+0	دستگیر	دستگیر	NOUN	1	compound:lvc
+1	نمی‌شد	شد	VERB	_	_
+
+LVC.full
+0	سوال	سوال	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	بیان	بیان	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	دارید	دار	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	ترجیح	ترجیح	NOUN	1	compound:lvc
+1	می‌دادید	داد	VERB	_	_
+
+LVC.full
+0	چشم	چشم	NOUN	1	compound:lvc
+1	دوخت	دوخت	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	انتظار	انتظار	NOUN	1	obj
+1	داری	دار	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	داشتم	داشت	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	_	_
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خود	خود	PRON	2	obl
+2	آمد	آمد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	فوت	فوت	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	تحریف	تحریف	NOUN	1	nsubj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	وجود	وجود	NOUN	2	compound:lvc
+2	بیاید	آ	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	advmod
+1	انداخت	انداخت	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	بی‌احتیاطی	بی‌احتیاطی	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	بیمه	بیمه	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	مورد	مورد	NOUN	3	advmod
+1	سوءظن	سوءظن	NOUN	3	obj
+2	قرار	قرار	NOUN	3	compound:lvc
+3	می‌گیرد	گیر	VERB	_	_
+
+LVC.full
+0	داخل	داخل	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	واقع	واقع	NOUN	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	روشن	روشن	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	مشام	مشام	NOUN	2	obl
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	obj
+1	یافته	یافت	VERB	_	_
+
+LVC.full
+0	حاکی	حاکی	NOUN	1	nsubj
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	دهم	ده	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	compound:lvc
+1	بیندازید	انداز	VERB	_	_
+
+LVC.full
+0	رد	رد	NOUN	1	compound:lvc
+1	می‌شدم	شد	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	obj
+1	بیندازم	انداز	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	_	_
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	جلب	جلب	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	تموم	تمام	ADJ	1	xcomp
+1	می‌شه	شو	VERB	_	_
+
+LVC.full
+0	یافت	یافت	NOUN	1	compound:lvc
+1	نمی‌شد	شد	VERB	_	_
+
+LVC.full
+0	تکیه	تکیه	NOUN	1	obj
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	جمع	جمع	ADJ	1	advmod
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	_	_
+1	است	است	VERB	0	aux
+
+LVC.full
+0	چشم	چشم	NOUN	_	_
+1	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	برخوردار	برخوردار	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	جاسازی	جاسازی	NOUN	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	اهمیت	اهمیت	NOUN	1	compound:lvc
+1	نمی‌ده	ده	VERB	_	_
+
+LVC.full
+0	تصدیق	تصدیق	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تمام	تمام	ADJ	1	xcomp
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	advmod
+1	می‌آید	آ	VERB	_	_
+
+LVC.full
+0	قیمت	قیمت	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	حساب	حساب	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	باقی	باقی	ADJ	1	xcomp
+1	مانده	ماند	VERB	_	_
+
+LVC.full
+0	اهمیت	اهمیت	NOUN	1	compound:lvc
+1	می‌دهد	ده	VERB	_	_
+
+LVC.full
+0	متفاوت	متفاوت	ADJ	1	amod
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	حدس	حدس	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	دوبرابر	دوبرابر	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	سنگینی	سنگینی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	شامل	شامل	ADJ	1	xcomp
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	obj
+1	بیندازید	انداز	VERB	_	_
+
+LVC.full
+0	روشن	روشن	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	تیک‌تاک	تیک‌تاک	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	پر	پر	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	فوت	فوت	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	حدس	حدس	NOUN	_	_
+1	می‌زنم	زن	VERB	_	_
+
+LVC.full
+0	روشن	روشن	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	بالا	بالا	ADV	1	advmod
+1	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	خطر	خطر	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	اجاره	اجاره	NOUN	_	_
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	دل	دل	NOUN	_	_
+1	به	به	ADP	2	case
+2	دریا	دریا	NOUN	0	nmod
+3	بزند	زن	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	زنده	زنده	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	غلغل	غلغل	NOUN	1	obj
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	مراقب	مراقب	ADJ	1	xcomp
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	گوش	گوش	NOUN	2	obl
+2	نمی‌رسد	رس	VERB	_	_
+
+LVC.full
+0	زمزمه	زمزمه	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	نکردم	کرد	VERB	_	_
+
+LVC.full
+0	نیاز	نیاز	NOUN	1	obj
+1	دارم	دار	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	عوض	عوض	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	استفاده	استفاده	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	چاپ	چاپ	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	علاقه	علاقه	NOUN	1	compound:lvc
+1	دارید	دار	VERB	_	_
+
+LVC.full
+0	بررسی	بررسی	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	کنده‌کاری	کنده‌کاری	NOUN	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	xcomp
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	پیچ	پیچ	NOUN	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	advmod
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	تموم	تمام	ADJ	1	xcomp
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	روشن	روشن	ADJ	1	compound:lvc
+1	می‌کنه	کن	VERB	_	_
+
+LVC.full
+0	قطع	قطع	ADJ	1	compound:lvc
+1	می‌کنه	کن	VERB	_	_
+
+LVC.full
+0	رد	رد	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	تعلق	تعلق	NOUN	1	compound:lvc
+1	دارند	دار	VERB	_	_
+
+LVC.full
+0	نسبت	نسبت	NOUN	_	_
+1	می‌دادند	داد	VERB	0	fixed
+
+LVC.full
+0	منسوب	منسوب	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	compound:lvc
+1	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	کمک	کمک	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	استفاده‌های	استفاده	NOUN	1	obj
+1	می‌کنن	کن	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	advmod
+1	اومد	آمد	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	obl
+1	ه	است	VERB	_	_
+
+LVC.full
+0	ترسیم	ترسیم	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خاطر	خاطر	NOUN	2	obl
+2	ندارم	دار	VERB	_	_
+
+LVC.full
+0	خارج	خارج	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	این	این	DET	1	det
+1	پا	پا	NOUN	5	nmod:poss
+2	و	و	CONJ	5	cc
+3	آن	آن	DET	4	det
+4	پا	پا	NOUN	5	compound:lvc
+5	کرد	کرد	VERB	_	_
+
+LVC.full
+0	عوض	عوض	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	مبادرت	مبادرت	NOUN	1	obj
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	قصد	قصد	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	obj
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	صدا	صدا	NOUN	1	obl
+1	درمی‌آیند	درا	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	_	_
+2	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	advmod
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	پنهان	پنهان	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	بیاورد	آور	VERB	_	_
+
+LVC.full
+0	کاری	کار	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	خارج	خارج	ADJ	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	نگاهی	نگاه	NOUN	_	_
+1	بیندازد	انداز	VERB	_	_
+
+LVC.full
+0	زمزمه	زمزمه	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	خیس	خیس	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	رد	رد	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	حرکت	حرکت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	خشک	خشک	ADJ	_	_
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	دقت	دقت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	راه	راه	NOUN	2	compound:lvc
+2	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	جاسوسی	جاسوسی	NOUN	1	obj
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	قدم	قدم	NOUN	_	_
+1	بزند	زن	VERB	_	_
+
+LVC.full
+0	فرق	فرق	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	زیر	زیر	ADP	1	case
+1	نظر	نظر	NOUN	2	obl
+2	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	قدم	قدم	NOUN	_	_
+1	برداشت	برداشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	آمد	آمد	VERB	_	_
+
+LVC.full
+0	تعقیب	تعقیب	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	دست	دست	NOUN	2	obl
+2	برنمی‌آمد	برآمد	VERB	_	_
+
+LVC.full
+0	دفاع	دفاع	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	دست‌وپا	دست‌وپا	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+VID
+0	دل	دل	NOUN	_	_
+1	می‌خواست	خواست	VERB	_	_
+
+LVC.full
+0	قطع	قطع	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	xcomp
+1	نکرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	گوش	گوش	NOUN	2	obl
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	اعتنایی	اعتنا	NOUN	1	compound:lvc
+1	نکند	کن	VERB	_	_
+
+LVC.full
+0	خودکشی	خودکشی	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	نیاز	نیاز	NOUN	1	compound:lvc
+1	داری	دار	VERB	_	_
+
+LVC.full
+0	ساکت	ساکت	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	بر	بر	NOUN	2	compound:lvc
+2	داشت	داشت	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	دست	دست	NOUN	2	compound:lvc
+2	داده	داد	VERB	_	_
+
+LVC.full
+0	مبارزه	مبارزه	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	باد	باد	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	پر	پر	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	جیغ	جیغ	NOUN	1	compound:lvc
+1	می‌کشد	کش	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	compound:lvc
+1	نمی‌زد	زد	VERB	_	_
+
+LVC.full
+0	تحمل	تحمل	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	حذف	حذف	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	نجات	نجات	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	متهم	متهم	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	عوض	عوض	NOUN	1	compound:lvc
+1	نمی‌کند	کن	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	نظر	نظر	NOUN	2	compound:lvc
+2	بیاورد	آور	VERB	_	_
+
+LVC.full
+0	تلاش	تلاش	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	ملاقات	ملاقات	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	دل	دل	NOUN	2	obl
+1	خوش	خوش	ADJ	2	compound:lvc
+2	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	حفظ	حفظ	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	تف	تف	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جایگزین	جایگزین	NOUN	1	obl
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	تماشا	تماشا	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	ترک	ترک	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	برخورد	برخورد	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	باندپیچی	باندپیچی	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	سکندری	سکندری	NOUN	1	compound:lvc
+1	خورد	خورد	VERB	_	_
+
+LVC.full
+0	فاصله	فاصله	NOUN	1	compound:lvc
+1	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	فریاد	فریاد	NOUN	1	advmod
+1	کشید	کشید	VERB	_	_
+
+LVC.full
+0	مکث	مکث	NOUN	1	obj
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	چشم	چشم	NOUN	2	compound:lvc
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	حاکی	حاکی	NOUN	_	_
+1	بود	بود	VERB	0	fixed
+
+LVC.full
+0	به	به	ADP	1	case
+1	لرزه	لرزه	NOUN	2	obl
+2	درآورد	درآورد	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	صدمه	صدمه	NOUN	1	obj
+1	دیدید	دید	VERB	_	_
+
+LVC.full
+0	درد	درد	NOUN	1	compound:lvc
+1	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جا	جا	NOUN	1	compound:lvc
+1	آمد	آمد	VERB	_	_
+
+LVC.full
+0	متشکر	متشکر	ADJ	1	xcomp
+1	م	است	VERB	_	_
+
+LVC.full
+0	اتفاقی	اتفاق	NOUN	1	nsubj
+1	نیفتاده	افتاد	VERB	_	_
+
+LVC.full
+0	طول	طول	NOUN	1	obl
+1	نکشید	کشید	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	1	obj
+1	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	نگه	نگه	NOUN	1	compound:lvc
+1	دارند	دار	VERB	_	_
+
+LVC.full
+0	بروز	بروز	NOUN	1	compound:lvc
+1	ندهند	ده	VERB	_	_
+
+LVC.full
+0	عادت	عادت	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	لمس	لمس	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	وسوسه	وسوسه	NOUN	1	nsubj
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	زیر	زیر	ADP	1	case
+1	نظر	نظر	NOUN	2	compound:lvc
+2	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	شامل	شامل	ADJ	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	توجه	توجه	NOUN	_	_
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	دور	دور	ADJ	1	compound:lvc
+1	سازد	ساز	VERB	_	_
+
+LVC.full
+0	هجوم	هجوم	NOUN	1	compound:lvc
+1	آورد	آورد	VERB	_	_
+
+LVC.full
+0	جلوگیری	جلوگیری	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	حکم	حکم	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	جمع	جمع	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	خمیازه‌ای	خمیازه	NOUN	1	compound:lvc
+1	کشید	کشید	VERB	_	_
+
+LVC.full
+0	جابجا	جابجا	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	خودداری	خودداری	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	یقین	یقین	NOUN	2	obj
+1	حاصل	حاصل	NOUN	2	compound:lvc
+2	کند	کن	VERB	_	_
+
+LVC.full
+0	متمرکز	متمرکز	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	شعله	شعله	NOUN	1	compound:lvc
+1	می‌کشد	کش	VERB	_	_
+
+LVC.full
+0	ولو	ولو	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	غلبه	غلبه	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	عهده	عهده	NOUN	2	obl
+2	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	تکرار	تکرار	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	عصبانی	عصبانی	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	برخورد	برخورد	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	نکرد	کرد	VERB	_	_
+
+LVC.full
+0	وانمود	وانمود	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	نیاز	نیاز	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	مورد	مورد	NOUN	2	nsubj
+1	سوءظن	سوءظن	NOUN	0	nmod:poss
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	فراهم	فراهم	NOUN	1	compound:lvc
+1	می‌نمود	نمود	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	_	_
+1	شد	شد	VERB	0	cop
+
+LVC.full
+0	موجب	موجب	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	مجسم	مجسم	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	تعمق	تعمق	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	شرکت	شرکت	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	بازی	بازی	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جلوه	جلوه	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	شر	شر	NOUN	2	nmod
+2	راحت	راحت	ADJ	3	xcomp
+3	شود	شو	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	سر	سر	NOUN	2	compound:lvc
+2	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	ترتیب	ترتیب	NOUN	1	obj
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	حل	حل	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	تماس	تماس	NOUN	1	compound:lvc
+1	می‌گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	خطور	خطور	NOUN	1	compound:lvc
+1	نکرد	کرد	VERB	_	_
+
+LVC.full
+0	وسوسه	وسوسه	NOUN	1	nsubj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	گمان	گمان	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	حرکت	حرکت	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	فراهم	فراهم	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	بررسی	بررسی	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	1	compound:lvc
+1	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	تمام	تمام	ADJ	1	advmod
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	ترتیبی	ترتیب	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	پرسه	پرسه	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	می‌شد	شد	VERB	0	ccomp
+
+LVC.full
+0	اقدام	اقدام	NOUN	1	obj
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	انتخاب	انتخاب	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	نیاز	نیاز	NOUN	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	گیر	گیر	NOUN	1	obj
+1	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	ردوبدل	ردوبدل	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	ترک	ترک	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	عوض	عوض	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	نشد	شد	VERB	_	_
+
+LVC.full
+0	دچار	دچار	ADJ	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	رها	رها	ADJ	_	_
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	اجتناب	اجتناب	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	خودکشی	خودکشی	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	وارد	وارد	NOUN	1	nsubj
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	صدا	صدا	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	تعارف	تعارف	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	رد	رد	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	صدا	صدا	NOUN	_	_
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	تبدیل	تبدیل	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	حرکت	حرکت	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	گیر	گیر	NOUN	1	compound:lvc
+1	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	مطمئن	مطمئن	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	پشت‌پا	پشت‌پا	NOUN	1	obj
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	obj
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	برقرار	برقرار	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	1	compound:lvc
+1	نمی‌افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	عوض	عوض	NOUN	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	دنبال	دنبال	ADP	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	چشم	چشم	NOUN	1	obj
+1	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	می‌کشید	کشید	VERB	_	_
+
+LVC.full
+0	عملی	عملی	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	advmod
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	_	_
+1	نمی‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	ترک	ترک	NOUN	1	compound:lvc
+1	می‌کنی	کن	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	نکن	کن	VERB	_	_
+
+LVC.full
+0	خودداری	خودداری	NOUN	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	نکردند	کرد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	چشم	چشم	NOUN	_	_
+1	دوخته	دوخت	VERB	_	_
+
+LVC.full
+0	سرنگون	سرنگون	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	_	_
+1	نشده	شد	VERB	0	ccomp
+
+LVC.full
+0	عوض	عوض	NOUN	1	advmod
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	_	_
+2	افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	تظاهر	تظاهر	NOUN	1	advmod
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	جمع	جمع	NOUN	1	compound:lvc
+1	نمی‌شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	گوش	گوش	NOUN	2	obl
+2	رسید	رسید	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	obl
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	ملحق	ملحق	ADJ	_	_
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	گرد	گرد	ADJ	_	_
+1	آمده	آمد	VERB	_	_
+
+LVC.full
+0	دخالت	دخالت	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	پدید	پدید	ADJ	1	compound:lvc
+1	آورده	آورد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	2	obl
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	تنه	تنه	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	عرق	عرق	NOUN	2	obl
+2	نشسته	نشست	VERB	_	_
+
+LVC.full
+0	عبور	عبور	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	چمباتمه	چمباتمه	NOUN	1	obj
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	رد	رد	NOUN	_	_
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	حواس	حس	NOUN	1	nsubj
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	حس	حس	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	گوش	گوش	NOUN	1	compound:lvc
+1	کن	کن	VERB	_	_
+
+LVC.full
+0	توضیح	توضیح	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	فاقد	فاقد	NOUN	1	advmod
+1	می‌باشد	باش	VERB	_	_
+
+LVC.full
+0	خزه	خزه	NOUN	1	obj
+1	بسته	بست	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	_	_
+1	بشوی	شو	VERB	_	_
+
+LVC.full
+0	منتظر	منتظر	ADJ	1	xcomp
+1	بمانی	مان	VERB	_	_
+
+LVC.full
+0	نجات	نجات	NOUN	1	compound:lvc
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	طول	طول	NOUN	_	_
+1	می‌کشید	کشید	VERB	0	fixed
+
+LVC.full
+0	پراکنده	پراکنده	ADJ	_	_
+1	شده	شد	VERB	0	aux:pass
+
+LVC.full
+0	به	به	ADP	1	case
+1	حساب	حساب	NOUN	2	obl
+2	می‌آمدند	آمد	VERB	_	_
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	1	xcomp
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	اعدام	اعدام	NOUN	_	_
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	_	_
+2	آمد	آمد	VERB	_	_
+
+LVC.full
+0	گره	گره	NOUN	1	advmod
+1	خورده	خورد	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	مجسم	مجسم	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	احتمال	احتمال	NOUN	_	_
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	بوسه	بوسه	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	اعتماد	اعتماد	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	شناسایی	شناسایی	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	گشت	گشت	NOUN	1	compound:lvc
+1	می‌زدند	زد	VERB	_	_
+
+LVC.full
+0	بازرسی	بازرسی	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	نیازی	نیاز	NOUN	1	obl
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	تعقیب	تعقیب	NOUN	1	compound:lvc
+1	نمی‌کند	کن	VERB	_	_
+
+LVC.full
+0	اشغال	اشغال	NOUN	1	dep
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	توضیح	توضیح	NOUN	_	_
+1	دادند	داد	VERB	_	_
+
+LVC.full
+0	پنهان	پنهان	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	وقت‌کشی	وقت‌کشی	NOUN	1	obj
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	بد	بد	ADJ	_	_
+1	نمی‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	هدیه	هدیه	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	میخکوب	میخکوب	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	تعقیب	تعقیب	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	دوری	دوری	NOUN	1	compound:lvc
+1	می‌جست	جست	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	obj
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	نمایان	نمایان	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	نگران	نگران	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	بسته	بست	VERB	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	احاطه	احاطه	NOUN	_	_
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	پنهان	پنهان	ADJ	1	compound:lvc
+1	نموده	نمود	VERB	_	_
+
+LVC.full
+0	جرات	جرات	NOUN	1	compound:lvc
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	صحبتی	صحبت	NOUN	1	obj
+1	بکنم	کن	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	گذاشته	گذاشت	VERB	_	_
+
+LVC.full
+0	شناسایی	شناسایی	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	تکرار	تکرار	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جواب	جواب	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	تبدیل	تبدیل	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	مخفی	مخفی	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	شدند	شد	VERB	0	ccomp
+
+LVC.full
+0	باور	باور	NOUN	_	_
+1	می‌کنی	کن	VERB	0	fixed
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	اهمیتی	اهمیت	NOUN	1	compound:lvc
+1	نمی‌دهم	ده	VERB	_	_
+
+LVC.full
+0	زمزمه	زمزمه	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	حلقه	حلقه	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	1	compound:lvc
+1	کشیدند	کشید	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	نمی‌داد	داد	VERB	_	_
+
+LVC.full
+0	گیر	گیر	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	obj
+1	نکن	کن	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	کردم	کرد	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	xcomp
+1	می‌شویم	شو	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	می‌کردی	کرد	VERB	_	_
+
+LVC.full
+0	بد	بد	ADJ	1	xcomp
+1	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	تجاوز	تجاوز	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	خنده	خنده	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تحویل	تحویل	NOUN	1	compound:lvc
+1	می‌دهم	ده	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	پرت	پرت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	2	case
+1	دو	دو	NUM	2	nummod
+2	نیم	نیم	NOUN	3	obl
+3	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	انداخت	انداخت	VERB	_	_
+
+LVC.full
+0	گیر	گیر	NOUN	1	compound:lvc
+1	آوردی	آورد	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	صرف	صرف	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	شانه	شانه	NOUN	2	obj
+1	خالی	خالی	ADJ	2	compound:lvc
+2	نمی‌کنم	کن	VERB	_	_
+
+LVC.full
+0	همراهی	همراهی	NOUN	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	تشخیص	تشخیص	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	_	_
+1	نکند	کن	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	جذب	جذب	NOUN	1	compound:lvc
+1	شوی	شو	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	کردم	کرد	VERB	_	_
+
+LVC.full
+0	انتظار	انتظار	NOUN	_	_
+1	نمی‌رفت	رفت	VERB	0	fixed
+
+LVC.full
+0	ناشی	ناشی	ADJ	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	حرکت	حرکت	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	نجوا	نجوا	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	حرکت	حرکت	NOUN	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+LVC.full
+0	متوقف	متوقف	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	دهان	دهان	NOUN	4	nsubj
+1	از	از	ADP	2	case
+2	تعجب	تعجب	NOUN	4	obl
+3	باز	باز	ADJ	4	xcomp
+4	ماند	ماند	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	شنا	شنا	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	شنا	شنا	NOUN	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	تکان	تکان	NOUN	1	compound:lvc
+1	می‌دهند	ده	VERB	_	_
+
+LVC.full
+0	تعظیم	تعظیم	NOUN	1	obj
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	مجذوب	مجذوب	ADJ	_	_
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	رخ	رخ	NOUN	0	fixed
+2	بکشد	کش	VERB	_	_
+
+LVC.full
+0	مرتب	مرتب	ADJ	1	compound:lvc
+1	می‌ساخت	ساخت	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	سکوت	سکوت	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	تحسین	تحسین	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	ضبط	ضبط	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	ضبط	ضبط	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	compound:lvc
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	جاری	جاری	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جا	جا	NOUN	2	obj
+1	خوش	خوش	ADJ	2	compound:lvc
+2	کرده	کرد	VERB	_	_
+
+LVC.full
+0	نفس‌نفس	نفس‌نفس	NOUN	1	nsubj
+1	می‌زدند	زد	VERB	_	_
+
+LVC.full
+0	خیره	خیره	ADJ	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	پرت	پرت	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	رقم	رقم	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	زانو	زانو	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	می‌دهند	ده	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	NOUN	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	بد	بد	ADJ	_	_
+1	می‌آید	آ	VERB	_	_
+
+LVC.full
+0	غرق	غرق	ADJ	1	compound:lvc
+1	شوند	شو	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	درد	درد	NOUN	2	obl
+2	می‌خورم	خور	VERB	_	_
+
+LVC.full
+0	خواب	خواب	NOUN	1	obj
+1	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	خواب	خواب	NOUN	1	obj
+1	برد	برد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	خواب	خواب	NOUN	2	obl
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	نمی‌شد	شد	VERB	_	_
+
+LVC.full
+0	فاقد	فاقد	NOUN	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	جمع‌آوری	جمع‌آوری	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	سر	سر	NOUN	1	compound:prt
+1	درمی‌آورد	درآورد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	حال	حال	NOUN	_	_
+2	باشد	باش	VERB	_	_
+
+LVC.full
+0	ترک	ترک	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	ملاقات	ملاقات	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	مشخص	مشخص	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	پرسه	پرسه	NOUN	_	_
+1	بزند	زن	VERB	_	_
+
+LVC.full
+0	شانس	شانس	NOUN	_	_
+1	می‌آوردند	آورد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	nsubj
+1	است	است	VERB	_	_
+
+LVC.full
+0	پخش	پخش	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	راه	راه	NOUN	2	obl
+1	باز	باز	ADJ	2	compound:lvc
+2	کرد	کرد	VERB	_	_
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	1	advmod
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	_	_
+1	نشد	شد	VERB	_	_
+
+LVC.full
+0	فرقی	فرق	NOUN	_	_
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	مورد	مورد	NOUN	2	advmod
+1	اصابت	اصابت	NOUN	2	advmod
+2	قرار	قرار	NOUN	_	_
+3	گرفته	گرفت	VERB	2	fixed
+
+LVC.full
+0	طول	طول	NOUN	1	obl
+1	نمی‌کشید	کشید	VERB	_	_
+
+LVC.full
+0	فاصله	فاصله	NOUN	1	compound:lvc
+1	می‌گرفتند	گرفت	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	نمی‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	_	_
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	حال	حال	NOUN	2	obl
+2	بودند	بود	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	_	_
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	عبور	عبور	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	NOUN	_	_
+1	می‌شدند	شد	VERB	_	_
+
+VID
+0	در	در	ADP	1	case
+1	میان	میان	NOUN	2	obl
+2	نبود	بود	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	obj
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	معتقد	معتقد	ADJ	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	نادیده	نادیده	ADJ	1	compound:lvc
+1	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	رعایت	رعایت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	اختصاص	اختصاص	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	عهده	عهده	NOUN	2	compound:lvc
+2	می‌گرفتند	گرفت	VERB	_	_
+
+LVC.full
+0	پدید	پدید	ADJ	1	compound:lvc
+1	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	تکمیل	تکمیل	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	ملاقات	ملاقات	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	پر	پر	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	compound:lvc
+1	می‌زدند	زد	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	متنفر	متنفر	ADJ	1	xcomp
+1	م	است	VERB	_	_
+
+LVC.full
+0	حدس	حدس	NOUN	1	obj
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	قادر	قادر	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	شرح	شرح	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	تولید	تولید	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	برنده	برنده	NOUN	1	nsubj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	ارائه	ارائه	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	تولید	تولید	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	گمان	گمان	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	می‌دهند	ده	VERB	_	_
+
+LVC.full
+0	محدود	محدود	ADJ	1	compound:lvc
+1	می‌شوند	شو	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	می‌کردم	کرد	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	compound:lvc
+1	نکردم	کرد	VERB	_	_
+
+LVC.full
+0	لازم	لازم	ADJ	1	advmod
+1	است	است	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	می‌دهد	ده	VERB	_	_
+
+LVC.full
+0	نقض	نقض	NOUN	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	تجربه	تجربه	NOUN	1	nsubj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	خودکشی	خودکشی	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جلوی	جلو	NOUN	1	obj
+1	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	سعی	سعی	NOUN	1	compound:lvc
+1	می‌کنی	کن	VERB	_	_
+
+LVC.full
+0	بیان	بیان	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	انتقاد	انتقاد	NOUN	1	obj
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	بیزار	بیزار	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	ارتباط	ارتباط	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	راه	راه	NOUN	1	compound:lvc
+1	یافته	یافت	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فرار	فرار	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	حفظ	حفظ	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	صحبتی	صحبت	NOUN	1	obj
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	خلاص	خلاص	NOUN	1	compound:lvc
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	NOUN	1	advmod
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	نکند	کن	VERB	_	_
+
+LVC.full
+0	تعریف	تعریف	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	شاهد	شاهد	NOUN	_	_
+1	بوده	بود	VERB	0	acl:relcl
+
+LVC.full
+0	دور	دور	ADP	_	_
+1	حلقه	حلقه	NOUN	2	compound:lvc
+2	کرده	کرد	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	مانع	مانع	ADJ	_	_
+1	شود	شو	VERB	0	cop
+
+LVC.full
+0	حدس	حدس	NOUN	1	obj
+1	بزنی	زن	VERB	_	_
+
+LVC.full
+0	ربط	ربط	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	بروز	بروز	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	درک	درک	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	مطرح	مطرح	ADJ	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	قادر	قادر	ADJ	1	xcomp
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	نابود	نابود	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	می‌شود	شو	VERB	0	aux:pass
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	مصرف	مصرف	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	obj
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	xcomp
+1	نمی‌شود	شو	VERB	_	_
+
+LVC.full
+0	برقرار	برقرار	ADJ	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	هیجان	هیجان	NOUN	2	obl
+2	بیایی	آ	VERB	_	_
+
+LVC.full
+0	نیاز	نیاز	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	تزریق	تزریق	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	تشویق	تشویق	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	تربیت	تربیت	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	compound:lvc
+1	می‌گرفتند	گرفت	VERB	_	_
+
+LVC.full
+0	گزارش	گزارش	NOUN	1	compound:lvc
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	قادر	قادر	ADJ	_	_
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	2	obj
+1	زنده	زنده	ADJ	2	compound:lvc
+2	کرد	کرد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	روی	روی	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	روی	روی	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	گم	گم	ADJ	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	پیش	پیش	NOUN	2	compound:lvc
+2	گرفتند	گرفت	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	_	_
+1	شد	شد	VERB	0	ccomp
+
+LVC.full
+0	گم	گم	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	conj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	جست‌وجو	جست‌وجو	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	صدا	صدا	NOUN	1	obj
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	obj
+1	بیندازد	انداز	VERB	_	_
+
+LVC.full
+0	خم	خم	ADJ	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	تکان	تکان	NOUN	1	compound:lvc
+1	می‌خورد	خورد	VERB	_	_
+
+LVC.full
+0	هل	هل	NOUN	1	obj
+1	ندادی	داد	VERB	_	_
+
+LVC.full
+0	متاسف	متاسف	ADJ	1	xcomp
+1	ی	است	VERB	_	_
+
+LVC.full
+0	متاسف	متاسف	ADJ	1	xcomp
+1	م	است	VERB	_	_
+
+LVC.full
+0	غلبه	غلبه	NOUN	1	compound:lvc
+1	یافت	یافت	VERB	_	_
+
+LVC.full
+0	حل	حل	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	عوض	عوض	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	ترجیح	ترجیح	NOUN	1	compound:lvc
+1	می‌دهم	ده	VERB	_	_
+
+LVC.full
+0	امکان	امکان	NOUN	1	compound:lvc
+1	ندارد	دار	VERB	_	_
+
+LVC.full
+0	تکان	تکان	NOUN	1	compound:lvc
+1	خورد	خورد	VERB	_	_
+
+LVC.full
+0	قبول	قبول	NOUN	1	compound:lvc
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	سراغ	سراغ	NOUN	2	obl
+2	آمد	آمد	VERB	_	_
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	درک	درک	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	_	_
+1	نداشتند	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	دست	دست	NOUN	_	_
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	فرض	فرض	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	فرقی	فرق	NOUN	1	obj
+1	نمی‌کند	کن	VERB	_	_
+
+LVC.full
+0	لذت	لذت	NOUN	1	compound:lvc
+1	نمی‌بری	بر	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	_	_
+1	نداری	دار	VERB	_	_
+
+LVC.full
+0	حس	حس	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	دارم	دار	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	نداری	دار	VERB	_	_
+
+LVC.full
+0	نزدیک‌تر	نزدیک	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	حرف	حرف	NOUN	1	compound:lvc
+1	نزن	زن	VERB	_	_
+
+LVC.full
+0	سوار	سوار	NOUN	1	obj
+1	می‌شوی	شو	VERB	_	_
+
+LVC.full
+0	مرتب	مرتب	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تدارک	تدارک	NOUN	1	obj
+1	دیده	دید	VERB	_	_
+
+LVC.full
+0	فریاد	فریاد	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	لاپوشانی	لاپوشانی	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	قبول	قبول	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	اجاره	اجاره	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	یکه	یکه	NOUN	1	compound:lvc
+1	خورد	خورد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	نمود	نمود	VERB	_	_
+
+LVC.full
+0	حضور	حضور	NOUN	1	compound:lvc
+1	ندارد	دار	VERB	_	_
+
+LVC.full
+0	حکم	حکم	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	روی	رو	NOUN	0	fixed
+2	نیاورند	آور	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	1	xcomp
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	پهن	پهن	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فارغ	فارغ	ADJ	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	سپری	سپری	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	دستگیر	دستگیر	ADJ	1	compound:lvc
+1	نشوند	شو	VERB	_	_
+
+LVC.full
+0	تعلق	تعلق	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	1	advmod
+1	نشدند	شد	VERB	_	_
+
+LVC.full
+0	افزایش	افزایش	NOUN	1	obj
+1	یافته	یافت	VERB	_	_
+
+VID
+0	بر	بر	ADP	1	case
+1	دوش	دوش	NOUN	2	obl
+2	می‌گذاشت	گذاشت	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	1	compound:lvc
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	گذاشته	گذاشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	هم	هم	PRON	2	compound:lvc
+2	خورد	خورد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	فرق	فرق	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	رخنه	رخنه	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	نزدیک‌تر	نزدیک	ADJ	1	amod
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	فشار	فشار	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	دچار	دچار	ADJ	1	xcomp
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	بر	بر	NOUN	2	compound:lvc
+2	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	تجربه	تجربه	NOUN	1	obj
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	آرزو	آرزو	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	قدم	قدم	NOUN	1	compound:lvc
+1	می‌زدند	زد	VERB	_	_
+
+LVC.full
+0	مجبور	مجبور	ADJ	_	_
+1	نباشند	باش	VERB	_	_
+
+LVC.full
+0	آرزو	آرزو	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	میان	میان	NOUN	2	compound:lvc
+2	گذاشت	گذاشت	VERB	_	_
+
+LVC.full
+0	انتظار	انتظار	NOUN	_	_
+1	می‌کشید	کشید	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	تاخیر	تاخیر	NOUN	2	obl
+2	انداخت	انداخت	VERB	_	_
+
+LVC.full
+0	کمتر	کم	ADJ	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	اجتناب	اجتناب	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	obj
+1	بدهم	ده	VERB	_	_
+
+LVC.full
+0	صبر	صبر	NOUN	1	compound:lvc
+1	کن	کن	VERB	_	_
+
+LVC.full
+0	احتیاجی	احتیاج	NOUN	1	obl
+1	نداریم	دار	VERB	_	_
+
+LVC.full
+0	جابجا	جابجا	NOUN	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	نیازی	نیاز	NOUN	_	_
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	توضیح	توضیح	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	می‌انداخت	انداخت	VERB	_	_
+
+VID
+0	بوی	بو	NOUN	3	nsubj
+1	به	به	ADP	2	case
+2	مشام	مشام	NOUN	3	obl
+3	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	عبور	عبور	NOUN	1	obj
+1	می‌کردی	کرد	VERB	_	_
+
+LVC.full
+0	گیر	گیر	NOUN	1	compound:lvc
+1	بیاوری	آور	VERB	_	_
+
+LVC.full
+0	ناخنک	ناخنک	NOUN	1	obj
+1	می‌زنند	زن	VERB	_	_
+
+LVC.full
+0	پهن	پهن	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تصرف	تصرف	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	نکنی	کن	VERB	_	_
+
+LVC.full
+0	نزدیک	نزدیک	ADJ	1	xcomp
+1	نشو	شو	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	کنه	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	_	_
+1	هیجان	هیجان	NOUN	2	obl
+2	میاره	آور	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	بر	بر	NOUN	2	obl
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	پهن	پهن	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	محسوب	محسوب	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	دچار	دچار	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	انتظار	انتظار	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	آرایش	آرایش	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	صورتی	صورتی	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	تصور	تصور	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	نظر	نظر	NOUN	2	compound:lvc
+2	نمی‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	استفاده	استفاده	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	تهیه	تهیه	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	لخت	لخت	ADJ	1	advmod
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	شرم	شرم	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	داشت	داشت	VERB	_	_
+
+LVC.full
+0	تجربه	تجربه	NOUN	1	compound:lvc
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خواب	خواب	NOUN	2	obl
+2	رفتند	رفت	VERB	_	_
+
+LVC.full
+0	بیدار	بیدار	ADJ	1	advmod
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خواب	خواب	NOUN	2	obl
+2	رفته	رفت	VERB	_	_
+
+LVC.full
+0	تکان	تکان	NOUN	1	compound:lvc
+1	نخورد	خورد	VERB	_	_
+
+LVC.full
+0	جلوه	جلوه	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	1	xcomp
+1	بکشند	کش	VERB	_	_
+
+LVC.full
+0	گوش	گوش	NOUN	_	_
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	یقین	یقین	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	تکیه	تکیه	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	بیدار	بیدار	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	compound:lvc
+1	می‌شوم	شو	VERB	_	_
+
+LVC.full
+0	درست	درست	ADJ	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	بخار	بخار	NOUN	_	_
+1	شده	شد	VERB	0	aux:pass
+
+LVC.full
+0	وقت	وقت	NOUN	1	advmod
+1	داریم	دار	VERB	_	_
+
+LVC.full
+0	خاموش	خاموش	ADJ	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	گم	گم	ADJ	1	advmod
+1	شو	شو	VERB	_	_
+
+LVC.full
+0	پرت	پرت	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	xcomp
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	_	_
+1	می‌کشید	کشید	VERB	_	_
+
+LVC.full
+0	موج	موج	NOUN	1	compound:lvc
+1	می‌زند	زن	VERB	_	_
+
+LVC.full
+0	حمله	حمله	NOUN	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	جرات	جرات	NOUN	1	compound:lvc
+1	نمی‌کند	کن	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	1	compound:lvc
+1	نده	ده	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	compound:lvc
+1	میشوند	شو	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	امان	امان	NOUN	2	obl
+2	است	است	VERB	_	_
+
+LVC.full
+0	آغوش	آغوش	NOUN	_	_
+1	مطمئن	مطمئن	ADJ	2	compound:lvc
+2	سازد	ساز	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	سراغ	سراغ	NOUN	2	obl
+2	می‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	از	از	ADP	1	case
+1	خواب	خواب	NOUN	2	obl
+2	می‌پرید	پرید	VERB	_	_
+
+LVC.full
+0	حرف‌هایی	حرف	NOUN	_	_
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	قطع	قطع	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	مربوط	مربوط	ADJ	1	advmod
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	خوش	خوش	ADJ	_	_
+1	نمی‌آید	آ	VERB	_	_
+
+LVC.full
+0	رفت‌وآمد	رفت‌وآمد	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	پر	پر	ADJ	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	آرام	آرام	ADJ	1	compound:lvc
+1	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	درست	درست	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جلب	جلب	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	پهن	پهن	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	امتحان	امتحان	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	وارسی	وارسی	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	مجذوب	مجذوب	ADJ	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	نمی‌کنم	کن	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	_	_
+1	نمی‌کنم	کن	VERB	_	_
+
+LVC.full
+0	خوش	خوش	ADJ	1	xcomp
+1	می‌آید	آ	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	اشاره	اشاره	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	compound:lvc
+1	بیندازد	انداز	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	dep
+1	ه	است	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	سربه‌نیست	سربه‌نیست	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	یاد	یاد	NOUN	1	compound:lvc
+1	دارم	دار	VERB	_	_
+
+LVC.full
+0	آب	آب	NOUN	3	obj
+1	دهان	دهان	NOUN	3	nmod:poss
+2	راه	راه	NOUN	3	compound:lvc
+3	می‌افتد	افت	VERB	_	_
+
+LVC.full
+0	شرط	شرط	NOUN	_	_
+1	می‌بندم	بند	VERB	_	_
+
+LVC.full
+0	تمیز	تمیز	ADJ	1	xcomp
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	پاک	پاک	ADJ	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	شد	شد	VERB	0	ccomp
+
+LVC.full
+0	محصور	محصور	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	جای	جای	NOUN	1	compound:lvc
+1	گرفته	گرفت	VERB	_	_
+
+LVC.full
+0	سفر	سفر	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	ADJ	1	advmod
+1	نشد	شد	VERB	_	_
+
+LVC.full
+0	حرفی	حرف	NOUN	1	compound:lvc
+1	نمی‌زد	زد	VERB	_	_
+
+LVC.full
+0	نگاهی	نگاه	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	عضویت	عضویت	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	شامل	شامل	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	جلب	جلب	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	کم	کم	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	حفظ	حفظ	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	اضافه‌کاری	اضافه‌کاری	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	سازمان	سازمان	NOUN	1	obj
+1	می‌یافت	یافت	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	پا	پا	NOUN	2	obl
+2	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	دستکاری	دستکاری	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	متوقف	متوقف	ADJ	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	1	advmod
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	صرف	صرف	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	مورد	مورد	NOUN	2	advmod
+1	قرار	قرار	NOUN	2	compound:lvc
+2	بگیرند	گیر	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	هجوم	هجوم	NOUN	1	compound:lvc
+1	می‌آوردند	آورد	VERB	_	_
+
+LVC.full
+0	ایجاد	ایجاد	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	رقابت	رقابت	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	خوش	خوش	ADJ	1	obj
+1	آمده	آمد	VERB	_	_
+
+LVC.full
+0	سازماندهی	سازماندهی	NOUN	1	nsubj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	آماده	آماده	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	فراهم	فراهم	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	هل	هل	NOUN	1	obj
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	اره	اره	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	چکش	چکش	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	مرتب	مرتب	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	روحیه	روحیه	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	پدیدار	پدیدار	ADJ	1	advmod
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	نشانه	نشانه	NOUN	1	compound:lvc
+1	رفته	رفت	VERB	_	_
+
+LVC.full
+0	گیر	گیر	NOUN	_	_
+1	می‌آوردند	آورد	VERB	0	fixed
+
+LVC.full
+0	پیشی	پیشی	NOUN	1	obj
+1	می‌گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	تهییج	تهییج	NOUN	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	شد	شد	VERB	0	cop
+
+LVC.full
+0	قربانی	قربانی	NOUN	1	obl
+1	شوند	شو	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	طول	طول	NOUN	_	_
+2	انجامید	انجامید	VERB	_	_
+
+LVC.full
+0	حاضر	حاضر	ADJ	_	_
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	دادند	داد	VERB	_	_
+
+LVC.full
+0	موجب	موجب	NOUN	_	_
+1	گردید	گردید	VERB	0	nmod
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	پاره‌پاره	پاره‌پاره	ADJ	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	شایعه	شایعه	NOUN	1	fixed
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	هدایت	هدایت	NOUN	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	متهم	متهم	ADJ	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	جان	جان	NOUN	1	compound:lvc
+1	سپردند	سپرد	VERB	_	_
+
+LVC.full
+0	غارت	غارت	NOUN	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	1	xcomp
+1	می‌کشیدند	کشید	VERB	_	_
+
+LVC.full
+0	آغشته	آغشته	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	1	compound:lvc
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	آماده	آماده	ADJ	1	compound:lvc
+1	می‌شوند	شو	VERB	_	_
+
+LVC.full
+0	بیدار	بیدار	ADJ	1	advmod
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	بهبود	بهبود	NOUN	1	compound:lvc
+1	یافته	یافت	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	جای	جا	NOUN	2	obl
+2	مانده	ماند	VERB	_	_
+
+LVC.full
+0	متوقف	متوقف	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	ضرورت	ضرورت	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	اطمینان	اطمینان	NOUN	1	compound:lvc
+1	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	حس	حس	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	خودنمایی	خودنمایی	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	آماده	آماده	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	شباهت	شباهت	NOUN	1	obl
+1	می‌یافت	یافت	VERB	_	_
+
+LVC.full
+0	دل	دل	NOUN	2	nsubj
+1	تحسین	تحسین	NOUN	2	compound:lvc
+2	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	بیاورد	آور	VERB	_	_
+
+LVC.full
+0	دوام	دوام	NOUN	1	compound:lvc
+1	بیاورد	آور	VERB	_	_
+
+LVC.full
+0	چنگ	چنگ	NOUN	1	compound:lvc
+1	می‌زنند	زن	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	خیره	خیره	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	سرگرم	سرگرم	ADJ	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	1	compound:lvc
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	1	compound:lvc
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	ازدواج	ازدواج	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	خودکشی	خودکشی	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	_	_
+1	شوند	شو	VERB	0	fixed
+
+LVC.full
+0	زندگی	زندگی	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	obj
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	نفس	نفس	NOUN	1	obj
+1	می‌کشیم	کش	VERB	_	_
+
+LVC.full
+0	باقی	باقی	ADJ	1	compound:lvc
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	صحبتی	صحبت	NOUN	1	compound:lvc
+1	نکرد	کرد	VERB	_	_
+
+LVC.full
+0	قضاوت	قضاوت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	عادت	عادت	NOUN	_	_
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	متنفر	متنفر	ADJ	_	_
+1	ند	است	VERB	_	_
+
+LVC.full
+0	درست	درست	ADJ	1	advmod
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	وانمود	وانمود	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	1	obl
+1	دارند	دار	VERB	_	_
+
+LVC.full
+0	فریاد	فریاد	NOUN	1	compound:lvc
+1	زده	زد	VERB	_	_
+
+LVC.full
+0	نسبت	نسبت	NOUN	1	compound:lvc
+1	می‌دادند	داد	VERB	_	_
+
+LVC.full
+0	باور	باور	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	بر	بر	ADP	1	case
+1	عهده	عهده	NOUN	2	obl
+2	می‌گرفتند	گرفت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	obl
+2	داشته	داشت	VERB	_	_
+
+LVC.full
+0	باقی	باقی	ADJ	1	compound:lvc
+1	می‌ماند	ماند	VERB	_	_
+
+LVC.full
+0	حقیقت	حقیقت	NOUN	1	obj
+1	ندارد	دار	VERB	_	_
+
+LVC.full
+0	متعجب	متعجب	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	آتش	آتش	NOUN	2	obl
+2	می‌کشیدند	کشید	VERB	_	_
+
+LVC.full
+0	معتقد	معتقد	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	خطور	خطور	NOUN	1	obj
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	دچار	دچار	ADJ	1	xcomp
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	قبول	قبول	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	اختراع	اختراع	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	مطرح	مطرح	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	اهمیت	اهمیت	NOUN	1	obj
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	یاد	یاد	NOUN	2	compound:lvc
+2	ندارد	دار	VERB	_	_
+
+LVC.full
+0	توجه	توجه	NOUN	1	compound:lvc
+1	نکرده	کرد	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	رخ	رخ	NOUN	1	obj
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	مربوط	مربوط	ADJ	1	amod
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	بحث	بحث	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	سخن	سخن	NOUN	1	compound:lvc
+1	می‌گفت	گفت	VERB	_	_
+
+LVC.full
+0	شوکه	شوکه	ADJ	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	بیان	بیان	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تاثیر	تاثیر	NOUN	1	obj
+1	نگذاشت	گذاشت	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	xcomp
+1	نشد	شد	VERB	_	_
+
+LVC.full
+0	تعلق	تعلق	NOUN	1	compound:lvc
+1	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	می‌شود	شو	VERB	0	ccomp
+
+LVC.full
+0	کشته	کشت	VERB	_	_
+1	می‌شوند	شو	AUX	0	cop
+
+LVC.full
+0	پایان	پایان	NOUN	1	obj
+1	یافته	یافت	VERB	_	_
+
+LVC.full
+0	قبول	قبول	NOUN	1	compound:lvc
+1	داری	دار	VERB	_	_
+
+LVC.full
+0	شامل	شامل	ADJ	1	xcomp
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	نسبت	نسبت	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	بازنویسی	بازنویسی	NOUN	1	dep
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	نقاشی	نقاشی	NOUN	1	dep
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	کرده	کرد	VERB	_	_
+
+LVC.full
+0	تحریف	تحریف	NOUN	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	نابود	نابود	ADJ	_	_
+1	شده	شد	VERB	0	aux:pass
+
+LVC.full
+0	قادر	قادر	ADJ	1	xcomp
+1	نیستم	است	VERB	_	_
+
+LVC.full
+0	دستکاری	دستکاری	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	باقی	باقی	ADJ	1	xcomp
+1	گذاشته	گذاشت	VERB	_	_
+
+LVC.full
+0	مطمئن	مطمئن	ADJ	1	compound:lvc
+1	نیستم	است	VERB	_	_
+
+LVC.full
+0	دور	دور	ADV	1	advmod
+1	انداختم	انداخت	VERB	_	_
+
+LVC.full
+0	نگه	نگه	NOUN	1	compound:lvc
+1	می‌دارم	دار	VERB	_	_
+
+LVC.full
+0	تکرار	تکرار	NOUN	1	compound:lvc
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	نگه	نگه	NOUN	1	compound:lvc
+1	نمی‌دارم	دار	VERB	_	_
+
+LVC.full
+0	ارزش	ارزش	NOUN	1	obj
+1	داشته	داشت	VERB	_	_
+
+LVC.full
+0	خطر	خطر	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	کار	کار	NOUN	1	obj
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	نگه	نگه	NOUN	_	_
+1	می‌داشتی	داشت	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	1	compound:lvc
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	تصور	تصور	NOUN	1	compound:lvc
+1	نمی‌کنم	کن	VERB	_	_
+
+LVC.full
+0	موفق	موفق	ADJ	_	_
+1	شویم	شو	VERB	0	conj
+
+LVC.full
+0	تشکیل	تشکیل	NOUN	1	compound:lvc
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	تصور	تصور	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	رشد	رشد	NOUN	1	compound:lvc
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	جمع	جمع	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+VID
+0	کار	کار	NOUN	2	nsubj
+1	به	به	ADP	_	_
+2	رسیده	رسید	VERB	_	_
+
+LVC.full
+0	متحد	متحد	ADJ	1	compound:lvc
+1	می‌شوند	شو	VERB	_	_
+
+LVC.full
+0	علاقه‌ای	علاقه	NOUN	1	compound:lvc
+1	ندارم	دار	VERB	_	_
+
+LVC.full
+0	حلقه	حلقه	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	خوش	خوش	ADJ	1	xcomp
+1	آمد	آمد	VERB	_	_
+
+LVC.full
+0	علاقه‌ای	علاقه	NOUN	1	nsubj
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	_	_
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	توجهی	توجه	NOUN	1	obj
+1	نداشته	داشت	VERB	_	_
+
+LVC.full
+0	نگران	نگران	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	خواب	خواب	NOUN	1	obj
+1	می‌برد	برد	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	قادر	قادر	ADJ	1	xcomp
+1	نبودند	بود	VERB	_	_
+
+LVC.full
+0	تحمیل	تحمیل	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	پی	پی	NOUN	_	_
+1	نمی‌بردند	برد	VERB	0	fixed
+
+LVC.full
+0	علاقمند	علاقمند	ADJ	1	compound:lvc
+1	نبودند	بود	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	_	_
+1	می‌افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	اهمیت	اهمیت	NOUN	1	compound:lvc
+1	بدهند	ده	VERB	_	_
+
+LVC.full
+0	وادار	وادار	ADJ	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	آسیبی	آسیب	NOUN	1	obj
+1	نمی‌رسانید	رسانید	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	جا	جا	NOUN	2	obl
+2	نمی‌گذاشت	گذاشت	VERB	_	_
+
+LVC.full
+0	خارج	خارج	NOUN	_	_
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	ممکن	ممکن	ADJ	1	xcomp
+1	است	است	VERB	_	_
+
+LVC.full
+0	منتظر	منتظر	ADJ	_	_
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	انتظار	انتظار	NOUN	2	obl
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	سرفه	سرفه	NOUN	1	obj
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	فرار	فرار	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	روبرو	روبرو	ADJ	1	compound:lvc
+1	شدند	شد	VERB	_	_
+
+LVC.full
+0	قادر	قادر	ADJ	1	advmod
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	پیش	پیش	ADV	1	advmod
+1	می‌رفتند	رفت	VERB	_	_
+
+LVC.full
+0	متمایز	متمایز	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	فرصتی	فرصت	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	کنم	کن	VERB	_	_
+
+LVC.full
+0	سروکار	سروکار	NOUN	1	compound:lvc
+1	نداشته	داشت	VERB	_	_
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	می‌کردم	کرد	VERB	_	_
+
+LVC.full
+0	حذف	حذف	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	همراه	همراه	NOUN	2	compound:lvc
+2	داشت	داشت	VERB	_	_
+
+LVC.full
+0	محسوب	محسوب	NOUN	1	compound:lvc
+1	می‌شدند	شد	VERB	_	_
+
+LVC.full
+0	مرتکب	مرتکب	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	جابه‌جا	جابه‌جا	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	منسوخ	منسوخ	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	استفاده	استفاده	NOUN	1	compound:lvc
+1	می‌کنیم	کن	VERB	_	_
+
+LVC.full
+0	منتشر	منتشر	ADJ	1	amod
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	چاپ	چاپ	NOUN	1	conj
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	advmod
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	امکان	امکان	NOUN	_	_
+1	دارد	دار	VERB	_	_
+
+LVC.full
+0	فراموش	فراموش	ADJ	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	صبر	صبر	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	اجازه	اجازه	NOUN	1	compound:lvc
+1	دهید	ده	VERB	_	_
+
+LVC.full
+0	پاره	پاره	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تنها	تنها	ADV	1	advmod
+1	گذاشت	گذاشت	VERB	_	_
+
+LVC.full
+0	نیازی	نیاز	NOUN	1	obj
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خاطر	خاطر	NOUN	2	obl
+2	سپرد	سپرد	VERB	_	_
+
+LVC.full
+0	طول	طول	NOUN	_	_
+1	کشیده	کشید	VERB	_	_
+
+LVC.full
+0	پنهان	پنهان	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+VID
+0	رویا	رویا	NOUN	1	obj
+1	دیده	دید	VERB	_	_
+
+LVC.full
+0	پیروی	پیروی	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	2	mark
+1	حال	حال	NOUN	2	obl
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	روی	روی	NOUN	1	compound:lvc
+1	می‌داد	داد	VERB	_	_
+
+LVC.full
+0	یخ	یخ	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	جریان	جریان	NOUN	1	compound:lvc
+1	داشتند	داشت	VERB	_	_
+
+LVC.full
+0	دراز	دراز	ADJ	1	advmod
+1	کشیده	کشید	VERB	_	_
+
+LVC.full
+0	روی	روی	NOUN	1	compound:lvc
+1	داد	داد	VERB	_	_
+
+LVC.full
+0	درست	درست	ADJ	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	1	nsubj
+1	افتاده	افتاد	VERB	_	_
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	_	_
+1	شده	شد	VERB	0	aux:pass
+
+LVC.full
+0	نصب	نصب	NOUN	_	_
+1	می‌شد	شد	VERB	0	conj
+
+LVC.full
+0	یاد	یاد	NOUN	_	_
+1	می‌آمد	آمد	VERB	0	fixed
+
+LVC.full
+0	به‌دنبال	به‌دنبال	ADP	_	_
+1	می‌گشتند	گشت	VERB	_	_
+
+LVC.full
+0	حمل	حمل	NOUN	1	compound:lvc
+1	می‌کردند	کرد	VERB	_	_
+
+LVC.full
+0	منتظر	منتظر	ADJ	_	_
+1	می‌شدند	شد	VERB	0	fixed
+
+LVC.full
+0	نصیب	نصیب	NOUN	1	nsubj
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	نشان	نشان	NOUN	1	compound:lvc
+1	نداد	داد	VERB	_	_
+
+LVC.full
+0	ناپدید	ناپدید	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+VID
+0	روحیه	روحیه	NOUN	5	obj
+1	خود	خود	PRON	0	nmod:poss
+2	را	را	ADP	0	case
+3	از	از	ADP	4	case
+4	دست	دست	NOUN	5	compound:lvc
+5	داده	داد	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	1	compound:lvc
+1	بیفتد	افت	VERB	_	_
+
+LVC.full
+0	وصله	وصله	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	جارو	جارو	NOUN	_	_
+1	می‌کرد	کرد	VERB	0	conj
+
+LVC.full
+0	گردگیری	گردگیری	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	مستلزم	مستلزم	NOUN	_	_
+1	باشد	باش	VERB	_	_
+
+LVC.full
+0	حرکت	حرکت	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	شباهت	شباهت	NOUN	1	obj
+1	یافته	یافت	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	1	case
+1	آغوش	آغوش	NOUN	2	obl
+2	می‌گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	درک	درک	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	اشغال	اشغال	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	برروی	بررو	ADP	_	_
+1	خم	خم	ADJ	2	compound:lvc
+2	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	هم	هم	PRON	2	compound:lvc
+2	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	نعره	نعره	NOUN	1	compound:lvc
+1	می‌کشید	کشید	VERB	_	_
+
+LVC.full
+0	دریافت	دریافت	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	طلب	طلب	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	یادآوری	یادآوری	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	فایده‌ای	فایده	NOUN	1	obj
+1	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	ناخنک	ناخنک	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	باعث	باعث	NOUN	_	_
+1	می‌شود	شو	VERB	_	_
+
+LVC.full
+0	پدید	پدید	ADJ	_	_
+1	می‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	دستبرد	دستبرد	NOUN	1	compound:lvc
+1	می‌زد	زد	VERB	_	_
+
+LVC.full
+0	مراقب	مراقب	ADJ	1	xcomp
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	توزیع	توزیع	NOUN	_	_
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تقسیم	تقسیم	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	تکرار	تکرار	NOUN	_	_
+1	شد	شد	VERB	0	cop
+
+LVC.full
+0	قسمت	قسمت	NOUN	1	obl
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	_	_
+1	حال	حال	NOUN	0	fixed
+2	است	است	VERB	_	_
+
+LVC.full
+0	چسبناک	چسبناک	ADJ	1	xcomp
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	خجالت	خجالت	NOUN	1	compound:lvc
+1	می‌کشد	کش	VERB	_	_
+
+LVC.full
+0	پرسه	پرسه	NOUN	1	compound:lvc
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	حس	حس	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	وادار	وادار	ADJ	1	advmod
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	تلقی	تلقی	NOUN	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	مطمئن	مطمئن	ADJ	1	xcomp
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	بعید	بعید	ADJ	1	amod
+1	نبود	بود	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	وجود	وجود	NOUN	2	compound:lvc
+2	آمده	آمد	VERB	_	_
+
+LVC.full
+0	رها	رها	ADJ	_	_
+1	کرده	کرد	VERB	_	_
+
+VID
+0	در	در	ADP	1	case
+1	خاطر	خاطر	NOUN	3	obl
+2	زنده	زنده	ADJ	3	compound:lvc
+3	بود	بود	VERB	_	_
+
+LVC.full
+0	خواب	خواب	NOUN	_	_
+1	دیده	دید	VERB	_	_
+
+LVC.full
+0	باز	باز	ADJ	_	_
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	گمان	گمان	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	برخوردار	برخوردار	ADJ	_	_
+1	بود	بود	VERB	0	aux
+
+LVC.full
+0	تاثیری	تاثیر	NOUN	1	obl
+1	نمی‌گذاشت	گذاشت	VERB	_	_
+
+LVC.full
+0	متعلق	متعلق	ADJ	1	amod
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	داشت	داشت	VERB	_	_
+
+LVC.full
+0	آغوش	آغوش	NOUN	1	obl
+1	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	وجود	وجود	NOUN	2	compound:lvc
+2	نمی‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	جلوگیری	جلوگیری	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	پناه	پناه	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	احساس	احساس	NOUN	_	_
+1	نمی‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	_	_
+1	نمی‌داد	داد	VERB	_	_
+
+LVC.full
+0	تفاوتی	تفاوت	NOUN	1	compound:lvc
+1	نمی‌کرد	کرد	VERB	_	_
+
+VID
+0	در	در	ADP	1	case
+1	چنگ	چنگ	NOUN	_	_
+2	گرفتار	گرفتار	ADJ	_	_
+3	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	گرفتار	گرفتار	ADJ	_	_
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	صحبتی	صحبت	NOUN	3	obl
+1	به	به	ADP	2	case
+2	میان	میان	NOUN	3	compound:lvc
+3	نمی‌آمد	آمد	VERB	_	_
+
+LVC.full
+0	نابود	نابود	ADJ	1	compound:lvc
+1	می‌شد	شد	VERB	_	_
+
+LVC.full
+0	درپی	درپی	ADP	_	_
+1	نبودند	بود	VERB	_	_
+
+LVC.full
+0	اطمینان	اطمینان	NOUN	_	_
+
+LVC.full
+0	حفظ	حفظ	NOUN	1	compound:lvc
+1	کرده	کرد	VERB	_	_
+
+LVC.full
+0	پایبند	پایبند	ADJ	_	_
+1	نبودند	بود	VERB	_	_
+
+LVC.full
+0	وفادار	وفادار	ADJ	_	_
+1	بودند	بود	VERB	_	_
+
+LVC.full
+0	سر	سر	NOUN	1	compound:lvc
+1	بردارند	بردار	VERB	_	_
+
+LVC.full
+0	عوض	عوض	NOUN	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	تحقیر	تحقیر	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	حفظ	حفظ	NOUN	1	obj
+1	کرده	کرد	VERB	_	_
+
+VID
+0	در	در	ADP	1	case
+1	افکار	فکر	NOUN	2	obl
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	بیدار	بیدار	ADJ	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	کردی	کرد	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	فکر	فکر	NOUN	2	obl
+2	رسیده	رسید	VERB	_	_
+
+LVC.full
+0	قصد	قصد	NOUN	1	compound:lvc
+1	ندارم	دار	VERB	_	_
+
+LVC.full
+0	ادامه	ادامه	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	کند	کن	VERB	_	_
+
+LVC.full
+0	عمر	عمر	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	دوری	دور	NOUN	1	compound:lvc
+1	کنی	کن	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	می‌دهم	ده	VERB	_	_
+
+LVC.full
+0	جدا	جدا	ADJ	1	compound:lvc
+1	می‌شویم	شو	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	advmod
+1	هستی	است	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	دهیم	ده	VERB	_	_
+
+LVC.full
+0	اعتراف	اعتراف	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	عقب	عقب	ADV	1	advmod
+1	بیندازیم	انداز	VERB	_	_
+
+LVC.full
+0	پیدا	پیدا	ADJ	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+LVC.full
+0	خیانت	خیانت	NOUN	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+LVC.full
+0	وجود	وجود	NOUN	1	compound:lvc
+1	نمی‌آورد	آورد	VERB	_	_
+
+LVC.full
+0	شکنجه	شکنجه	NOUN	1	obj
+1	می‌کنند	کن	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	دهی	ده	VERB	_	_
+
+LVC.full
+0	مطرح	مطرح	ADJ	1	conj
+1	نیست	است	VERB	_	_
+
+LVC.full
+0	دوست	دوست	NOUN	1	compound:lvc
+1	نداشته	داشت	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	1	compound:lvc
+1	افتاده	افتاد	VERB	_	_
+
+LVC.full
+0	کاری	کار	NOUN	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	انجام	انجام	NOUN	1	compound:lvc
+1	دهند	ده	VERB	_	_
+
+LVC.full
+0	وادار	وادار	ADJ	1	advmod
+1	بکنند	کن	VERB	_	_
+
+LVC.full
+0	دسترسی	دسترسی	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	کنند	کن	VERB	_	_
+
+LVC.full
+0	شکست	شکست	NOUN	1	compound:lvc
+1	داده	داد	VERB	_	_
+
+LVC.full
+0	مشغول	مشغول	ADJ	_	_
+1	بود	بود	VERB	0	cop
+
+LVC.full
+0	به	به	ADP	1	case
+1	کار	کار	NOUN	2	compound:lvc
+2	می‌انداخت	انداخت	VERB	_	_
+
+LVC.full
+0	پیشی	پیشی	NOUN	1	obj
+1	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	جاسوسی	جاسوسی	NOUN	1	obj
+1	بکنند	کن	VERB	_	_
+
+LVC.full
+0	حدس‌هایی	حدس	NOUN	1	dep
+1	زد	زد	VERB	_	_
+
+LVC.full
+0	پنهان	پنهان	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	1	compound:lvc
+1	یابند	یاب	VERB	_	_
+
+LVC.full
+0	تفاوت	تفاوت	NOUN	1	compound:lvc
+1	می‌کند	کن	VERB	_	_
+
+LVC.full
+0	تغییر	تغییر	NOUN	1	compound:lvc
+1	دهد	ده	VERB	_	_
+
+LVC.full
+0	دست	دست	NOUN	2	obj
+1	پیدا	پیدا	ADJ	2	compound:lvc
+2	کنند	کن	VERB	_	_
+
+LVC.full
+0	روشن	روشن	ADJ	_	_
+1	شده	شد	VERB	0	ccomp
+
+LVC.full
+0	کم	کم	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	راهنمایی	راهنمایی	NOUN	_	_
+1	کرد	کرد	AUX	_	_
+
+LVC.full
+0	بلند	بلند	ADJ	1	compound:lvc
+1	نکرد	کرد	VERB	_	_
+
+LVC.full
+0	ملاقات	ملاقات	NOUN	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	پا	پا	NOUN	1	compound:lvc
+1	بگذارد	گذار	VERB	_	_
+
+LVC.full
+0	اتفاق	اتفاق	NOUN	1	advmod
+1	می‌افتاد	افتاد	VERB	_	_
+
+LVC.full
+0	قدمی	قدم	NOUN	_	_
+1	برمی‌داشت	برداشت	VERB	0	acl:relcl
+
+VID
+0	دست	دست	NOUN	_	_
+1	از	از	ADP	2	case
+2	سر	سر	NOUN	3	obl
+3	برنمی‌داشت	برداشت	VERB	_	_
+
+LVC.full
+0	بیرون	بیرون	ADV	1	advmod
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	تن	تن	NOUN	2	obl
+2	داشت	داشت	VERB	_	_
+
+LVC.full
+0	فرش	فرش	NOUN	1	compound:lvc
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	عبور	عبور	NOUN	1	compound:lvc
+1	کردند	کرد	VERB	_	_
+
+LVC.full
+0	کثیف	کثیف	ADJ	_	_
+1	نشده	شد	VERB	_	_
+
+LVC.full
+0	در	در	ADP	_	_
+1	حال	حال	NOUN	0	fixed
+2	بود	بود	VERB	_	_
+
+LVC.full
+0	خم	خم	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+2	بود	بود	AUX	1	cop
+
+LVC.full
+0	خوش	خوش	ADJ	1	xcomp
+1	نیامده	آمد	VERB	_	_
+
+VID
+0	در	در	ADP	1	case
+1	دست	دست	NOUN	2	compound:lvc
+2	نداشت	داشت	VERB	_	_
+
+LVC.full
+0	نمایان	نمایان	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	وانمود	وانمود	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	به	به	ADP	1	case
+1	خاطر	خاطر	NOUN	2	obl
+2	رسید	رسید	VERB	_	_
+
+LVC.full
+0	خاموش	خاموش	ADJ	1	compound:lvc
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	جیغ	جیغ	NOUN	1	compound:lvc
+1	کشید	کشید	VERB	_	_
+
+VID
+0	جلوی	جلو	NOUN	2	obj
+1	زبان	زبان	NOUN	2	obj
+2	بگیرد	گیر	VERB	_	_
+
+LVC.full
+0	خاموش	خاموش	ADJ	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	خاموش	خاموش	ADJ	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+LVC.full
+0	منتظر	منتظر	ADJ	1	xcomp
+1	بود	بود	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	_	_
+1	کند	کن	VERB	0	conj
+
+LVC.full
+0	فرورفته	فرورفت	VERB	_	_
+1	بود	بود	AUX	0	cop
+
+LVC.full
+0	نگاه	نگاه	NOUN	1	compound:lvc
+1	کند	کن	VERB	_	_
+
+LVC.full
+0	تغییری	تغییر	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	جابه‌جا	جابه‌جا	NOUN	_	_
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	می‌کنید	کن	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	می‌کنم	کن	VERB	_	_
+
+LVC.full
+0	خاموش	خاموش	ADJ	1	xcomp
+1	شده	شد	VERB	_	_
+
+LVC.full
+0	تامل	تامل	NOUN	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	کمکی	کمک	NOUN	1	nsubj
+1	بکند	کن	VERB	_	_
+
+LVC.full
+0	برداشت	برداشت	NOUN	1	compound:lvc
+1	شود	شو	VERB	_	_
+
+LVC.full
+0	شرکت	شرکت	NOUN	1	compound:lvc
+1	دارید	دار	VERB	_	_
+
+LVC.full
+0	فکر	فکر	NOUN	1	compound:lvc
+1	می‌کنیم	کن	VERB	_	_
+
+LVC.full
+0	فعالیت	فعالیت	NOUN	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+LVC.full
+0	ملحق	ملحق	ADJ	1	advcl
+1	شویم	شو	VERB	_	_
+
+LVC.full
+0	در	در	ADP	_	_
+1	اختیار	اختیار	NOUN	0	fixed
+2	قرار	قرار	NOUN	3	compound:lvc
+3	دهیم	ده	VERB	_	_
+
+LVC.full
+0	قرار	قرار	NOUN	1	compound:lvc
+1	دهیم	ده	VERB	_	_
+
+LVC.full
+0	لازم	لازم	ADJ	1	advmod
+1	می‌دانید	دان	VERB	_	_
+
+LVC.full
+0	نسبت	نسبت	NOUN	_	_
+1	بدهیم	ده	VERB	0	fixed
+
+LVC.full
+0	ساکت	ساکت	ADJ	_	_
+1	شد	شد	VERB	0	aux:pass
+
+LVC.full
+0	وارد	وارد	NOUN	_	_
+1	شده	شد	VERB	0	aux:pass
+
+LVC.full
+0	صحبت	صحبت	NOUN	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+LVC.full
+0	دارای	دارا	NOUN	1	nsubj
+1	باشد	باش	VERB	_	_
+
+LVC.full
+0	نقش	نقش	NOUN	2	obj
+1	بازی	بازی	NOUN	2	compound:lvc
+2	کرده	کرد	VERB	_	_
+
+LVC.full
+0	درست	درست	ADJ	_	_
+1	شده	شد	VERB	0	aux:pass
+
+VID
+0	به	به	ADP	1	case
+1	دست	دست	NOUN	2	obl
+2	می‌رسید	رسید	VERB	_	_
+
+LVC.full
+0	شروع	شروع	NOUN	1	compound:lvc
+1	کنیم	کن	VERB	_	_
+
+IRV
+0	به	به	ADP	1	case
+1	خود	خود	PRON	2	obl
+2	گرفت	گرفت	VERB	_	_
+
+LVC.full
+0	تصور	تصور	NOUN	1	compound:lvc
+1	می‌کرد	کرد	VERB	_	_
+
+LVC.full
+0	ناامید	ناامید	ADJ	1	xcomp
+1	شد	شد	VERB	_	_
+
+LVC.full
+0	لذت	لذت	NOUN	1	compound:lvc
+1	ببرد	بر	VERB	_	_
+
+LVC.full
+0	واقعیت	واقعیت	NOUN	1	compound:lvc
+1	دارد	دار	VERB	_	_
+
+LVC.full
+0	تعلق	تعلق	NOUN	1	compound:lvc
+1	دارید	دار	VERB	_	_
+
+VID
+0	به	به	ADP	1	case
+1	موضوع	موضوع	NOUN	2	obl
+2	می‌پردازم	پرداز	VERB	_	_
+
+LVC.full
+0	خاموش	خاموش	ADJ	1	compound:lvc
+1	کنند	کن	VERB	_	_
+
+LVC.full
+0	ترک	ترک	NOUN	1	compound:lvc
+1	کنید	کن	VERB	_	_
+
+LVC.full
+0	خم	خم	ADJ	1	compound:lvc
+1	کرد	کرد	VERB	_	_
+
+LVC.full
+0	سوال	سوال	NOUN	1	compound:lvc
+1	کنم	کن	VERB	_	_
+
+LVC.full
+0	متوجه	متوجه	ADJ	1	xcomp
+1	هستید	است	VERB	_	_
+
+LVC.full
+0	آمادگی	آمادگی	NOUN	1	compound:lvc
+1	دارید	دار	VERB	_	_
+
