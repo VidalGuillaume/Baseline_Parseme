@@ -1,0 +1,11180 @@
+IRV
+0	се	се	PRON	1	expl
+1	нареждат	нареждам-(се)	VERB	_	_
+
+LVC.full
+0	повдигнала	повдигна-(се)	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+VID
+0	дава	давам-(се)	VERB	_	_
+1	ход	ход	NOUN	0	obj
+
+VID
+0	отхвърли	отхвърля	VERB	_	_
+1	обвиненията	обвинение	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	начало	начало	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съсредоточи	съсредоточа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	провалили	проваля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	чувстват	чувствам-(се)	VERB	_	_
+
+LVC.full
+0	пое	поема	VERB	_	_
+1	отговорността	отговорност	NOUN	0	obj
+
+LVC.full
+0	направила	направя-(се)	VERB	_	_
+1	опит	опит	NOUN	0	obj
+
+LVC.full
+0	взел	взема	VERB	_	_
+1	участие	участие	NOUN	0	obj
+
+LVC.full
+0	е	съм	AUX	2	cop
+1	под	под	ADP	2	case
+2	контрол	контрол	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опитват	опитвам-(се)	VERB	_	_
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	разговори	разговор	NOUN	0	obj
+
+LVC.full
+0	повдигане	повдигане	NOUN	_	_
+1	обвинения	обвинение	NOUN	0	nmod
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	готовност	готовност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	подготвят	подготвям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	завърнали	завърна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	завърнат	завърна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	концентрират	концентрирам	VERB	_	_
+
+VID
+0	спечели	спечеля	VERB	_	_
+1	награда	награда	NOUN	0	obj
+
+VID
+0	спечелила	спечеля	VERB	_	_
+1	награда	награда	NOUN	0	obj
+
+LVC.full
+0	взели	взема	VERB	_	_
+1	решението	решение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	завръщат	завръщам-(се)	VERB	_	_
+
+LVC.full
+0	претърпя	претърпя	VERB	_	_
+1	операция	операция	NOUN	0	obj
+
+LVC.full
+0	претърпял	претърпя	VERB	_	_
+1	операция	операция	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обади	обадя-(се)	VERB	_	_
+
+LVC.full
+0	сложи	сложа-(се)	VERB	_	_
+1	начало	начало	NOUN	0	obj
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	оценка	оценка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срещна	срещна-(се)	VERB	_	_
+
+VID
+0	присъства	присъствам	VERB	_	_
+1	конференция	конференция	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	завърна	завърна-(се)	VERB	_	_
+
+LVC.full
+0	постигнат	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+VID
+0	разрешат	разреша	VERB	_	_
+1	спора	спор	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	завърне	завърна-(се)	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	надежда	надежда	NOUN	0	obj
+
+LVC.cause
+0	сложи	сложа-(се)	VERB	_	_
+1	край	край	NOUN	0	obj
+
+VID
+0	игри	игра	NOUN	_	_
+1	си	свой	PRON	0	nmod
+
+VID
+0	водеше	водя	VERB	_	_
+1	война	война	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	отцепим	отцепя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	присъединим	присъединя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	откажем	откажа-(се)	VERB	_	_
+
+VID
+0	играеше	играя	VERB	_	_
+1	ролята	роля	NOUN	0	obj
+
+VID
+0	постла	пост	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+VID
+0	увенчаят	увенчая	VERB	_	_
+1	с	с	ADP	2	case
+2	успех	успех	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	оказват	оказвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оттегли	оттегля-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	самопризнания	самопризнание	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	призна	призная-(се)	VERB	_	_
+
+LVC.full
+0	давал	давам-(се)	VERB	_	_
+1	разрешение	разрешение	NOUN	0	obj
+
+LVC.full
+0	повдигнатите	повдигнат	ADJ	1	amod
+1	обвинения	обвинение	NOUN	_	_
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	надежда	надежда	NOUN	0	obj
+
+LVC.full
+0	издали	издам-(се)	VERB	_	_
+1	заповед	заповед	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отрази	отразя-(се)	VERB	_	_
+
+VID
+0	обяви	обявя-(се)	VERB	_	_
+1	търг	търг	NOUN	0	obj
+
+LVC.full
+0	стана	стана	VERB	_	_
+1	причина	причина	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срещнаха	срещна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	договориха	договоря-(се)	VERB	_	_
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	отговор	отговор	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обедини	обединя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	страхува	страхувам-се	VERB	_	_
+
+LVC.full
+0	постигнаха	постигна	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	приближиха	приближа-(се)	VERB	_	_
+
+VID
+0	потвърди	потвърдя	VERB	_	_
+1	ангажираността	ангажираност	NOUN	0	obj
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	своя	свой	DET	2	det
+2	принос	принос	NOUN	0	obj
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	принос	принос	NOUN	0	obj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	предложение	предложение	NOUN	0	obj
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	призив	призив	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изтеглила	изтегля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	завръща	завръщам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	споразумяха	споразумея-се	VERB	_	_
+
+LVC.full
+0	постигнали	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+VID
+0	изразиха	изразя-(се)	VERB	_	_
+1	резерви	резерва	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	появиха	появя-се	VERB	_	_
+
+IRV
+0	наричаща	наричащам	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	втурнаха	втурна-се	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	държат	държа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	уговориха	уговоря	VERB	_	_
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	показания	показание	NOUN	0	obj
+
+VID
+0	да	да	AUX	1	aux
+1	даде	дам-(се)	VERB	_	_
+2	показания	показание	NOUN	1	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	яви	явя-(се)	VERB	_	_
+
+LVC.full
+0	призовка	призовка	NOUN	_	_
+
+LVC.full
+0	има	имам	VERB	_	_
+1	планове	план	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	намират	намирам-(се)	VERB	_	_
+
+VID
+0	отхвърлиха	отхвърля	VERB	_	_
+1	предложение	предложение	NOUN	0	obj
+
+LVC.full
+0	вземе	взема	VERB	_	_
+1	участие	участие	NOUN	0	obj
+
+LVC.full
+0	заявявайки	заявявайки	ADJ	1	amod
+1	интерес	интерес	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	противопоставиха	противопоставя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	откаже	откажа-(се)	VERB	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	бърка	бъркам-(се)	VERB	_	_
+2	в	в	ADP	3	case
+3	работи	работа	NOUN	1	iobj
+
+VID
+0	обърне	обърна-(се)	VERB	_	_
+1	внимание	внимание	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отказва	отказвам-(се)	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	надеждата	надежда	NOUN	0	obj
+
+VID
+0	подложен	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	огън	огън	NOUN	0	iobj
+
+VID
+0	потърсил	потърся	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+LVC.full
+0	оказали	окажа-(се)	VERB	_	_
+1	съпротива	съпротива	NOUN	0	obj
+
+VID
+0	няма	нямам	VERB	_	_
+1	жертви	жертва	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	представя	представя-(се)	VERB	_	_
+
+LVC.full
+0	поела	поема	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+VID
+0	дадоха	дам-(се)	VERB	_	_
+1	ход	ход	NOUN	0	nsubj
+
+VID
+0	засилиха	засиля-(се)	VERB	_	_
+1	присъствието	присъствие	NOUN	0	obj
+
+VID
+0	напуснат	напусна	VERB	_	_
+1	домовете	дом	NOUN	0	obj
+2	си	свой	PRON	1	det
+
+VID
+0	следили	следя	VERB	_	_
+1	отблизо	отблизо	ADV	0	advmod
+
+VID
+0	реши	реша	VERB	_	_
+1	проблемите	проблем	NOUN	_	_
+
+VID
+0	създаване	създаване	NOUN	_	_
+1	на	на	ADP	3	case
+2	работни	работен	ADJ	3	amod
+3	места	място	NOUN	_	_
+
+VID
+0	Приоритет	приоритет	NOUN	1	nsubj:pass
+1	даден	дам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	фокусираха	фокусирам	VERB	_	_
+
+LVC.full
+0	арестът	арест	NOUN	1	nsubj:pass
+1	извършен	извърша	VERB	_	_
+
+LVC.full
+0	установило	установя-(се)	VERB	_	_
+1	контакти	контакт	NOUN	0	obj
+
+VID
+0	поставени	поставя-(се)	ADJ	_	_
+1	под	под	ADP	2	case
+2	наблюдение	наблюдение	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	радват	радвам-(се)	VERB	_	_
+
+VID
+0	имат	има	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+VID
+0	ползват	ползвам-(се)	VERB	_	_
+1	отпуск	отпуск	NOUN	0	obj
+
+VID
+0	плащането	плащане	NOUN	_	_
+1	на	на	ADP	2	case
+2	възнаграждение	възнаграждение	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	окаже	окажа-(се)	VERB	_	_
+
+VID
+0	плащат	плащам	VERB	_	_
+1	осигуровки	осигуровка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	борят	боря-(се)	VERB	_	_
+
+VID
+0	предприел	предприема	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+LVC.full
+0	окаже	окажа-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	присъедини	присъединя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	присъединят	присъединя-(се)	VERB	_	_
+
+VID
+0	дала	дам-(се)	VERB	_	_
+1	сигнал	сигнал	NOUN	0	obj
+
+LVC.full
+0	проявява	проявявам-(се)	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+VID
+0	счупвайки	счупвайки	ADJ	1	amod
+1	рекорда	рекорд	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	окажат	окажа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	справи	справя-се	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	подкрепата	подкрепа	NOUN	0	obj
+
+LVC.full
+0	вземат	взема	VERB	_	_
+1	участие	участие	NOUN	0	obj
+
+VID
+0	обира	обирам	VERB	_	_
+1	наградите	награда	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	стреми	стремя-(се)	VERB	_	_
+
+VID
+0	имат	имам	VERB	_	_
+1	шанс	шанс	NOUN	0	obj
+
+VID
+0	оставим	оставя-(се)	VERB	_	_
+1	настрана	настрана	ADV	0	advmod
+
+VID
+0	се	се	PRON	1	expl
+1	редиха	редя	VERB	_	_
+2	на	на	ADP	3	case
+3	опашки	опашка	NOUN	1	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	отнася	отнасям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	отклони	отклоня-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	свило	свя-(се)	VERB	_	_
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	предложение	предложение	NOUN	0	nsubj:pass
+2	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласили	съгласиля-(се)	VERB	_	_
+
+LVC.full
+0	получава	получавам	VERB	_	_
+1	подкрепата	подкрепа	NOUN	0	obj
+
+LVC.full
+0	получил	получа	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	състои	състоя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	покачи	покача-(се)	VERB	_	_
+
+VID
+0	плати	платя	VERB	_	_
+1	сметка	сметка	NOUN	0	obj
+
+VID
+0	покрива	покривам-(се)	VERB	_	_
+1	разходите	разход	NOUN	_	_
+
+IAV
+0	възлязат	възляза	VERB	_	_
+1	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	погрижи	погрижа-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	заеме	заема-(се)	VERB	_	_
+
+VID
+0	поставя	поставям-(се)	VERB	_	_
+1	в	в	ADP	2	case
+2	светлината	светлина	NOUN	_	_
+3	на	на	ADP	4	case
+4	прожектори	прожектор	NOUN	2	nmod
+
+VID
+0	Имаше	имам	VERB	_	_
+1	надежда	надежда	NOUN	0	obj
+
+VID
+0	разкриване	разкриване	NOUN	_	_
+1	на	на	ADP	3	case
+2	работни	работен	ADJ	3	amod
+3	места	място	NOUN	0	nmod
+
+VID
+0	няма	нямам	VERB	_	_
+1	нужда	нужда	NOUN	0	obj
+
+LVC.full
+0	взето	взема	VERB	_	_
+1	решение	решение	NOUN	0	nsubj:pass
+
+LVC.full
+0	правили	правя-(се)	VERB	_	_
+1	опит	опит	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	увеличат	увелича-(се)	VERB	_	_
+
+VID
+0	получат	получа	VERB	_	_
+1	шанс	шанс	NOUN	0	obj
+
+VID
+0	обикаля	обикалям	VERB	_	_
+1	страната	страна	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	случва	случвам-(се)	VERB	_	_
+
+VID
+0	предприели	предприема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+VID
+0	Мярката	мярка	NOUN	1	nsubj:pass
+1	взета	взема	VERB	_	_
+
+LVC.full
+0	да	да	AUX	1	aux
+1	даде	дам-(се)	VERB	_	_
+2	приноса	принос	NOUN	1	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	интересувате	интересувам-(се)	VERB	_	_
+
+VID
+0	поставен	поставя-(се)	VERB	_	_
+1	на	на	ADP	3	case
+2	дневен	дневен	ADJ	3	amod
+3	ред	ред	NOUN	0	iobj
+
+LVC.full
+0	отпускане	отпускане	NOUN	_	_
+1	на	на	ADP	2	case
+2	заем	заем	NOUN	0	nmod
+
+IRV
+0	позовавайки	позовавам-(се)	ADV	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	случи	случа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	нуждае	нуждая-се	VERB	_	_
+
+VID
+0	Що	Що	ADV	2	advmod
+1	се	се	PRON	2	expl
+2	отнася	отнасям-(се)	VERB	_	_
+3	до	до	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	гордее	гордея-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	състоят	състоя-се	VERB	_	_
+
+LVC.full
+0	окажат	окажа-(се)	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срещнали	срещна-(се)	VERB	_	_
+
+VID
+0	си	се	PRON	1	expl
+1	дадоха	дам-(се)	VERB	_	_
+2	среща	среща	NOUN	1	obj
+
+VID
+0	отвори	отворя-(се)	VERB	_	_
+1	вратите	врата	NOUN	0	obj
+
+LVC.full
+0	постави	поставя-(се)	VERB	_	_
+1	акцента	акцент	NOUN	0	obj
+
+LVC.full
+0	имаше	имам	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	възстановил	възстановя-(се)	VERB	_	_
+
+VID
+0	е	съм	AUX	1	cop
+1	крачка	крачка	NOUN	_	_
+2	напред	напред	ADV	1	advmod
+
+VID
+0	получиха	получа	VERB	_	_
+1	тежест	тежест	NOUN	0	obj
+
+VID
+0	взели	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+LVC.full
+0	носят	нося-(се)	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+VID
+0	встъпи	встъпя	VERB	_	_
+1	в	в	ADP	2	case
+2	длъжност	длъжност	NOUN	0	iobj
+
+LVC.full
+0	водят	водя	VERB	_	_
+1	дела	дело	NOUN	0	nsubj
+
+VID
+0	дела	дело	NOUN	1	nsubj:pass
+1	гледани	гледам	VERB	_	_
+
+VID
+0	е	съм	AUX	1	cop
+1	крачка	крачка	NOUN	_	_
+2	напред	напред	ADV	_	_
+
+VID
+0	привлича	привличам	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+LVC.full
+0	оказване	оказване	NOUN	_	_
+1	на	на	ADP	2	case
+2	помощ	помощ	NOUN	0	nmod
+
+LVC.full
+0	решението	решение	NOUN	1	nsubj:pass
+1	взето	взема	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	въздържа	въздържам-(се)	VERB	_	_
+
+VID
+0	попаднат	попадна	VERB	_	_
+1	в	в	ADP	2	case
+2	ръце	ръка	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	противопоставят	противопоставя-(се)	VERB	_	_
+
+VID
+0	погледне	погледна	VERB	_	_
+1	отвъд	отвъд	ADP	_	_
+
+LVC.full
+0	получава	получавам	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	взеха	взема	VERB	_	_
+1	участие	участие	NOUN	0	obj
+
+LVC.full
+0	дадоха	дам-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+VID
+0	бе	съм	AUX	1	aux:pass
+1	повален	поваля-(се)	VERB	_	_
+2	от	от	ADP	3	case
+3	куршум	куршум	NOUN	1	iobj
+
+LVC.full
+0	поел	поема	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+VID
+0	играе	играя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+VID
+0	имат	имам	VERB	_	_
+1	предвид	предвид	ADV	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	сблъскат	сблъскам-(се)	VERB	_	_
+
+LVC.full
+0	направят	направя-(се)	VERB	_	_
+1	резервация	резервация	NOUN	0	obj
+
+LVC.full
+0	няма	нямам	VERB	_	_
+1	има	има	VERB	0	ccomp
+2	значение	значение	NOUN	1	obj
+
+VID
+0	имат	имам	VERB	_	_
+1	предвид	предвид	ADV	0	advmod
+
+LVC.full
+0	правят	правя-(се)	VERB	_	_
+1	резервации	резервация	NOUN	0	nsubj:pass
+
+LVC.full
+0	окаже	окажа-(се)	VERB	_	_
+1	съдействие	съдействие	NOUN	0	obj
+
+VID
+0	даден	дам-(се)	VERB	_	_
+1	ход	ход	NOUN	0	nsubj:pass
+
+VID
+0	излекува	излекувам	VERB	_	_
+1	раните	рана	NOUN	0	obj
+
+LVC.cause
+0	сложило	сложил	NOUN	_	_
+1	край	край	ADP	_	_
+
+LVC.full
+0	упражнява	упражнявам-(се)	VERB	_	_
+1	надзор	надзор	NOUN	0	obj
+
+LVC.full
+0	дават	давам-(се)	VERB	_	_
+1	пример	пример	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срещне	срещна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съсредоточат	съсредоточа	VERB	_	_
+
+LVC.full
+0	задават	задавам-(се)	VERB	_	_
+1	въпросите	въпрос	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	сдобие	сдобия-(се)	VERB	_	_
+
+VID
+0	прави	правя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADV	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	равнява	равнявам	VERB	_	_
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	намерения	намерение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	преборят	преборя-(се)	VERB	_	_
+
+LVC.full
+0	поело	поема	VERB	_	_
+1	ангажимент	ангажимент	NOUN	0	obj
+
+LVC.full
+0	достигнали	достигна	VERB	_	_
+1	до	до	ADP	2	case
+2	заключение	заключение	NOUN	0	obl
+
+LVC.full
+0	предприеме	предприема	VERB	_	_
+1	действия	действие	NOUN	0	obj
+
+LVC.full
+0	представляват	представлявам	VERB	_	_
+1	пречки	пречка	NOUN	0	obj
+
+LVC.full
+0	вземане	вземане	NOUN	_	_
+1	на	на	ADP	2	case
+2	решение	решение	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	надява	надявам-се	VERB	_	_
+
+VID
+0	прави	правя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADJ	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	преоценка	преоценка	NOUN	0	obj
+
+VID
+0	на	на	ADP	1	case
+1	масата	маса	NOUN	_	_
+
+LVC.full
+0	изключи	изключа	VERB	_	_
+1	възможността	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	надяваше	надявам-(се)	VERB	_	_
+
+VID
+0	влизането	влизане	NOUN	_	_
+1	в	в	ADP	2	case
+2	сила	сила	NOUN	0	nmod
+
+VID
+0	излежаваха	излежавам	VERB	_	_
+1	присъди	присъда	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	възползват	възползвам	VERB	_	_
+
+VID
+0	спиране	спиране	NOUN	_	_
+1	на	на	ADP	2	case
+2	огъня	огъня	NOUN	0	nmod
+
+VID
+0	отнел	отнема	VERB	_	_
+1	живота	живот	NOUN	0	obj
+
+LVC.full
+0	установи	установя-(се)	VERB	_	_
+1	контакт	контакт	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	намеси	намеся-(се)	VERB	_	_
+
+VID
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	смъртта	смърт	NOUN	0	iobj
+
+VID
+0	лишаване	лишаване	NOUN	_	_
+1	от	от	ADP	2	case
+2	свобода	свобода	NOUN	0	nmod
+
+VID
+0	си	се	PRON	1	expl
+1	спечели	спечеля	VERB	_	_
+2	слава	слава	NOUN	1	obj
+
+VID
+0	пребити	пребия-(се)	VERB	_	_
+1	до	до	ADP	2	case
+2	смърт	смърт	NOUN	0	iobj
+
+LVC.full
+0	имал	имам	VERB	_	_
+1	власт	власт	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	досети	досетя-се	VERB	_	_
+
+LVC.full
+0	извършили	извърша	VERB	_	_
+1	убийство	убийство	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласиха	съглася-се	VERB	_	_
+
+LVC.full
+0	имат	има	VERB	_	_
+1	отношение	отношение	NOUN	0	obj
+
+VID
+0	предприема	предприемам	ADJ	1	amod
+1	стъпки	стъпка	NOUN	_	_
+
+VID
+0	предприе	предприема	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	дистанцира	дистанцирам	VERB	_	_
+
+LVC.full
+0	направил	направя-(се)	VERB	_	_
+1	предложение	предложение	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	благодарност	благодарност	NOUN	0	obj
+
+LVC.full
+0	постигнат	постигна	ADJ	1	amod
+1	напредък	напредък	NOUN	_	_
+
+VID
+0	дошло	дойда	VERB	_	_
+1	времето	време	NOUN	0	obj
+
+VID
+0	изправят	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	правосъдието	правосъдие	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	позова	позова-(се)	VERB	_	_
+
+LVC.full
+0	прекрати	прекратя	VERB	_	_
+1	дейността	дейност	NOUN	0	obj
+
+VID
+0	изправени	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	правосъдието	правосъдие	NOUN	0	iobj
+
+VID
+0	дела	дело	NOUN	1	nsubj:pass
+1	разгледани	разгледам	VERB	_	_
+
+LVC.full
+0	приключи	приключа	VERB	_	_
+1	дейност	дейност	NOUN	0	obj
+
+VID
+0	изправим	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	obl
+
+VID
+0	повиши	повиша-(се)	VERB	_	_
+1	рейтинг	рейтинг	NOUN	0	obj
+
+VID
+0	удължи	удължа	VERB	_	_
+1	срокът	срок	NOUN	0	nsubj:pass
+
+LVC.full
+0	постигнаха	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+VID
+0	държи	държа-(се)	VERB	_	_
+1	вратите	врата	NOUN	0	obj
+2	отворени	отворя	VERB	0	conj
+
+VID
+0	държи	държа-(се)	VERB	_	_
+1	вратите	врата	NOUN	0	obj
+2	отворени	отворя	VERB	1	acl
+
+LVC.full
+0	вземе	взема	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+VID
+0	предприема	предприемам	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+LVC.full
+0	вземане	вземане	NOUN	_	_
+1	на	на	ADP	2	case
+2	решения	решение	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	подобрява	подобрявам	VERB	_	_
+
+VID
+0	предоставя	предоставям	VERB	_	_
+1	убежище	убежище	NOUN	0	obj
+
+LVC.full
+0	оказване	оказване	NOUN	_	_
+1	на	на	ADP	2	case
+2	грижи	грижа	NOUN	0	nmod
+
+VID
+0	привлече	привлека	VERB	_	_
+1	вниманието	внимание	NOUN	0	obj
+
+LVC.full
+0	оказва	оказвам-(се)	VERB	_	_
+1	съдействие	съдействие	NOUN	0	obj
+
+VID
+0	предприема	предприема	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+VID
+0	дават	давам-(се)	VERB	_	_
+1	показания	показание	NOUN	0	obj
+
+VID
+0	глава	глава	NOUN	_	_
+1	затворена	затворя-(се)	VERB	_	_
+
+VID
+0	изправени	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	obl
+
+VID
+0	изправени	изправя-(се)	ADJ	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	борил	боря-(се)	VERB	_	_
+
+VID
+0	да	да	AUX	2	aux
+1	не	не	PART	2	advmod
+2	говорим	говоря	VERB	_	_
+3	за	за	ADP	_	_
+
+LVC.full
+0	приведе	приведа-(се)	VERB	_	_
+1	контрааргумента	контрааргумент	NOUN	0	obj
+
+LVC.full
+0	Имате	имам	VERB	_	_
+1	право	право	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обърне	обърна-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	изявление	изявление	NOUN	0	obj
+
+VID
+0	провел	проведа	VERB	_	_
+1	консултации	консултация	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	фокусират	фокусирам	VERB	_	_
+
+VID
+0	разбира	разбирам-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	проблемите	проблем	NOUN	_	_
+1	разрешат	разреша	VERB	_	_
+
+LVC.full
+0	положим	положа	VERB	_	_
+1	началото	начало	NOUN	0	obj
+
+LVC.full
+0	получа	получа	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+VID
+0	придвижа	придвижа-(се)	VERB	_	_
+1	напред	напред	ADV	_	_
+
+LVC.full
+0	проявяват	проявявам-(се)	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+LVC.full
+0	решението	решение	NOUN	_	_
+1	взето	взема	VERB	_	_
+
+LVC.full
+0	имаха	имам	VERB	_	_
+1	отражение	отражение	NOUN	0	obj
+
+LVC.full
+0	полага	полагам	VERB	_	_
+1	усилия	усилие	NOUN	0	obj
+
+VID
+0	събуди	събудя-(се)	ADJ	1	amod
+1	страхове	страх	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	надяват	надявам-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	изчисления	изчисление	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отразило	отразя-(се)	VERB	_	_
+
+VID
+0	генерирайки	генерирайки	ADJ	1	amod
+1	приходи	приход	NOUN	_	_
+
+VID
+0	оставят	оставям-(се)	VERB	_	_
+1	отпечатък	отпечатък	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	гордеят	гордея-се	VERB	_	_
+
+LVC.full
+0	получила	получа	VERB	_	_
+1	име	име	NOUN	0	obj
+
+LVC.full
+0	имаше	имам	VERB	_	_
+1	ефект	ефект	NOUN	0	obj
+
+VID
+0	увенчаха	увенча	VERB	_	_
+1	с	с	ADP	2	case
+2	успех	успех	NOUN	0	obl
+
+VID
+0	придоби	придобя-(се)	VERB	_	_
+1	слава	слава	NOUN	0	obj
+
+LVC.full
+0	щетите	щета	NOUN	_	_
+1	нанесе	нанеса-(се)	VERB	0	acl
+
+LVC.cause
+0	внесе	внеса	VERB	_	_
+1	изменения	изменение	NOUN	0	obj
+
+LVC.cause
+0	внася	внасям	VERB	_	_
+1	изменения	изменение	NOUN	0	obj
+
+VID
+0	откриване	откриване	NOUN	_	_
+1	на	на	ADP	3	case
+2	работни	работен	ADJ	3	amod
+3	места	място	NOUN	0	nmod
+
+VID
+0	увеличат	увелича-(се)	VERB	_	_
+1	броя	брой	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	фокусира	фокусирам	VERB	_	_
+
+VID
+0	наемането	наемане	NOUN	_	_
+1	на	на	ADP	2	case
+2	работа	работа	NOUN	0	nmod
+
+VID
+0	изпрати	изпратя	VERB	_	_
+1	войски	войска	NOUN	0	obj
+
+LVC.full
+0	дават	давам-(се)	VERB	_	_
+1	оценка	оценка	NOUN	0	obj
+
+LVC.full
+0	дали	дам-(се)	PART	1	discourse
+1	оценка	оценка	NOUN	_	_
+
+VID
+0	мандат	мандат	NOUN	1	nsubj
+1	изтича	изтичам	VERB	_	_
+
+VID
+0	протича	протичам	VERB	_	_
+1	гладко	гладки	ADV	0	advmod
+
+LVC.full
+0	намери	намеря-(се)	VERB	_	_
+1	приложение	приложение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обучават	обучавам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	запишат	запиша-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	случило	случило	VERB	_	_
+
+VID
+0	залегнало	залегна	VERB	_	_
+1	дълбоко	дълбоко	ADV	0	advmod
+2	в	в	ADP	_	_
+
+LVC.full
+0	вдигат	вдигам-(се)	VERB	_	_
+1	шум	шум	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	подписали	подпиша-(се)	VERB	_	_
+
+VID
+0	остане	остана	VERB	_	_
+1	настрана	настрана	ADV	0	advmod
+
+VID
+0	ходят	ходя-(си)	VERB	_	_
+1	на	на	ADP	2	case
+2	училище	училище	NOUN	0	iobj
+
+VID
+0	стига	стига	PART	_	_
+1	да	да	AUX	_	_
+
+VID
+0	за	за	ADP	_	_
+1	няма	нямам	VERB	_	_
+2	място	място	NOUN	1	obj
+
+LVC.full
+0	налагайки	налагайки	ADV	1	advmod
+1	глоба	глоба	NOUN	_	_
+
+LVC.full
+0	издал	издам-(се)	VERB	_	_
+1	инструкции	инструкция	NOUN	0	obj
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	да	да	AUX	3	aux
+2	се	се	PRON	3	expl
+3	разбере	разбера-(се)	VERB	0	ccomp
+
+VID
+0	последват	последвам	VERB	_	_
+1	примера	пример	NOUN	0	obj
+
+VID
+0	възприел	възприема	VERB	_	_
+1	подход	подход	NOUN	0	obj
+
+LVC.full
+0	Нямаме	нямам	VERB	_	_
+1	проблем	проблем	NOUN	0	obj
+
+IRV
+0	завърнали	завърна	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	казва	казвам-(се)	VERB	_	_
+
+LVC.full
+0	упражниха	упражня	VERB	_	_
+1	натиск	натиск	NOUN	0	obj
+
+VID
+0	борбата	борба	NOUN	_	_
+1	води	водя	VERB	_	_
+
+VID
+0	гарантират	гарантирам	VERB	_	_
+1	мир	мир	NOUN	0	obj
+
+VID
+0	обърне	обърна-(се)	VERB	_	_
+1	внимание	внимание	NOUN	0	nsubj:pass
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	оценка	оценка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	ангажира	ангажирам	VERB	_	_
+
+LVC.full
+0	положи	положа	VERB	_	_
+1	усилия	усилие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	провалиха	проваля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	явяват	явявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	стекоха	стека-се	VERB	_	_
+
+LVC.full
+0	води	водя	VERB	_	_
+1	преговори	преговори	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срещат	срещам-(се)	VERB	_	_
+
+IAV
+0	премине	премина	VERB	_	_
+1	към	към	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	възползваха	възползвам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	намерят	намеря-(се)	VERB	_	_
+
+LVC.full
+0	създаде	създам	VERB	_	_
+1	впечатление	впечатление	NOUN	0	obj
+
+VID
+0	става	става	VERB	_	_
+1	за	за	ADP	_	_
+
+LVC.cause
+0	предоставят	предоставя	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+LVC.full
+0	предлага	предлагам	VERB	_	_
+1	гаранция	гаранция	NOUN	0	iobj
+
+VID
+0	Погледите	поглед	NOUN	_	_
+1	към	към	ADP	_	_
+
+VID
+0	направят	направя-(се)	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срещнат	срещна-(се)	VERB	_	_
+
+VID
+0	наблюдава	наблюдавам	VERB	_	_
+1	отблизо	отблизо	ADV	_	_
+
+VID
+0	вратите	врата	NOUN	1	nsubj:pass
+1	отворени	отворя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	_	_
+1	изправите	изправя-(се)	NOUN	_	_
+
+LVC.full
+0	поставят	поставя-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	контрол	контрол	NOUN	0	iobj
+
+VID
+0	обявява	обявявам-(се)	VERB	_	_
+1	извънредно	извънреден	ADJ	2	amod
+2	положение	положение	NOUN	0	obj
+
+LVC.full
+0	полагат	полагам	VERB	_	_
+1	клетва	клетва	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	противопоставя	противопоставя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	събере	събера-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	срещнал	срещна-(се)	VERB	_	_
+
+LVC.full
+0	изявили	изявя-(се)	VERB	_	_
+1	желание	желание	NOUN	0	obj
+
+VID
+0	проправи	проправя-(се)	VERB	_	_
+1	пътя	път	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	ангажират	ангажирам	VERB	_	_
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	ход	ход	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	борим	боря-(се)	VERB	_	_
+
+VID
+0	подчертаха	подчертам-(се)	VERB	_	_
+1	необходимостта	необходимост	NOUN	0	obj
+
+LVC.full
+0	поставен	поставя-(се)	VERB	_	_
+1	акцент	акцент	NOUN	0	nsubj:pass
+
+VID
+0	поставиха	поставя-(се)	VERB	_	_
+1	ударението	ударение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	доближи	доближа-(се)	VERB	_	_
+
+VID
+0	е	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	ход	ход	NOUN	_	_
+
+IRV
+0	Увеличаващият	Увеличаващ	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	си	се	PRON	1	expl
+1	струва	струва-(си)	VERB	_	_
+
+VID
+0	било	съм	AUX	1	cop
+1	решаващо	решавам-(се)	ADJ	_	_
+
+VID
+0	има	имам	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+LVC.full
+0	изразил	изразя-(се)	VERB	_	_
+1	оптимизъм	оптимизъм	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	стремят	стремя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оттеглиха	оттегля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опитали	опитам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	състояли	състоям-(се)	VERB	_	_
+
+VID
+0	подобри	подобря-(се)	VERB	_	_
+1	климат	климат	VERB	0	ccomp
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	оценка	оценка	NOUN	0	obj
+
+VID
+0	спечелил	спечеля	VERB	_	_
+1	надпревара	надпревар	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	споразумели	споразумея-(се)	VERB	_	_
+
+VID
+0	няма	нямам	VERB	_	_
+1	връзка	връзка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	укриват	укривам-(се)	VERB	_	_
+
+VID
+0	прекратяване	прекратяване	NOUN	_	_
+1	на	на	ADP	2	case
+2	огъня	огъня	NOUN	0	nmod
+
+LVC.full
+0	поема	поемам	VERB	_	_
+1	ангажимент	ангажимент	NOUN	0	obj
+
+VID
+0	прогонени	прогоня	VERB	_	_
+1	от	от	ADP	2	case
+2	домовете	дом	NOUN	0	iobj
+
+VID
+0	отдадат	отдам-(се)	VERB	_	_
+1	почит	почит	NOUN	0	obj
+
+VID
+0	игра	играя	NOUN	_	_
+1	роля	роля	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съберат	събера-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	събраха	събера-(се)	VERB	_	_
+
+VID
+0	изигра	изиграя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+LVC.cause
+0	смъртта	смърт	NOUN	1	nsubj:pass
+1	причинена	причина	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	насочи	насоча-(се)	VERB	_	_
+
+IAV
+0	пред	пред	ADP	_	_
+1	изправени	изправя-(се)	VERB	_	_
+
+IRV
+0	отнасящи	отнасям-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	спечели	спечеля	VERB	_	_
+1	търга	търг	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	появила	появя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	струва	струва-(си)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	крие	крия-(се)	VERB	_	_
+
+IAV
+0	довели	доведа	VERB	_	_
+1	до	до	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	явят	явя-(се)	VERB	_	_
+
+IAV
+0	изправен	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	_	_
+
+VID
+0	предприеме	предприема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+LVC.full
+0	коментар	коментар	NOUN	1	nsubj:pass
+1	направен	направя-(се)	VERB	_	_
+
+VID
+0	проправи	проправя-(се)	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+IRV
+0	Надявам	надявам-се	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	придържат	придържам-(се)	VERB	_	_
+
+LVC.cause
+0	причиняват	причинявам	VERB	_	_
+1	смърт	смърт	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	повтарят	повтарям	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	съжаление	съжаление	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	струпаха	струпам-(се)	VERB	_	_
+
+VID
+0	играл	играм	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	наложи	наложа-(се)	VERB	_	_
+
+VID
+0	обвинени	обвиня	VERB	_	_
+1	в	в	ADP	2	case
+2	престъпления	престъпление	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	ползват	ползвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	радва	радвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опитат	опитам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	предадоха	предам-(се)	VERB	_	_
+
+VID
+0	заподозрени	заподозря-(се)	VERB	_	_
+1	във	във	ADP	2	case
+2	престъпления	престъпление	NOUN	0	iobj
+
+IAV
+0	разполага	разполагам	VERB	_	_
+1	с	с	ADP	_	_
+
+VID
+0	заемаше	заемам-(се)	VERB	_	_
+1	поста	пост	NOUN	0	obj
+
+VID
+0	е	съм	AUX	2	cop
+1	на	на	ADP	2	case
+2	свобода	свобода	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опитаха	опитам-(се)	VERB	_	_
+
+VID
+0	нямат	нямам	VERB	_	_
+1	представа	представа	NOUN	0	obj
+
+VID
+0	са	съм	AUX	2	cop
+1	на	на	ADP	2	case
+2	свобода	свобода	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	предаде	предам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	намира	намирам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	провежда	провеждам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опита	опитам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	присъединила	присъединя-(се)	VERB	_	_
+
+IAV
+0	изправени	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	ограничи	огранича-(се)	VERB	_	_
+
+LVC.full
+0	постигнат	постигна	VERB	_	_
+1	консенсус	консенсус	NOUN	0	obj
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	предупреждение	предупреждение	NOUN	0	obj
+
+LVC.full
+0	постигнато	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласят	съглася-се	VERB	_	_
+
+IAV
+0	минава	минавам-(се)	VERB	_	_
+1	през	през	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	появява	появявам-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	превърне	превърна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	трансформира	трансформирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	позовава	позовавам-(се)	VERB	_	_
+
+VID
+0	заема	заемам-(се)	VERB	_	_
+1	място	място	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	вълнуват	вълнувам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	промени	променя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	концентрира	концентрирам	VERB	_	_
+
+VID
+0	упражнява	упражнявам-(се)	VERB	_	_
+1	натиск	натиск	NOUN	0	obj
+
+LVC.full
+0	отбелязал	отбележа	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+LVC.full
+0	Решението	решение	NOUN	1	nsubj:pass
+1	взето	взема	VERB	_	_
+
+LVC.full
+0	постигнат	постигна	ADJ	1	amod
+1	съгласие	съгласие	NOUN	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	задоволство	задоволство	NOUN	0	obj
+
+VID
+0	предприемат	предприема	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+VID
+0	обърна	обърна-(се)	VERB	_	_
+1	внимание	внимание	NOUN	0	obj
+
+LVC.full
+0	пое	поема	VERB	_	_
+1	ангажимент	ангажимент	NOUN	0	obj
+
+VID
+0	влезе	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	сила	сила	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	повишат	повиша-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	основава	основавам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	понижат	понижа-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	безпокои	безпокоя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	превърна	превърна	VERB	_	_
+
+VID
+0	дал	да	VERB	_	_
+1	показания	показание	NOUN	0	obj
+
+VID
+0	отиде	отида-(си)	VERB	_	_
+1	в	в	ADP	2	case
+2	затвора	затвор	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласи	съглася-се	VERB	_	_
+
+VID
+0	заподозрени	заподозрен	ADJ	_	_
+1	във	във	ADP	2	case
+2	престъпления	престъпление	NOUN	0	obl
+
+VID
+0	се	се	PRON	1	expl
+1	призна	призная-(се)	VERB	_	_
+2	за	за	ADP	3	case
+3	виновен	виновен	ADJ	1	iobj
+
+LVC.full
+0	взела	взема	VERB	_	_
+1	участие	участие	NOUN	0	obj
+
+VID
+0	дал	да	VERB	_	_
+1	показания	показание	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	превърна	превърна-(се)	VERB	_	_
+
+VID
+0	показания	показание	NOUN	_	_
+1	дадени	дам-(се)	ADJ	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	провалят	проваля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опасяват	опасявам-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	среща	срещам-(се)	VERB	_	_
+
+VID
+0	ускорят	ускоря	VERB	_	_
+1	реформите	реформа	NOUN	0	obj
+
+VID
+0	изиграе	изиграя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+IAV
+0	Изправена	изправя-(се)	NUM	_	_
+1	пред	пред	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	отразят	отразя-(се)	VERB	_	_
+
+LVC.full
+0	спечели	спечеля	VERB	_	_
+1	победа	победа	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изразяват	изразявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опитваше	опитвам-(се)	VERB	_	_
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	разговор	разговор	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	прегрупират	прегрупирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	страхувала	страхувам-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	удържи	удържа	VERB	_	_
+
+VID
+0	замесени	замеса-(се)	ADJ	_	_
+1	в	в	ADP	2	case
+2	скандал	скандал	NOUN	0	obl
+
+LVC.full
+0	упражнили	упражня	VERB	_	_
+1	насилие	насилие	NOUN	0	obj
+
+VID
+0	държана	държана	VERB	_	_
+1	против	против	ADP	2	case
+2	волята	воля	NOUN	0	iobj
+
+LVC.full
+0	пуснат	пусна-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	свобода	свобода	NOUN	0	iobj
+
+LVC.full
+0	произнесена	произнеса-(се)	VERB	_	_
+1	присъдата	присъда	NOUN	0	nsubj:pass
+
+VID
+0	взети	взема	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+IRV
+0	аргументирайки	аргументирайки	ADV	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	влиза	влизам	VERB	_	_
+1	в	в	ADP	2	case
+2	сила	сила	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	предал	предам-(се)	VERB	_	_
+
+LVC.full
+0	проведат	проведа	VERB	_	_
+1	разговори	разговор	NOUN	0	obj
+
+LVC.full
+0	Разговорите	разговор	NOUN	1	nsubj
+1	проведат	проведа	VERB	_	_
+
+LVC.full
+0	поеха	поема	VERB	_	_
+1	ангажимент	ангажимент	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	завърнаха	завърна-(се)	VERB	_	_
+
+IRV
+0	Радвам	радвам-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	превърнаха	превърна	VERB	_	_
+
+LVC.full
+0	предявил	предявя	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отказал	откажа-(се)	VERB	_	_
+
+VID
+0	изправени	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	надяват	надявам-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	занимава	занимавам-(се)	VERB	_	_
+
+LVC.full
+0	отбелязала	отбележа	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+VID
+0	заподозрени	заподозрен	NOUN	_	_
+1	във	във	ADP	2	case
+2	престъпления	престъпление	NOUN	0	nmod
+
+LVC.cause
+0	сложи	сложа-(се)	VERB	_	_
+1	край	край	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	появи	появя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	свързало	свържа	VERB	_	_
+
+VID
+0	намерят	намеря-(се)	VERB	_	_
+1	общ	общ	ADJ	2	amod
+2	език	език	NOUN	0	obj
+
+IRV
+0	Струва	струва-(си)	VERB	_	_
+1	ми	аз	PRON	0	iobj
+2	се	се	PRON	0	expl
+
+LVC.full
+0	предоставиха	предоставя	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	застъпва	застъпвам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обвързва	обвързвам-(се)	VERB	_	_
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	задоволство	задоволство	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	загриженост	загриженост	NOUN	0	obj
+
+LVC.full
+0	взе	взема	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	увеличи	увелича-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разпространи	разпрострам	VERB	_	_
+
+LVC.full
+0	направиха	направя-(се)	VERB	_	_
+1	опит	опит	NOUN	0	obj
+
+LVC.full
+0	упражнявал	упражнявам-(се)	VERB	_	_
+1	контрол	контрол	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	запазва	запазвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	надяваше	надявам-се	VERB	_	_
+
+LVC.full
+0	поеме	поема	VERB	_	_
+1	отговорността	отговорност	NOUN	0	obj
+
+LVC.full
+0	взели	взема	VERB	_	_
+1	решенията	решение	NOUN	0	obj
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	възражение	възражение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	опитал	опитам-(се)	VERB	_	_
+
+LVC.full
+0	извърши	извърша	VERB	_	_
+1	наблюдения	наблюдение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	преселил	преселя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оженил	оженя	VERB	_	_
+
+VID
+0	поемат	поемам	VERB	_	_
+1	задълженията	задължение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	очертава	очертавам-(се)	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	несъгласие	несъгласие	NOUN	0	obj
+
+VID
+0	измина	измина	VERB	_	_
+1	път	път	NOUN	0	obj
+
+VID
+0	взе	взема	VERB	_	_
+1	надмощие	надмощие	NOUN	0	obj
+
+LVC.full
+0	нанесе	нанесе	VERB	_	_
+1	щети	щета	NOUN	0	obj
+
+IAV
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	барикадираха	барикадирам	VERB	_	_
+
+LVC.full
+0	правят	правя-(се)	VERB	_	_
+1	опити	опия	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	обединиха	обединя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	отнасят	отнасям-(се)	VERB	_	_
+
+LVC.full
+0	оказването	оказване	NOUN	_	_
+1	на	на	ADP	2	case
+2	съдействие	съдействие	NOUN	0	nmod
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	усилия	усилие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	готвеха	готвя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	проведе	проведа	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	присъединиха	присъединя-(се)	VERB	_	_
+
+LVC.cause
+0	поставиха	поставя-(се)	VERB	_	_
+1	начало	начало	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отнесли	отнеса-(се)	VERB	_	_
+
+VID
+0	оставя	оставям-(се)	VERB	_	_
+1	вратата	врати	NOUN	0	obj
+2	отворена	отворен	ADJ	1	amod
+
+VID
+0	стане	стана	VERB	_	_
+1	факт	факт	NOUN	0	obj
+
+VID
+0	вратата	врата	NOUN	1	nsubj
+1	остане	остана	VERB	_	_
+2	отворена	отворен	NOUN	1	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	бореха	боря-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	затвориха	затворя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	подобри	подобря-(се)	VERB	_	_
+
+LVC.full
+0	показва	показвам-(се)	VERB	_	_
+1	интерес	интерес	NOUN	_	_
+
+LVC.full
+0	поеме	поема	VERB	_	_
+1	контрола	контрол	NOUN	0	obj
+
+LVC.full
+0	положат	положа	VERB	_	_
+1	клетва	клетва	NOUN	0	nsubj
+
+IRV
+0	се	се	PRON	1	expl
+1	бориха	боря-(се)	VERB	_	_
+
+VID
+0	имайки	имам	ADV	1	advmod
+1	предвид	предвид	ADV	_	_
+
+VID
+0	видели	видя-(се)	VERB	_	_
+1	лицето	лице	NOUN	0	obj
+2	на	на	ADP	3	case
+3	злото	зло	NOUN	1	nmod
+
+LVC.full
+0	предизвиква	предизвиквам	VERB	_	_
+1	напрежения	напрежение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	произнесъл	произнеса-(се)	VERB	_	_
+
+LVC.full
+0	постигна	постигна	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	подчини	подчиня-(се)	VERB	_	_
+
+LVC.full
+0	излязоха	изляза	VERB	_	_
+1	с	с	ADP	2	case
+2	изявление	изявление	NOUN	0	obl
+
+VID
+0	вратите	врата	NOUN	1	nsubj
+1	остават	оставам	VERB	_	_
+2	отворени	отворен	ADJ	1	obj
+
+LVC.full
+0	допуснати	допусна	VERB	_	_
+1	грешки	грешка	NOUN	0	nsubj:pass
+
+LVC.full
+0	проблеми	проблем	NOUN	1	nsubj:pass
+1	решени	реша	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	срещат	среща	VERB	_	_
+
+LVC.full
+0	обяви	обявя-(се)	VERB	_	_
+1	независимостта	независимост	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	забави	забавя-(се)	VERB	_	_
+
+VID
+0	откриването	откриване	NOUN	_	_
+1	на	на	ADP	2	case
+2	сезона	сезон	NOUN	0	nmod
+
+LVC.full
+0	установи	установя-(се)	VERB	_	_
+1	контрол	контрол	NOUN	0	obj
+
+LVC.full
+0	установила	установя-(се)	VERB	_	_
+1	контрол	контрол	NOUN	0	obj
+
+LVC.full
+0	Съобщението	съобщение	NOUN	1	nsubj:pass
+1	направено	направя-(се)	VERB	_	_
+
+VID
+0	станал	стана	VERB	_	_
+1	символ	символ	NOUN	0	obj
+
+VID
+0	вратата	врата	NOUN	1	nsubj
+1	остава	оставам	VERB	_	_
+2	отворена	отворен	ADJ	1	obj
+
+VID
+0	останал	остана	VERB	_	_
+1	с	с	ADP	2	case
+2	впечатлението	впечатление	NOUN	0	obl
+
+IAV
+0	работи	работя	VERB	_	_
+1	за	за	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оплакаха	оплача-(се)	VERB	_	_
+
+LVC.cause
+0	предизвиква	предизвиквам	VERB	_	_
+1	безпокойство	безпокойство	NOUN	0	obj
+
+VID
+0	се	се	PRON	1	expl
+1	обяви	обявя-(се)	VERB	_	_
+2	в	в	ADP	3	case
+3	подкрепа	подкрепа	NOUN	1	iobj
+4	на	на	ADP	_	_
+
+LVC.full
+0	срещне	срещна-(се)	VERB	_	_
+1	съпротива	съпротива	NOUN	0	obj
+
+VID
+0	имаха	имам	VERB	_	_
+1	за	за	ADP	2	case
+2	цел	цел	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	състоя	състоя-се	VERB	_	_
+
+VID
+0	имайки	имам	NOUN	_	_
+1	предвид	предвид	ADV	0	advmod
+
+LVC.full
+0	постигнали	постигна	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+LVC.full
+0	постигнат	постигна	ADJ	1	amod
+1	консенсус	консенсус	NOUN	_	_
+
+LVC.full
+0	е	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	състояние	състояние	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	стигне	стигна	VERB	_	_
+
+LVC.full
+0	извършен	извърша	ADJ	1	amod
+1	преврат	преврат	NOUN	_	_
+
+VID
+0	остане	остана	VERB	_	_
+1	под	под	ADP	2	case
+2	властта	власт	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	напълни	напълня-(се)	VERB	_	_
+
+IRV
+0	представя	представям-(се)	VERB	_	_
+1	си	свой	PRON	_	_
+
+VID
+0	е	съм	AUX	2	cop
+1	на	на	ADP	2	case
+2	път	път	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	провали	проваля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оказа	окажа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	_	_
+1	стреми	стремя-(се)	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	сблъска	сблъскам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	интересува	интересувам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опитва	опитвам-(се)	VERB	_	_
+
+VID
+0	изпрати	изпратя	VERB	_	_
+1	сигнали	сигнал	NOUN	0	obj
+
+VID
+0	подкопае	подкопая	VERB	_	_
+1	усилията	усилие	NOUN	0	obj
+
+VID
+0	изкарва	изкарвам-(се)	VERB	_	_
+1	прехраната	прехрана	NOUN	0	obj
+2	си	свой	PRON	1	det
+
+IAV
+0	разчита	разчит	VERB	_	_
+1	на	на	ADP	_	_
+
+VID
+0	излезе	изляза	VERB	_	_
+1	с	с	ADP	2	case
+2	решение	решение	NOUN	0	obl
+
+VID
+0	правят	правя-(се)	VERB	_	_
+1	бизнес	бизнес	NOUN	0	obj
+
+IRV
+0	се	се	PRON	_	_
+1	оказала	окажа-(се)	VERB	_	_
+
+LVC.cause
+0	дадоха	дам-(се)	VERB	_	_
+1	възможности	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	справят	справя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	занимаваме	занимавам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разделили	разделя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	раздели	разделя-(се)	VERB	_	_
+
+VID
+0	прекрачи	прекрача	VERB	_	_
+1	границите	граница	NOUN	0	obj
+
+VID
+0	се	се	PRON	1	expl
+1	спряла	спрея	VERB	_	_
+2	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	променя	променям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	включиха	включа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оказаха	окажа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	интересуват	интересувам-(се)	VERB	_	_
+
+LVC.full
+0	има	имам	VERB	_	_
+1	желание	желание	NOUN	0	obj
+
+VID
+0	има	имам	VERB	_	_
+1	интереси	интерес	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	осъществи	осъществя-(се)	VERB	_	_
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	доверие	доверие	NOUN	0	obj
+
+VID
+0	обърнат	обърна-(се)	VERB	_	_
+1	гръб	гръб	NOUN	0	obj
+2	на	на	ADP	_	_
+
+VID
+0	изтрие	изтрия-(се)	VERB	_	_
+1	от	от	ADP	2	case
+2	паметта	памет	NOUN	0	obl
+3	си	свой	PRON	2	det
+
+IRV
+0	се	се	PRON	1	expl
+1	случило	случа-(се)	VERB	_	_
+
+VID
+0	освободи	освободя-(се)	VERB	_	_
+1	сърцето	сърце	NOUN	0	obj
+2	си	свой	PRON	1	det
+
+LVC.full
+0	нямат	нямам	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	противопостави	противопоставя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	осъществява	осъществявам-(се)	VERB	_	_
+
+LVC.full
+0	бяхме	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	състояние	състояние	NOUN	_	_
+
+VID
+0	прекрачи	прекрача	VERB	_	_
+1	прага	праг	NOUN	0	obj
+
+VID
+0	вратите	врата	NOUN	1	nsubj
+1	остават	оставам	VERB	_	_
+2	отворени	отворя-(се)	ADJ	1	obj
+
+VID
+0	дало	дам-(се)	VERB	_	_
+1	резултат	резултат	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	закани	заканя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	договорят	договоря-(се)	VERB	_	_
+
+LVC.full
+0	щетите	щета	NOUN	_	_
+1	нанесени	нанеса-(се)	ADJ	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	изправи	изправя-(се)	VERB	_	_
+2	на	на	ADP	3	case
+3	крака	крак	NOUN	1	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	редуваха	редувам-(се)	VERB	_	_
+
+LVC.full
+0	критиките	критика	NOUN	_	_
+1	отправени	отправя-(се)	ADJ	0	amod
+
+IRV
+0	се	се	PRON	1	expl
+1	бори	боря-(се)	VERB	_	_
+
+LVC.full
+0	обвинения	обвинение	NOUN	1	nsubj:pass
+1	повдигнати	повдигна-(се)	VERB	_	_
+
+VID
+0	взема	взема	VERB	_	_
+1	наркотици	наркотик	NOUN	0	obj
+
+LVC.full
+0	излезе	изляза	VERB	_	_
+1	със	със	ADP	2	case
+2	изявление	изявление	NOUN	0	obl
+
+LVC.cause
+0	дадем	дада	NOUN	1	conj
+1	възможност	възможност	NOUN	_	_
+
+VID
+0	измине	измина	VERB	_	_
+1	дълъг	дълъг	ADJ	2	amod
+2	път	път	NOUN	0	obj
+
+LVC.full
+0	постигне	постигна	VERB	_	_
+1	незвисимост	незвисимост	NOUN	0	obj
+
+VID
+0	оставили	оставя-(се)	VERB	_	_
+1	миналото	минало	NOUN	0	obj
+2	зад	зад	ADP	3	case
+3	гърба	гръб	NOUN	1	nmod
+4	си	свой	PRON	3	det
+
+IAV
+0	вървят	вървя	VERB	_	_
+1	към	към	ADP	_	_
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	разговори	разговор	NOUN	0	obj
+
+VID
+0	що	що	ADV	2	advmod
+1	се	се	PRON	2	expl
+2	отнася	отнасям-(се)	VERB	_	_
+3	до	до	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	свърже	свържа	VERB	_	_
+
+VID
+0	сключване	сключване	NOUN	_	_
+1	на	на	ADP	2	case
+2	брак	брак	NOUN	0	nmod
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	сигнал	сигнал	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	кандидатира	кандидатирам	VERB	_	_
+
+LVC.full
+0	решени	реша	VERB	_	_
+1	проблеми	проблем	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	включи	включа-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	проучване	проучване	NOUN	0	obj
+
+LVC.full
+0	решения	решение	NOUN	_	_
+1	вземат	взема	VERB	_	_
+
+LVC.full
+0	изказва	изказвам-(се)	VERB	_	_
+1	предположение	предположение	NOUN	0	obj
+
+VID
+0	е	съм	AUX	1	cop
+1	работа	работа	NOUN	_	_
+2	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	появили	поява	VERB	_	_
+
+LVC.full
+0	отправени	отправя-(се)	VERB	_	_
+1	заплахи	заплаха	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	присъединява	присъединявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съмнява	съмнявам-(се)	VERB	_	_
+
+VID
+0	посрещане	посрещане	NOUN	_	_
+1	на	на	ADP	2	case
+2	предизвикателствата	предизвикателство	NOUN	0	nmod
+
+VID
+0	посрещне	посрещна	VERB	_	_
+1	предизвикателство	предизвикателство	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	натъкнете	натъкна	VERB	_	_
+
+VID
+0	издържи	издържа	VERB	_	_
+1	теста	тест	NOUN	0	obj
+
+VID
+0	продължим	продължа	VERB	_	_
+1	по	по	ADP	2	case
+2	пътя	път	NOUN	0	obl
+
+LVC.full
+0	Обръщайки	Обръщам-(се)	ADV	_	_
+1	внимание	внимание	NOUN	_	_
+
+IRV
+0	състояща	състоящам-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	ангажираха	ангажирам	VERB	_	_
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	оценка	оценка	NOUN	0	obj
+
+LVC.full
+0	споделя	споделям	VERB	_	_
+1	мнение	мнение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	фокусирали	фокусирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласила	съглася-(се)	VERB	_	_
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	възможно	възможен	ADV	0	advmod
+
+IRV
+0	се	се	PRON	1	expl
+1	явил	явя-(се)	VERB	_	_
+
+VID
+0	изложи	изложа-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	риск	риск	NOUN	0	iobj
+
+VID
+0	обръщат	обръщам-(се)	VERB	_	_
+1	гръб	гръб	NOUN	0	obj
+
+VID
+0	играят	играя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обвържат	обвържа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	включат	включа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	подобрило	подобря-(се)	VERB	_	_
+
+VID
+0	оставяме	оставям-(се)	VERB	_	_
+1	в	в	ADP	2	case
+2	наследство	наследство	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	обяви	обявя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	нуждаем	нуждая-се	VERB	_	_
+
+VID
+0	Надеждите	Надежд	NOUN	1	nsubj:pass
+1	попарени	попаря-(се)	VERB	_	_
+
+VID
+0	отваря	отварям-(се)	VERB	_	_
+1	вратите	врата	NOUN	_	_
+
+VID
+0	продължим	продължа	VERB	_	_
+1	по	по	ADP	2	case
+2	пътя	път	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	подготвя	подготвя-(се)	VERB	_	_
+
+VID
+0	открива	откривам-(се)	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+LVC.cause
+0	даде	дам-(се)	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	оказал	окажа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	изправи	изправя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	интегрира	интегрирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	отправи	отправя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	увеличил	увелича-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	споразумя	споразумея-се	VERB	_	_
+
+IRV
+0	Опитайте	опитам-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	обърна	обърна-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	станали	стана	VERB	_	_
+1	жертва	жертва	NOUN	0	obj
+2	на	на	ADP	_	_
+
+LVC.full
+0	имали	има	VERB	_	_
+1	претенции	претенция	NOUN	0	obj
+
+VID
+0	станат	стана	VERB	_	_
+1	жертва	жертва	NOUN	0	obj
+2	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	превърнали	превърна-(се)	VERB	_	_
+
+LVC.full
+0	нося	нося-(се)	VERB	_	_
+1	вина	вино	NOUN	0	obj
+2	за	за	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	явява	явявам-(се)	VERB	_	_
+
+VID
+0	признае	призная-(се)	VERB	_	_
+1	за	за	ADP	2	case
+2	виновна	виновен	ADJ	0	iobj
+
+LVC.full
+0	носи	нося-(се)	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	извинява	извинявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	извини	извиня-(се)	VERB	_	_
+
+LVC.full
+0	окаже	окажа-(се)	VERB	_	_
+1	натиск	натиск	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	придържа	придържам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	развие	развия-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	стреми	стремя-(се)	NOUN	_	_
+
+LVC.full
+0	Предложението	предложение	NOUN	1	nsubj:pass
+1	направено	направя-(се)	VERB	_	_
+
+VID
+0	нанесе	нанеса-(се)	VERB	_	_
+1	удар	удар	NOUN	_	_
+
+LVC.full
+0	Наложеното	Наложеен	ADJ	_	_
+1	вето	вето	NOUN	_	_
+
+VID
+0	нанесе	нанеса-(се)	VERB	_	_
+1	удар	удар	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+VID
+0	имаме	имам	VERB	_	_
+1	предвид	предвид	ADV	0	advmod
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	каквото	какъвто	DET	2	obj
+2	трябва	трябва	VERB	0	ccomp
+
+LVC.full
+0	наложи	наложа-(се)	VERB	_	_
+1	вето	вето	NOUN	0	obj
+
+LVC.full
+0	вземането	вземане	NOUN	_	_
+1	на	на	ADP	2	case
+2	решение	решение	NOUN	0	nmod
+
+VID
+0	пътят	път	VERB	_	_
+1	блокиран	блокирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обърна	обърна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	подобрили	подобря-(се)	VERB	_	_
+
+VID
+0	дадат	дам-(се)	VERB	_	_
+1	коридор	коридор	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изправя	изправям-(се)	VERB	_	_
+
+LVC.full
+0	поемат	поема	VERB	_	_
+1	отговорността	отговорност	NOUN	0	obj
+
+VID
+0	гледа	гледам	VERB	_	_
+1	сериозно	сериозно	ADV	0	advmod
+
+IRV
+0	се	се	PRON	1	expl
+1	въздържат	въздържам-(се)	VERB	_	_
+
+VID
+0	поставиха	поставя-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	въпрос	въпрос	NOUN	0	obl
+
+VID
+0	извадени	извадя	VERB	_	_
+1	от	от	ADP	2	case
+2	употреба	употреба	NOUN	0	iobj
+
+VID
+0	не	не	PART	1	advmod
+1	правят	правя-(се)	VERB	_	_
+2	нищо	никой	PRON	1	obj
+
+VID
+0	подвежда	подвеждам-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	отговорност	отговорност	NOUN	0	obl
+
+LVC.cause
+0	даде	дам-(се)	VERB	_	_
+1	възможност	възможност	NOUN	0	nsubj:pass
+
+LVC.full
+0	решение	решение	NOUN	1	nsubj:pass
+1	взето	взема	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	покачиха	покача	VERB	_	_
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	надежди	надежда	NOUN	0	obj
+
+IRV
+0	Споразумявайки	Споразумявайка	ADV	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	обвързват	обвързвам-(се)	VERB	_	_
+
+IRV
+0	си	съм	PRON	1	expl
+1	струва	струва-(си)	VERB	_	_
+
+VID
+0	полага	полагам	VERB	_	_
+1	основите	основа	NOUN	0	obj
+
+VID
+0	открили	открия-(се)	VERB	_	_
+1	ключа	ключ	NOUN	0	obj
+2	към	към	ADP	_	_
+
+LVC.full
+0	поеме	поема	VERB	_	_
+1	ангажименти	ангажимент	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	различават	различавам-(се)	VERB	_	_
+
+IRV
+0	различават	различавам-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	поема	поема	VERB	_	_
+1	ангажименти	ангажимент	NOUN	_	_
+
+LVC.full
+0	няма	нямам	VERB	_	_
+1	представа	представа	NOUN	0	obj
+
+VID
+0	преминава	преминавам	VERB	_	_
+1	в	в	ADP	2	case
+2	ръцете	ръка	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	представиха	представя-(се)	VERB	_	_
+
+LVC.full
+0	поемат	поема	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	държи	държа-(се)	VERB	_	_
+
+VID
+0	поела	поема	VERB	_	_
+1	по	по	ADP	2	case
+2	път	път	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	превърнало	превърна-(се)	VERB	_	_
+
+LVC.full
+0	дават	давам-(се)	VERB	_	_
+1	отражение	отражение	NOUN	0	obj
+
+VID
+0	изведе	изведа	VERB	_	_
+1	по	по	ADP	2	case
+2	пътя	път	NOUN	_	_
+
+IRV
+0	равняваща	равнявам	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	връща	връщам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	връщаха	връщам-(се)	VERB	_	_
+
+VID
+0	призна	призная-(се)	VERB	_	_
+1	за	за	ADP	_	_
+2	виновен	виновен	ADJ	_	_
+
+LVC.full
+0	правят	правя-(се)	VERB	_	_
+1	проверка	проверка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	уверят	уверя-(се)	VERB	_	_
+
+VID
+0	остава	оставам	VERB	_	_
+1	място	място	NOUN	0	obj
+2	за	за	ADP	3	case
+3	съмнения	съмнение	NOUN	1	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	чувства	чувствам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съпротивлява	съпротивлявам	VERB	_	_
+
+LVC.full
+0	изявление	изявление	NOUN	1	nsubj:pass
+1	направено	направя-(се)	VERB	_	_
+
+LVC.full
+0	отбеляза	отбележа	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	резултати	резултат	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	преместиха	преместя	VERB	_	_
+
+IRV
+0	опасявайки	опасявайки	ADV	_	_
+1	се	се	PRON	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	сменяли	сменям-(се)	VERB	_	_
+
+LVC.full
+0	сделки	сделка	NOUN	_	_
+1	сключвани	сключвам	VERB	_	_
+
+VID
+0	взети	взема	VERB	_	_
+1	под	под	ADP	2	case
+2	внимание	внимание	NOUN	0	obl
+
+VID
+0	влизат	влизам	VERB	_	_
+1	в	в	ADP	2	case
+2	историята	история	NOUN	0	obl
+
+VID
+0	влязоха	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	историята	история	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	справя	справям-се	VERB	_	_
+
+LVC.full
+0	дадоха	дам-(се)	VERB	_	_
+1	пример	пример	NOUN	0	obj
+
+VID
+0	не	не	PART	4	advmod
+1	са	съм	AUX	4	cop
+2	от	от	ADP	4	case
+3	този	този	DET	4	det
+4	свят	свят	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	пързалят	пързаля-(се)	VERB	_	_
+
+VID
+0	подскочих	подскоча	VERB	_	_
+1	от	от	ADP	2	case
+2	радост	радост	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	състезават	състезавам-се	VERB	_	_
+
+LVC.cause
+0	осигурява	осигурявам	VERB	_	_
+1	достъп	достъп	NOUN	0	obj
+
+LVC.full
+0	постигнала	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+VID
+0	освободен	освободя-(се)	VERB	_	_
+1	от	от	ADP	2	case
+2	длъжност	длъжност	NOUN	0	iobj
+
+LVC.full
+0	получиха	получа	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+VID
+0	има	имам	VERB	_	_
+1	за	за	ADP	2	case
+2	цел	цел	NOUN	0	iobj
+
+LVC.cause
+0	дава	давам-(се)	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	проведоха	проведа	VERB	_	_
+
+VID
+0	имаха	имам	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+VID
+0	изиграха	изиграя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+VID
+0	дадем	дам-(се)	VERB	_	_
+1	своя	свой	DET	2	det
+2	принос	принос	NOUN	0	obj
+
+VID
+0	изиграхме	изиграя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+LVC.full
+0	дават	давам-(се)	VERB	_	_
+1	резултати	резултат	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	установи	установя-(се)	VERB	_	_
+
+LVC.full
+0	взе	взема	VERB	_	_
+1	решения	решение	NOUN	0	obj
+
+VID
+0	продължаваме	продължавам	VERB	_	_
+1	напред	напред	ADV	0	advmod
+
+IRV
+0	се	се	PRON	1	expl
+1	придвижихме	придвижя-(се)	VERB	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	изправят	изправям-(се)	VERB	_	_
+2	пред	пред	ADP	_	_
+
+VID
+0	Имам	имам	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	обещание	обещание	NOUN	0	obj
+
+VID
+0	са	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	рамките	рамка	NOUN	_	_
+3	на	на	ADP	_	_
+
+VID
+0	Имам	имам	VERB	_	_
+1	предвид	предвид	ADV	0	advmod
+
+LVC.full
+0	Въпроса	въпрос	PROPN	_	_
+1	повдигнахте	повдигнам	VERB	0	acl
+
+VID
+0	изправен	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	obl
+
+VID
+0	изиграят	изиграя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+VID
+0	се	се	PRON	1	expl
+1	сблъскват	сблъсквам-(се)	VERB	_	_
+2	с	с	ADP	3	case
+3	предизвикателства	предизвикателство	NOUN	1	iobj
+
+LVC.full
+0	постигне	постигна	VERB	_	_
+1	компромис	компромис	NOUN	_	_
+
+VID
+0	изразяват	изразявам-(се)	VERB	_	_
+1	резерви	резерва	NOUN	0	obj
+
+VID
+0	Затягането	Затягане	NOUN	_	_
+1	на	на	ADP	2	case
+2	коланите	колан	NOUN	0	nmod
+
+VID
+0	затягане	затягане	NOUN	_	_
+1	на	на	ADP	2	case
+2	коланите	колан	NOUN	0	nmod
+
+LVC.full
+0	подаде	подам-(се)	VERB	_	_
+1	молба	молба	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	сформира	сформирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	подготвя	подготвям-(се)	VERB	_	_
+
+LVC.full
+0	имат	има	VERB	_	_
+1	претенции	претенция	NOUN	0	obj
+
+LVC.full
+0	налага	налагам-(се)	VERB	_	_
+1	изисквания	изискване	NOUN	0	obj
+
+VID
+0	затегне	затегна-(се)	VERB	_	_
+1	режима	режим	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	произнесе	произнеса-(се)	VERB	_	_
+
+LVC.full
+0	нарушават	нарушавам-(се)	VERB	_	_
+1	права	право	NOUN	0	nsubj:pass
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	искане	искане	NOUN	0	obj
+
+VID
+0	проблеми	проблем	NOUN	_	_
+1	разрешени	разреша	VERB	_	_
+
+VID
+0	разрешени	разреша	VERB	_	_
+1	проблеми	проблем	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	интегрират	интегрирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	върнат	върна-(се)	VERB	_	_
+
+LVC.full
+0	проблемът	проблем	NOUN	_	_
+1	решен	реша	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	опит	опит	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	възражение	възражение	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	опасения	опасение	NOUN	0	obj
+
+VID
+0	поставя	поставям-(се)	VERB	_	_
+1	въпросът	въпрос	NOUN	0	nsubj:pass
+
+LVC.full
+0	отправи	отправ	VERB	_	_
+1	призив	призив	NOUN	0	obj
+
+LVC.full
+0	имало	имам	VERB	_	_
+1	право	право	NOUN	0	obj
+
+LVC.full
+0	поема	поема	VERB	_	_
+1	ангажимент	ангажимент	NOUN	0	obj
+
+VID
+0	извади	извадя	VERB	_	_
+1	от	от	ADP	2	case
+2	експлоатация	експлоатация	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	съобразило	съобразя-(се)	VERB	_	_
+
+LVC.full
+0	взело	взема	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+LVC.full
+0	обърне	обърна-(се)	VERB	_	_
+1	внимание	внимание	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	върне	върна-(се)	VERB	_	_
+
+VID
+0	изиграли	изиграм	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	опасява	опасявам-се	VERB	_	_
+
+LVC.full
+0	оказаха	окажа-(се)	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+LVC.full
+0	положени	положа	VERB	_	_
+1	усилия	усилие	NOUN	0	nsubj:pass
+
+LVC.full
+0	има	имам	VERB	_	_
+1	претенции	претенция	NOUN	0	obj
+
+LVC.full
+0	усилие	усилие	NOUN	_	_
+1	направено	направя-(се)	VERB	_	_
+
+LVC.full
+0	вината	вина	NOUN	1	nsubj
+1	носят	нося-(се)	VERB	_	_
+
+VID
+0	предприемат	предприема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+LVC.full
+0	водят	водя	VERB	_	_
+1	разговори	разговор	NOUN	0	nsubj:pass
+
+VID
+0	са	съм	AUX	_	_
+1	на	на	ADP	2	case
+2	неуспех	неуспех	NOUN	_	_
+
+LVC.full
+0	отправят	отправя-(се)	VERB	_	_
+1	искане	искане	NOUN	0	obj
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	надежда	надежда	NOUN	0	obj
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	разговори	разговор	NOUN	0	nsubj
+
+LVC.full
+0	постигне	постигна	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	въздържаха	въздържам-(се)	VERB	_	_
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	обяснение	обяснение	NOUN	0	obj
+
+VID
+0	преодоляване	преодоляване	NOUN	_	_
+1	на	на	ADP	2	case
+2	предизвикателства	предизвикателство	NOUN	0	nmod
+
+LVC.full
+0	извърши	извърша	VERB	_	_
+1	преглед	преглед	NOUN	0	obj
+
+VID
+0	осъден	осъдя	VERB	_	_
+1	на	на	ADP	2	case
+2	смърт	смърт	NOUN	0	iobj
+
+LVC.full
+0	предостави	предоставя	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+VID
+0	извърви	извървя	VERB	_	_
+1	пътя	пътя	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	нуждаят	нуждая-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	подготвят	подготвя-(се)	VERB	_	_
+
+LVC.full
+0	създава	създавам	VERB	_	_
+1	илюзията	илюзия	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	издига	издигам-(се)	VERB	_	_
+
+IRV
+0	Опитах	Опитам	VERB	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	преглед	преглед	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	пенсионира	пенсионирам	VERB	_	_
+
+VID
+0	встъпи	встъпя	VERB	_	_
+1	в	в	ADP	2	case
+2	длъжност	длъжност	NOUN	0	obl
+
+LVC.full
+0	воденето	водене	NOUN	_	_
+1	на	на	ADP	3	case
+2	съдебни	съдебен	ADJ	3	amod
+3	процеси	процес	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	позовали	позовам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	ползваше	ползвам-(се)	VERB	_	_
+
+VID
+0	извадени	извадя	VERB	_	_
+1	от	от	ADP	2	case
+2	контекста	контекст	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	развива	развивам-(се)	VERB	_	_
+
+VID
+0	свика	свикам	VERB	_	_
+1	среща	среща	NOUN	0	obj
+
+LVC.full
+0	окажем	окажа-(се)	VERB	_	_
+1	натиск	натиск	NOUN	0	obj
+
+VID
+0	сондира	сондирам	VERB	_	_
+1	мненията	мнение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	събират	събирам-(се)	VERB	_	_
+
+LVC.full
+0	изявила	изявя-(се)	VERB	_	_
+1	желание	желание	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	превърнат	превърна-(се)	VERB	_	_
+
+LVC.full
+0	оказване	оказване	NOUN	_	_
+1	на	на	ADP	2	case
+2	натиск	натиск	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	движи	движа-(се)	VERB	_	_
+
+VID
+0	спечели	спечеля	VERB	_	_
+1	доверието	доверие	NOUN	0	obj
+
+LVC.full
+0	поеха	поема	VERB	_	_
+1	ангажимент	ангажимент	NOUN	0	obj
+
+VID
+0	е	съм	AUX	2	cop
+1	от	от	ADP	2	case
+2	интерес	интерес	NOUN	_	_
+
+IRV
+0	стремящи	стремя	ADJ	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	отправя	отправям-(се)	VERB	_	_
+1	покана	покана	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	разположат	разположа-(се)	VERB	_	_
+
+VID
+0	призова	призова	VERB	_	_
+1	за	за	ADP	2	case
+2	разпит	разпит	NOUN	0	iobj
+
+VID
+0	встъпва	встъпвам	VERB	_	_
+1	в	в	ADP	2	case
+2	длъжност	длъжност	NOUN	0	obl
+
+VID
+0	в	в	ADP	1	case
+1	длъжност	длъжност	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	колебае	колебая-се	VERB	_	_
+
+VID
+0	остават	оставам	VERB	_	_
+1	на	на	ADP	3	case
+2	заден	заден	ADJ	3	amod
+3	план	план	NOUN	0	iobj
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	покана	покана	NOUN	0	nsubj:pass
+
+LVC.full
+0	внимание	внимание	NOUN	1	nsubj
+1	обръща	обръщам-(се)	VERB	_	_
+
+LVC.full
+0	обръща	обръщам-(се)	VERB	_	_
+1	внимание	внимание	NOUN	0	obj
+
+VID
+0	станали	стана	VERB	_	_
+1	фокус	фокус	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	разби	разбия-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	блъснали	блъсна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оттеглил	оттегля-(се)	VERB	_	_
+
+VID
+0	преградиха	преградя	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отдръпнат	отдръпна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оттеглят	оттегля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	защитават	защитавам	VERB	_	_
+
+VID
+0	Имайки	Имайка	ADV	1	advmod
+1	предвид	предвид	ADV	_	_
+
+IRV
+0	Очаква	очаквам	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	справим	справя-(се)	VERB	_	_
+
+IRV
+0	тръгвал	тръгвам-(си)	VERB	_	_
+1	си	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	разочаровал	разочаровам	VERB	_	_
+
+LVC.full
+0	взел	взема	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+LVC.full
+0	няма	нямам	VERB	_	_
+1	намерение	намерение	NOUN	0	obj
+
+LVC.full
+0	направиха	направя-(се)	VERB	_	_
+1	опита	опит	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	крие	крие	VERB	_	_
+
+LVC.full
+0	оказват	оказвам-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	поемат	поемам	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	надяваме	надявам-се	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	убеждението	убеждение	NOUN	0	obj
+
+LVC.full
+0	направят	направя-(се)	VERB	_	_
+1	промени	промяна	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	превръща	превръщам-(се)	VERB	_	_
+
+IRV
+0	занимаващи	занимавам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	проявява	проявявам-(се)	VERB	_	_
+1	разбиране	разбиране	NOUN	0	obj
+
+LVC.full
+0	постигнаха	постигна	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+LVC.full
+0	направеното	направя-(се)	ADJ	1	amod
+1	проучване	проучване	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	уверим	уверя-(се)	VERB	_	_
+
+LVC.full
+0	Изказвайки	Изказвайки	ADJ	1	amod
+1	съмнения	съмнение	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	криели	крия-(се)	VERB	_	_
+
+LVC.full
+0	нанесените	нанесеен	ADJ	1	amod
+1	щети	щета	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	веселят	веселя-(се)	VERB	_	_
+
+VID
+0	послание	послание	NOUN	_	_
+
+LVC.full
+0	упражнява	упражнявам-(се)	VERB	_	_
+1	контрол	контрол	NOUN	0	obj
+
+LVC.full
+0	проведената	проведа	ADJ	1	amod
+1	операция	операция	NOUN	_	_
+
+LVC.full
+0	Кампанията	кампания	NOUN	1	nsubj
+1	проведе	проведа	VERB	_	_
+
+VID
+0	върне	върна-(се)	VERB	_	_
+1	към	към	ADP	2	case
+2	живот	живот	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разходим	разходя-(си)	VERB	_	_
+
+VID
+0	направим	направя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADV	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	настанили	настаня-(се)	VERB	_	_
+
+IAV
+0	се	се	PRON	1	expl
+1	дължи	дължа	VERB	_	_
+2	на	на	ADP	_	_
+
+LVC.full
+0	провеждането	провеждане	NOUN	_	_
+1	на	на	ADP	2	case
+2	реформите	реформа	NOUN	0	nmod
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	увереността	увереност	NOUN	0	obj
+
+VID
+0	отвори	отворя-(се)	VERB	_	_
+1	врати	врата	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	помещава	помещавам-се	VERB	_	_
+
+VID
+0	встъпване	встъпване	NOUN	_	_
+1	в	в	ADP	2	case
+2	длъжност	длъжност	NOUN	0	nmod
+
+LVC.full
+0	положат	положа	VERB	_	_
+1	клетва	клетва	NOUN	0	obj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	изявлението	изявление	NOUN	0	obj
+
+VID
+0	е	съм	AUX	1	cop
+1	далеч	далеч	ADV	_	_
+2	от	от	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	нарича	наричам-(се)	VERB	_	_
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+LVC.full
+0	дадоха	дам-(се)	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+IRV
+0	надявайки	надявам-се	ADV	_	_
+1	се	се	PRON	_	_
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	обиколка	обиколка	NOUN	0	obj
+
+LVC.full
+0	отговорността	отговорност	NOUN	1	nsubj
+1	носи	нося-(се)	VERB	_	_
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	независимостта	независимост	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	увереност	увереност	NOUN	0	obj
+
+LVC.full
+0	провеждането	провеждане	NOUN	_	_
+1	на	на	ADP	2	case
+2	реформи	реформа	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	издигнем	издигна-(се)	VERB	_	_
+
+LVC.full
+0	поели	поея	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+LVC.full
+0	възраженията	възражения	NOUN	_	_
+1	повдигнати	повдигна-(се)	ADJ	0	amod
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	съмнение	съмнение	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	опасения	опасение	NOUN	0	obj
+
+LVC.full
+0	споразумението	споразумение	NOUN	_	_
+1	постигнато	постигна	ADV	_	_
+
+VID
+0	изправиха	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	obl
+
+VID
+0	подведен	подведа	VERB	_	_
+1	под	под	ADP	2	case
+2	отговорност	отговорност	NOUN	0	obl
+
+LVC.full
+0	даването	даване	NOUN	_	_
+1	на	на	ADP	2	case
+2	заповеди	заповеда	NOUN	0	nmod
+
+LVC.full
+0	повдигна	повдигна-(се)	VERB	_	_
+1	обвинение	обвинение	NOUN	0	obj
+
+LVC.full
+0	Изявлението	изявление	NOUN	1	nsubj:pass
+1	направено	направя-(се)	VERB	_	_
+
+LVC.full
+0	разговорите	разговор	NOUN	_	_
+1	проведени	проведа	ADJ	_	_
+
+LVC.full
+0	намерено	намеря-(се)	VERB	_	_
+1	решение	решение	NOUN	0	nsubj:pass
+
+LVC.full
+0	направят	направя-(се)	VERB	_	_
+1	отстъпки	отстъпка	NOUN	0	obj
+
+VID
+0	извадиха	извадя	VERB	_	_
+1	оръжие	оръжие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	намирал	намирам-(се)	VERB	_	_
+
+LVC.full
+0	има	имам	VERB	_	_
+1	нужда	нужда	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	страхуват	страхувам-се	VERB	_	_
+
+LVC.cause
+0	причинила	причина	VERB	_	_
+1	земетресения	земетресение	NOUN	0	obj
+
+LVC.cause
+0	предостави	предоставя	ADJ	1	amod
+1	възможност	възможност	NOUN	_	_
+
+LVC.full
+0	нямат	нямам	VERB	_	_
+1	готовност	готовност	NOUN	0	obj
+
+VID
+0	седне	седна	VERB	_	_
+1	на	на	ADP	2	case
+2	масата	маса	NOUN	0	iobj
+3	за	за	ADP	4	case
+4	преговори	преговори	NOUN	2	nmod
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADJ	0	obj
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	пресконференция	пресконференция	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	удовлетворение	удовлетворение	NOUN	0	obj
+
+LVC.full
+0	предизвикваше	предизвиквам-(се)	VERB	_	_
+1	смут	смут	NOUN	0	obj
+
+LVC.full
+0	подложена	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	санкции	санкция	NOUN	0	iobj
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	потупване	потупване	NOUN	0	obj
+2	по	по	ADP	3	case
+3	рамото	рамо	NOUN	1	nmod
+
+LVC.cause
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	забавяне	забавяне	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	блъсна	блъсна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съсредоточиха	съсредоточа	VERB	_	_
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	разговори	разговор	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	засилва	засилвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	увери	уверя-(се)	VERB	_	_
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	срещи	среща	NOUN	0	obj
+
+LVC.full
+0	постигане	постигане	NOUN	_	_
+1	на	на	ADP	2	case
+2	решение	решение	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	запази	запазя	VERB	_	_
+
+LVC.full
+0	предизвикала	предизвикам	VERB	_	_
+1	дискусии	дискусия	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	надигат	надигам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разпръсна	разпръсна-(се)	VERB	_	_
+
+LVC.full
+0	предизвикват	предизвиквам	VERB	_	_
+1	хаос	хаос	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	опитаме	опитам-(се)	VERB	_	_
+
+VID
+0	взема	взема	VERB	_	_
+1	предвид	предвид	ADV	_	_
+
+LVC.full
+0	предизвика	предизвикам	VERB	_	_
+1	объркване	объркване	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отърсва	отърсвам-(се)	VERB	_	_
+
+LVC.full
+0	оказала	окажа-(се)	VERB	_	_
+1	влияние	влияние	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	поддават	поддавам-(се)	VERB	_	_
+
+LVC.full
+0	претърпи	претърпя	VERB	_	_
+1	изменения	изменение	NOUN	0	obj
+
+LVC.cause
+0	дават	давам-(се)	VERB	_	_
+1	право	право	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отправили	отправя-(се)	VERB	_	_
+
+LVC.full
+0	постигали	постигам	VERB	_	_
+1	успех	успех	NOUN	0	obj
+
+LVC.full
+0	осигури	осигуря	VERB	_	_
+1	възможности	възможност	NOUN	_	_
+
+LVC.full
+0	постигнат	постигна	VERB	_	_
+1	реализация	реализация	NOUN	0	obj
+
+LVC.full
+0	осигури	осигуря	VERB	_	_
+1	информация	информация	NOUN	0	obj
+
+LVC.full
+0	предоставя	предоставям	VERB	_	_
+1	информация	информация	NOUN	0	obj
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	награда	награда	NOUN	0	obj
+
+LVC.full
+0	извършването	извършване	NOUN	_	_
+1	на	на	ADP	2	case
+2	реформи	реформа	NOUN	0	nmod
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	съгласието	съгласие	NOUN	0	obj
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	nsubj
+2	възможно	възможно	ADV	_	_
+
+LVC.full
+0	получихте	получа	VERB	_	_
+1	покана	покана	NOUN	0	obj
+
+LVC.full
+0	получаване	получаване	NOUN	_	_
+1	на	на	ADP	2	case
+2	членство	членство	NOUN	0	nmod
+
+LVC.full
+0	постигна	постигна	VERB	_	_
+1	успех	успех	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	подобриха	подобря-(се)	VERB	_	_
+
+LVC.full
+0	сме	съм	AUX	1	cop
+1	отговорни	отговорен	ADJ	_	_
+
+LVC.full
+0	изпитвала	изпитвам	VERB	_	_
+1	подозрения	подозрение	NOUN	0	obj
+
+LVC.cause
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	вълна	вълна	NOUN	0	iobj
+
+VID
+0	обърнал	обърна-(се)	VERB	_	_
+1	поглед	поглед	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срещали	срещам-(се)	VERB	_	_
+
+LVC.cause
+0	създава	създавам	VERB	_	_
+1	необходимост	необходимост	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	определя	определям-(се)	VERB	_	_
+
+IRV
+0	надявайки	надявам-се	ADV	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	извърши	извърша	VERB	_	_
+1	проверки	проверка	NOUN	0	obj
+
+VID
+0	изпълнява	изпълнявам	VERB	_	_
+1	ролята	роля	NOUN	0	obj
+
+LVC.full
+0	извършване	извършване	NOUN	_	_
+1	на	на	ADP	2	case
+2	проверки	проверка	NOUN	0	nmod
+
+LVC.full
+0	внимание	внимание	NOUN	_	_
+
+IRV
+0	си	се	PRON	1	expl
+1	тръгнем	тръгна-(си)	VERB	_	_
+
+IRV
+0	състояща	състоящам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	сменя	сменям-(се)	VERB	_	_
+
+VID
+0	отваря	отварям-(се)	VERB	_	_
+1	вратата	врата	NOUN	0	obj
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	експерименти	експеримент	NOUN	_	_
+
+VID
+0	предизвика	предизвикам	VERB	_	_
+1	реакции	реакция	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	върнаха	върна-(се)	VERB	_	_
+
+VID
+0	изпълня	изпълня-(се)	VERB	_	_
+1	обещанието	обещание	NOUN	0	obj
+
+VID
+0	има	има	VERB	_	_
+1	за	за	ADP	2	case
+2	цел	цел	NOUN	0	iobj
+
+LVC.full
+0	получили	получа	VERB	_	_
+1	финансиране	финансиране	NOUN	0	obj
+
+LVC.full
+0	Направеното	Направеен	ADJ	1	amod
+1	проучване	проучване	NOUN	_	_
+
+LVC.cause
+0	предизвикаха	предизвикам	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отзоваха	отзовам	VERB	_	_
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	призив	призив	NOUN	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	обръщението	обръщение	NOUN	0	obj
+
+LVC.full
+0	създаване	създаване	NOUN	_	_
+1	на	на	ADP	2	case
+2	стимули	стимула	NOUN	0	nmod
+
+LVC.cause
+0	предостави	предоставя	VERB	_	_
+1	права	право	NOUN	0	obj
+
+LVC.full
+0	получаването	получаване	NOUN	_	_
+1	на	на	ADP	2	case
+2	членство	членство	NOUN	0	nmod
+
+LVC.full
+0	издаде	издам-(се)	VERB	_	_
+1	заповед	заповед	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	оказва	оказвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	връщат	връщам-(се)	VERB	_	_
+
+VID
+0	изправен	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	iobj
+
+LVC.full
+0	има	има	VERB	_	_
+1	връщане	връщане	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	справихте	справя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	успокои	успокоя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	занимаят	занимая	VERB	_	_
+
+VID
+0	няма	нямам	VERB	_	_
+1	връщане	връщане	NOUN	0	obj
+2	назад	назад	ADV	1	advmod
+
+IRV
+0	Надяваме	надявам-се	VERB	_	_
+1	се	се	PRON	0	expl
+
+LVC.cause
+0	създаването	създаване	NOUN	_	_
+1	условия	условие	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	отправят	отправям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оплакват	оплаквам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	безпокоят	безпокоя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	прибере	прибера-(се)	VERB	_	_
+
+LVC.full
+0	осигуриха	осигуря	VERB	_	_
+1	евакуацията	евакуация	NOUN	0	obj
+
+LVC.full
+0	получили	получа	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	осигуриха	осигуря	VERB	_	_
+1	подкрепата	подкрепа	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	стабилизира	стабилизирам	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	усилия	усилие	NOUN	0	obj
+
+LVC.full
+0	поетите	поет	ADJ	1	amod
+1	ангажименти	ангажимент	NOUN	_	_
+
+LVC.full
+0	ангажиментите	ангажимент	NOUN	_	_
+1	поети	поема	ADJ	0	amod
+
+LVC.full
+0	получило	получа	VERB	_	_
+1	молба	молба	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	пълномощия	пълномощие	NOUN	0	obj
+
+LVC.full
+0	дадат	дам-(се)	VERB	_	_
+1	отговор	отговор	NOUN	0	obj
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	одобрението	одобрение	NOUN	0	obj
+
+LVC.full
+0	провел	проведа	VERB	_	_
+1	разговор	разговор	NOUN	0	obj
+
+LVC.full
+0	пое	поема	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	върнали	върна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	дължи	дължа	VERB	_	_
+
+LVC.full
+0	направиха	направя-(се)	VERB	_	_
+1	изявление	изявление	NOUN	0	obj
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	покана	покана	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	готовност	готовност	NOUN	0	obj
+
+VID
+0	предприеме	предприема	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	подкрепата	подкрепа	NOUN	0	obj
+
+LVC.full
+0	провеждането	провеждане	NOUN	_	_
+1	на	на	ADP	2	case
+2	референдум	референдум	NOUN	0	nmod
+
+VID
+0	влязат	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	сила	сила	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	обединяват	обединявам-(се)	VERB	_	_
+
+LVC.full
+0	оказаното	оказаен	ADJ	1	amod
+1	съдействие	съдействие	NOUN	_	_
+
+VID
+0	ставало	ставам	VERB	_	_
+1	въпрос	въпрос	NOUN	0	obj
+
+LVC.full
+0	провеждане	провеждане	NOUN	_	_
+1	на	на	ADP	2	case
+2	реформи	реформа	NOUN	0	nmod
+
+VID
+0	стъпките	стъпка	NOUN	_	_
+1	предприеме	предприема	VERB	_	_
+
+LVC.full
+0	получената	получена	ADJ	1	amod
+1	покана	покана	NOUN	_	_
+
+LVC.full
+0	подаде	подам-(се)	VERB	_	_
+1	оставка	оставка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отказаха	откажа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	откажат	откажа-(се)	VERB	_	_
+
+LVC.full
+0	Изразявайки	Изразявам-(се)	ADV	_	_
+1	подкрепа	подкрепа	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	консултира	консултирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	признае	призная-(се)	VERB	_	_
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	среща	среща	NOUN	0	nsubj:pass
+
+LVC.full
+0	направим	направя-(се)	VERB	_	_
+1	усилие	усилие	NOUN	0	obj
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	среща	среща	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	разпада	разпадам	VERB	_	_
+
+VID
+0	изпрати	изпратя	VERB	_	_
+1	сигнал	сигнал	NOUN	0	obj
+
+LVC.full
+0	окаже	окажа-(се)	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	повишава	повишавам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	повишило	повиша-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	влоши	влоша-(се)	VERB	_	_
+
+LVC.full
+0	помощта	помощ	NOUN	_	_
+1	предостави	предоставя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съсредоточават	съсредоточавам	VERB	_	_
+
+LVC.full
+0	Нямаме	нямам	VERB	_	_
+1	информация	информация	NOUN	_	_
+
+LVC.full
+0	изявления	изявление	NOUN	1	nsubj:pass
+1	направени	направя-(се)	VERB	_	_
+
+LVC.full
+0	Решението	решение	NOUN	_	_
+1	прието	приема	VERB	0	acl
+
+LVC.full
+0	предоставя	предоставям	VERB	_	_
+1	разрешение	разрешение	NOUN	0	obj
+
+LVC.cause
+0	даде	дам-(се)	VERB	_	_
+1	възможност	възможност	NOUN	0	nsubj
+
+LVC.cause
+0	дава	давам-(се)	VERB	_	_
+1	достъп	достъп	NOUN	0	nsubj:pass
+
+LVC.cause
+0	осигури	осигуря	VERB	_	_
+1	сътрудничество	сътрудничество	NOUN	0	obj
+
+LVC.full
+0	направят	направя-(се)	VERB	_	_
+1	компромис	компромис	NOUN	0	obj
+
+VID
+0	предизвика	предизвикам	VERB	_	_
+1	реакцията	реакция	NOUN	0	obj
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	желание	желание	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	противопоставят	противопоставям-(се)	VERB	_	_
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	принос	принос	NOUN	0	obj
+
+IRV
+0	се	се	PRON	_	_
+1	окаже	окажа-(се)	PART	_	_
+
+LVC.full
+0	имам	имам	VERB	_	_
+1	усещането	усещане	NOUN	_	_
+
+LVC.full
+0	провежда	провеждам	VERB	_	_
+1	семинари	семинар	NOUN	0	nsubj
+
+IRV
+0	се	се	PRON	1	expl
+1	запази	запазя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	сменят	сменя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	занимае	занимая	VERB	_	_
+
+VID
+0	постави	поставя-(се)	VERB	_	_
+1	въпроси	въпрос	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	готовността	готовност	NOUN	_	_
+
+LVC.full
+0	искат	искам	VERB	_	_
+1	време	време	NOUN	0	obj
+
+LVC.full
+0	отнема	отнема	VERB	_	_
+1	времето	време	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	появяват	появявам-се	VERB	_	_
+
+LVC.full
+0	започна	започна	VERB	_	_
+1	кампания	кампания	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съобразяват	съобразявам-(се)	VERB	_	_
+
+LVC.full
+0	стигна	стигна	VERB	_	_
+1	до	до	ADP	2	case
+2	заключение	заключение	NOUN	0	iobj
+
+LVC.full
+0	извършени	извърша	ADJ	1	amod
+1	проверки	проверка	NOUN	_	_
+
+LVC.full
+0	провежда	провеждам	VERB	_	_
+1	кампания	кампания	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	радват	радвам-(се)	VERB	_	_
+2	на	на	ADP	_	_
+
+LVC.full
+0	получават	получавам	VERB	_	_
+1	оценки	оценка	NOUN	0	obj
+
+LVC.full
+0	помощ	помощ	NOUN	_	_
+1	окажат	окажа-(се)	VERB	0	acl
+
+VID
+0	вниманието	внимание	NOUN	1	nsubj:pass
+1	насочено	насоча-(се)	VERB	_	_
+2	към	към	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	случил	случа-(се)	VERB	_	_
+
+VID
+0	вземе	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+VID
+0	използването	използване	NOUN	_	_
+1	на	на	ADP	2	case
+2	сила	сила	NOUN	0	nmod
+
+VID
+0	имат	има	VERB	_	_
+1	шансове	шанс	NOUN	0	obj
+
+LVC.full
+0	станат	стана	VERB	_	_
+1	част	част	NOUN	0	obj
+2	от	от	ADP	_	_
+
+LVC.full
+0	положиха	положа	VERB	_	_
+1	основите	основа	NOUN	0	obj
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	надежда	надежда	NOUN	0	obj
+
+VID
+0	качат	кача-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	влака	влак	NOUN	0	iobj
+
+IRV
+0	завърналите	завърна	ADJ	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	изложени	изложа-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	риск	риск	NOUN	0	iobj
+
+VID
+0	насочи	насоча-(се)	VERB	_	_
+1	вниманието	внимание	NOUN	0	obj
+2	към	към	ADP	_	_
+
+VID
+0	що	що	ADJ	2	nsubj
+1	се	се	PRON	2	expl
+2	отнася	отнасям-(се)	VERB	_	_
+3	до	до	ADP	_	_
+
+VID
+0	излиза	излизам	VERB	_	_
+1	на	на	ADP	3	case
+2	преден	преден	ADJ	3	amod
+3	план	план	NOUN	0	obl
+
+LVC.full
+0	извършване	извършване	NOUN	_	_
+1	на	на	ADP	2	case
+2	престъпления	престъпление	NOUN	0	nmod
+
+VID
+0	направено	направя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	nsubj:pass
+2	възможно	възможно	ADJ	0	obj
+
+LVC.full
+0	обещание	обещание	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	развиват	развивам-(се)	VERB	_	_
+
+VID
+0	направиха	направя-(се)	VERB	_	_
+1	възможно	възможен	ADV	0	obj
+
+LVC.cause
+0	създадени	създадя	VERB	_	_
+1	условия	условие	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	боят	боя-се	VERB	_	_
+
+VID
+0	взети	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	nsubj:pass
+
+VID
+0	взе	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+LVC.full
+0	оказват	оказвам-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+2	на	на	ADP	_	_
+
+LVC.full
+0	извършените	извърша	ADJ	1	amod
+1	престъпления	престъпление	NOUN	_	_
+
+LVC.full
+0	повдигнаха	повдигна-(се)	VERB	_	_
+1	обвинение	обвинение	NOUN	0	obj
+
+VID
+0	в	в	ADP	2	case
+1	нова	нов	ADJ	2	amod
+2	светлина	светлина	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	различава	различавам-(се)	VERB	_	_
+
+VID
+0	променим	променя-(се)	VERB	_	_
+1	образа	образа	NOUN	0	obj
+2	пред	пред	ADP	3	case
+3	света	свят	NOUN	0	iobj
+
+VID
+0	Лицето	лице	NOUN	_	_
+1	показват	показвам-(се)	VERB	0	acl
+2	пред	пред	ADP	3	case
+3	света	свят	NOUN	1	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	отразява	отразявам-(се)	VERB	_	_
+
+LVC.cause
+0	слагаме	слагам-(се)	VERB	_	_
+1	край	край	NOUN	0	obj
+
+LVC.full
+0	полагани	полагам	VERB	_	_
+1	грижи	грижа-се	NOUN	0	nsubj:pass
+
+LVC.full
+0	повдигна	повдигна-(се)	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	заключение	заключение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	завърнало	завърна-(се)	VERB	_	_
+
+IRV
+0	завърнало	завърна-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	извършила	извърша	VERB	_	_
+1	проверка	проверка	NOUN	0	obj
+
+LVC.full
+0	взето	взема	VERB	_	_
+1	решението	решение	NOUN	0	nsubj:pass
+
+VID
+0	избра	избера	VERB	_	_
+1	пътя	път	NOUN	0	obj
+2	на	на	ADP	_	_
+
+VID
+0	са	съм	VERB	_	_
+1	добре	добре	ADV	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	колебаят	колебая-се	VERB	_	_
+
+LVC.full
+0	постигна	постигна	VERB	_	_
+1	консенсус	консенсус	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	вряза	врежа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	роди	родя-(се)	VERB	_	_
+
+VID
+0	застане	застана	VERB	_	_
+1	начело	начело	ADV	0	advmod
+
+LVC.full
+0	получат	получа	VERB	_	_
+1	подкрепата	подкрепа	NOUN	0	obj
+
+LVC.full
+0	правим	правя-(се)	VERB	_	_
+1	избори	избор	NOUN	0	obj
+
+LVC.full
+0	взимаме	взимам	VERB	_	_
+1	решения	решение	NOUN	0	obj
+
+VID
+0	да	да	AUX	1	aux
+1	речем	река	VERB	_	_
+
+LVC.full
+0	предприела	предприема	VERB	_	_
+1	действия	действие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	сблъскват	сблъсквам-(се)	VERB	_	_
+
+LVC.full
+0	стигат	стигам	VERB	_	_
+1	до	до	ADP	2	case
+2	извода	извод	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	придвижват	придвижвам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	движат	движа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	влошава	влошавам-(се)	VERB	_	_
+
+VID
+0	Временно	временно	ADV	1	advmod
+1	изпълняващата	изпълнявам	ADJ	2	amod
+2	длъжността	длъжност	NOUN	_	_
+
+VID
+0	изиграл	изиграм	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+VID
+0	временно	временно	ADV	1	advmod
+1	изпълняващ	изпълнявам	ADJ	2	amod
+2	длъжността	длъжност	NOUN	_	_
+
+VID
+0	отдаде	отдам-(се)	VERB	_	_
+1	почит	почит	NOUN	0	obj
+
+VID
+0	продължи	продължа	VERB	_	_
+1	по	по	ADP	2	case
+2	пътя	път	NOUN	0	obl
+3	на	на	ADP	_	_
+
+IRV
+0	намираща	намирам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	Смята	смятам	NOUN	1	nsubj
+1	се	се	PRON	_	_
+
+VID
+0	обявяваме	обявявам-(се)	VERB	_	_
+1	война	война	NOUN	0	obj
+
+VID
+0	обявиха	обявя-(се)	VERB	_	_
+1	война	война	NOUN	0	obj
+
+VID
+0	Временно	временно	ADV	_	_
+1	изпълняващата	изпълнявам	ADJ	2	amod
+2	длъжността	длъжност	NOUN	_	_
+
+VID
+0	остане	остана	VERB	_	_
+1	в	в	ADP	2	case
+2	сила	сила	NOUN	0	obl
+
+LVC.full
+0	има	имам	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+VID
+0	оправи	оправя-(се)	VERB	_	_
+1	нещата	някой	PRON	0	obj
+
+VID
+0	отдадат	отдам-(се)	VERB	_	_
+1	почитта	почитт	NOUN	0	obj
+
+VID
+0	Няма	нямам	VERB	_	_
+1	връщане	връщане	NOUN	_	_
+2	назад	назад	ADV	1	advmod
+
+IRV
+0	могат	мога	VERB	_	_
+1	се	се	PRON	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласява	съгласявам-(се)	VERB	_	_
+
+LVC.full
+0	взе	взема	VERB	_	_
+1	участие	участие	NOUN	0	obj
+
+LVC.full
+0	изнесе	изнеса-(се)	VERB	_	_
+1	реч	реч	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	разпадат	разпадам	VERB	_	_
+
+VID
+0	Няма	нямам	VERB	_	_
+1	дилема	дилема	NOUN	0	obj
+
+VID
+0	временно	временно	ADV	1	advmod
+1	изпълняващата	изпълнявам	ADJ	2	amod
+2	длъжността	длъжност	NOUN	_	_
+
+VID
+0	остават	оставам	VERB	_	_
+1	на	на	ADP	2	case
+2	свобода	свобода	NOUN	0	iobj
+
+VID
+0	дадоха	дам-(се)	VERB	_	_
+1	зелена	зелен	ADJ	2	amod
+2	светлина	светлина	NOUN	0	obj
+
+LVC.full
+0	дадоха	дам-(се)	VERB	_	_
+1	одобрение	одобрение	NOUN	_	_
+
+LVC.full
+0	дал	дам-(се)	VERB	_	_
+1	съгласието	съгласие	NOUN	0	obj
+
+LVC.full
+0	постигне	постигна	VERB	_	_
+1	целта	цел	NOUN	0	obj
+
+LVC.full
+0	предприети	предприема	VERB	_	_
+1	мерки	мярка	NOUN	0	nsubj:pass
+
+LVC.full
+0	водят	водя	VERB	_	_
+1	преговори	преговори	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	оказала	окажа-(се)	VERB	_	_
+
+LVC.full
+0	повдигнаха	повдигна-(се)	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+LVC.full
+0	направил	направя-(се)	VERB	_	_
+1	усилия	усилие	NOUN	0	obj
+
+LVC.full
+0	възлагат	възлагам	VERB	_	_
+1	надежди	надежда	NOUN	0	obj
+
+LVC.full
+0	обръщат	обръщам-(се)	VERB	_	_
+1	внимание	внимание	NOUN	0	obj
+
+VID
+0	привлече	привлека-(се)	VERB	_	_
+1	вниманието	внимание	NOUN	0	obj
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	нещо	някой	PRON	0	obj
+
+VID
+0	осигури	осигуря	VERB	_	_
+1	работни	работен	ADJ	2	amod
+2	места	място	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	смеят	смея-се	VERB	_	_
+
+LVC.full
+0	имал	има	VERB	_	_
+1	данни	данна	NOUN	0	obj
+
+VID
+0	тръгва	тръгвам-(си)	VERB	_	_
+1	по	по	ADP	2	case
+2	път	път	NOUN	0	obl
+
+LVC.full
+0	имаме	имам	VERB	_	_
+1	нужда	нужда	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	наричаше	наричам-(се)	VERB	_	_
+
+VID
+0	Имайки	Имам-(се)	ADV	1	advmod
+1	предвид	предвид	ADV	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	фокусираше	фокусирам	VERB	_	_
+
+VID
+0	застане	застана	VERB	_	_
+1	зад	зад	ADP	_	_
+
+IAV
+0	застане	застане	NOUN	_	_
+1	зад	зад	ADP	_	_
+
+VID
+0	на	на	ADP	1	case
+1	риск	риск	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	изправим	изправя-(се)	VERB	_	_
+
+IAV
+0	застанали	застана	VERB	_	_
+1	до	до	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласил	съглася-се	VERB	_	_
+
+LVC.full
+0	търси	търся	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+VID
+0	няма	нямам	VERB	_	_
+1	причини	причина	NOUN	0	obj
+
+VID
+0	няма	нямам	VERB	_	_
+1	причина	причина	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	ръкува	ръкувам	VERB	_	_
+
+VID
+0	поставени	поставя-(се)	ADJ	_	_
+1	на	на	ADP	2	case
+2	карта	карта	NOUN	0	obl
+
+VID
+0	е	съм	AUX	2	cop
+1	на	на	ADP	2	case
+2	път	път	NOUN	_	_
+3	да	да	AUX	_	_
+
+VID
+0	излезе	изляза	VERB	_	_
+1	на	на	ADP	2	case
+2	улиците	улица	NOUN	0	iobj
+
+VID
+0	си	се	PRON	1	expl
+1	събира	събирам-(се)	VERB	_	_
+2	багажа	багаж	NOUN	1	obj
+
+VID
+0	стигнал	стигна	VERB	_	_
+1	край	край	NOUN	0	obj
+
+LVC.full
+0	има	има	VERB	_	_
+1	възможност	възможност	NOUN	_	_
+
+IRV
+0	си	се	PRON	1	expl
+1	представим	представя-(се)	VERB	_	_
+
+VID
+0	чука	чукам-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	вратата	врата	NOUN	0	iobj
+3	на	на	ADP	_	_
+
+VID
+0	гласуват	гласувам	VERB	_	_
+1	с	с	ADP	2	case
+2	краката	крак	NOUN	0	obl
+3	си	свой	PRON	2	det
+
+LVC.full
+0	постави	поставя-(се)	VERB	_	_
+1	край	край	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	подкрепата	подкрепа	NOUN	0	obj
+
+LVC.full
+0	таят	там	VERB	_	_
+1	съмнения	съмнение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	очертават	очертавам-(се)	VERB	_	_
+
+LVC.full
+0	разговори	разговор	NOUN	1	nsubj:pass
+1	водят	водя	VERB	_	_
+
+VID
+0	изтръгнати	изтръгна-(се)	VERB	_	_
+1	със	със	ADP	2	case
+2	сила	сила	NOUN	0	iobj
+
+VID
+0	признати	призна	VERB	_	_
+1	за	за	ADP	2	case
+2	виновни	виновен	ADJ	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	легитимира	легитимирам	VERB	_	_
+
+LVC.full
+0	имали	има	VERB	_	_
+1	контакт	контакт	NOUN	0	obj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	признания	признане	NOUN	0	obj
+
+LVC.full
+0	упражнено	упражнен	ADJ	1	amod
+1	насилие	насилие	NOUN	_	_
+
+VID
+0	призовани	призова	VERB	_	_
+1	за	за	ADP	2	case
+2	свидетели	свидетел	NOUN	0	obl
+
+VID
+0	пледирали	пледирам	VERB	_	_
+1	невинни	невинен	ADJ	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оттеглят	оттеглям-(се)	VERB	_	_
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	апел	апел	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	простира	простирам-(се)	VERB	_	_
+
+VID
+0	затягане	затягане	NOUN	_	_
+1	на	на	ADP	2	case
+2	примката	примка	NOUN	0	nmod
+3	около	около	ADP	_	_
+
+LVC.cause
+0	сложи	сложа-(се)	VERB	_	_
+1	край	край	NOUN	0	obj
+2	на	на	ADP	_	_
+
+LVC.cause
+0	сложи	сложа-(се)	VERB	_	_
+1	на	на	ADP	_	_
+
+VID
+0	вземат	взема	VERB	_	_
+1	предвид	предвид	ADV	0	advmod
+
+LVC.full
+0	има	имам	VERB	_	_
+1	готовност	готовност	NOUN	0	obj
+
+VID
+0	Става	става	VERB	_	_
+1	въпрос	въпрос	NOUN	0	obj
+
+VID
+0	вратите	врата	NOUN	_	_
+1	отворени	отворен	ADJ	_	_
+
+LVC.full
+0	поема	поема	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+LVC.full
+0	поема	поема	VERB	_	_
+1	отговорността	отговорност	NOUN	0	obj
+
+VID
+0	освободиха	освободя-(се)	VERB	_	_
+1	от	от	ADP	2	case
+2	длъжност	длъжност	NOUN	0	obl
+
+VID
+0	взеха	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+IAV
+0	стои	стоя	VERB	_	_
+1	зад	зад	ADP	_	_
+
+LVC.full
+0	изпълняват	изпълнявам	VERB	_	_
+1	задълженията	задължение	NOUN	0	obj
+
+LVC.full
+0	водили	водя	VERB	_	_
+1	преговори	преговори	NOUN	0	obj
+
+IRV
+0	въздържал	въздържам-(се)	NOUN	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	упражнявал	упражнявам-(се)	VERB	_	_
+1	натиск	натиск	NOUN	0	obj
+
+VID
+0	освободени	освободя-(се)	VERB	_	_
+1	от	от	ADP	2	case
+2	длъжност	длъжност	NOUN	0	iobj
+
+LVC.cause
+0	давала	давам-(се)	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	оттегля	оттеглям-(се)	VERB	_	_
+
+VID
+0	остане	остана	VERB	_	_
+1	в	в	ADP	2	case
+2	сила	сила	NOUN	0	iobj
+
+VID
+0	запази	запазя-(се)	VERB	_	_
+1	в	в	ADP	2	case
+2	тайна	тайна	NOUN	_	_
+
+LVC.full
+0	окаже	окажа-(се)	VERB	_	_
+1	въздействие	въздействие	NOUN	0	obj
+
+LVC.cause
+0	дава	давам-(се)	VERB	_	_
+1	право	право	NOUN	_	_
+
+LVC.full
+0	взема	взема	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	готовността	готовност	NOUN	0	obj
+
+LVC.full
+0	повдигнат	повдигна-(се)	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изпълни	изпълня-(се)	VERB	_	_
+
+LVC.cause
+0	дал	дам-(се)	VERB	_	_
+1	разрешение	разрешение	NOUN	0	obj
+
+VID
+0	дадохме	дада	VERB	_	_
+1	да	да	AUX	3	aux
+2	се	се	PRON	3	expl
+3	разбере	разбера-(се)	VERB	0	ccomp
+
+LVC.full
+0	оказват	оказвам-(се)	VERB	_	_
+1	съдействие	съдействие	NOUN	0	obj
+
+LVC.full
+0	направил	направя-(се)	VERB	_	_
+1	избор	избор	NOUN	0	obj
+
+VID
+0	стане	стана	VERB	_	_
+1	обект	обект	NOUN	0	obj
+2	на	на	ADP	_	_
+
+VID
+0	последва	последвам	VERB	_	_
+1	примера	пример	NOUN	0	obj
+
+VID
+0	отстъпи	отстъпя	VERB	_	_
+1	място	място	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	готви	готвя	VERB	_	_
+
+IRV
+0	Подобрява	Подобрявам	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	покачил	покача-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	изправят	изправя-(се)	VERB	_	_
+
+LVC.full
+0	повдигнати	повдигна-(се)	VERB	_	_
+1	обвинения	обвинение	NOUN	0	nsubj:pass
+
+IRV
+0	Радваме	Радвам	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	бият	бия-(се)	VERB	_	_
+
+VID
+0	Обявявайки	Обявявайки	ADV	1	advmod
+1	война	война	NOUN	_	_
+
+VID
+0	заеме	заема-(се)	VERB	_	_
+1	своето	свой	DET	2	det
+2	място	място	NOUN	0	obj
+
+VID
+0	направиха	направя-(се)	VERB	_	_
+1	стъпка	стъпка	NOUN	0	obj
+
+LVC.cause
+0	дават	давам-(се)	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+VID
+0	намерят	намеря-(се)	VERB	_	_
+1	мястото	място	NOUN	0	obj
+
+LVC.full
+0	дадат	дам-(се)	VERB	_	_
+1	принос	принос	NOUN	0	obj
+
+VID
+0	влезе	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	историята	история	NOUN	0	iobj
+
+VID
+0	отворил	отворя-(се)	VERB	_	_
+1	вратите	врата	NOUN	0	obj
+2	си	свой	PRON	1	det
+
+LVC.full
+0	вземат	взема	VERB	_	_
+1	решения	решение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	консултират	консултирам	VERB	_	_
+
+LVC.full
+0	оказвайки	оказвайки	ADJ	1	amod
+1	съпротива	съпротива	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	предадат	предам-(се)	VERB	_	_
+
+IRV
+0	заклевайки	заклевайка	ADV	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	обявявайки	обявявайки	ADJ	1	amod
+1	война	война	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	рушат	руша	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	събира	събирам-(се)	VERB	_	_
+
+IRV
+0	Позовавайки	позовавам-(се)	ADV	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	предвижда	предвиждам	VERB	_	_
+
+IRV
+0	отклонила	отклоня-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	ход	ход	NOUN	0	obl
+
+LVC.full
+0	имаме	имам	VERB	_	_
+1	работа	работа	NOUN	0	obj
+2	с	с	ADP	_	_
+
+VID
+0	няма	нямам	VERB	_	_
+1	нищо	никой	DET	0	obj
+2	общо	общо	ADV	1	advmod
+3	с	с	ADP	_	_
+
+VID
+0	откриха	открия-(се)	VERB	_	_
+1	пътя	път	NOUN	0	obj
+2	към	към	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	договорили	договоря-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	увеличиха	увелича-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	увеличили	увелича-(се)	VERB	_	_
+
+VID
+0	навежда	навеждам-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	мисълта	мисъл	NOUN	0	iobj
+
+IAV
+0	води	водя	VERB	_	_
+1	до	до	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	заемат	заема-(се)	VERB	_	_
+
+LVC.full
+0	бъде	бъда	AUX	2	cop
+1	в	в	ADP	2	case
+2	състояние	състояние	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	усъмни	усъмни-се	VERB	_	_
+
+LVC.full
+0	правят	правя-(се)	VERB	_	_
+1	опити	опит	NOUN	0	nsubj:pass
+
+VID
+0	поставена	поставя-(се)	VERB	_	_
+1	на	на	ADP	3	case
+2	преден	преден	ADJ	3	amod
+3	план	план	NOUN	0	iobj
+
+VID
+0	има	имам	VERB	_	_
+1	предвид	предвид	ADV	_	_
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	свобода	свобода	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	върнем	върна-(се)	VERB	_	_
+
+VID
+0	оставят	оставям-(се)	VERB	_	_
+1	място	място	NOUN	0	obj
+
+VID
+0	върви	вървя	VERB	_	_
+1	ръка	ръка	NOUN	0	obj
+2	за	за	ADP	3	case
+3	ръка	ръка	NOUN	0	iobj
+
+IRV
+0	въздържал	въздържам-(се)	VERB	_	_
+1	се	се	PRON	_	_
+
+LVC.full
+0	Изборът	избор	NOUN	_	_
+1	направи	направя-(се)	VERB	0	acl
+
+IAV
+0	гледаме	гледам	VERB	_	_
+1	на	на	ADP	_	_
+2	на	на	ADP	_	_
+
+VID
+0	е	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	крак	крак	NOUN	_	_
+3	с	с	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обогатила	обогатя-(се)	VERB	_	_
+
+LVC.full
+0	обръща	обръщам-(се)	VERB	_	_
+1	внимание	внимание	NOUN	0	nsubj:pass
+
+VID
+0	взима	взимам	VERB	_	_
+1	връх	връх	NOUN	0	obj
+
+VID
+0	има	имам	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+VID
+0	заеме	заема-(се)	VERB	_	_
+1	място	място	NOUN	0	obj
+
+LVC.full
+0	нямам	нямам	VERB	_	_
+1	желание	желание	NOUN	0	obj
+
+LVC.full
+0	повдигнато	повдигна-(се)	VERB	_	_
+1	обвинение	обвинение	NOUN	0	nsubj:pass
+
+VID
+0	заемат	заемам-(се)	VERB	_	_
+1	постове	пост	NOUN	0	obj
+
+LVC.full
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	успех	успех	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	ползва	ползвам-(се)	VERB	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	гледа	гледам	VERB	_	_
+2	като	като	ADP	_	_
+3	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	готвеше	готвя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	трупаха	трупам-(се)	VERB	_	_
+
+VID
+0	изпълним	изпълня-(се)	VERB	_	_
+1	дълга	дълъг	NOUN	0	obj
+2	си	свой	PRON	1	det
+
+IRV
+0	се	се	PRON	1	expl
+1	повтори	повторя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	погрижа	погрижа-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	свързал	свържа	VERB	_	_
+
+LVC.full
+0	сключи	сключа	VERB	_	_
+1	сделка	сделка	NOUN	0	obj
+
+VID
+0	откри	открия-(се)	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	позовават	позовавам-(се)	VERB	_	_
+
+VID
+0	направят	направя-(се)	VERB	_	_
+1	стъпки	стъпка	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	придвижи	придвижа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	изостри	изостря-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	положат	положа	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	редуват	редувам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	нормализира	нормализирам	VERB	_	_
+
+LVC.full
+0	имаме	имам	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+LVC.full
+0	постигнали	постигна	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+VID
+0	гледано	гледам	VERB	_	_
+1	на	на	ADP	_	_
+
+IRV
+0	Страхувам	Страхувам	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	помогне	помогна	VERB	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	увенча	увенчам	VERB	_	_
+2	с	с	ADP	3	case
+3	победа	победа	NOUN	1	obl
+
+VID
+0	си	се	PRON	1	expl
+1	уреди	уредя	VERB	_	_
+2	сметките	сметка	NOUN	1	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	бои	боя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	жертват	жертва	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	адаптират	адаптирам	VERB	_	_
+
+LVC.full
+0	има	има	VERB	_	_
+1	намерение	намерение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	заселят	заселя-(се)	VERB	_	_
+
+LVC.cause
+0	предостави	предоставя	VERB	_	_
+1	възможност	възможност	NOUN	0	nsubj:pass
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	капацитет	капацитет	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	завърнал	завърна-(се)	VERB	_	_
+
+LVC.full
+0	имал	има	VERB	_	_
+1	заболяване	заболяване	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	възвърнал	възвърна-(се)	VERB	_	_
+
+LVC.cause
+0	подложена	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	процедури	процедура	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	натъкна	натъкна-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	посещение	посещение	NOUN	0	obj
+
+VID
+0	от	от	ADP	2	case
+1	задънената	задънеен	ADJ	2	amod
+2	улица	улица	NOUN	_	_
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	тласък	тласък	NOUN	0	obj
+
+LVC.full
+0	изразил	изразя-(се)	VERB	_	_
+1	учудване	учудване	NOUN	0	obj
+
+LVC.full
+0	срещата	среща	NOUN	_	_
+1	проведена	проведя	ADJ	0	amod
+
+LVC.full
+0	провели	проведа	VERB	_	_
+1	разговори	разговор	NOUN	0	obj
+
+LVC.full
+0	предупреждението	предупреждение	NOUN	_	_
+1	отправено	отправено	ADV	_	_
+
+LVC.full
+0	издигнаха	издигна-(се)	VERB	_	_
+1	искания	искане	NOUN	0	obj
+
+LVC.cause
+0	предизвика	предизвикам	VERB	_	_
+1	сблъсъци	сблъсък	NOUN	0	obj
+
+LVC.full
+0	постигнат	постигна	ADJ	1	amod
+1	баланс	баланс	NOUN	_	_
+
+LVC.cause
+0	възбуден	възбудя-(се)	VERB	_	_
+1	съдебен	съдебен	ADJ	2	amod
+2	процес	процес	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	изправи	изправя-(се)	VERB	_	_
+2	пред	пред	ADP	3	case
+3	съда	съд	NOUN	1	iobj
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	публично	публичен	ADJ	2	amod
+2	достояние	достояние	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	отправиха	отправя-(се)	VERB	_	_
+
+VID
+0	дават	давам-(се)	VERB	_	_
+1	ход	ход	NOUN	0	obj
+
+LVC.full
+0	оказва	оказвам-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	одобрение	одобрение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	превръщат	превръщам-(се)	VERB	_	_
+
+LVC.full
+0	осъществява	осъществявам-(се)	VERB	_	_
+1	баланс	баланс	NOUN	0	obj
+
+LVC.full
+0	подкрепа	подкрепа	NOUN	_	_
+1	оказана	окажа-(се)	ADJ	0	amod
+
+VID
+0	постави	поставя-(се)	VERB	_	_
+1	ударение	ударение	NOUN	0	obj
+
+VID
+0	бъде	бъда	AUX	2	aux
+1	добре	добре	ADV	2	advmod
+2	дошла	дойда	VERB	_	_
+
+LVC.full
+0	има	има	VERB	_	_
+1	прогрес	прогрес	NOUN	0	obj
+
+VID
+0	налице	налице	ADV	_	_
+1	са	съм	AUX	_	_
+
+VID
+0	върнати	върна-(се)	VERB	_	_
+1	за	за	ADP	2	case
+2	преразглеждане	преразглеждане	NOUN	0	iobj
+
+VID
+0	подложена	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	натиск	натиск	NOUN	0	iobj
+
+LVC.full
+0	провела	проведа	VERB	_	_
+1	дискусия	дискусия	NOUN	0	nsubj
+
+LVC.full
+0	изразява	изразявам-(се)	VERB	_	_
+1	оптимизъм	оптимизъм	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	увеличават	увеличавам-(се)	VERB	_	_
+
+LVC.cause
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	намаляване	намаляване	NOUN	0	iobj
+
+LVC.full
+0	почувстваха	почувствам-(се)	VERB	_	_
+1	ефект	ефект	NOUN	0	obj
+
+LVC.full
+0	Изследвания	изследване	NOUN	_	_
+1	извършени	извърша	ADJ	0	amod
+
+LVC.full
+0	провеждат	провеждам	VERB	_	_
+1	операции	операция	NOUN	0	nsubj:pass
+
+LVC.full
+0	имали	има	VERB	_	_
+1	откази	отказ	NOUN	0	obj
+
+LVC.full
+0	провеждат	провеждам	VERB	_	_
+1	конференции	конференция	NOUN	0	obj
+
+LVC.full
+0	кампании	кампания	NOUN	1	nsubj:pass
+1	осъществени	осъществя-(се)	VERB	_	_
+
+VID
+0	има	имам	VERB	_	_
+1	шанс	шанс	NOUN	0	obj
+
+VID
+0	постигнат	постигна	VERB	_	_
+1	целите	цел	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	обявява	обявявам-(се)	VERB	_	_
+
+VID
+0	положили	положа	VERB	_	_
+1	основите	основа	NOUN	0	obj
+
+LVC.full
+0	предявила	предявя	VERB	_	_
+1	обвинение	обвинение	NOUN	0	obj
+
+LVC.full
+0	извършили	извърша	VERB	_	_
+1	убийството	убийство	NOUN	0	obj
+
+LVC.full
+0	извършат	извърша	VERB	_	_
+1	убийството	убийство	NOUN	0	obj
+
+LVC.full
+0	предяви	предявя	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+LVC.full
+0	постигат	постигам	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+LVC.full
+0	постигнали	постигна	VERB	_	_
+1	съгласие	съгласие	NOUN	_	_
+
+LVC.full
+0	намери	намеря-(се)	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+LVC.full
+0	до	до	ADP	1	case
+1	заключение	заключение	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	покатерят	покатеря	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опитвали	опитвам-(се)	VERB	_	_
+
+LVC.full
+0	задавали	задавам-(се)	VERB	_	_
+1	въпроси	въпрос	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срути	срутя	VERB	_	_
+
+LVC.full
+0	изявления	изявление	NOUN	_	_
+1	направил	направя-(се)	VERB	0	acl
+
+VID
+0	прави	правя-(се)	VERB	_	_
+1	чест	чест	NOUN	0	obj
+
+VID
+0	вземат	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+LVC.full
+0	нападенията	нападение	NOUN	_	_
+1	провели	проведа	VERB	0	acl
+
+LVC.full
+0	изявление	изявление	NOUN	_	_
+1	направено	направено	VERB	_	_
+
+LVC.full
+0	направена	направя-(се)	VERB	_	_
+1	снимката	снимка	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	познават	познавам	VERB	_	_
+
+LVC.full
+0	предприема	предприемам	VERB	_	_
+1	действия	действие	NOUN	0	obj
+
+LVC.full
+0	предизвикат	предизвикам	VERB	_	_
+1	безредици	безредица	NOUN	0	obj
+
+LVC.full
+0	предизвикване	предизвикване	NOUN	_	_
+1	на	на	ADP	2	case
+2	безредици	безредица	NOUN	0	nmod
+
+LVC.full
+0	постигнато	постигна	VERB	_	_
+1	съгласие	съгласие	NOUN	0	nsubj:pass
+
+VID
+0	бъде	бъда	AUX	2	cop
+1	на	на	ADP	2	case
+2	разположение	разположение	NOUN	_	_
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	покана	покана	NOUN	0	obj
+
+LVC.full
+0	постигне	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	споразумее	споразумея-се	VERB	_	_
+
+LVC.full
+0	проведена	проведа	VERB	_	_
+1	среща	среща	NOUN	0	nsubj:pass
+
+LVC.full
+0	влезе	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	контакт	контакт	NOUN	0	iobj
+
+VID
+0	прането	пране	NOUN	_	_
+1	на	на	ADP	3	case
+2	мръсни	мръсен	ADJ	3	amod
+3	пари	пара	NOUN	0	nmod
+
+LVC.cause
+0	предоставят	предоставя	VERB	_	_
+1	права	право	NOUN	0	nsubj:pass
+
+LVC.full
+0	влезе	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	стълкновения	стълкновение	NOUN	0	iobj
+
+LVC.cause
+0	предизвикало	предизвикам	NOUN	_	_
+1	смъртта	смърт	NOUN	0	obj
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	митинг	митинг	NOUN	0	obj
+
+VID
+0	става	ставам	VERB	_	_
+1	въпрос	въпрос	NOUN	0	obj
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	оценка	оценка	NOUN	0	nsubj
+
+LVC.full
+0	прекарал	прекарам-(се)	VERB	_	_
+1	операция	операция	NOUN	0	obj
+
+LVC.full
+0	разкриващите	разкривам-(се)	ADJ	2	amod
+1	се	се	PRON	0	expl
+2	възможности	възможност	NOUN	_	_
+
+LVC.full
+0	окажат	окажа-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	протести	протест	NOUN	0	obj
+
+VID
+0	дадат	дам-(се)	VERB	_	_
+1	сигнал	сигнал	NOUN	0	obj
+
+LVC.full
+0	поеме	поема	VERB	_	_
+1	отговорности	отговорност	NOUN	0	obj
+
+LVC.cause
+0	дава	давам-(се)	VERB	_	_
+1	имунитет	имунитет	NOUN	0	obj
+
+LVC.full
+0	помощта	помощ	NOUN	_	_
+1	оказа	окажа-(се)	VERB	0	acl
+
+LVC.full
+0	предприеме	предприема	VERB	_	_
+1	разследване	разследване	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изрази	изразя-(се)	VERB	_	_
+
+LVC.full
+0	предизвика	предизвикам	VERB	_	_
+1	щети	щета	NOUN	0	obj
+
+LVC.full
+0	произнесе	произнеса-(се)	VERB	_	_
+1	реч	реч	NOUN	0	obj
+
+LVC.full
+0	провежда	провеждам	VERB	_	_
+1	среща	среща	NOUN	0	obj
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	независимост	независимост	NOUN	0	obj
+
+LVC.full
+0	доведат	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	установяването	установяване	NOUN	0	iobj
+
+VID
+0	дадат	дам-(се)	VERB	_	_
+1	тласък	тласък	NOUN	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	преглед	преглед	NOUN	0	nsubj
+
+LVC.full
+0	напредъка	напредък	NOUN	_	_
+1	постигнат	постигна	VERB	0	acl
+
+LVC.full
+0	осъществяване	осъществяване	NOUN	_	_
+1	на	на	ADP	2	case
+2	реформи	реформа	NOUN	0	nmod
+
+LVC.full
+0	прогрес	прогрес	NOUN	_	_
+1	постигнала	постигна	VERB	0	acl
+
+IRV
+0	се	се	PRON	1	expl
+1	концентрирали	концентрирам	VERB	_	_
+
+LVC.full
+0	разговорите	разговор	NOUN	_	_
+1	провел	проведа	VERB	_	_
+
+LVC.cause
+0	възбуди	възбудя-(се)	VERB	_	_
+1	подозренията	подозрение	NOUN	0	obj
+
+IRV
+0	отнасящо	отнасям-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	отваряйки	отваряйки	ADJ	1	amod
+1	път	път	NOUN	_	_
+
+LVC.full
+0	имала	има	VERB	_	_
+1	проблем	проблем	NOUN	0	obj
+
+LVC.full
+0	предизвиква	предизвиквам	VERB	_	_
+1	съпротивата	съпротива	NOUN	0	obj
+
+LVC.full
+0	доведоха	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	централизацията	централизация	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	разгоряха	разгоря-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	позоваха	позовам	VERB	_	_
+
+IRV
+0	стремяща	стремям-(се)	NOUN	_	_
+1	се	се	PRON	_	_
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	неодобрение	неодобрение	NOUN	0	obj
+
+LVC.full
+0	подложени	подложа	VERB	_	_
+1	критика	критика	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	задържи	задържа-(се)	VERB	_	_
+
+LVC.full
+0	повдигна	повдигна-(се)	VERB	_	_
+1	въпроса	въпрос	NOUN	0	obj
+
+LVC.full
+0	предприемане	предприемане	NOUN	_	_
+1	на	на	ADP	2	case
+2	реформи	реформа	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	засилват	засилвам-(се)	VERB	_	_
+
+LVC.full
+0	предизвика	предизвикам	VERB	_	_
+1	промени	промяна	NOUN	0	obj
+
+LVC.cause
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	безработица	безработица	NOUN	0	iobj
+
+VID
+0	възкръсна	възкръсна	VERB	_	_
+1	от	от	ADP	2	case
+2	пепелта	пепел	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	разоръжи	разоръжа	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	солидаризира	солидаризирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	осъществяват	осъществявам-(се)	VERB	_	_
+
+IRV
+0	си	се	PRON	1	expl
+1	сътрудничат	сътруднича	VERB	_	_
+
+VID
+0	е	съм	AUX	2	cop
+1	извън	извън	ADP	2	case
+2	съмнение	съмнение	NOUN	_	_
+
+VID
+0	стъпки	стъпка	NOUN	_	_
+1	предприети	предприема	VERB	0	acl
+
+LVC.full
+0	усилия	усилие	NOUN	_	_
+1	положат	положа	VERB	_	_
+
+LVC.full
+0	получиха	получа	VERB	_	_
+1	подкрепа	подкрепа	NOUN	_	_
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	учения	учение	NOUN	0	nsubj
+
+VID
+0	Става	става	VERB	_	_
+1	дума	дума	NOUN	0	nsubj
+
+LVC.cause
+0	осигури	осигуря	VERB	_	_
+1	членството	членство	NOUN	0	obj
+
+LVC.full
+0	изпълни	изпълня-(се)	VERB	_	_
+1	задачи	задача	NOUN	0	obj
+
+LVC.full
+0	Получихме	получа	VERB	_	_
+1	оценки	оценка	NOUN	0	obj
+
+LVC.cause
+0	придадем	придам-(се)	VERB	_	_
+1	смисъл	смисъл	NOUN	0	obj
+
+LVC.full
+0	провеждат	провеждам	VERB	_	_
+1	конференция	конференция	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	проведат	проведа	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	визита	визита	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	съболезнования	съболезноване	NOUN	0	obj
+
+VID
+0	отне	отнема	VERB	_	_
+1	живота	живот	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	срутиха	срутя-(се)	VERB	_	_
+
+VID
+0	дали	дам-(се)	VERB	_	_
+1	ход	ход	NOUN	0	obj
+
+LVC.full
+0	извършени	извърша	VERB	_	_
+1	промени	промяна	NOUN	0	nsubj:pass
+
+LVC.full
+0	получили	получа	VERB	_	_
+1	указания	указание	NOUN	0	obj
+
+LVC.full
+0	подава	подавам-(се)	VERB	_	_
+1	оставка	оставка	NOUN	0	obj
+
+LVC.full
+0	подслушвания	подслушване	NOUN	_	_
+1	осъществени	осъществя-(се)	VERB	0	acl
+
+IRV
+0	се	се	PRON	1	expl
+1	задълбочи	задълбоча-(се)	VERB	_	_
+
+LVC.full
+0	осъществяват	осъществявам-(се)	VERB	_	_
+1	контрол	контрол	NOUN	0	obj
+
+LVC.cause
+0	разрушения	разрушение	NOUN	_	_
+1	предизвикани	предизвикам	ADJ	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	сгромолясаха	сгромолясам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	превърнала	превърна-(се)	VERB	_	_
+
+LVC.cause
+0	довело	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	жертви	жертва	NOUN	0	iobj
+
+LVC.full
+0	издадена	издам-(се)	VERB	_	_
+1	заповед	заповед	NOUN	0	nsubj:pass
+
+VID
+0	отнеха	отнема	VERB	_	_
+1	живота	живот	NOUN	0	obj
+
+LVC.full
+0	Направени	направя-(се)	VERB	_	_
+1	оценки	оценка	NOUN	0	nsubj:pass
+
+LVC.full
+0	направени	направя-(се)	VERB	_	_
+1	промени	промяна	NOUN	0	nsubj:pass
+
+LVC.full
+0	правим	правя-(се)	VERB	_	_
+1	предложения	предложение	NOUN	0	obj
+
+LVC.cause
+0	дава	давам-(се)	VERB	_	_
+1	право	право	NOUN	0	obj
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	право	право	NOUN	0	obj
+
+LVC.cause
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	екстрадиция	екстрадиция	NOUN	0	iobj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	грешка	грешка	NOUN	0	obj
+
+LVC.full
+0	постигна	постигна	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+LVC.full
+0	постигнал	постигна	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+LVC.full
+0	напредъка	напредък	NOUN	_	_
+1	постигнат	постигна	ADJ	0	amod
+2	се	се	PRON	3	expl
+3	проведе	проведа	VERB	_	_
+
+LVC.cause
+0	предоставянето	предоставяне	NOUN	_	_
+1	на	на	ADP	2	case
+2	финансиране	финансиране	NOUN	0	nmod
+
+LVC.full
+0	провеждат	провеждам	VERB	_	_
+1	реформи	реформа	NOUN	0	obj
+
+LVC.full
+0	провеждане	провеждане	NOUN	_	_
+1	на	на	ADP	2	case
+2	политиката	политика	NOUN	0	nmod
+
+LVC.cause
+0	предизвика	предизвикам	VERB	_	_
+1	спорове	спор	NOUN	0	obj
+
+LVC.full
+0	подлагани	подлагам	VERB	_	_
+1	на	на	ADP	2	case
+2	мъчения	мъчение	NOUN	0	iobj
+
+LVC.full
+0	наложена	наложа-(се)	VERB	_	_
+1	забрана	забрана	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	подобрила	подобря-(се)	VERB	_	_
+
+VID
+0	имаше	имам	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+VID
+0	предприетите	предприема	ADJ	1	amod
+1	мерки	мярка	NOUN	_	_
+
+LVC.cause
+0	създадоха	създам	VERB	_	_
+1	атмосфера	атмосфера	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	готовността	готовност	NOUN	0	obj
+
+VID
+0	държи	държа-(се)	VERB	_	_
+1	вратите	врата	NOUN	0	obj
+2	си	свой	PRON	1	det
+3	отворени	отворя	VERB	0	conj
+
+LVC.cause
+0	предизвикали	предизвикам	VERB	_	_
+1	закъснения	закъснение	NOUN	0	obj
+
+LVC.full
+0	арест	арест	NOUN	1	nsubj
+1	проведе	проведа	VERB	_	_
+
+LVC.full
+0	оказал	окажа-(се)	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+LVC.full
+0	наложи	наложа-(се)	VERB	_	_
+1	санкции	санкция	NOUN	0	obj
+
+LVC.full
+0	помощта	помощ	NOUN	_	_
+1	оказвана	оказвам-(се)	ADJ	0	amod
+
+LVC.cause
+0	създаде	създам	VERB	_	_
+1	проблеми	проблем	NOUN	0	obj
+
+VID
+0	оставили	оставя-(се)	VERB	_	_
+1	зад	зад	ADP	2	case
+2	гърба	гръб	NOUN	0	obl
+3	си	свой	PRON	2	det
+
+IRV
+0	стремейки	стремейки	NOUN	_	_
+1	се	се	PRON	_	_
+
+LVC.full
+0	намерят	намеря-(се)	VERB	_	_
+1	решения	решение	NOUN	0	obj
+
+VID
+0	поставил	поставя-(се)	VERB	_	_
+1	въпроса	въпрос	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	базира	базирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	основават	основавам	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	желанието	желание	NOUN	_	_
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	референдум	референдум	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	укрива	укривам-(се)	VERB	_	_
+
+LVC.full
+0	оказа	окажа-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.cause
+0	отваря	отварям-(се)	VERB	_	_
+1	шансове	шанс	NOUN	0	obj
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+LVC.full
+0	оказваме	оказвам-(се)	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+VID
+0	изкара	изкарам	VERB	_	_
+1	на	на	ADP	2	case
+2	повърхността	повърхност	NOUN	0	iobj
+
+VID
+0	стигне	стигна	VERB	_	_
+1	до	до	ADP	2	case
+2	корена	корен	NOUN	0	iobj
+
+LVC.full
+0	отдава	отдавам-(се)	VERB	_	_
+1	почит	почит	NOUN	0	obj
+
+VID
+0	гледаме	гледам	VERB	_	_
+1	в	в	ADP	2	case
+2	очите	око	NOUN	0	obl
+
+LVC.full
+0	избор	избор	NOUN	_	_
+1	направен	направя-(се)	ADJ	0	amod
+
+IRV
+0	Оказа	окажа-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	нанесла	нанеса-(се)	VERB	_	_
+1	удар	удар	NOUN	0	obj
+
+LVC.cause
+0	създаването	създаване	NOUN	_	_
+1	на	на	ADP	2	case
+2	атмосфера	атмосфера	NOUN	0	nmod
+
+VID
+0	държи	държа-(се)	VERB	_	_
+1	отговорни	отговорен	ADJ	0	nsubj
+
+LVC.cause
+0	създаването	създаване	NOUN	_	_
+1	на	на	ADP	2	case
+2	предпоставки	предпоставка	NOUN	0	nmod
+
+LVC.full
+0	има	има	VERB	_	_
+1	последици	последица	NOUN	0	obj
+
+VID
+0	наяве	наяве	NOUN	1	nsubj
+1	излезе	изляза	VERB	_	_
+
+LVC.full
+0	изразяват	изразявам-(се)	VERB	_	_
+1	загриженост	загриженост	NOUN	0	obj
+
+LVC.full
+0	подлагат	подлагам	VERB	_	_
+1	на	на	ADP	2	case
+2	критика	критика	NOUN	_	_
+
+VID
+0	хвърлен	хвърля-(се)	VERB	_	_
+1	в	в	ADP	2	case
+2	затвора	затвор	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	сблъсква	сблъсквам-(се)	VERB	_	_
+
+VID
+0	доведени	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	край	край	NOUN	0	obl
+
+LVC.full
+0	дадат	дам-(се)	VERB	_	_
+1	награда	награда	NOUN	0	obj
+
+LVC.cause
+0	довела	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	арестуването	арестуване	NOUN	0	iobj
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	разследване	разследване	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	появило	поява	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	становище	становище	NOUN	0	obj
+
+LVC.full
+0	получат	получа	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+LVC.full
+0	дадат	дам-(се)	VERB	_	_
+1	старт	старт	NOUN	0	obj
+
+LVC.full
+0	извърши	извърша	VERB	_	_
+1	промяна	промяна	NOUN	0	obj
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+LVC.full
+0	Прави	правя-(се)	VERB	_	_
+1	обобщение	обобщение	VERB	0	conj
+
+VID
+0	получили	получа	VERB	_	_
+1	присъди	присъда	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	проточило	проточа	VERB	_	_
+
+VID
+0	повдига	повдига	VERB	_	_
+1	въпроса	въпросам-(се)	NOUN	0	obj
+
+LVC.full
+0	оказва	оказвам-(се)	VERB	_	_
+1	влияние	влияние	NOUN	0	obj
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	старт	старт	NOUN	0	obj
+
+VID
+0	бяха	съм	AUX	1	aux
+1	рай	рая	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	пребори	преборя-(се)	VERB	_	_
+
+VID
+0	дойде	дойда	VERB	_	_
+1	на	на	ADP	2	case
+2	власт	власт	NOUN	0	iobj
+
+VID
+0	предизвика	предизвикам	VERB	_	_
+1	реакция	реакция	NOUN	0	obj
+
+LVC.full
+0	изразява	изразявам-(се)	VERB	_	_
+1	мнение	мнение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	оказали	окажа-(се)	VERB	_	_
+
+LVC.full
+0	няма	нямам	VERB	_	_
+1	има	има	VERB	0	ccomp
+2	друг	друг	ADJ	3	amod
+3	избор	избор	NOUN	1	obj
+
+VID
+0	бъде	бъда	AUX	2	cop
+1	от	от	ADP	2	case
+2	значение	значение	NOUN	_	_
+
+VID
+0	издигнат	издигна-(се)	VERB	_	_
+1	глас	глас	NOUN	0	obj
+
+VID
+0	заемат	заема-(се)	VERB	_	_
+1	позиция	позиция	NOUN	0	obj
+
+LVC.cause
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	промени	промяна	NOUN	0	iobj
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	конференция	конференция	NOUN	0	nsubj:pass
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	безпокойство	безпокойство	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изказа	изкажа-(се)	VERB	_	_
+
+LVC.cause
+0	доведе	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	преструктуриране	преструктуриране	NOUN	0	iobj
+
+VID
+0	остава	оставам	VERB	_	_
+1	на	на	ADP	_	_
+
+LVC.full
+0	оказваха	оказвам-(се)	VERB	_	_
+1	съпротива	съпротива	NOUN	0	obj
+
+IAV
+0	произтичащи	произтичам	ADJ	_	_
+1	от	от	ADP	_	_
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	основания	основание	NOUN	_	_
+
+IRV
+0	завръщащи	завръщам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	завръщащите	завръщам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	пуснати	пусна-(се)	VERB	_	_
+1	за	за	ADP	2	case
+2	продажба	продажба	NOUN	0	iobj
+
+LVC.full
+0	има	има	VERB	_	_
+1	търсене	търсене	NOUN	0	obj
+
+VID
+0	е	съм	AUX	1	cop
+1	рано	рано	ADV	4	advmod
+2	да	да	AUX	4	aux
+3	се	се	PRON	4	expl
+4	каже	кажа	VERB	_	_
+
+LVC.cause
+0	създало	създам	VERB	_	_
+1	проблеми	проблем	NOUN	0	obj
+
+VID
+0	иска	искам	VERB	_	_
+1	вот	вот	NOUN	0	obj
+2	на	на	ADP	3	case
+3	недоверие	недоверие	NOUN	1	nmod
+
+VID
+0	поиска	поискам	VERB	_	_
+1	вот	вот	NOUN	0	obj
+2	на	на	ADP	3	case
+3	недоверие	недоверие	NOUN	1	nmod
+
+LVC.full
+0	претърпи	претърпя	VERB	_	_
+1	неуспех	неуспех	NOUN	0	obj
+
+LVC.full
+0	вдигнат	вдигна-(се)	VERB	_	_
+1	блокадата	блокада	NOUN	0	obj
+
+LVC.full
+0	стане	стана	VERB	_	_
+1	член	член	NOUN	0	obj
+
+VID
+0	бъде	бъда	AUX	1	cop
+1	пречка	пречка	NOUN	_	_
+2	за	за	ADP	_	_
+
+IAV
+0	влезе	вляза	VERB	_	_
+1	в	в	ADP	_	_
+
+VID
+0	са	съм	AUX	3	cop
+1	от	от	ADP	3	case
+2	особен	особен	ADJ	3	amod
+3	интерес	интерес	NOUN	_	_
+
+LVC.full
+0	подложено	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	критики	критика	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	обърнем	обърна-(се)	VERB	_	_
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	нуждите	нужда	NOUN	0	obj
+
+VID
+0	заемаха	заемам-(се)	VERB	_	_
+1	постове	пост	NOUN	0	obj
+
+LVC.full
+0	предявени	предявя	VERB	_	_
+1	обвинения	обвинение	NOUN	0	nsubj:pass
+
+LVC.full
+0	обвинения	обвинение	NOUN	_	_
+1	повдигнати	повдигна-(се)	ADJ	0	amod
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	вина	вина	NOUN	0	obj
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	атака	атака	NOUN	0	obj
+
+VID
+0	струпани	струпам-(се)	VERB	_	_
+1	накуп	накуп	ADV	0	advmod
+
+VID
+0	не	не	PART	1	advmod
+1	очаква	очаквам	VERB	_	_
+2	друго	друг	ADJ	_	_
+3	освен	освен	ADP	_	_
+
+VID
+0	играел	играя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	среща	среща	NOUN	0	obj
+
+VID
+0	изпратим	изпратя	VERB	_	_
+1	сигнал	сигнал	NOUN	0	obj
+
+VID
+0	е	съм	AUX	_	_
+1	на	на	ADP	3	case
+2	прав	прав	ADJ	3	amod
+3	път	път	NOUN	_	_
+
+LVC.full
+0	взимане	взимане	NOUN	_	_
+1	на	на	ADP	2	case
+2	решения	решение	NOUN	0	nmod
+
+LVC.full
+0	има	има	VERB	_	_
+1	нужда	нужда	NOUN	0	obj
+
+LVC.full
+0	оказват	оказвам-(се)	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+LVC.full
+0	услуга	услуга	NOUN	1	nsubj:pass
+1	оказвана	оказвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обърнали	обърна-(се)	VERB	_	_
+
+VID
+0	водила	водя	VERB	_	_
+1	справедлива	справедливам	ADJ	_	_
+
+LVC.full
+0	ангажимент	ангажимент	NOUN	_	_
+1	поеме	поема	VERB	_	_
+
+LVC.cause
+0	дадат	дам-(се)	VERB	_	_
+1	достъп	достъп	NOUN	0	nsubj
+
+VID
+0	открил	открия-(се)	VERB	_	_
+1	огън	огън	NOUN	0	obj
+
+LVC.full
+0	постигнатия	постигна	ADJ	1	amod
+1	напредък	напредък	NOUN	_	_
+
+VID
+0	отваря	отварям-(се)	VERB	_	_
+1	вратите	врата	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	споразумяват	споразумявам	VERB	_	_
+
+LVC.cause
+0	проведе	проведа	VERB	_	_
+1	реформи	реформа	NOUN	0	obj
+
+VID
+0	няма	нямам	VERB	_	_
+1	смисъл	смисъл	NOUN	0	obj
+
+VID
+0	мине	мина-(се)	VERB	_	_
+1	в	в	ADP	2	case
+2	опозиция	опозиция	NOUN	0	iobj
+
+VID
+0	остави	оставя-(се)	VERB	_	_
+1	белег	белег	NOUN	0	obj
+
+LVC.full
+0	дадем	дам-(се)	VERB	_	_
+1	пример	пример	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	полза	полза	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	откъснаха	откъсна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	установят	установя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	дипломират	дипломирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	родила	родя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обадила	обадя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	дипломирала	дипломиера-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	върнала	върна-(се)	VERB	_	_
+
+VID
+0	намерила	намеря-(се)	VERB	_	_
+1	себе	себе	PRON	0	obj
+2	си	си	PART	1	fixed
+
+IRV
+0	се	се	PRON	1	expl
+1	правила	правя-(се)	NOUN	_	_
+
+VID
+0	е	съм	AUX	1	cop
+1	нищо	никой	PRON	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	върна	върна-(се)	VERB	_	_
+
+IAV
+0	отстъпили	отстъпя	VERB	_	_
+1	пред	пред	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	надявам	надявам-(се)	VERB	_	_
+
+IAV
+0	гледа	глед	VERB	_	_
+1	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	завърнала	завърна-(се)	VERB	_	_
+
+VID
+0	попаднала	попадна	VERB	_	_
+1	под	под	ADP	2	case
+2	крилото	крило	NOUN	0	iobj
+
+VID
+0	си	свой	PRON	_	_
+1	работа	работа	NOUN	_	_
+
+IRV
+0	си	се	PRON	1	expl
+1	представях	представям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	отдава	отдавам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	изтеглят	изтеглям-(се)	VERB	_	_
+
+VID
+0	предприеха	предприема	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+VID
+0	мерки	мярка	NOUN	1	nsubj:pass
+1	взети	взема	VERB	_	_
+
+VID
+0	са	съм	AUX	1	cop
+1	налице	налице	ADV	_	_
+
+LVC.full
+0	надежди	надежда	NOUN	1	nsubj
+1	възлагат	възлагам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	готвят	готвя	VERB	_	_
+
+VID
+0	стъпки	стъпка	NOUN	_	_
+1	направени	направя-(се)	ADJ	_	_
+
+LVC.full
+0	са	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	състояние	състояние	NOUN	_	_
+
+IRV
+0	Нуждаем	Нуждаем	ADJ	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	дали	дали	PART	1	discourse
+1	отговор	отговор	NOUN	_	_
+
+VID
+0	стане	стане	VERB	_	_
+1	ясно	ясно	ADV	0	obj
+
+VID
+0	заеме	заем	VERB	_	_
+1	позиция	позиция	NOUN	0	obj
+
+VID
+0	мерките	мярка	NOUN	_	_
+1	предприеме	предприема	VERB	_	_
+
+VID
+0	роля	роля	NOUN	_	_
+1	играло	игра	VERB	0	acl
+
+VID
+0	водене	водене	NOUN	_	_
+1	на	на	ADP	2	case
+2	война	война	NOUN	0	nmod
+
+VID
+0	няма	нямам	VERB	_	_
+1	нищо	никой	PRON	0	obj
+2	общо	общо	ADV	_	_
+
+LVC.full
+0	извършат	извърша	VERB	_	_
+1	престъпления	престъпление	NOUN	0	obj
+
+LVC.full
+0	имат	има	VERB	_	_
+1	юрисдикция	юрисдикция	NOUN	0	obj
+
+LVC.full
+0	извършили	извърша	VERB	_	_
+1	престъпления	престъпление	NOUN	0	obj
+
+VID
+0	внесено	внеса	VERB	_	_
+1	за	за	ADP	2	case
+2	гласуване	гласуване	NOUN	0	obl
+
+VID
+0	войната	война	NOUN	1	nsubj
+1	води	водя	VERB	_	_
+
+VID
+0	става	става	VERB	_	_
+1	дума	дума	NOUN	0	obj
+
+IRV
+0	Касае	Касая	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	отнемайки	отнемайки	ADV	_	_
+1	живота	живот	NOUN	_	_
+
+LVC.full
+0	бъдат	бъда	AUX	2	cop
+1	в	в	ADP	2	case
+2	състояние	състояние	NOUN	_	_
+
+VID
+0	отнемат	отнема	VERB	_	_
+1	козовете	коз	NOUN	0	obj
+2	от	от	ADP	3	case
+3	ръцете	ръка	NOUN	1	nmod
+
+VID
+0	се	се	PRON	1	expl
+1	вдигнат	вдигна-(се)	VERB	_	_
+2	на	на	ADP	3	case
+3	въстание	въстание	NOUN	1	iobj
+
+LVC.full
+0	извършиха	извърша	VERB	_	_
+1	нападения	нападение	NOUN	0	obj
+
+VID
+0	въведено	въведя	VERB	_	_
+1	военно	военен	ADJ	2	amod
+2	положение	положение	NOUN	0	nsubj:pass
+
+VID
+0	сложат	сложа-(се)	VERB	_	_
+1	оръжие	оръжие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	усложниха	усложня-(се)	VERB	_	_
+
+VID
+0	излязат	изляза	VERB	_	_
+1	на	на	ADP	2	case
+2	светло	светло	ADV	0	advmod
+
+IRV
+0	се	се	PRON	1	expl
+1	реинтегрират	реинтегрирам	VERB	_	_
+
+LVC.cause
+0	предизвиква	предизвиквам	VERB	_	_
+1	тревога	тревога	NOUN	0	obj
+
+LVC.full
+0	поеме	поема	VERB	_	_
+1	контрола	контрола	NOUN	0	obj
+
+VID
+0	отнеме	отнема	VERB	_	_
+1	козовете	коз	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	надява	надявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съмнявам	съмнявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	срещнала	срещна-(се)	VERB	_	_
+
+VID
+0	Няма	нямам	VERB	_	_
+1	съмнение	съмнение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съдържа	съдържам-(се)	VERB	_	_
+
+LVC.full
+0	правил	правя-(се)	VERB	_	_
+1	изявления	изявление	NOUN	0	obj
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	време	време	NOUN	0	nsubj:pass
+2	за	за	ADP	_	_
+
+VID
+0	намира	намирам-(се)	VERB	_	_
+1	убежище	убежище	NOUN	0	obj
+
+LVC.full
+0	върши	върша	VERB	_	_
+1	работа	работа	NOUN	0	obj
+
+VID
+0	има	има	VERB	_	_
+1	време	време	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	материализират	материализирам	VERB	_	_
+
+IRV
+0	си	се	PRON	1	expl
+1	позволи	позволя-(си)	VERB	_	_
+
+VID
+0	внесе	внеса	VERB	_	_
+1	вот	вот	NOUN	0	obj
+2	на	на	ADP	3	case
+3	недоверие	недоверие	NOUN	1	nmod
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	уверения	уверя-(се)	ADJ	_	_
+
+LVC.full
+0	осъществи	осъществя-(се)	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+VID
+0	са	съм	AUX	3	cop
+1	в	в	ADP	3	case
+2	добро	добър	ADJ	3	amod
+3	здраве	здраве	NOUN	_	_
+
+LVC.full
+0	оказаха	окажа-(се)	VERB	_	_
+1	съдействие	съдействие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	установили	установя-(се)	VERB	_	_
+
+VID
+0	отправят	отправя-(се)	VERB	_	_
+1	послание	послание	NOUN	0	obj
+
+VID
+0	поеме	поема	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+VID
+0	предприети	предприема	VERB	_	_
+1	стъпки	стъпка	NOUN	0	nsubj:pass
+
+VID
+0	затваряне	затваряне	NOUN	_	_
+1	на	на	ADP	2	case
+2	главите	глава	NOUN	0	nmod
+3	от	от	ADP	_	_
+
+VID
+0	доведат	доведа	VERB	_	_
+1	до	до	ADP	2	case
+2	резултати	резултат	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	самовзриви	самовзривя-(се)	VERB	_	_
+
+LVC.full
+0	проведат	проведа	VERB	_	_
+1	среща	среща	NOUN	0	obj
+
+VID
+0	вратата	врата	NOUN	1	nsubj:pass
+1	отворена	отворен	VERB	_	_
+
+VID
+0	вратата	врата	NOUN	1	nsubj
+1	отворена	отворя-(се)	ADJ	_	_
+
+VID
+0	направим	направя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADJ	0	obj
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+VID
+0	използване	използване	NOUN	_	_
+1	на	на	ADP	2	case
+2	сила	сила	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	разразиха	разразя-се	VERB	_	_
+
+VID
+0	поставен	поставя-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	въпрос	въпрос	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	сблъскал	сблъскам-(се)	VERB	_	_
+
+LVC.full
+0	значение	значение	NOUN	1	nsubj
+1	има	имам	VERB	_	_
+
+LVC.full
+0	решени	реша	VERB	_	_
+1	проблемите	проблем	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	оплаква	оплаквам-(се)	VERB	_	_
+
+LVC.full
+0	заплахите	заплаха	NOUN	_	_
+1	отправяни	отправям	ADJ	0	conj
+
+VID
+0	отделят	отделям-(се)	VERB	_	_
+1	внимание	внимание	NOUN	0	obj
+
+LVC.full
+0	държи	държа-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	контрол	контрол	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	класира	класирам	VERB	_	_
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	основание	основание	NOUN	0	obj
+
+VID
+0	усвояване	усвояване	NOUN	_	_
+1	на	на	ADP	2	case
+2	средства	средство	NOUN	0	nmod
+
+IRV
+0	присъединяващи	присъединявам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	има	имам	VERB	_	_
+1	значение	значение	NOUN	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	разлика	разлика	NOUN	0	nsubj:pass
+
+VID
+0	усвоява	усвоявам	VERB	_	_
+1	средствата	средство	NOUN	0	obj
+
+IRV
+0	присъединяващите	присъединявам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	конкурират	конкурирам	VERB	_	_
+
+VID
+0	следват	следвам	VERB	_	_
+1	логиката	логика	NOUN	0	obj
+
+VID
+0	всичко	всеки	PRON	2	nsubj
+1	е	съм	AUX	2	cop
+2	наред	наред	ADV	_	_
+
+LVC.full
+0	има	имам	VERB	_	_
+1	опит	опит	NOUN	0	obj
+
+VID
+0	стъпки	стъпка	NOUN	1	nsubj:pass
+1	предприети	предприема	VERB	_	_
+
+VID
+0	е	съм	AUX	1	aux
+1	дошло	дойда	VERB	_	_
+2	времето	време	NOUN	1	obj
+
+VID
+0	кръв	кръв	NOUN	_	_
+1	пролята	проля	NOUN	0	nsubj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	преход	преход	NOUN	0	nsubj:pass
+
+LVC.full
+0	напредъка	напредък	INTJ	_	_
+1	постигнат	постигна	ADJ	0	amod
+
+VID
+0	има	имам	VERB	_	_
+1	бъдеще	бъдеще	NOUN	0	obj
+
+VID
+0	подложена	подложена	ADJ	_	_
+1	на	на	ADP	2	case
+2	риск	риск	NOUN	0	obl
+
+VID
+0	изградят	изградя	VERB	_	_
+1	мостове	мост	NOUN	0	nsubj:pass
+
+LVC.full
+0	оказва	оказвам-(се)	VERB	_	_
+1	натиск	натиск	NOUN	0	obj
+
+VID
+0	е	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	ръцете	ръка	NOUN	_	_
+
+LVC.full
+0	подложени	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	атаки	атака	NOUN	0	iobj
+
+VID
+0	са	съм	AUX	1	aux:pass
+1	решени	реша	VERB	_	_
+
+VID
+0	предприемат	предприема	VERB	_	_
+1	мерки	мярка	NOUN	0	nsubj:pass
+
+VID
+0	търсят	търся	VERB	_	_
+1	работа	работа	NOUN	0	obj
+
+VID
+0	наемане	наемане	NOUN	_	_
+1	на	на	ADP	2	case
+2	работа	работа	NOUN	0	nmod
+
+VID
+0	Търсещите	Търсем	ADJ	1	amod
+1	работа	работа	NOUN	_	_
+
+LVC.full
+0	установява	установявам-(се)	VERB	_	_
+1	контакт	контакт	NOUN	0	obj
+
+VID
+0	търсещите	търся	ADJ	1	amod
+1	работа	работа	NOUN	_	_
+
+VID
+0	намерил	намеря-(се)	VERB	_	_
+1	работа	работа	NOUN	0	obj
+
+VID
+0	намира	намирам-(се)	VERB	_	_
+1	работа	работа	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съсредоточава	съсредоточавам	VERB	_	_
+
+VID
+0	намерят	намеря-(се)	VERB	_	_
+1	работа	работа	NOUN	0	obj
+
+IRV
+0	срещаме	срещам-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	се	се	PRON	1	expl
+1	иска	искам	VERB	_	_
+
+IRV
+0	завръщащ	завръщам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	В	в	ADP	1	case
+1	ход	ход	NOUN	_	_
+2	е	съм	AUX	1	cop
+
+LVC.cause
+0	предизвикват	предизвиквам	VERB	_	_
+1	безпокойство	безпокойство	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	завръщал	завръщам-(се)	VERB	_	_
+
+VID
+0	създава	създавам	VERB	_	_
+1	главоболия	главоболие	NOUN	0	obj
+
+VID
+0	мерки	мярка	NOUN	_	_
+1	предприемат	предприема	VERB	_	_
+
+LVC.full
+0	оказва	оказвам-(се)	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+LVC.full
+0	провежда	провеждам	VERB	_	_
+1	заседание	заседание	NOUN	0	obj
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	заседание	заседание	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	безпокойството	безпокойство	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	виждане	виждане	NOUN	0	obj
+
+VID
+0	вземе	взема	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	изказване	изказване	NOUN	0	obj
+
+VID
+0	прокараха	прокарам	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	налага	налагам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	славят	славя-(се)	VERB	_	_
+
+LVC.cause
+0	Поставяйки	Поставяйки	ADJ	1	amod
+1	край	край	NOUN	_	_
+
+LVC.full
+0	излиза	излизам	VERB	_	_
+1	в	в	ADP	2	case
+2	пенсия	пенсия	NOUN	0	obl
+
+LVC.full
+0	носи	нося-(се)	VERB	_	_
+1	отговорности	отговорност	NOUN	0	obj
+
+VID
+0	е	съм	AUX	3	cop
+1	на	на	ADP	3	case
+2	дневен	дневен	ADJ	3	amod
+3	ред	ред	NOUN	_	_
+
+LVC.full
+0	подложен	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	критики	критика	NOUN	0	iobj
+
+VID
+0	поставя	поставям-(се)	VERB	_	_
+1	основата	основа	NOUN	0	obj
+
+VID
+0	постави	поставя-(се)	VERB	_	_
+1	основата	основа	NOUN	0	obj
+
+VID
+0	прокара	прокарам-(се)	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+IRV
+0	Обръщайки	Обръщайки	ADV	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	изразяването	изразяване	NOUN	_	_
+1	на	на	ADP	2	case
+2	подкрепа	подкрепа	NOUN	0	nmod
+
+LVC.cause
+0	дадена	дам	VERB	_	_
+1	независимост	независимост	NOUN	0	nsubj:pass
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	мнението	мнение	NOUN	0	obj
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	гаранции	гаранция	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обявиха	обявя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	събра	събера-(се)	VERB	_	_
+
+VID
+0	гледащи	гледам	ADJ	1	amod
+1	делата	дело	NOUN	_	_
+
+LVC.full
+0	проведат	проведа	VERB	_	_
+1	процеси	процес	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обявят	обявя-(се)	VERB	_	_
+
+IAV
+0	отговаряше	отговарям	VERB	_	_
+1	за	за	ADP	_	_
+
+LVC.full
+0	подложено	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	критики	критика	NOUN	0	iobj
+
+VID
+0	встъпването	встъпване	NOUN	_	_
+1	в	в	ADP	2	case
+2	длъжност	длъжност	NOUN	0	nmod
+
+IAV
+0	пред	пред	ADP	_	_
+1	изправено	изправя-(се)	VERB	_	_
+
+VID
+0	внесе	внеса	VERB	_	_
+1	вот	вот	NOUN	0	obj
+
+IRV
+0	въздържали	въздържам-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	отцепила	отцепила	VERB	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	покана	покана	NOUN	0	obj
+
+LVC.full
+0	получили	получа	VERB	_	_
+1	образование	образование	NOUN	0	obj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	преглед	преглед	NOUN	0	nsubj:pass
+
+LVC.full
+0	проявявана	проявявам-(се)	VERB	_	_
+1	непримиримост	непримиримост	NOUN	0	nsubj:pass
+
+IAV
+0	отговаря	отговарям	VERB	_	_
+1	за	за	ADP	_	_
+
+LVC.full
+0	повдигнати	повдигна-(се)	ADJ	1	amod
+1	обвинения	обвинение	NOUN	_	_
+
+IAV
+0	зависи	завися	VERB	_	_
+1	от	от	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оплака	оплача-(се)	VERB	_	_
+
+LVC.full
+0	излязоха	изляза	VERB	_	_
+1	със	със	ADP	2	case
+2	изявление	изявление	NOUN	0	obl
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	отправило	отправя-(се)	VERB	_	_
+1	заплахи	заплаха	NOUN	0	obj
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	образование	образование	NOUN	0	nsubj:pass
+
+LVC.cause
+0	осигурят	осигуря	VERB	_	_
+1	независимост	независимост	NOUN	0	obj
+
+LVC.cause
+0	предоставило	предоставя	VERB	_	_
+1	възможността	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	подобрят	подобря-(се)	VERB	_	_
+
+IRV
+0	Надявахме	Надявам	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	Регистрирал	Регистрирам	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	умреш	умра	VERB	_	_
+1	от	от	ADP	2	case
+2	глад	глад	NOUN	0	obl
+
+LVC.full
+0	Имам	имам	VERB	_	_
+1	намерение	намерение	NOUN	0	obj
+
+LVC.full
+0	провела	проведа	VERB	_	_
+1	издирване	издирване	NOUN	0	obj
+
+LVC.full
+0	провели	проведа	VERB	_	_
+1	разкопки	разкопка	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	задачата	задача	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обърнало	обърна-(се)	VERB	_	_
+
+LVC.full
+0	провели	проведа	VERB	_	_
+1	среща	среща	NOUN	0	obj
+
+VID
+0	изпрати	изпратя	VERB	_	_
+1	послание	послание	NOUN	0	obj
+
+LVC.cause
+0	предложат	предложа	VERB	_	_
+1	надежда	надежда	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	събрали	събера-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	посветят	посветя-(се)	VERB	_	_
+
+LVC.full
+0	намерили	намеря-(се)	VERB	_	_
+1	подслон	подслон	NOUN	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	преглед	преглед	NOUN	0	obj
+
+LVC.full
+0	до	до	ADP	1	case
+1	заключението	заключение	NOUN	_	_
+
+LVC.full
+0	осигуряването	осигуряване	NOUN	_	_
+1	на	на	ADP	2	case
+2	подготовка	подготовка	NOUN	0	nmod
+
+LVC.full
+0	Разговорите	разговор	NOUN	1	nsubj:pass
+1	проведени	проведа	VERB	_	_
+
+LVC.full
+0	поемат	поема	VERB	_	_
+1	ангажимент	ангажимент	NOUN	0	obj
+
+LVC.full
+0	проведат	проведат	VERB	_	_
+1	разследвания	разследвание	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	право	право	NOUN	0	obj
+
+LVC.full
+0	намирането	намиране	NOUN	_	_
+1	решение	решение	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	представяли	представям-(се)	VERB	_	_
+
+LVC.full
+0	Проведени	проведа	VERB	_	_
+1	проучвания	проучване	NOUN	0	nsubj:pass
+
+LVC.full
+0	отправят	отправя-(се)	VERB	_	_
+1	предизвикателства	предизвикателство	NOUN	0	obj
+
+VID
+0	поел	поема	VERB	_	_
+1	в	в	ADP	3	case
+2	свои	свой	DET	3	det
+3	ръце	ръка	NOUN	0	obl
+
+VID
+0	изпълняват	изпълнявам	VERB	_	_
+1	задачи	задача	NOUN	0	obj
+
+LVC.full
+0	налага	налагам-(се)	VERB	_	_
+1	наказания	наказание	NOUN	0	obj
+
+LVC.full
+0	готовността	готовност	NOUN	_	_
+1	изразена	изразя-(се)	ADJ	_	_
+
+VID
+0	върви	вървя	VERB	_	_
+1	по	по	ADP	2	case
+2	план	план	NOUN	0	obl
+
+VID
+0	Дойде	дойда	VERB	_	_
+1	време	време	NOUN	0	nsubj
+
+VID
+0	излязоха	изляза	VERB	_	_
+1	извън	извън	ADP	2	case
+2	контрол	контрол	NOUN	0	iobj
+
+VID
+0	храни	храня-(се)	VERB	_	_
+1	илюзии	илюзия	NOUN	0	obj
+
+LVC.cause
+0	даде	дам-(се)	VERB	_	_
+1	власт	власт	NOUN	0	obj
+
+VID
+0	крие	крия-(се)	VERB	_	_
+1	ключа	ключ	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	натъкнал	натъкна-(се)	VERB	_	_
+
+LVC.full
+0	направиха	направя-(се)	VERB	_	_
+1	преглед	преглед	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	заканил	заканя-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	базират	базирам	VERB	_	_
+
+LVC.full
+0	постигнала	постигна	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	желание	желание	NOUN	0	obj
+
+LVC.full
+0	намерят	намеря-(се)	VERB	_	_
+1	на	на	ADP	_	_
+
+LVC.full
+0	положат	положа	VERB	_	_
+1	усилия	усилие	NOUN	0	obj
+
+VID
+0	раните	рана	NOUN	_	_
+1	нанесени	нанеса-(се)	ADJ	0	amod
+
+LVC.full
+0	упражняват	упражнявам-(се)	VERB	_	_
+1	власт	власт	NOUN	0	obj
+
+LVC.full
+0	осигури	осигуря	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	приближат	приближа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	сближат	сближа-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	заключава	заключавам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	женят	женя-(се)	VERB	_	_
+
+LVC.full
+0	създават	създавам	VERB	_	_
+1	семейства	семейство	NOUN	_	_
+
+LVC.full
+0	създават	създавам	VERB	_	_
+1	семейства	семейство	NOUN	0	obj
+
+VID
+0	вържат	вържа-(се)	VERB	_	_
+1	двата	два	NUM	2	nummod
+2	края	край	NOUN	0	obj
+
+LVC.full
+0	станаха	стана	VERB	_	_
+1	причина	причина	NOUN	0	obj
+
+LVC.cause
+0	предизвикал	предизвикам	VERB	_	_
+1	катастрофата	катастрофа	NOUN	0	obj
+
+IAV
+0	отговарят	отговарям	VERB	_	_
+1	за	за	ADP	_	_
+
+LVC.full
+0	причинила	причина	VERB	_	_
+1	експлозията	експлозия	NOUN	0	obj
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	тласък	тласък	NOUN	0	nsubj:pass
+
+LVC.cause
+0	даващи	давам-(се)	ADJ	1	amod
+1	възможност	възможност	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	появиха	поява	VERB	_	_
+
+LVC.full
+0	изразяват	изразявам-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.cause
+0	предизвика	предизвикам	VERB	_	_
+1	проблеми	проблем	NOUN	0	obj
+
+LVC.full
+0	постигнем	постигна	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	насоки	насока	NOUN	0	obj
+
+IRV
+0	отрази	отразя-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	заслужават	заслужавам	VERB	_	_
+1	внимание	внимание	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	кани	каня	VERB	_	_
+
+LVC.full
+0	няма	нямам	VERB	_	_
+1	отношение	отношение	NOUN	0	obj
+
+LVC.full
+0	има	имам	VERB	_	_
+1	последици	последица	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съобрази	съобразя-(се)	VERB	_	_
+
+LVC.full
+0	минахме	мина-(се)	VERB	_	_
+1	през	през	ADP	2	case
+2	изпитания	изпитание	NOUN	0	obl
+
+VID
+0	каже	кажа	VERB	_	_
+1	последната	последен	ADJ	2	amod
+2	дума	дума	NOUN	0	obj
+
+VID
+0	няма	нямам	VERB	_	_
+1	начин	начин	NOUN	0	obj
+
+LVC.full
+0	отбелязва	отбелязвам	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	натъкнат	натъкна-(се)	VERB	_	_
+
+IAV
+0	отговарящ	отговарям	ADJ	_	_
+1	за	за	ADP	_	_
+
+LVC.full
+0	подложена	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	критика	критика	NOUN	0	iobj
+
+LVC.cause
+0	възбудил	възбудя-(се)	VERB	_	_
+1	недоверие	недоверие	NOUN	0	obj
+
+LVC.full
+0	направили	направя-(се)	VERB	_	_
+1	изявления	изявление	NOUN	0	obj
+
+LVC.full
+0	нямам	нямам	VERB	_	_
+1	правомощия	правомощие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	преселили	преселя-(се)	VERB	_	_
+
+LVC.full
+0	Имахме	имам	VERB	_	_
+1	трудности	трудност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изхранват	изхранвам-(се)	VERB	_	_
+
+LVC.cause
+0	откриват	откривам-(се)	VERB	_	_
+1	възможности	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	облагодетелстват	облагодетелствам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	дипломира	дипломирам	VERB	_	_
+
+IRV
+0	Дипломирайки	Дипломирайки	ADV	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	Преминавайки	Преминавам-(се)	ADV	_	_
+1	тестове	тест	NOUN	_	_
+
+LVC.cause
+0	предоставя	предоставям	VERB	_	_
+1	възможности	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	реорганизират	реорганизирам	VERB	_	_
+
+LVC.full
+0	получих	получа	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	образовам	образовам	VERB	_	_
+
+LVC.cause
+0	Възможността	възможност	NOUN	1	nsubj:pass
+1	предоставена	предоставя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обучава	обучавам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	надявам	надявам-се	VERB	_	_
+
+LVC.full
+0	има	има	VERB	_	_
+1	полза	полза	NOUN	_	_
+
+IRV
+0	обръщайки	обръщайки	ADV	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	изпълнява	изпълнявам	VERB	_	_
+1	ангажиментите	ангажимент	NOUN	0	obj
+
+VID
+0	излязат	изляза	VERB	_	_
+1	от	от	ADP	3	case
+2	задънената	задънеен	ADJ	3	amod
+3	улица	улица	NOUN	0	iobj
+
+LVC.full
+0	проведоха	проведа	VERB	_	_
+1	преговори	преговори	NOUN	0	obj
+
+LVC.full
+0	споразумението	споразумение	NOUN	_	_
+1	сключено	сключа	ADV	_	_
+
+LVC.full
+0	излезе	изляза	VERB	_	_
+1	с	с	ADP	2	case
+2	твърдения	твърдение	NOUN	0	obl
+
+LVC.full
+0	изпълнява	изпълнявам	VERB	_	_
+1	ангажименти	ангажимент	NOUN	0	obj
+
+LVC.full
+0	постигнат	постигна	VERB	_	_
+1	съгласие	съгласие	NOUN	0	obj
+
+LVC.full
+0	условията	условие	NOUN	_	_
+1	изпълнят	изпълня-(се)	VERB	_	_
+
+LVC.full
+0	изразява	изразявам-(се)	VERB	_	_
+1	подкрепа	подкрепа	NOUN	0	obj
+
+LVC.full
+0	Изявленията	изявление	NOUN	1	nsubj:pass
+1	направени	направя-(се)	VERB	_	_
+
+LVC.full
+0	провели	проведа	VERB	_	_
+1	акции	акция	NOUN	_	_
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	проучване	проучване	NOUN	0	obj
+
+LVC.full
+0	отправили	отправя-(се)	VERB	_	_
+1	критики	критика	NOUN	0	obj
+
+LVC.full
+0	отправя	отправям-(се)	VERB	_	_
+1	призив	призив	NOUN	0	nsubj:pass
+
+LVC.full
+0	интервю	интервю	NOUN	_	_
+1	проведено	проведен	ADJ	0	amod
+
+LVC.full
+0	изпълнява	изпълнявам	VERB	_	_
+1	дълг	дълг	NOUN	0	obj
+
+LVC.full
+0	осигуряват	осигурявам	VERB	_	_
+1	подготовка	подготовка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съсредоточили	съсредоточа-(се)	VERB	_	_
+
+LVC.full
+0	провеждане	провеждане	NOUN	_	_
+1	на	на	ADP	2	case
+2	учения	учение	NOUN	0	nmod
+
+LVC.full
+0	провеждат	провеждам	VERB	_	_
+1	учения	учение	NOUN	0	obj
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	продължение	продължение	NOUN	0	obj
+
+LVC.full
+0	се	се	PRON	1	expl
+1	изправила	изправя-(се)	VERB	_	_
+2	срещу	срещу	ADP	3	case
+3	предизвикателство	предизвикателство	NOUN	1	obl
+
+LVC.full
+0	изпълнява	изпълнявам	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	одобрение	одобрение	NOUN	0	obj
+
+LVC.full
+0	сключване	сключване	NOUN	_	_
+1	на	на	ADP	2	case
+2	споразумението	споразумение	NOUN	0	nmod
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	благодарността	благодарност	NOUN	0	obj
+
+LVC.full
+0	подкрепа	подкрепа	NOUN	_	_
+1	оказа	окажа-(се)	VERB	0	acl
+
+LVC.full
+0	оказва	оказвам-(се)	VERB	_	_
+1	сътрудничество	сътрудничество	NOUN	0	obj
+
+VID
+0	разчиствайки	разчиствайки	ADJ	1	amod
+1	пътя	път	NOUN	_	_
+
+LVC.full
+0	установяват	установявам-(се)	VERB	_	_
+1	контрол	контрол	NOUN	0	obj
+
+LVC.full
+0	повдигнало	повдигна-(се)	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+LVC.full
+0	постави	поставя-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	контрол	контрол	NOUN	_	_
+
+LVC.full
+0	оказват	оказвам-(се)	VERB	_	_
+1	влияние	влияние	NOUN	0	obj
+
+LVC.cause
+0	поставят	поставям-(се)	VERB	_	_
+1	началото	начало	NOUN	0	obj
+
+LVC.full
+0	влязат	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	действие	действие	NOUN	0	iobj
+
+LVC.cause
+0	поставили	поставя-(се)	VERB	_	_
+1	началото	начало	NOUN	0	obj
+
+LVC.full
+0	наложени	наложа-(се)	VERB	_	_
+1	санкции	санкция	NOUN	0	nsubj:pass
+
+IAV
+0	отговарят	отговарям	VERB	_	_
+1	на	на	ADP	_	_
+
+LVC.full
+0	полагат	полагам	VERB	_	_
+1	усилия	усилие	NOUN	0	obj
+
+VID
+0	вземат	взема	VERB	_	_
+1	мерки	мярка	NOUN	_	_
+
+VID
+0	мерки	мярка	NOUN	1	nsubj
+1	предприемат	предприемам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разпространяват	разпространявам-(се)	VERB	_	_
+
+LVC.full
+0	излязат	изляза	VERB	_	_
+1	със	със	ADP	2	case
+2	декларация	декларация	NOUN	0	iobj
+
+LVC.cause
+0	изправена	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	опасност	опасност	NOUN	0	iobj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	безпокойство	безпокойство	NOUN	0	obj
+
+LVC.full
+0	условията	условие	NOUN	_	_
+1	постави	поставя-(се)	VERB	0	acl
+
+LVC.full
+0	приетите	приема	NOUN	_	_
+1	стъпки	стъпка	NOUN	_	_
+
+LVC.cause
+0	изправена	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	предизвикателство	предизвикателство	NOUN	0	obl
+
+LVC.cause
+0	изправено	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	проблеми	проблем	NOUN	0	obl
+
+LVC.full
+0	представляват	представлявам	VERB	_	_
+1	опасност	опасност	NOUN	0	obj
+
+LVC.full
+0	представляват	представлявам	VERB	_	_
+1	проблем	проблем	NOUN	0	obj
+
+VID
+0	отдадоха	отдам-(се)	VERB	_	_
+1	почит	почит	NOUN	0	obj
+
+LVC.full
+0	направили	направя-(се)	VERB	_	_
+1	подобрения	подобрение	NOUN	0	obj
+
+LVC.full
+0	операциите	операция	NOUN	_	_
+1	проведени	проведя	ADJ	0	amod
+
+VID
+0	дадоха	дам-(се)	VERB	_	_
+1	ход	ход	NOUN	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	заключението	заключение	NOUN	0	nsubj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	мнение	мнение	NOUN	0	obj
+
+LVC.full
+0	взе	взема	VERB	_	_
+1	участие	участие	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обединили	обединя-(се)	VERB	_	_
+
+LVC.full
+0	приети	приема	VERB	_	_
+1	ангажименти	ангажимент	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	промениха	променя-(се)	VERB	_	_
+
+VID
+0	Що	Що	ADV	2	advmod
+1	се	се	PRON	2	expl
+2	отнася	отнасям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	грижи	грижа-се	VERB	_	_
+
+VID
+0	играят	играя	VERB	_	_
+1	ролята	роля	NOUN	0	obj
+
+LVC.full
+0	оказването	оказване	NOUN	_	_
+1	на	на	ADP	2	case
+2	подкрепа	подкрепа	NOUN	0	nmod
+
+LVC.full
+0	окаже	окажа-(се)	VERB	_	_
+1	влияние	влияние	NOUN	0	obj
+
+LVC.full
+0	поема	поема	VERB	_	_
+1	ангажимент	ангажимент	NOUN	_	_
+
+VID
+0	има	има	VERB	_	_
+1	проблеми	проблем	NOUN	0	obj
+
+LVC.full
+0	пуснат	пусна-(се)	VERB	_	_
+1	в	в	ADP	2	case
+2	експлоатация	експлоатация	NOUN	0	obl
+
+LVC.full
+0	отбележат	отбележа	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+VID
+0	хвърлим	хвърля-(се)	VERB	_	_
+1	светлина	светлина	NOUN	0	obj
+
+VID
+0	прие	приема	VERB	_	_
+1	закон	закон	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	предава	предавам-(се)	VERB	_	_
+
+VID
+0	получат	получа	VERB	_	_
+1	присъди	присъда	NOUN	0	obj
+
+LVC.full
+0	направила	направя-(се)	VERB	_	_
+1	преглед	преглед	NOUN	0	obj
+
+LVC.full
+0	провеждат	провеждам	VERB	_	_
+1	разговори	разговор	NOUN	0	obj
+
+LVC.full
+0	подпише	подпиша-(се)	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+IRV
+0	покаяли	покаям-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	се	се	PRON	1	expl
+1	намира	намирам-(се)	VERB	_	_
+2	на	на	ADP	3	case
+3	кръстопът	кръстопът	NOUN	1	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	разоръжат	разоръжа	VERB	_	_
+
+VID
+0	започнат	започна	VERB	_	_
+1	нов	нов	ADJ	2	amod
+2	живот	живот	NOUN	0	obj
+
+VID
+0	дават	давам-(се)	VERB	_	_
+1	информация	информация	NOUN	0	obj
+
+LVC.full
+0	извършвали	извършвам	VERB	_	_
+1	престъпления	престъпление	NOUN	0	obj
+
+VID
+0	поемат	поема	VERB	_	_
+1	задълженията	задължение	NOUN	0	obj
+
+VID
+0	остава	оставам	VERB	2	advcl
+1	без	без	ADP	2	case
+2	отговор	отговор	NOUN	_	_
+
+LVC.cause
+0	създаде	създам	VERB	_	_
+1	условия	условие	NOUN	0	obj
+
+VID
+0	бъде	бъда	AUX	2	cop
+1	от	от	ADP	2	case
+2	полза	полза	NOUN	_	_
+
+VID
+0	удовлетворява	удовлетворявам	VERB	_	_
+1	изискванията	изискване	NOUN	0	obj
+
+VID
+0	вдигна	вдигна-(се)	VERB	_	_
+1	ограниченията	ограничение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	укриваше	укривам-(се)	VERB	_	_
+
+LVC.full
+0	поели	поея	VERB	_	_
+1	ангажимент	ангажимент	NOUN	0	obj
+
+VID
+0	обмениха	обменя	VERB	_	_
+1	опит	опит	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	преплитат	преплитам-(се)	VERB	_	_
+
+VID
+0	извлекат	извлека	VERB	_	_
+1	изгоди	изгода	NOUN	0	nsubj:pass
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	притеснения	притеснение	NOUN	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	сделки	сделка	NOUN	0	obj
+
+VID
+0	завели	заведа	VERB	_	_
+1	дела	дело	NOUN	0	obj
+
+LVC.full
+0	плати	платя	VERB	_	_
+1	обезщетение	обезщетение	NOUN	0	obj
+
+VID
+0	попаднал	попадна	VERB	_	_
+1	под	под	ADP	2	case
+2	влияние	влияние	NOUN	0	obl
+
+VID
+0	въвежда	въвеждам	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+VID
+0	отрежат	отрежа	VERB	_	_
+1	достъпа	достъп	NOUN	0	obj
+
+VID
+0	държи	държа-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	разположение	разположение	NOUN	0	iobj
+
+VID
+0	приема	приемам	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+VID
+0	приело	приема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+LVC.full
+0	подписала	подпиша-(се)	VERB	_	_
+1	споразумението	споразумение	NOUN	0	nsubj
+
+LVC.full
+0	споразумения	споразумение	NOUN	_	_
+
+VID
+0	остава	оставам	VERB	_	_
+1	под	под	ADP	2	case
+2	въпрос	въпрос	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	окажем	окажа-(се)	VERB	_	_
+
+LVC.full
+0	проведе	проведа	VERB	_	_
+1	разговорите	разговор	NOUN	0	obj
+
+LVC.full
+0	изнесат	изнеса-(се)	VERB	_	_
+1	доклади	доклада	NOUN	0	obj
+
+LVC.full
+0	заявява	заявявам	VERB	_	_
+1	готовност	готовност	NOUN	0	obj
+
+VID
+0	вдигнаха	вдигна-(се)	VERB	_	_
+1	тост	тост	NOUN	0	obj
+
+VID
+0	стоят	стоя	NOUN	_	_
+1	на	на	ADP	2	case
+2	прага	праг	NOUN	0	nmod
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	превъзходство	превъзходство	NOUN	0	obj
+
+LVC.full
+0	изразяват	изразявам-(се)	VERB	_	_
+1	мнение	мнение	NOUN	0	obj
+
+VID
+0	хранят	храня-(се)	VERB	_	_
+1	надежди	надежда	NOUN	0	nsubj:pass
+
+VID
+0	гледа	гледам	VERB	_	_
+1	с	с	ADP	2	case
+2	оптимизъм	оптимизъм	NOUN	0	obl
+
+VID
+0	поели	поея	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+VID
+0	имат	имам	VERB	_	_
+1	значение	значение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	премества	премествам-(се)	VERB	_	_
+
+VID
+0	прави	правя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADJ	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	бореше	боря-(се)	VERB	_	_
+
+VID
+0	отвори	отворя-(се)	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+IAV
+0	държи	държа-(се)	VERB	_	_
+1	на	на	ADP	_	_
+
+VID
+0	вратите	врата	NOUN	1	nsubj:pass
+1	отворени	отворя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	увенча	увенчам	VERB	_	_
+2	с	с	ADP	3	case
+3	успех	успех	NOUN	1	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	пазят	пазя-(се)	VERB	_	_
+
+LVC.full
+0	държат	държа-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	наблюдение	наблюдение	NOUN	0	obl
+
+LVC.full
+0	повдига	повдигам-(се)	VERB	_	_
+1	обвинение	обвинение	NOUN	0	obj
+
+LVC.full
+0	повдигне	повдигна-(се)	VERB	_	_
+1	обвинение	обвинение	NOUN	_	_
+
+VID
+0	сринали	срина-(се)	VERB	_	_
+1	до	до	ADP	_	_
+2	основи	основ	ADJ	_	_
+
+LVC.full
+0	направили	направя-(се)	VERB	_	_
+1	преглед	преглед	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	опитваме	опитвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	опиташ	опитам-(се)	VERB	_	_
+
+VID
+0	поставя	поставя-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	въпрос	въпрос	NOUN	0	iobj
+
+LVC.full
+0	поемайки	поемайки	ADV	1	advmod
+1	отговорност	отговорност	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	признавам	признавам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	признаха	призная-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	укривал	укривам-(се)	VERB	_	_
+
+VID
+0	отворя	отворя-(се)	VERB	_	_
+1	врати	врата	NOUN	0	obj
+
+VID
+0	вдъхне	вдъхна	VERB	_	_
+1	живот	живот	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	настаняваха	настанявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	настанят	настаня-(се)	VERB	_	_
+
+VID
+0	изправихме	изправя-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	крака	крак	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	топят	топя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	запознаха	запозная-(се)	VERB	_	_
+
+VID
+0	направиха	направя-(се)	VERB	_	_
+1	впечатление	впечатление	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изявяват	изявявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	утвърдил	утвърдя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	стараят	старая-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	молят	моля-(се)	VERB	_	_
+
+IRV
+0	Носят	нося-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	присъединили	присъединя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оплакали	оплакам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	променили	променя-(се)	VERB	_	_
+
+IRV
+0	откъснали	откъсна-(се)	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	увлича	увличам	VERB	_	_
+
+VID
+0	държеше	държа-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	око	око	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	подлагаха	подлагам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	издържа	издържа	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	преструктурират	преструктурирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	ускори	ускоря	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	посочва	посочвам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	класираха	класирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	състезава	състезавам	VERB	_	_
+
+IRV
+0	подпише	подпиша-(се)	VERB	_	_
+1	Споразумение	споразумение	NOUN	0	nsubj:pass
+
+VID
+0	преминават	преминавам	VERB	_	_
+1	транзитно	транзитно	ADV	0	advmod
+
+VID
+0	взема	взема	NOUN	_	_
+1	на	на	ADP	2	case
+2	прицел	прицел	NOUN	0	nmod
+
+VID
+0	подведена	подведя	VERB	_	_
+1	под	под	ADP	2	case
+2	следствие	следствие	NOUN	0	obl
+
+LVC.cause
+0	възложена	възложа	VERB	_	_
+1	отговорността	отговорност	NOUN	0	nsubj:pass
+
+LVC.full
+0	извърши	извърша	VERB	_	_
+1	обиски	обиска	NOUN	0	obj
+
+VID
+0	е	съм	AUX	1	cop
+1	обект	обект	NOUN	_	_
+2	на	на	ADP	_	_
+
+LVC.full
+0	изразяваха	изразявам-(се)	VERB	_	_
+1	безпокойство	безпокойство	NOUN	0	obj
+
+IAV
+0	взривени	взривя-(се)	VERB	_	_
+1	от	от	ADP	_	_
+
+LVC.full
+0	оказват	оказвам-(се)	VERB	_	_
+1	съпротива	съпротива	NOUN	0	obj
+
+VID
+0	изложени	изложа	ADJ	_	_
+1	на	на	ADP	2	case
+2	риск	риск	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	вписва	вписвам	VERB	_	_
+
+VID
+0	са	съм	AUX	1	cop
+1	обект	обект	NOUN	_	_
+2	на	на	ADP	_	_
+
+VID
+0	дава	давам-(се)	VERB	_	_
+1	тласък	тласък	NOUN	0	obj
+
+VID
+0	подложи	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	риск	риск	NOUN	0	iobj
+
+LVC.full
+0	отбелязан	отбележа-(се)	VERB	_	_
+1	напредък	напредък	NOUN	0	nsubj:pass
+
+LVC.full
+0	предяви	предявя	VERB	_	_
+1	обвинение	обвинение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	приближи	приближа-(се)	VERB	_	_
+
+LVC.full
+0	даден	дам-(се)	VERB	_	_
+1	старт	старт	NOUN	0	nsubj:pass
+
+VID
+0	изпълни	изпълня-(се)	VERB	_	_
+1	обещанието	обещание	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	интересуваме	интересувам-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	ремонт	ремонт	NOUN	0	obj
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	промени	промяна	NOUN	0	obj
+
+VID
+0	играла	играя	VERB	_	_
+1	роля	роля	NOUN	0	obj
+
+LVC.full
+0	повдигнато	повдигна-(се)	VERB	_	_
+1	обвинението	обвинение	NOUN	_	_
+
+LVC.full
+0	нямат	нямам	VERB	_	_
+1	намерение	намерение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	завърнете	завърна-(се)	VERB	_	_
+
+IAV
+0	гледа	гледам	VERB	_	_
+1	към	към	ADP	_	_
+
+VID
+0	е	съм	AUX	1	aux:pass
+1	решена	реша	VERB	_	_
+
+VID
+0	заемат	заема-(се)	VERB	_	_
+1	своето	свой	DET	2	det
+2	място	място	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	съревновават	съревновавам	VERB	_	_
+
+VID
+0	зад	зад	ADP	_	_
+1	гърба	гръб	ADJ	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	примиряват	примирявам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	спрат	спра-(се)	VERB	_	_
+
+VID
+0	предприе	предприема	VERB	_	_
+1	ход	ход	NOUN	0	obj
+
+VID
+0	е	съм	AUX	1	aux:pass
+1	решено	реша	VERB	_	_
+
+VID
+0	имал	имам	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+LVC.full
+0	положи	положа	VERB	_	_
+1	клетва	клетва	NOUN	0	obj
+
+IRV
+0	се	се	PRON	_	_
+1	подготвя	подготвям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	влияе	влияя-(се)	VERB	_	_
+
+VID
+0	има	имам	VERB	_	_
+1	предвид	предвид	ADV	0	advmod
+
+IRV
+0	се	се	PRON	1	expl
+1	формира	формирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разцепва	разцепвам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	загнездил	загнездя-(се)	VERB	_	_
+
+VID
+0	останаха	остана	VERB	_	_
+1	без	без	ADP	2	case
+2	покрив	покрив	NOUN	0	obl
+
+VID
+0	вземат	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	nsubj:pass
+
+VID
+0	изравнени	изравня-(се)	VERB	_	_
+1	със	със	ADP	2	case
+2	земята	земя	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	срутват	срутвам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	старае	старая-се	VERB	_	_
+
+LVC.full
+0	проявили	проява	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	запасят	запасям	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	насладят	насладя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	наслади	насладя-(се)	VERB	_	_
+
+VID
+0	влязат	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	строй	строй	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	съсредоточило	съсредоточа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	укрият	укрия-(се)	VERB	_	_
+
+VID
+0	връзва	връзвам-(се)	VERB	_	_
+1	ръцете	ръка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обърнал	обърна-(се)	VERB	_	_
+
+VID
+0	откриха	открия-(се)	VERB	_	_
+1	огън	огън	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	деморализира	деморализирам	VERB	_	_
+
+LVC.full
+0	изпитват	изпитвам	VERB	_	_
+1	подозрение	подозрение	NOUN	0	obj
+
+LVC.full
+0	дадат	дам-(се)	VERB	_	_
+1	подкуп	подкуп	NOUN	0	obj
+
+LVC.full
+0	имат	имам	VERB	_	_
+1	нужда	нужда	NOUN	0	obj
+
+VID
+0	са	съм	AUX	2	cop
+1	по	по	ADP	2	case
+2	джоба	джоб	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обаждат	обаждам-(се)	VERB	_	_
+
+IRV
+0	си	се	PRON	1	expl
+1	сътрудничи	сътруднича	VERB	_	_
+
+VID
+0	подведен	подведа	VERB	_	_
+1	под	под	ADP	3	case
+2	наказателна	наказателен	ADJ	3	amod
+3	отговорност	отговорност	NOUN	0	obl
+
+VID
+0	чуе	чуе-се	VERB	_	_
+1	гласът	глас	NOUN	0	nsubj:pass
+2	на	на	ADP	_	_
+
+LVC.full
+0	оказвал	оказвам-(се)	VERB	_	_
+1	натиск	натиск	NOUN	0	obj
+
+VID
+0	има	има	VERB	_	_
+1	ефект	ефект	NOUN	0	obj
+
+VID
+0	бъде	бъда	AUX	2	cop
+1	в	в	ADP	2	case
+2	интерес	интерес	NOUN	_	_
+3	на	на	ADP	_	_
+
+VID
+0	застанаха	застана	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	obl
+
+VID
+0	отворила	отворя-(се)	VERB	_	_
+1	нова	нов	ADJ	2	amod
+2	глава	глава	NOUN	0	obj
+
+LVC.cause
+0	поставено	поставя-(се)	VERB	_	_
+1	началото	начало	NOUN	0	nsubj:pass
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	предложения	предложение	NOUN	0	obj
+
+LVC.full
+0	проведено	проведя	ADJ	1	amod
+1	разследване	разследване	NOUN	_	_
+
+VID
+0	постигнати	постигна	VERB	_	_
+1	резултати	резултат	NOUN	0	nsubj:pass
+
+VID
+0	изигра	изиграя	VERB	_	_
+1	главна	главен	ADJ	2	amod
+2	роля	роля	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	месим	меся-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	придържали	придържам-(се)	VERB	_	_
+
+LVC.full
+0	дават	давам-(се)	VERB	_	_
+1	основание	основание	NOUN	0	obj
+
+LVC.full
+0	изпитва	изпитвам	VERB	_	_
+1	трудности	трудност	NOUN	0	obj
+
+LVC.full
+0	постави	поставя-(се)	VERB	_	_
+1	края	край	NOUN	0	obj
+
+VID
+0	почетоха	почета	VERB	_	_
+1	паметта	памет	NOUN	0	obj
+
+LVC.full
+0	извършено	извърша	VERB	_	_
+1	престъпление	престъпление	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	учи	уча-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разпростират	разпростирам-(се)	VERB	_	_
+
+VID
+0	отдава	отдавам-(се)	VERB	_	_
+1	дължимото	дължимо	NOUN	0	obj
+
+IRV
+0	се	се	PRON	_	_
+1	радва	радвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съобразява	съобразявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	оженва	оженвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	установява	установявам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	усъвършенстват	усъвършенствам	VERB	_	_
+
+VID
+0	губи	губя-(се)	VERB	_	_
+1	от	от	ADP	3	case
+2	своя	свой	DET	3	det
+3	чар	чар	NOUN	0	iobj
+
+VID
+0	тъне	тъна	VERB	_	_
+1	в	в	ADP	2	case
+2	забрава	забрава	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	появявали	появявам-се	VERB	_	_
+
+LVC.full
+0	Подавайки	Подавайки	ADV	1	advmod
+1	молба	молба	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	убеди	убедя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обявяват	обявявам-(се)	VERB	_	_
+
+VID
+0	изпълнява	изпълнявам	VERB	_	_
+1	длъжността	длъжност	NOUN	0	obj
+
+IRV
+0	пошегува	пошегувам-се	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	постави	поставя-(се)	VERB	_	_
+1	въпроса	въпрос	NOUN	0	obj
+
+IRV
+0	усмихна	усмихна-се	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	вземам	вземам	VERB	_	_
+1	насериозно	насериозно	ADV	0	advmod
+
+IRV
+0	Появяват	появявам-се	VERB	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	занимаваше	занимавам-(се)	VERB	_	_
+
+LVC.cause
+0	постави	поставя-(се)	VERB	_	_
+1	началото	начало	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	гордея	гордея	VERB	_	_
+
+IRV
+0	си	се	PRON	1	expl
+1	сътрудничихме	сътрудничя-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	коментари	коментар	NOUN	0	obj
+
+VID
+0	направи	направя-(се)	VERB	_	_
+1	впечатление	впечатление	NOUN	0	obj
+
+VID
+0	подлага	подлагам	VERB	_	_
+1	на	на	ADP	2	case
+2	съмнение	съмнение	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	отчитат	отчитам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	намесват	намесвам-(се)	VERB	_	_
+
+VID
+0	поставят	поставя-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	въпрос	въпрос	NOUN	0	iobj
+
+VID
+0	постави	поставя-(се)	NOUN	_	_
+1	под	под	ADP	2	case
+2	въпрос	въпрос	NOUN	0	nmod
+
+VID
+0	изправил	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	съда	съд	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	страхувам	страхувам-се	VERB	_	_
+
+IRV
+0	отнасящи	отнасям-(се)	ADJ	_	_
+1	се	се	PRON	_	_
+
+LVC.full
+0	отбелязва	отбелязвам	VERB	_	_
+1	напредък	напредък	NOUN	0	nsubj:pass
+
+VID
+0	е	съм	AUX	_	_
+1	в	в	ADP	2	case
+2	ход	ход	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	повиши	повиша-(се)	VERB	_	_
+
+VID
+0	е	съм	AUX	1	cop
+1	стъпка	стъпка	NOUN	_	_
+2	напред	напред	ADV	1	advmod
+
+VID
+0	бележи	бележа	VERB	_	_
+1	стъпка	стъпка	NOUN	0	obj
+2	напред	напред	ADV	0	advmod
+
+IRV
+0	се	се	PRON	1	expl
+1	намесва	намесвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	променят	променям-(се)	VERB	_	_
+
+IRV
+0	надяваме	надявам-се	VERB	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	направят	направя-(се)	VERB	_	_
+1	отстъпки	отстъпка	ADV	0	advmod
+
+LVC.full
+0	пое	поема	VERB	_	_
+1	управлението	управление	NOUN	0	obj
+
+VID
+0	бе	съм	AUX	1	cop
+1	обект	обект	NOUN	_	_
+2	на	на	ADP	_	_
+
+LVC.full
+0	изразили	изразя-(се)	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+VID
+0	постави	поставя-(се)	VERB	_	_
+1	в	в	ADP	3	case
+2	затруднително	затруднителен	ADJ	3	amod
+3	положение	положение	NOUN	_	_
+
+VID
+0	бъде	бъда	AUX	1	cop
+1	стъпка	стъпка	NOUN	_	_
+
+VID
+0	реши	реша	VERB	_	_
+1	въпросите	въпрос	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	подобряват	подобрявам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	свържат	свържа	VERB	_	_
+
+LVC.full
+0	изпитва	изпитвам	VERB	_	_
+1	недостиг	недостиг	NOUN	0	obj
+
+VID
+0	решени	реша	VERB	_	_
+1	проблеми	проблем	NOUN	0	nsubj:pass
+
+LVC.cause
+0	даде	дам-(се)	VERB	_	_
+1	достъп	достъп	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	записали	запиша-(се)	VERB	_	_
+
+LVC.full
+0	реши	реша	VERB	_	_
+1	проблемите	проблем	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	провеждат	провеждам	VERB	_	_
+
+LVC.full
+0	поставя	поставям-(се)	VERB	_	_
+1	условия	условие	NOUN	0	obj
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	заявка	заявка	NOUN	0	obj
+
+VID
+0	реши	реша	VERB	_	_
+1	въпроси	въпрос	NOUN	_	_
+
+VID
+0	реши	реша	VERB	_	_
+1	въпроса	въпрос	NOUN	0	obj
+
+IRV
+0	опасявайки	опасявайки	ADV	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	съгласила	съгласила	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	облагодетелствали	облагодетелствам	VERB	_	_
+
+LVC.full
+0	сключил	сключа	VERB	_	_
+1	сделка	сделка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	похвали	похваля-(се)	VERB	_	_
+
+LVC.full
+0	споделяме	споделям	VERB	_	_
+1	възгледите	възглед	NOUN	0	obj
+
+LVC.full
+0	нанесе	нанеса-(се)	VERB	_	_
+1	щети	щета	NOUN	0	obj
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+VID
+0	направят	направя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADV	0	advmod
+
+VID
+0	устои	устоя	VERB	_	_
+1	на	на	ADP	2	case
+2	бурята	буре	NOUN	0	iobj
+
+VID
+0	и	и	CCONJ	1	cc
+1	изглади	изгладя-(се)	VERB	_	_
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	зелена	зелен	ADJ	2	amod
+2	светлина	светлина	NOUN	0	obj
+
+LVC.full
+0	постигнал	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+LVC.cause
+0	свали	сваля	VERB	_	_
+1	обвиненията	обвинение	NOUN	0	obj
+
+LVC.full
+0	нарушаване	нарушаване	NOUN	_	_
+1	на	на	ADP	3	case
+2	човешките	човешки	ADJ	3	amod
+3	права	право	NOUN	0	nmod
+
+LVC.full
+0	нарушила	наруша-(се)	VERB	_	_
+1	човешките	човешки	ADJ	2	amod
+2	права	право	NOUN	0	obj
+
+LVC.cause
+0	свален	сваля	VERB	_	_
+1	от	от	ADP	2	case
+2	пост	пост	NOUN	0	iobj
+
+LVC.full
+0	подаде	подам-(се)	VERB	_	_
+1	жалба	жалба	NOUN	0	obj
+
+LVC.full
+0	свалят	сваля	VERB	_	_
+1	обвинения	обвинение	NOUN	0	nsubj:pass
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	решимостта	решимост	NOUN	0	obj
+
+VID
+0	води	водя	VERB	_	_
+1	борба	борба	NOUN	0	obj
+
+LVC.full
+0	нанесоха	нанеса-(се)	VERB	_	_
+1	щети	щета	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	желанието	желание	NOUN	0	obj
+
+VID
+0	разрешат	разреша	VERB	_	_
+1	различията	различие	NOUN	0	obj
+
+VID
+0	разрешаване	разрешаване	NOUN	_	_
+1	различията	различие	NOUN	0	nmod
+
+VID
+0	оттеглят	оттегля-(се)	VERB	_	_
+1	възраженията	възражения	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изчерпа	изчерпя	VERB	_	_
+
+LVC.full
+0	отхвърля	отхвърля	VERB	_	_
+1	обвиненията	обвинение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	зарече	зарека-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	нарече	нарека-(се)	VERB	_	_
+
+LVC.full
+0	постигна	постигна	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+LVC.cause
+0	Слагайки	Слагайка	ADJ	1	amod
+1	край	край	NOUN	_	_
+
+LVC.full
+0	Споразумението	споразумение	NOUN	1	nsubj:pass
+1	постигнато	постигна	VERB	_	_
+
+LVC.full
+0	поеха	поема	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+LVC.full
+0	оттегли	оттегля-(се)	VERB	_	_
+1	възраженията	възражения	NOUN	0	obj
+
+LVC.cause
+0	даде	дам-(се)	VERB	_	_
+1	ултиматум	ултиматум	NOUN	0	obj
+
+VID
+0	нищо	никой	PRON	2	obj
+1	не	не	PART	2	advmod
+2	може	мога	VERB	_	_
+3	направи	направя-(се)	VERB	2	xcomp
+4	на	на	ADP	_	_
+
+LVC.cause
+0	дала	дам-(се)	VERB	_	_
+1	разрешение	разрешение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	плъзга	плъзгам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обосновал	обосновам	VERB	_	_
+
+LVC.full
+0	приела	приема	VERB	_	_
+1	искания	искане	NOUN	_	_
+
+VID
+0	отворила	отворя-(се)	VERB	_	_
+1	врати	врата	NOUN	0	obj
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	време	време	NOUN	0	obj
+
+VID
+0	излагат	излагам	VERB	_	_
+1	на	на	ADP	2	case
+2	риск	риск	NOUN	0	iobj
+
+LVC.full
+0	пропуснали	пропусна	VERB	_	_
+1	възможност	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	спря	спра-(се)	VERB	_	_
+
+LVC.full
+0	изразяващи	изразявам-(се)	ADJ	1	amod
+1	солидарност	солидарност	NOUN	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	позицията	позиция	NOUN	0	obj
+
+LVC.full
+0	изразили	изразя-(се)	VERB	_	_
+1	готовност	готовност	NOUN	0	obj
+
+VID
+0	прави	правя-(се)	VERB	_	_
+1	на	на	ADP	_	_
+
+LVC.full
+0	използва	използвам	VERB	_	_
+1	възможността	възможност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	обръщам	обръщам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	предадете	предам-(се)	VERB	_	_
+
+LVC.cause
+0	справедливостта	справедливост	NOUN	1	nsubj:pass
+1	наложена	наложа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	затяга	затягам-(се)	VERB	_	_
+
+LVC.full
+0	оказвали	оказвам-(се)	VERB	_	_
+1	съдействие	съдействие	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	счита	считам-(се)	VERB	_	_
+
+IRV
+0	занимаващ	занимавам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	завел	заведа	VERB	_	_
+1	дело	дело	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изхвърлят	изхвърля-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	просмукват	просмуквам-(се)	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	оптимизъм	оптимизъм	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	определят	определям-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	уточнят	уточня	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	карам	карам-се	VERB	_	_
+
+LVC.full
+0	вземе	взема	VERB	_	_
+1	решение	решение	NOUN	0	nsubj:pass
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	мнение	мнение	NOUN	0	obj
+
+LVC.full
+0	решават	решавам-(се)	VERB	_	_
+1	спор	спор	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	намерение	намерение	NOUN	0	obj
+
+VID
+0	са	съм	AUX	2	cop
+1	на	на	ADP	2	case
+2	път	път	NOUN	_	_
+3	да	да	AUX	_	_
+
+LVC.full
+0	изразил	изразя-(се)	VERB	_	_
+1	задоволство	задоволство	NOUN	0	obj
+
+LVC.full
+0	освободи	освободя-(се)	VERB	_	_
+1	поста	пост	NOUN	0	obj
+
+VID
+0	заставането	заставане	NOUN	_	_
+1	начело	начело	ADV	0	advmod
+
+LVC.cause
+0	свалило	свалил	NOUN	_	_
+1	от	от	ADP	2	case
+2	власт	власт	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	смята	смятам	VERB	_	_
+
+LVC.full
+0	Изразявайки	Изразявайки	ADV	_	_
+1	подкрепа	подкрепа	NOUN	_	_
+
+LVC.full
+0	изразяваше	изразявам-(се)	VERB	_	_
+1	опасения	опасение	NOUN	0	obj
+
+LVC.full
+0	постигнат	постигна	ADJ	1	amod
+1	споразумение	споразумение	NOUN	_	_
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	оценки	оценка	NOUN	0	obj
+
+LVC.full
+0	изразяваме	изразявам-(се)	VERB	_	_
+1	готовност	готовност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	призна	призная-(се)	VERB	_	_
+2	за	за	ADP	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	спасил	спася-(се)	VERB	_	_
+2	по	по	ADP	3	case
+3	чудо	чудо	NOUN	1	obl
+
+LVC.full
+0	нямат	нямам	VERB	_	_
+1	възражения	възражение	NOUN	0	obj
+
+VID
+0	поеме	поема	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	приземиха	приземя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	защитава	защитавам	VERB	_	_
+
+LVC.full
+0	повдигнатото	повдигнат	ADJ	1	amod
+1	обвинение	обвинение	NOUN	_	_
+
+LVC.full
+0	продължава	продължавам	VERB	_	_
+1	съществуването	съществуване	NOUN	_	_
+2	си	свой	PRON	1	det
+
+IRV
+0	се	се	PRON	1	expl
+1	изявят	изявя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	запознае	запозная-(се)	VERB	_	_
+
+LVC.full
+0	застане	застана	VERB	_	_
+1	прав	прав	ADJ	0	obj
+
+LVC.full
+0	изявление	изявление	NOUN	1	obj
+1	направи	направя-(се)	VERB	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	скептицизъм	скептицизъм	NOUN	0	obj
+
+VID
+0	приема	приемам	VERB	_	_
+1	насериозно	насериозно	ADV	_	_
+
+LVC.cause
+0	привеждат	привеждам-(се)	VERB	_	_
+1	в	в	ADP	2	case
+2	готовност	готовност	NOUN	0	iobj
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	уверения	уверение	NOUN	0	obj
+
+VID
+0	въпросът	въпрос	NOUN	1	nsubj:pass
+1	уреден	уреда	VERB	_	_
+
+LVC.full
+0	отправиха	отправя-(се)	VERB	_	_
+1	молба	молба	NOUN	_	_
+
+LVC.full
+0	сключване	сключване	NOUN	_	_
+1	на	на	ADP	2	case
+2	договори	договор	NOUN	_	_
+
+LVC.full
+0	оказващи	оказвам-(се)	ADJ	1	amod
+1	помощ	помощ	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	води	водя	VERB	_	_
+
+VID
+0	взе	взема	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+VID
+0	заплаха	заплаха	NOUN	1	nsubj
+1	идва	идвам	VERB	_	_
+2	от	от	ADP	_	_
+
+VID
+0	има	имам	VERB	_	_
+1	последен	последен	ADJ	_	_
+
+LVC.full
+0	крие	крие	VERB	_	_
+1	рискове	риск	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	крият	крия-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	равняват	равнявам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	прехвърля	прехвърлям-(се)	VERB	_	_
+
+LVC.full
+0	полагащи	полагам	ADJ	1	amod
+1	усилия	усилие	NOUN	_	_
+
+VID
+0	вземе	взема	VERB	_	_
+1	под	под	ADP	2	case
+2	внимание	внимание	NOUN	0	obl
+
+LVC.full
+0	взимащите	взимам	ADJ	_	_
+1	решение	решение	NOUN	_	_
+
+LVC.full
+0	взимащите	взимам	ADJ	1	amod
+1	решението	решение	NOUN	_	_
+
+VID
+0	имат	има	VERB	_	_
+1	предвид	предвид	ADV	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	занимават	занимавам-(се)	VERB	_	_
+
+LVC.full
+0	получи	получа	VERB	_	_
+1	подкрепата	подкрепа	NOUN	0	obj
+
+LVC.full
+0	поела	поема	VERB	_	_
+1	отговорността	отговорност	NOUN	0	obj
+
+IAV
+0	се	се	PRON	1	expl
+1	отнася	отнасям-(се)	VERB	_	_
+2	до	до	ADP	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	свили	свия-(се)	VERB	_	_
+2	в	в	ADP	3	case
+3	дупките	дупка	NOUN	1	iobj
+4	си	свой	PRON	3	det
+
+LVC.full
+0	дава	давам-(се)	VERB	_	_
+1	оценка	оценка	NOUN	0	nsubj:pass
+
+IRV
+0	се	се	PRON	1	expl
+1	променил	променя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	вгледате	вгледам-се	VERB	_	_
+
+VID
+0	имаме	имам	VERB	_	_
+1	за	за	ADP	2	case
+2	цел	цел	NOUN	0	obl
+
+IRV
+0	простираща	простирам-(се)	ADJ	_	_
+1	се	се	PRON	0	expl
+
+IRV
+0	се	се	PRON	1	expl
+1	основава	основавам	VERB	_	_
+2	си	си	PRON	3	expl
+3	направят	направя-(се)	VERB	_	_
+4	изводи	извод	NOUN	3	obj
+
+LVC.full
+0	на	на	ADP	1	case
+1	склад	склад	NOUN	_	_
+
+IRV
+0	задоволят	задоволя-(се)	VERB	_	_
+
+LVC.full
+0	дължимото	дължими	ADJ	_	_
+
+LVC.full
+0	прави	правя-(се)	VERB	_	_
+1	стъпки	стъпка	NOUN	0	obj
+
+LVC.full
+0	популярност	популярност	NOUN	1	nsubj
+1	добиват	добивам	VERB	_	_
+
+IAV
+0	са	съм	AUX	1	aux:pass
+1	изправени	изправя-(се)	VERB	_	_
+2	пред	пред	ADP	_	_
+
+LVC.full
+0	изпитват	изпитвам	VERB	_	_
+1	трудности	трудност	NOUN	0	obj
+
+VID
+0	Свързването	свързване	NOUN	_	_
+1	на	на	ADP	3	case
+2	двата	два	NUM	3	nummod
+3	края	край	NOUN	0	nmod
+
+VID
+0	плащат	плащам	VERB	_	_
+1	данъци	данък	NOUN	0	obj
+
+IAV
+0	за	за	ADP	_	_
+1	отговарят	отговарям	VERB	_	_
+
+LVC.full
+0	разкаяние	разкаяние	NOUN	_	_
+1	изразил	изразя-(се)	VERB	0	acl
+
+VID
+0	лежал	лежа	VERB	_	_
+1	в	в	ADP	2	case
+2	затвора	затвор	NOUN	0	iobj
+
+VID
+0	е	съм	AUX	_	_
+1	пред	пред	ADP	2	case
+2	риска	риск	NOUN	_	_
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	признателността	признателност	NOUN	0	obj
+
+LVC.full
+0	дадоха	дам-(се)	VERB	_	_
+1	оценка	оценка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	сринаха	срина-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обезцени	обезценя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	понижиха	понижа	VERB	_	_
+
+IAV
+0	бяха	съм	AUX	1	aux:pass
+1	изправени	изправя-(се)	VERB	_	_
+2	пред	пред	ADP	_	_
+
+IAV
+0	Пред	пред	ADP	_	_
+1	са	съм	AUX	2	aux:pass
+2	изправени	изправя-(се)	VERB	_	_
+
+VID
+0	хвърли	хвърля-(се)	VERB	_	_
+1	светлина	светлина	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изплъзва	изплъзвам	VERB	_	_
+
+LVC.full
+0	отговаря	отговарям	VERB	_	_
+1	на	на	ADP	2	case
+2	очакванията	очакване	NOUN	0	iobj
+
+VID
+0	взема	взема	VERB	_	_
+1	мерки	мярка	NOUN	0	obj
+
+VID
+0	прилагането	прилагане	NOUN	_	_
+1	мерки	мярка	NOUN	0	nmod
+
+VID
+0	Мярката	мярка	NOUN	1	nsubj:pass
+1	наложена	наложа-(се)	VERB	_	_
+
+LVC.full
+0	отправи	отправя-(се)	VERB	_	_
+1	обвинения	обвинение	NOUN	0	obj
+
+LVC.full
+0	имал	имам	VERB	_	_
+1	отношения	отношение	NOUN	0	obj
+
+LVC.full
+0	поел	поема	VERB	_	_
+1	отговорността	отговорност	NOUN	0	obj
+
+LVC.full
+0	оказвайки	оказвайки	ADV	1	advmod
+1	съпротива	съпротива	NOUN	_	_
+
+VID
+0	свалят	свалям	VERB	_	_
+1	правителството	правителство	NOUN	0	obj
+
+LVC.full
+0	обвиненията	обвинение	NOUN	_	_
+1	отправила	отправя-(се)	VERB	0	acl
+
+LVC.full
+0	оттегляне	оттегляне	NOUN	_	_
+1	на	на	ADP	2	case
+2	обвиненията	обвинение	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	изплашихме	изплашя-(се)	VERB	_	_
+
+LVC.full
+0	поемат	поемам	VERB	_	_
+1	ангажимента	ангажимент	NOUN	_	_
+
+VID
+0	отхвърли	отхвърля	VERB	_	_
+1	молбата	молба	NOUN	0	obj
+
+LVC.full
+0	внесе	внеса	VERB	_	_
+1	предложението	предложение	NOUN	0	obj
+
+VID
+0	отговаря	отговарям	VERB	_	_
+1	на	на	ADP	2	case
+2	стандарти	стандарт	NOUN	0	iobj
+
+LVC.full
+0	проявеното	проява	ADJ	1	amod
+1	търпение	търпение	NOUN	_	_
+
+LVC.full
+0	постигнаха	постигна	VERB	_	_
+1	споразумения	споразумение	NOUN	0	obj
+
+VID
+0	спазват	спазвам	VERB	_	_
+1	сроковете	срок	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	увереност	увереност	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	поддържа	поддържам	VERB	_	_
+
+VID
+0	вървят	вървя	VERB	_	_
+1	по	по	ADP	2	case
+2	план	план	NOUN	_	_
+
+VID
+0	набрала	набера-(се)	VERB	_	_
+1	скорост	скорост	NOUN	0	obj
+
+VID
+0	са	съм	AUX	2	cop
+1	в	в	ADP	2	case
+2	кръвта	кръв	NOUN	_	_
+
+VID
+0	изложили	изложа-(се)	VERB	_	_
+1	на	на	ADP	2	case
+2	риск	риск	NOUN	_	_
+
+IRV
+0	появили	поява	VERB	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	вземаме	вземам	VERB	_	_
+1	под	под	ADP	2	case
+2	внимание	внимание	NOUN	0	obl
+
+LVC.full
+0	напредък	напредък	ADV	1	advmod
+1	постигнат	постигна	VERB	_	_
+
+VID
+0	издигна	издигна-(се)	VERB	_	_
+1	кандидатура	кандидатура	NOUN	0	obj
+
+VID
+0	сигурността	сигурност	NOUN	1	nsubj:pass
+1	засилена	засиля-(се)	VERB	_	_
+
+LVC.full
+0	излизат	излизам	VERB	_	_
+1	на	на	ADP	2	case
+2	протест	протест	NOUN	0	iobj
+
+VID
+0	излязоха	изляза	VERB	_	_
+1	на	на	ADP	2	case
+2	демонстрация	демонстрация	NOUN	0	iobj
+
+LVC.full
+0	сложи	сложа-(се)	VERB	_	_
+1	началото	начало	NOUN	0	nsubj
+
+VID
+0	остави	оставя-(се)	VERB	_	_
+1	след	след	ADP	2	case
+2	себе	себе	PRON	0	obl
+3	си	си	PART	2	fixed
+
+LVC.full
+0	действия	действие	NOUN	_	_
+1	предприети	предприет	ADJ	0	amod
+
+LVC.full
+0	осигури	осигуря	VERB	_	_
+1	помощ	помощ	NOUN	0	obj
+
+LVC.full
+0	пое	поема	VERB	_	_
+1	обещание	обещание	NOUN	0	obj
+
+LVC.full
+0	издала	издам-(се)	VERB	_	_
+1	заповед	заповед	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	противопоставяше	противопоставям-(се)	VERB	_	_
+
+IRV
+0	състоящ	състоям	ADJ	_	_
+1	се	се	PRON	0	expl
+
+VID
+0	оправдае	оправдая-(се)	VERB	_	_
+1	очакванията	очакване	NOUN	0	obj
+
+LVC.full
+0	постига	постигам	VERB	_	_
+1	консенсус	консенсус	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	връщали	връщам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	блъснах	блъсна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	насочило	насоча-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	спускал	спускам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	намирали	намирам-(се)	VERB	_	_
+
+LVC.full
+0	постигнато	постигна	SCONJ	1	mark
+1	споразумение	споразумение	NOUN	_	_
+
+VID
+0	отговарят	отговарям	VERB	_	_
+1	на	на	ADP	2	case
+2	изискванията	изискване	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	издържал	издържа	VERB	_	_
+
+VID
+0	дари	даря	VERB	_	_
+1	кръв	кръв	NOUN	0	obj
+
+VID
+0	покриват	покривам-(се)	VERB	_	_
+1	дефицитите	дефицит	NOUN	0	obj
+
+LVC.full
+0	внесат	внеса	VERB	_	_
+1	предложение	предложение	NOUN	0	obj
+
+VID
+0	няма	нямам	VERB	_	_
+1	правото	право	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	случвало	случвам-(се)	VERB	_	_
+
+LVC.full
+0	излезе	изляза	VERB	_	_
+1	с	с	ADP	2	case
+2	изявление	изявление	NOUN	0	obl
+
+VID
+0	завели	завея	VERB	_	_
+1	дела	дело	NOUN	0	obj
+
+LVC.full
+0	внесе	внеса	VERB	_	_
+1	предложение	предложение	NOUN	0	obj
+
+LVC.full
+0	подписаха	подпиша-(се)	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изисква	изисквам	VERB	_	_
+
+IRV
+0	Предполага	предполагам	VERB	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	изразя	изразя	VERB	_	_
+1	благодарността	благодарност	NOUN	0	obj
+
+VID
+0	Давайки	Давайки	ADJ	1	amod
+1	показания	показание	NOUN	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	хвалили	хваля-(се)	VERB	_	_
+
+VID
+0	засили	засиля-(се)	VERB	_	_
+1	позиции	позиция	NOUN	0	obj
+
+VID
+0	бъде	бъда	AUX	2	cop
+1	в	в	ADP	2	case
+2	краката	крак	NOUN	_	_
+
+VID
+0	приема	приема	VERB	_	_
+1	в	в	ADP	2	case
+2	редиците	редица	NOUN	0	obl
+3	си	свой	PRON	2	det
+
+IRV
+0	се	се	PRON	1	expl
+1	състоеше	състоя-се	VERB	_	_
+
+LVC.full
+0	напредъка	напредък	NOUN	_	_
+1	постигнат	постигна	ADJ	0	amod
+
+IRV
+0	се	се	PRON	1	expl
+1	явила	явя-(се)	VERB	_	_
+
+VID
+0	прието	приема	VERB	_	_
+1	като	като	ADP	2	case
+2	знак	знак	NOUN	0	obl
+
+IRV
+0	се	се	PRON	1	expl
+1	примири	примиря	VERB	_	_
+
+LVC.full
+0	подписала	подпиша-(се)	VERB	_	_
+1	договора	договор	NOUN	0	obj
+
+LVC.full
+0	подпишат	подпиша-(се)	VERB	_	_
+1	споразумение	споразумение	NOUN	0	obj
+
+LVC.full
+0	постигнали	постигна	VERB	_	_
+1	консенсус	консенсус	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	занимаха	занимам	VERB	_	_
+
+VID
+0	направят	направя-(се)	VERB	_	_
+1	всичко	всеки	PRON	0	obj
+2	възможно	възможно	ADV	_	_
+
+VID
+0	отпусна	отпусна-(се)	VERB	_	_
+1	заем	заем	NOUN	0	obj
+
+VID
+0	мерките	мярка	NOUN	_	_
+1	взети	взети	ADJ	_	_
+
+VID
+0	пресекат	пресека-(се)	VERB	_	_
+1	границата	граница	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	откачили	откача-(се)	VERB	_	_
+
+VID
+0	дало	дам-(се)	VERB	_	_
+1	тласък	тласък	NOUN	0	obj
+
+LVC.full
+0	отбелязала	отбележа	VERB	_	_
+1	прогрес	прогрес	NOUN	0	obj
+
+LVC.full
+0	споразумения	споразумение	NOUN	1	nsubj:pass
+1	подписани	подпиша	VERB	_	_
+
+LVC.full
+0	Отбелязан	Отбележа-(се)	PROPN	1	nsubj
+1	напредък	напредък	ADJ	_	_
+
+VID
+0	отворят	отворя-(се)	VERB	_	_
+1	възможности	възможност	NOUN	0	obj
+
+LVC.full
+0	предоставят	предоставя	VERB	_	_
+1	услуги	услуга	NOUN	0	obj
+
+LVC.full
+0	проявила	проява	VERB	_	_
+1	интерес	интерес	NOUN	0	obj
+
+VID
+0	въпрос	въпрос	NOUN	1	nsubj:pass
+1	решен	реша	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	съдържат	съдържам-(се)	VERB	_	_
+
+VID
+0	поставени	поставя-(се)	VERB	_	_
+1	под	под	ADP	2	case
+2	шапката	шапка	NOUN	0	obl
+
+LVC.full
+0	има	имам	VERB	_	_
+1	отражение	отражение	NOUN	0	obj
+
+LVC.full
+0	наели	нам	VERB	_	_
+1	на	на	ADP	2	case
+2	работа	работа	NOUN	0	iobj
+
+LVC.full
+0	Подложени	подложа	VERB	_	_
+1	на	на	ADP	2	case
+2	критики	критика	NOUN	0	iobj
+
+VID
+0	проправило	проправя-(се)	VERB	_	_
+1	пътя	път	NOUN	0	obj
+
+VID
+0	нанесен	нанеса-(се)	VERB	_	_
+1	удар	удар	NOUN	0	nsubj:pass
+
+LVC.full
+0	извършила	извърша	VERB	_	_
+1	убийството	убийство	NOUN	0	obj
+
+VID
+0	натиснал	натисна-(се)	VERB	_	_
+1	спусъка	спусък	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	предали	предам-(се)	VERB	_	_
+
+LVC.full
+0	поеха	поема	VERB	_	_
+1	контрола	контрол	NOUN	0	obj
+
+LVC.full
+0	поемат	поема	VERB	_	_
+1	контрола	контрол	NOUN	0	obj
+
+LVC.full
+0	поемайки	поемайки	ADJ	1	amod
+1	ангажимент	ангажимент	NOUN	_	_
+
+LVC.full
+0	изпълнява	изпълнявам	VERB	_	_
+1	задължения	задължение	NOUN	0	obj
+
+VID
+0	покрити	покрия-(се)	VERB	_	_
+1	разходите	разход	NOUN	0	nsubj:pass
+
+LVC.full
+0	отправил	отправя-(се)	VERB	_	_
+1	искане	искане	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	застъпи	застъпя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	укрие	укрия-(се)	VERB	_	_
+
+LVC.full
+0	опасенията	опасения	NOUN	_	_
+1	изразени	изразя-(се)	ADJ	0	amod
+
+LVC.full
+0	престъпления	престъпление	NOUN	_	_
+1	извършени	извърша	ADJ	0	amod
+
+LVC.full
+0	изпълнило	изпълня-(се)	VERB	_	_
+1	ангажименти	ангажимент	NOUN	0	obj
+
+VID
+0	влязъл	вляза	VERB	_	_
+1	в	в	ADP	2	case
+2	процедура	процедура	NOUN	0	iobj
+3	на	на	ADP	4	case
+4	фалит	фалит	NOUN	2	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	опитваха	опитвам-(се)	VERB	_	_
+
+VID
+0	уталожат	уталожа-(се)	VERB	_	_
+1	напрежението	напрежение	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	явиха	явя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	ориентира	ориентирам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	обърнаха	обърна-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	убедим	убедя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	пренесе	пренеса-(се)	VERB	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	предложението	предложение	NOUN	0	obj
+
+LVC.full
+0	задачи	задача	NOUN	1	nsubj:pass
+1	изпълнени	изпълня-(се)	VERB	_	_
+
+VID
+0	Обвиненията	обвинение	NOUN	1	nsubj:pass
+1	внесени	внеса	VERB	_	_
+
+LVC.full
+0	дал	дам-(се)	VERB	_	_
+1	нареждане	нареждане	NOUN	0	obj
+
+LVC.cause
+0	измести	изместя-(се)	VERB	_	_
+1	от	от	ADP	2	case
+2	поста	пост	NOUN	0	iobj
+
+VID
+0	премахне	премахна-(се)	VERB	_	_
+1	препятствията	препятствия	NOUN	0	obj
+
+IAV
+0	се	се	PRON	1	expl
+1	обявили	обявя-(се)	VERB	_	_
+2	против	против	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	промъкнат	промъкна-(се)	VERB	_	_
+
+LVC.full
+0	изразили	изразя-(се)	VERB	_	_
+1	мнение	мнение	NOUN	0	obj
+
+LVC.full
+0	изложи	изложа-(се)	VERB	_	_
+1	причините	причина	NOUN	0	obj
+
+LVC.full
+0	Повод	повод	NOUN	1	nsubj
+1	стана	стана	VERB	_	_
+
+LVC.full
+0	приеме	приема	VERB	_	_
+1	оставката	оставка	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	разочарованието	разочарование	NOUN	0	obj
+
+VID
+0	дадат	дам-(се)	VERB	_	_
+1	показания	показание	NOUN	0	obj
+
+LVC.full
+0	вдигне	вдигна-(се)	VERB	_	_
+1	забраната	забран	NOUN	0	obj
+
+LVC.full
+0	вдигане	вдигане	NOUN	_	_
+1	на	на	ADP	2	case
+2	забраната	забрана	NOUN	0	nmod
+
+LVC.full
+0	вдигнат	вдигна-(се)	VERB	_	_
+1	забраната	забрана	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	променила	променя-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	забавил	забава	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	получили	получа	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	разпростре	разпростра-(се)	VERB	_	_
+
+LVC.full
+0	поеме	поема	VERB	_	_
+1	отговорност	отговорност	NOUN	0	obj
+
+LVC.full
+0	провел	проведа	VERB	_	_
+1	операции	операция	NOUN	0	obj
+
+VID
+0	Отворете	Отвора	VERB	_	_
+1	очите	око	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	занимавала	занимавам-(се)	VERB	_	_
+
+LVC.full
+0	подадоха	подам-(се)	VERB	_	_
+1	оставка	оставка	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	свеждат	свеждам-(се)	VERB	_	_
+
+LVC.full
+0	затруднения	затруднение	NOUN	_	_
+
+LVC.full
+0	оказал	окажа-(се)	VERB	_	_
+1	влияние	влияние	NOUN	0	obj
+
+LVC.full
+0	провеждат	провеждам	VERB	_	_
+1	изследването	изследване	NOUN	0	obj
+
+LVC.full
+0	оказали	окажа-(се)	VERB	_	_
+1	влияние	влияние	NOUN	0	obj
+
+LVC.full
+0	подадоха	подам-(се)	VERB	_	_
+1	оставки	оставка	NOUN	0	obj
+
+VID
+0	Мрежата	мрежа	NOUN	_	_
+1	се	се	PRON	2	expl
+2	разплита	разплитам-(се)	VERB	_	_
+
+VID
+0	извадят	извадя	VERB	_	_
+1	от	от	ADP	2	case
+2	джобовете	джоб	NOUN	_	_
+
+VID
+0	е	съм	AUX	2	cop
+1	на	на	ADP	2	case
+2	страна	страна	NOUN	_	_
+
+VID
+0	имат	има	VERB	_	_
+1	предвид	предвид	ADV	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	губят	губя-(се)	VERB	_	_
+
+VID
+0	влизането	влизане	NOUN	_	_
+1	в	в	ADP	2	case
+2	действие	действие	NOUN	0	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	прави	правя-(се)	VERB	_	_
+
+LVC.full
+0	постигат	постигам	VERB	_	_
+1	напредък	напредък	NOUN	0	obj
+
+VID
+0	Бъдещето	бъдеще	NOUN	2	nsubj
+1	ще	ще	AUX	2	aux
+2	покаже	покажа-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	увеличава	увеличавам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	отличи	отлича-(се)	VERB	_	_
+
+LVC.full
+0	връчи	връча	VERB	_	_
+1	награда	награда	NOUN	0	obj
+
+LVC.cause
+0	зададе	задам-(се)	VERB	_	_
+1	въпроса	въпрос	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	гордееха	гордея-се	VERB	_	_
+
+VID
+0	се	се	PRON	1	expl
+1	изправи	изправя-(се)	VERB	_	_
+2	лице	лице	NOUN	1	nsubj:pass
+3	срещу	срещу	ADP	4	case
+4	лице	лице	NOUN	2	nmod
+
+IRV
+0	се	се	PRON	1	expl
+1	захване	захвана-(се)	VERB	_	_
+2	с	с	ADP	_	_
+
+VID
+0	гласът	глас	NOUN	1	nsubj:pass
+1	чут	чуя	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	отзова	отзова	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	свърза	свържа-(се)	VERB	_	_
+
+LVC.full
+0	задава	задавам-(се)	VERB	_	_
+1	въпроса	въпрос	NOUN	0	obj
+
+VID
+0	се	се	PRON	1	expl
+1	изправя	изправя-(се)	VERB	_	_
+2	на	на	ADP	3	case
+3	крака	крак	NOUN	1	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	договориш	договоря-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	_	_
+1	влюбил	влюбя-(се)	AUX	_	_
+
+LVC.full
+0	направя	направя-(се)	VERB	_	_
+1	резервация	резервация	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	тълпяха	тълпа	VERB	_	_
+
+LVC.full
+0	хвърлили	хвърля-(се)	VERB	_	_
+1	котва	котво	NOUN	0	obj
+
+IAV
+0	се	се	PRON	1	expl
+1	преситил	преситя	VERB	_	_
+2	на	на	ADP	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	нарежда	нареждам-(се)	VERB	_	_
+
+LVC.full
+0	изразява	изразявам-(се)	VERB	_	_
+1	опасения	опасение	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	резервите	резерва	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	основаваха	основавам	VERB	_	_
+
+IRV
+0	базираща	базирам	ADJ	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	несъгласие	несъгласие	NOUN	0	obj
+
+IRV
+0	пързалящи	пързалям	ADJ	_	_
+1	се	се	PRON	0	expl
+
+LVC.full
+0	имам	имам	VERB	_	_
+1	нужда	нужда	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	смее	смея-се	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	забавлявахме	забавлявам-(се)	VERB	_	_
+
+LVC.cause
+0	поставят	поставя-(се)	VERB	_	_
+1	началото	начало	NOUN	0	obj
+
+VID
+0	даде	дам-(се)	VERB	_	_
+1	представа	представа	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	оплаче	оплача-(се)	VERB	_	_
+
+VID
+0	поддържа	поддържам	VERB	_	_
+1	отношения	отношение	NOUN	0	obj
+
+LVC.full
+0	подкрепата	подкрепа	NOUN	_	_
+1	оказва	оказвам-(се)	VERB	0	acl
+
+LVC.full
+0	изпълни	изпълня-(се)	VERB	_	_
+1	задължения	задължение	NOUN	0	obj
+
+LVC.full
+0	изрази	изразя-(се)	VERB	_	_
+1	отказа	отказ	NOUN	0	obj
+
+LVC.cause
+0	Поставено	поставя-(се)	VERB	_	_
+1	началото	начало	NOUN	0	nsubj:pass
+
+VID
+0	имат	има	VERB	_	_
+1	за	за	ADP	2	case
+2	цел	цел	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	влива	вливам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	провеждали	провеждам	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	насочва	насочвам-(се)	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	намесиха	намеся-(се)	VERB	_	_
+
+VID
+0	заема	заемам-(се)	VERB	_	_
+1	позиция	позиция	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	справя	справя-се	VERB	_	_
+
+VID
+0	поддържат	поддържам	VERB	_	_
+1	темпото	темпо	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	хвалел	хваля-(се)	VERB	_	_
+
+VID
+0	взеха	взема	VERB	_	_
+1	заложника	заложник	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	изправя	изправя-(се)	VERB	_	_
+
+LVC.full
+0	вземат	взема	VERB	_	_
+1	решение	решение	NOUN	0	obj
+
+VID
+0	попадат	попадам	VERB	_	_
+1	в	в	ADP	2	case
+2	ръцете	ръка	NOUN	0	iobj
+
+IRV
+0	се	се	PRON	1	expl
+1	проявиха	проява	VERB	_	_
+
+LVC.full
+0	мерките	мярка	NOUN	_	_
+1	предприема	предприемам	VERB	0	acl
+
+LVC.cause
+0	изразил	изразя-(се)	VERB	_	_
+1	признанието	признание	NOUN	0	obj
+
+LVC.full
+0	даде	дам-(се)	VERB	_	_
+1	пример	пример	NOUN	0	obj
+
+VID
+0	имайки	имайки	ADV	1	advmod
+1	предвид	предвид	ADV	_	_
+
+VID
+0	мерки	мярка	NOUN	_	_
+1	предприеме	предприема	VERB	_	_
+
+IRV
+0	се	се	PRON	1	expl
+1	подготви	подготвя-(се)	VERB	_	_
+
+LVC.full
+0	ангажиментите	ангажимент	NOUN	_	_
+1	поела	поема	VERB	0	acl
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	заключение	заключение	NOUN	0	obj
+
+LVC.full
+0	изразиха	изразя-(се)	VERB	_	_
+1	задоволството	задоволство	NOUN	0	obj
+
+IRV
+0	се	се	PRON	1	expl
+1	включва	включвам-(се)	VERB	_	_
+
+LVC.full
+0	мярка	мярка	NOUN	1	nsubj:pass
+1	предприета	предприема	VERB	_	_
+
+LVC.full
+0	извърши	извърша	ADJ	1	amod
+1	полет	полет	NOUN	_	_
+
+LVC.full
+0	направи	направя-(се)	VERB	_	_
+1	снимки	снимка	NOUN	0	obj
+
+VID
+0	изправят	изправя-(се)	VERB	_	_
+1	пред	пред	ADP	2	case
+2	правосъдието	правосъдие	NOUN	_	_
+
