@@ -1,0 +1,8832 @@
+VPC.full
+0	vorgeschlagen	vorschlagen	VERB	_	_
+
+VPC.full
+0	nacharbeiten	nacharbeiten	VERB	_	_
+
+VID
+0	Tür	Tür	NOUN	3	obj
+1	und	und	CCONJ	2	cc
+2	Tor	Tor	NOUN	0	conj
+3	öffnen	öffnen	VERB	_	_
+
+VPC.full
+0	teilte	teilen	VERB	_	_
+1	mit	mit	ADP	0	compound:prt
+
+VID
+0	Notbremse	Notbremse	NOUN	1	obj
+1	ziehen	ziehen	VERB	_	_
+
+LVC.full
+0	Warnstreiks	Warnstreik	NOUN	1	obl
+1	getreten	treten	VERB	_	_
+
+VPC.full
+0	zurückgefallen	zurückfallen	VERB	_	_
+1	.	.	PUNCT	0	punct
+
+VPC.full
+0	angeschwollen	anschwellen	VERB	_	_
+
+LVC.full
+0	läuft	laufen	VERB	_	_
+1	eine	ein	DET	2	det
+2	Großfahndung	Großfahndung	NOUN	0	nsubj
+
+VID
+0	Es	es	PRON	1	nsubj
+1	gibt	geben	VERB	_	_
+
+VPC.full
+0	greifen	greifen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	stattfänden	stattfinden	VERB	_	_
+
+LVC.full
+0	bereitet	bereiten	VERB	_	_
+1	Mühe	Mühe	NOUN	0	obj
+
+VPC.full
+0	durchzusetzen	durchsetzen	VERB	_	_
+
+VPC.full
+0	ausstattet	ausstatten	VERB	_	_
+
+VPC.full
+0	vorgeworfen	vorwerfen	VERB	_	_
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	kaputt	kaputt	ADV	0	mark
+
+VPC.full
+0	riß	reißen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	fliegen	fliegen	VERB	_	_
+1	um	um	ADP	3	case
+2	die	der	DET	3	det
+3	Ohren	Ohr	NOUN	0	obl
+
+VPC.full
+0	aufgenommen	aufnehmen	VERB	_	_
+
+VPC.full
+0	teilnehmen	teilnehmen	VERB	_	_
+
+VPC.full
+0	umzugehen	umgehen	VERB	_	_
+
+LVC.full
+0	Wache	Wache	NOUN	1	obj
+1	schieben	schieben	VERB	_	_
+
+VPC.semi
+0	angestiegen	ansteigen	VERB	_	_
+
+VPC.full
+0	freigesprochen	freisprechen	VERB	_	_
+
+VPC.full
+0	umzustellen	umstellen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	gebe	geben	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	umzustellen	umstellen	VERB	_	_
+
+VPC.full
+0	abgewählt	abwählen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	erholen	erholen	VERB	_	_
+
+VID
+0	hieß	heißen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VID
+0	heißt	heißen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.full
+0	umhüllen	umhüllen	VERB	_	_
+
+VPC.full
+0	schreckte	schrecken	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VID
+0	fehlte	fehlen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.full
+0	umsetzen	umsetzen	VERB	_	_
+
+VPC.full
+0	räumte	räumen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	abgestellt	abstellen	VERB	_	_
+
+VPC.full
+0	scheiden	scheiden	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	aufgelöst	auflösen	VERB	_	_
+
+VPC.full
+0	schließen	schließen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	schloß	schließen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	ausgeschlossen	ausschließen	VERB	_	_
+
+LVC.full
+0	sitzen	sitzen	VERB	_	_
+1	in	in	ADP	2	case
+2	Untersuchungshaft	Untersuchungshaft	NOUN	0	obl
+
+VPC.full
+0	nahm	nehmen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	entledigen	entledigen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	2	obj
+1	gegen	gegen	ADP	_	_
+2	stellt	stellen	VERB	_	_
+
+VPC.full
+0	ging	gehen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.semi
+0	aufgefordert	auffordern	VERB	_	_
+
+VPC.full
+0	einzureichen	einreichen	VERB	_	_
+
+VID
+0	schreiben	schreiben	VERB	_	_
+1	rote	rot	ADJ	2	amod
+2	Zahlen	Zahl	NOUN	0	obj
+
+VPC.full
+0	nachweisen	nachweisen	VERB	_	_
+
+VPC.full
+0	ausgelöst	auslösen	VERB	_	_
+
+LVC.full
+0	zu	zu	ADP	2	case
+1	der	der	DET	2	det
+2	Kenntnis	Kenntnis	NOUN	3	obl
+3	genommen	nehmen	VERB	_	_
+
+VPC.full
+0	voranzukommen	vorankommen	VERB	_	_
+
+VPC.full
+0	vorgeführt	vorführen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	bemühen	bemühen	VERB	_	_
+
+VPC.full
+0	gibt	geben	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VPC.full
+0	abgesagt	absagen	VERB	_	_
+
+VPC.full
+0	eingesetzt	einsetzen	VERB	_	_
+
+VID
+0	auf	auf	ADP	_	_
+1	gut	gut	ADV	3	advmod
+2	zu	zu	PART	3	mark
+3	sprechen	sprechen	VERB	_	_
+
+VPC.full
+0	angeschlossen	anschließen	VERB	_	_
+
+VPC.full
+0	umstellt	umstellen	VERB	_	_
+
+VPC.full
+0	rief	rufen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	machen	machen	VERB	_	_
+1	keinen	kein	PRON	2	advmod
+2	Hehl	Hehl	NOUN	0	obj
+3	aus	aus	ADP	_	_
+
+VPC.full
+0	abgebrochen	abbrechen	VERB	_	_
+
+VID
+0	zu	zu	ADP	2	case
+1	dem	der	DET	2	det
+2	Gegenstand	Gegenstand	NOUN	3	obl
+3	machen	machen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	zugrunde	zugrunde	ADV	0	compound:prt
+
+VID
+0	gab	geben	VERB	_	_
+1	bekannt	bekannt	ADV	0	mark
+
+VID
+0	eine	ein	DET	1	det
+1	Lawine	Lawine	NOUN	2	obj
+2	lostreten	lostreten	VERB	_	_
+
+VPC.full
+0	Druck	Druck	NOUN	1	obj
+1	ausüben	ausüben	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	äußern	äußern	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Gewahrsam	Gewahrsam	NOUN	2	obl
+2	genommen	nehmen	VERB	_	_
+
+VPC.full
+0	festgenommen	festnehmen	VERB	_	_
+
+VID
+0	gebe	geben	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+IRV
+0	enthielten	enthalten	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VID
+0	kaputtgeht	kaputtgehen	VERB	_	_
+
+LVC.cause
+0	unter	unter	ADP	1	case
+1	Strafe	Strafe	NOUN	2	obl
+2	stellte	stellen	VERB	_	_
+
+VPC.full
+0	anzureichern	anreichern	VERB	_	_
+
+VID
+0	findet	finden	VERB	_	_
+1	Widerhall	Widerhall	NOUN	0	obj
+
+VPC.full
+0	beitrügen	beitragen	VERB	_	_
+
+VPC.full
+0	wies	weisen	VERB	_	_
+1	hin	hin	ADV	0	compound:prt
+
+VPC.full
+0	nahmen	nehmen	VERB	_	_
+1	teil	teil	ADV	0	compound:prt
+
+VPC.full
+0	ausüben	ausüben	VERB	_	_
+
+VID
+0	gäbe	geben	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.full
+0	aufgeräumt	aufräumen	VERB	_	_
+
+IRV
+0	machen	machen	VERB	2	cop
+1	sich	er|es|sie	PRON	2	obj
+2	selbständig	selbständig	ADJ	_	_
+
+VPC.full
+0	halte	halten	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VID
+0	kam	kommen	VERB	_	_
+1	mit	mit	ADP	2	case
+2	Schrecken	Schreck|Schrecken	NOUN	0	obl
+3	davon	davon	ADV	0	compound:prt
+
+VPC.semi
+0	kündigte	kündigen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	ausmachten	ausmachen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	tun	tun	VERB	_	_
+
+VPC.full
+0	einräumen	einräumen	VERB	_	_
+
+VPC.full
+0	einlösen	einlösen	VERB	_	_
+
+VPC.full
+0	abgeschlossen	abschließen	VERB	_	_
+
+VPC.full
+0	aufgehäuft	aufhäufen	VERB	_	_
+
+VPC.full
+0	absegnen	absegnen	VERB	_	_
+
+VID
+0	heißt	heißen	VERB	_	_
+1	es	es	PRON	0	expl
+
+VID
+0	in	in	ADP	2	case
+1	ruhigere	ruhig	ADJ	2	amod
+2	Bahnen	Bahn|Bahnen	NOUN	3	obl
+3	lenken	lenken	VERB	_	_
+
+VID
+0	sei	sein	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Null	null	NUM	0	obl
+
+VPC.full
+0	auszuschließen	ausschließen	VERB	_	_
+
+VPC.full
+0	kündigte	kündigen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	wuchs	wachsen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	warf	werfen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	Beileid	Beileid	NOUN	1	obj
+1	ausgesprochen	aussprechen	VERB	_	_
+
+VPC.full
+0	ausgesprochen	aussprechen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	2	obj
+1	sehen	sehen	VERB	2	xcomp
+2	lassen	lassen	VERB	_	_
+
+IRV
+0	handelt	handeln	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+IRV
+0	erhoffen	erhoffen	VERB	_	_
+1	sich	er|es|sie	PRON	0	iobj
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	organisieren	organisieren	VERB	_	_
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+LVC.cause
+0	in	in	ADP	1	case
+1	Verbindung	Verbindung	NOUN	2	obl
+2	setzen	setzen	VERB	_	_
+
+VPC.full
+0	ausgehen	ausgehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	anbahne	anbahnen	VERB	_	_
+
+VPC.full
+0	anbahne	anbahnen	VERB	_	_
+
+LVC.full
+0	Entscheidung	Entscheidung	NOUN	_	_
+1	sei	sein	AUX	_	_
+2	gefallen	fallen|gefallen	VERB	_	_
+
+VID
+0	Es	es	PRON	1	nsubj
+1	geht	gehen	VERB	_	_
+2	um	um	ADP	_	_
+
+VID
+0	gibt	geben	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.semi
+0	anzustreben	anstreben	VERB	_	_
+
+VPC.full
+0	anklagen	anklagen	VERB	_	_
+
+VPC.full
+0	abgewiesen	abweisen	VERB	_	_
+
+VPC.full
+0	ausgesetzt	aussetzen	VERB	_	_
+
+VPC.full
+0	wiesen	weisen	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	2	obj
+1	auf	auf	ADP	_	_
+2	belaufen	belaufen	VERB	_	_
+
+VPC.full
+0	griff	greifen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+LVC.full
+0	Thema	Thema	NOUN	2	obl
+1	zu	zu	PART	2	mark
+2	machen	machen	VERB	_	_
+
+VPC.semi
+0	aussterben	aussterben	VERB	_	_
+
+IRV
+0	verhalten	verhalten	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	durchsetzen	durchsetzen	VERB	_	_
+
+VID
+0	den	der	DET	1	det
+1	Eindruck	Eindruck	NOUN	2	obj
+2	gewinnen	gewinnen	VERB	_	_
+
+VPC.full
+0	schließt	schließen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	durchgesetzt	durchsetzen	VERB	_	_
+
+VID
+0	ernten	ernten	VERB	_	_
+1	was	was	PRON	3	obj
+2	man	man	PRON	3	nsubj
+3	gesät	säen	VERB	0	ccomp
+
+VID
+0	verschlug	verschlagen	VERB	_	_
+1	die	der	DET	2	det
+2	Sprache	Sprache	NOUN	0	obj
+
+VPC.full
+0	kommen	kommen	VERB	_	_
+1	mit	mit	ADP	0	compound:prt
+
+VPC.full
+0	aufgestockt	aufstocken	VERB	_	_
+
+VID
+0	in	in	ADP	3	case
+1	eine	ein	DET	2	det
+2	Sackgasse	Sackgasse	NOUN	0	nsubj
+3	geraten	geraten|raten	VERB	_	_
+
+VPC.semi
+0	abschaffen	abschaffen	VERB	_	_
+
+VPC.full
+0	einschränken	einschränken	VERB	_	_
+
+VPC.full
+0	nachgehen	nachgehen	VERB	_	_
+
+VPC.full
+0	nahm	nehmen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	fingen	fangen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	trat	treten	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	Löcher	Loch	NOUN	_	_
+1	stopfen	stopfen	VERB	_	_
+
+LVC.full
+0	absolvierte	absolvieren	VERB	_	_
+1	Raketenflug	Raketenflug	NOUN	0	obj
+
+VPC.full
+0	marschierte	marschieren	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.semi
+0	vorstellen	vorstellen	VERB	_	_
+
+VPC.semi
+0	ausfüllt	ausfüllen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	iobj
+1	vorstellen	vorstellen	VERB	_	_
+
+VPC.full
+0	traf	treffen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+LVC.full
+0	hatte	haben	VERB	_	_
+1	Tradition	Tradition	NOUN	0	obj
+
+VPC.full
+0	wenden	wenden	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	konzentrierten	konzentrieren	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+LVC.full
+0	führten	führen	VERB	_	_
+1	Eroberungsfeldzüge	Eroberungsfeldzug	NOUN	0	obj
+
+VPC.semi
+0	kommen	kommen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+LVC.cause
+0	führten	führen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Abbruch	Abbruch	NOUN	0	obl
+
+LVC.full
+0	fanden	finden	VERB	_	_
+1	Verehrung	Verehrung	NOUN	0	obj
+
+LVC.full
+0	Brut	Brut	NOUN	1	nsubj:pass
+1	gebildet	bilden	VERB	_	_
+
+LVC.full
+0	betreiben	betreiben	VERB	_	_
+1	Brutpflege	Brutpflege	NOUN	0	obj
+
+VID
+0	nicht	nicht	PART	1	advmod
+1	mehr	mehr	ADV	4	advmod
+2	zu	zu	PART	3	mark
+3	denken	denken	VERB	4	xcomp
+4	war	sein	VERB	_	_
+
+LVC.full
+0	sind	sein	VERB	_	_
+1	von	von	ADP	2	case
+2	Bedeutung	Bedeutung	NOUN	0	obl
+
+VPC.full
+0	zurechtrücken	zurechtrücken	VERB	_	_
+
+VPC.full
+0	trug	tragen	VERB	_	_
+1	bei	bei	ADP	0	compound:prt
+
+VPC.full
+0	abkommandiert	abkommandieren	VERB	_	_
+
+VID
+0	kommt	kommen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VID
+0	kaltgestellt	kaltstellen	VERB	_	_
+
+VPC.full
+0	auszugleichen	ausgleichen	VERB	_	_
+
+VPC.full
+0	beigesetzt	beisetzen	VERB	_	_
+
+VPC.full
+0	angeschaltet	anschalten	ADJ	_	_
+
+VPC.full
+0	einquartieren	einquartieren	VERB	_	_
+
+VPC.full
+0	angehört	angehören|anhören	VERB	_	_
+
+LVC.full
+0	bestritt	bestreiten	VERB	_	_
+1	Länderspiele	Länderspiel	NOUN	0	obj
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	einsetzt	einsetzen	VERB	_	_
+
+VPC.full
+0	einsetzt	einsetzen	VERB	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Zusammenhang	Zusammenhang	NOUN	2	obl
+2	stehen	stehen	VERB	_	_
+
+VPC.full
+0	zurückgewiesen	zurückweisen	VERB	_	_
+
+IRV
+0	es	es	PRON	2	nsubj
+1	sich	er|es|sie	PRON	2	obj
+2	handeln	handeln	VERB	_	_
+
+VID
+0	siehe	sehen	VERB	_	_
+1	dort	dort	ADV	0	advmod
+
+VPC.full
+0	ausgestattet	ausstatten	VERB	_	_
+
+VPC.full
+0	fortgeschritten	fortschreiten	ADJ	_	_
+
+VPC.full
+0	durchgeführt	durchführen	VERB	_	_
+
+LVC.full
+0	hatte	haben	VERB	_	_
+1	einen	ein	DET	2	det
+2	Einsatz	Einsatz	NOUN	0	obj
+
+VPC.full
+0	anfängt	anfangen	VERB	_	_
+
+VID
+0	folgte	folgen	VERB	_	_
+1	dem	der	DET	2	det
+2	Beispiel	Beispiel	NOUN	0	iobj
+
+IRV
+0	befindet	befinden	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	auszutragen	austragen	VERB	_	_
+
+VPC.full
+0	stammten	stammen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	zugrunde	zugrunde	ADV	1	mark
+1	liegt	liegen	VERB	_	_
+
+IRV
+0	handelt	handeln	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	sich	er|es|sie	PRON	0	obj
+
+LVC.full
+0	angelegt	anlegen	VERB	_	_
+
+VPC.full
+0	ging	gehen	VERB	_	_
+1	über	über	ADP	0	compound:prt
+
+VPC.full
+0	fortgesetzt	fortsetzen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	richten	richten	VERB	_	_
+
+LVC.full
+0	steht	stehen	VERB	_	_
+1	zu	zu	ADP	3	case
+2	der	der	DET	3	det
+3	Verfügung	Verfügung	NOUN	0	obl
+
+VPC.full
+0	anzunehmen	annehmen	VERB	_	_
+
+VID
+0	zu	zu	ADP	2	case
+1	der	der	DET	2	det
+2	Welt	Welt	NOUN	3	obl
+3	brachte	bringen	VERB	_	_
+
+VPC.full
+0	abgestimmt	abstimmen	VERB	_	_
+
+VPC.full
+0	fing	fangen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	abgesetzt	absetzen	ADJ	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Verbindung	Verbindung	NOUN	2	obl
+2	gebracht	bringen	VERB	_	_
+
+LVC.full
+0	Eindruck	Eindruck	NOUN	1	obj
+1	verschaffen	verschaffen	VERB	_	_
+
+VPC.full
+0	stellten	stellen	VERB	_	_
+1	her	her	ADV	0	compound:prt
+
+IRV
+0	nähert	nähern	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+2	an	an	ADP	0	compound:prt
+
+VID
+0	verloren	verlieren	ADV	1	mark
+1	gegangen	gehen	VERB	_	_
+
+VPC.full
+0	setzte	setzen	VERB	_	_
+1	aus	aus	ADP	0	mark
+
+LVC.full
+0	gab	geben	VERB	_	_
+1	Orgelkonzerte	Orgelkonzert	NOUN	0	obj
+
+VPC.full
+0	stellt	stellen	VERB	_	_
+1	dar	dar	ADV	0	compound:prt
+
+VPC.full
+0	einsetzte	einsetzen	VERB	_	_
+
+VPC.semi
+0	ansah	ansehen	VERB	_	_
+
+LVC.full
+0	Pläne	Plan	NOUN	1	obj
+1	gemacht	machen	VERB	_	_
+
+VPC.full
+0	aufgehellt	aufhellen	VERB	_	_
+
+IRV
+0	erstreckt	erstrecken	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VID
+0	hat	haben	VERB	_	_
+1	Schlagseite	Schlagseite	NOUN	0	obj
+
+LVC.full
+0	standen	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Vertrag	Vertrag	NOUN	0	obl
+
+VPC.full
+0	einsetzen	einsetzen	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	und	und	CCONJ	2	cc
+2	fällt	fallen|fällen	VERB	0	conj
+
+LVC.full
+0	Ausgrabung	Ausgrabung	NOUN	1	nsubj:pass
+1	durchgeführt	durchführen	VERB	_	_
+
+VPC.semi
+0	tauchte	tauchen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	trat	treten	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	schränkte	schränken	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+LVC.full
+0	gab	geben	VERB	_	_
+1	Gastspiele	Gastspiel	NOUN	0	obj
+
+VPC.full
+0	forderte	fordern	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	auszusprechen	aussprechen	VERB	_	_
+
+VPC.semi
+0	abreißen	abreißen	VERB	_	_
+
+VPC.semi
+0	übrig	übrig	ADJ	_	_
+1	blieben	bleiben	VERB	0	cop
+
+LVC.full
+0	auf	auf	ADP	1	case
+1	Reisen	Reise|Reisen	NOUN	2	obl
+2	war	sein	VERB	_	_
+
+VPC.full
+0	aufzubauen	aufbauen	VERB	_	_
+
+VPC.full
+0	setzt	setzen	VERB	_	_
+1	zusammen	zusammen	ADV	0	compound:prt
+
+IRV
+0	setzt	setzen	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+2	zusammen	zusammen	ADV	0	compound:prt
+
+VPC.semi
+0	brachen	brechen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+LVC.full
+0	war	sein	VERB	2	cop
+1	in	in	ADP	2	case
+2	Betrieb	Betrieb	NOUN	_	_
+
+VPC.full
+0	freigegeben	freigeben	VERB	_	_
+
+VPC.full
+0	sperrte	sperren	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	abstürzten	abstürzen	VERB	_	_
+
+VPC.full
+0	zusammengeschlossen	zusammenschließen	VERB	_	_
+
+VPC.full
+0	ausgeführt	ausführen	VERB	_	_
+
+VID
+0	das	der	PRON	1	nsubj
+1	heißt	heißen	VERB	_	_
+
+VPC.full
+0	fertiggestellt	fertigstellen	VERB	_	_
+
+VPC.full
+0	abgewehrt	abwehren	VERB	_	_
+
+VPC.full
+0	ausgesetzt	aussetzen	ADJ	_	_
+
+VPC.full
+0	sahen	sehen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	gibt	geben	VERB	_	_
+1	es	es	PRON	0	expl
+
+LVC.full
+0	in	in	ADP	1	case
+1	Erinnerung	Erinnerung	NOUN	2	obl
+2	bleiben	bleiben	VERB	_	_
+
+VPC.full
+0	vorschlug	vorschlagen	VERB	_	_
+
+IRV
+0	befinden	befinden	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+LVC.full
+0	einer	ein	DET	1	det
+1	Meinung	Meinung	NOUN	2	iobj
+2	war	sein	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	befindet	befinden	VERB	_	_
+
+IRV
+0	stellte	stellen	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+IRV
+0	hinter	hinter	ADP	1	case
+1	sich	er|es|sie	PRON	2	obl
+2	lassen	lassen	VERB	_	_
+
+VPC.full
+0	angelegt	anlegen	ADJ	_	_
+
+VID
+0	Fuß	Fuß	NOUN	2	obj
+1	zu	zu	PART	2	mark
+2	fassen	fassen	VERB	_	_
+
+LVC.full
+0	einen	ein	DET	1	det
+1	Traum	Traum	NOUN	2	obj
+2	verfolgen	verfolgen	VERB	_	_
+
+VPC.full
+0	abschloss	abschließen	VERB	_	_
+
+VPC.semi
+0	gab	geben	VERB	_	_
+1	heraus	heraus	ADV	0	compound:prt
+
+VPC.full
+0	aufgehoben	aufheben	VERB	_	_
+
+VPC.full
+0	auf	auf	NOUN	_	_
+1	abstieg	absteigen	VERB	0	conj
+
+LVC.full
+0	hatte	haben	VERB	_	_
+1	Engagements	Engagement	NOUN	0	obj
+
+IRV
+0	befanden	befinden	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VID
+0	zu	zu	ADP	1	case
+1	Hilfe	Hilfe	NOUN	2	obl
+2	rief	rufen	VERB	_	_
+
+LVC.full
+0	fand	finden	VERB	_	_
+1	Ende	Ende	NOUN	0	obj
+
+VPC.full
+0	sprach	sprechen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VPC.full
+0	aufweisen	aufweisen	VERB	_	_
+
+VID
+0	recht	recht	NOUN	1	obj
+1	hat	haben	VERB	_	_
+
+VPC.full
+0	eingestuft	einstufen	VERB	_	_
+
+VPC.full
+0	festnehmen	festnehmen	VERB	_	_
+
+VID
+0	zu	zu	ADP	2	case
+1	der	der	DET	2	det
+2	Rechenschaft	Rechenschaft	NOUN	3	obl
+3	gezogen	ziehen	VERB	_	_
+
+VPC.full
+0	eingegliedert	eingliedern	VERB	_	_
+
+VID
+0	gilt	gelten	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.full
+0	eingebürgert	einbürgern	VERB	_	_
+
+VPC.full
+0	trat	treten	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+LVC.full
+0	Voraussagen	Voraussage	NOUN	1	obj
+1	treffen	treffen	VERB	_	_
+
+VPC.full
+0	auffiel	auffallen	VERB	_	_
+
+LVC.full
+0	gelang	gelingen	VERB	_	_
+1	Sprung	Sprung	NOUN	0	nsubj
+
+VID
+0	belegt	belegen	VERB	_	_
+1	Plätze	Platz	NOUN	0	obj
+
+VPC.full
+0	darstellen	darstellen	VERB	_	_
+
+VPC.full
+0	teilnehmenden	teilnehmend	ADJ	_	_
+
+VPC.full
+0	angehörten	angehören	VERB	_	_
+
+VPC.full
+0	bereitet	bereiten	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	aufwuchs	aufwachsen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	2	obj
+1	an	an	ADP	_	_
+2	hielt	halten	VERB	_	_
+
+VPC.full
+0	lehnte	lehnen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	eingeschlossen	einschließen	VERB	_	_
+
+VPC.full
+0	trat	treten	VERB	_	_
+1	bei	bei	ADP	0	compound:prt
+
+IRV
+0	widmet	widmen	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	einschließt	einschließen	VERB	_	_
+
+VPC.full
+0	wies	weisen	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VPC.semi
+0	angibt	angeben	VERB	_	_
+
+VPC.full
+0	spielte	spielen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VID
+0	Ämter	Amt	NOUN	1	obj
+1	bekleiden	bekleiden	VERB	_	_
+
+VID
+0	gab	geben	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.full
+0	anordnet	anordnen	VERB	_	_
+
+VPC.semi
+0	aufbewahrt	aufbewahren	VERB	_	_
+
+LVC.full
+0	stehen	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Denkmalschutz	Denkmalschutz	NOUN	0	obl
+
+VID
+0	hin	hin	NOUN	_	_
+1	und	und	CCONJ	2	cc
+2	hergerissen	herreißen	ADJ	0	conj
+
+VID
+0	in	in	ADP	2	case
+1	dem	der	DET	2	det
+2	Stich	Stich	NOUN	3	obl
+3	lassen	lassen	VERB	_	_
+
+VPC.full
+0	eingestellt	einstellen	VERB	_	_
+
+VPC.full
+0	fanden	finden	VERB	_	_
+1	statt	statt	ADP	0	compound:prt
+
+VPC.full
+0	aufgezeichnet	aufzeichnen	VERB	_	_
+
+VPC.full
+0	eingeht	eingehen	VERB	_	_
+
+VPC.semi
+0	einlädt	einladen	VERB	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	den	der	DET	2	det
+2	Hof	Hof	NOUN	0	obj
+
+VPC.full
+0	eingezogen	einziehen	VERB	_	_
+
+VPC.full
+0	nachgewiesen	nachweisen	VERB	_	_
+
+VPC.full
+0	trat	treten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	ausweisen	ausweisen	VERB	_	_
+
+VID
+0	Es	es	PRON	1	expl
+1	gab	geben	VERB	_	_
+
+LVC.full
+0	Operation	Operation	NOUN	1	nsubj:pass
+1	durchgeführt	durchführen	VERB	_	_
+
+VPC.full
+0	nahm	nehmen	VERB	_	_
+1	teil	teil	ADV	0	compound:prt
+
+VPC.full
+0	einzubinden	einbinden	VERB	_	_
+
+VPC.full
+0	gab	geben	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	glauben	glauben	VERB	1	xcomp
+1	machen	machen	VERB	_	_
+
+LVC.full
+0	Leben	Leben	NOUN	1	obj
+1	führen	führen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	auszutauschen	austauschen	VERB	_	_
+
+VPC.full
+0	auszutauschen	austauschen	VERB	_	_
+
+LVC.full
+0	übernahm	übernehmen	VERB	_	_
+1	Kommando	Kommando	NOUN	0	obj
+
+VPC.full
+0	weisen	weisen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	sprach	sprechen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+LVC.full
+0	kommen	kommen	VERB	_	_
+1	zu	zu	ADP	3	case
+2	dem	der	DET	3	det
+3	Einsatz	Einsatz	NOUN	0	obl
+
+IRV
+0	vereinigen	vereinigen	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	hin	hin	NOUN	2	mark
+1	und	und	CCONJ	2	cc
+2	herschalten	herschalten	VERB	_	_
+
+LVC.full
+0	haben	haben	VERB	_	_
+1	Ursprung	Ursprung	NOUN	0	obj
+
+LVC.full
+0	dient	dienen	VERB	_	_
+1	Zweck	Zweck	NOUN	0	iobj
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	hinzugeben	hingeben	VERB	_	_
+
+VPC.semi
+0	hinzugeben	hingeben	VERB	_	_
+
+LVC.full
+0	An	an	ADP	2	case
+1	dem	der	DET	2	det
+2	Start	Start	NOUN	3	obl
+3	standen	stehen	VERB	_	_
+
+VPC.full
+0	ausgezeichnet	auszeichnen	VERB	_	_
+
+VID
+0	gingen	gehen	VERB	_	_
+1	verloren	verlieren	ADV	0	mark
+
+VPC.full
+0	schloss	schließen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	stellte	stellen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	bricht	brechen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	abgesetzt	absetzen	VERB	_	_
+
+VID
+0	auf	auf	ADP	2	case
+1	den	der	DET	2	det
+2	Markt	Markt	NOUN	4	obl
+3	zu	zu	PART	4	mark
+4	bringen	bringen	VERB	_	_
+
+VPC.full
+0	ausgebaut	ausbauen	VERB	_	_
+
+LVC.full
+0	Durchbruch	Durchbruch	NOUN	1	nsubj
+1	gelang	gelingen	VERB	_	_
+
+VPC.full
+0	hergestellt	herstellen	VERB	_	_
+
+IRV
+0	befand	befinden	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+LVC.full
+0	verzeichneten	verzeichnen	VERB	_	_
+1	Wachstum	Wachstum	NOUN	0	obj
+
+LVC.full
+0	zu	zu	ADP	2	case
+1	der	der	DET	2	det
+2	Verfügung	Verfügung	NOUN	3	obl
+3	gestellt	stellen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	unterhalten	unterhalten	VERB	_	_
+
+LVC.full
+0	kam	kommen	VERB	_	_
+1	zu	zu	ADP	3	case
+2	dem	der	DET	3	det
+3	Einsatz	Einsatz	NOUN	0	obl
+
+VPC.full
+0	gibt	geben	VERB	_	_
+1	wieder	wieder	ADV	0	mark
+
+VPC.full
+0	pendelte	pendeln	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	pendelte	pendeln	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+2	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	wiedergegeben	wiedergeben	VERB	_	_
+
+VPC.full
+0	treten	treten	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+IRV
+0	lässt	lassen	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+2	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	lässt	lassen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	aufgegeben	aufgeben	VERB	_	_
+
+LVC.full
+0	unter	unter	ADP	1	case
+1	Vertrag	Vertrag	NOUN	2	obl
+2	stand	stehen	VERB	_	_
+
+VPC.full
+0	abgetragen	abtragen	VERB	_	_
+
+VPC.full
+0	einnahm	einnehmen	PART	_	_
+
+VID
+0	in	in	ADP	2	case
+1	das	der	DET	2	det
+2	Auge	Auge	NOUN	3	obl
+3	gefasst	fassen	VERB	_	_
+
+VID
+0	zu	zu	ADP	2	case
+1	alten	alt	ADJ	2	amod
+2	Glanz	Glanz	NOUN	3	obl
+3	zurückkehren	zurückkehren	VERB	_	_
+
+VPC.full
+0	aufheben	aufheben	VERB	_	_
+
+VPC.full
+0	finden	finden	VERB	_	_
+1	statt	statt	ADP	0	compound:prt
+
+VPC.full
+0	anzog	anziehen	VERB	_	_
+
+VID
+0	zu	zu	ADP	2	case
+1	der	der	DET	2	det
+2	Seite	Seite	NOUN	3	obl
+3	gestellt	stellen	VERB	_	_
+
+VPC.full
+0	angenommen	annehmen	VERB	_	_
+
+VPC.full
+0	halfen	helfen	VERB	_	_
+1	mit	mit	ADP	0	compound:prt
+
+VID
+0	dem	der	DET	1	det
+1	Verfall	Verfall	NOUN	2	iobj
+2	preis	preis	PART	_	_
+
+IRV
+0	betätigte	betätigen	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	weist	weisen	VERB	_	_
+1	nach	nach	ADP	0	compound:prt
+
+VID
+0	kriselt	kriseln	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+LVC.full
+0	Auskünfte	Auskunft	NOUN	1	obj
+1	geben	geben	VERB	_	_
+
+LVC.full
+0	befindet	befinden	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+2	in	in	ADP	3	case
+3	Planung	Planung	NOUN	0	obl
+
+VPC.full
+0	gleichgesetzt	gleichsetzen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	einigen	einigen	VERB	_	_
+
+VPC.full
+0	stellt	stellen	VERB	_	_
+1	her	her	ADV	0	compound:prt
+
+VID
+0	in	in	ADP	2	case
+1	die	der	DET	2	det
+2	Schule	Schule	NOUN	3	obl
+3	gehen	gehen	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	bereit	bereit	ADV	0	compound:prt
+
+VPC.full
+0	ausgerichtet	ausrichten	VERB	_	_
+
+VPC.full
+0	darzustellen	darstellen	VERB	_	_
+
+VPC.full
+0	taucht	tauchen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	zugesprochen	zusprechen	VERB	_	_
+
+VPC.semi
+0	abgeschafft	abschaffen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	obj
+1	bekannte	bekennen	VERB	_	_
+
+VPC.full
+0	angebracht	anbringen	VERB	_	_
+
+IRV
+0	handelt	handeln	VERB	_	_
+1	es	es	PRON	0	expl
+2	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	umgeschlagen	umschlagen	VERB	_	_
+
+VPC.full
+0	angeregt	anregen	VERB	_	_
+
+VID
+0	eine	ein	DET	1	det
+1	Familie	Familie	NOUN	2	obj
+2	gründen	gründen	VERB	_	_
+
+VPC.full
+0	sich	er|es|sie	PRON	1	obj
+1	zusammensetzt	zusammensetzen	VERB	_	_
+
+IRV
+0	belief	belaufen	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VID
+0	gibt	geben	VERB	_	_
+1	die	der	DET	_	_
+
+VPC.full
+0	abgegebenen	abgegeben	ADJ	_	_
+
+LVC.full
+0	sammelte	sammeln	VERB	_	_
+1	Theatererfahrungen	Theatererfahrung	NOUN	0	obj
+
+VID
+0	stellten	stellen	VERB	_	_
+1	fertig	fertig	ADJ	0	xcomp
+
+VPC.semi
+0	nimmt	nehmen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+LVC.full
+0	waren	sein	VERB	3	cop
+1	in	in	ADP	3	case
+2	dem	der	DET	3	det
+3	Besitz	Besitz	NOUN	_	_
+
+VPC.full
+0	ausgewiesen	ausweisen	ADJ	_	_
+
+VID
+0	folgte	folgen	VERB	_	_
+1	Beispiel	Beispiel	NOUN	0	iobj
+
+LVC.full
+0	kam	kommen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Aussprache	Aussprache	NOUN	0	obl
+
+VID
+0	kam	kommen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.full
+0	kehrte	kehren	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VPC.full
+0	richteten	richten	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	richteten	richten	VERB	_	_
+1	sich	er|es|sie	PRON	0	iobj
+2	ein	ein	ADV	0	compound:prt
+
+LVC.full
+0	unter	unter	ADP	1	case
+1	Vertrag	Vertrag	NOUN	_	_
+2	steht	stehen	VERB	1	cop
+
+VPC.full
+0	ausführte	ausführen	VERB	_	_
+
+VPC.full
+0	führt	führen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	flossen	fließen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	lieh	leihen	VERB	_	_
+1	Stimme	Stimme	NOUN	0	obj
+
+VPC.full
+0	ausgebildet	ausbilden	VERB	_	_
+
+VPC.full
+0	kommen	kommen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	findet	finden	VERB	_	_
+1	statt	statt	ADP	0	compound:prt
+
+VPC.full
+0	aufhören	aufhören	VERB	_	_
+
+VPC.full
+0	eingemeindet	eingemeinden	VERB	_	_
+
+VPC.full
+0	nahm	nehmen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	handelte	handeln	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	sich	er|es|sie	PRON	0	obj
+
+IRV
+0	handelte	handeln	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	einberufen	einberufen	VERB	_	_
+
+VPC.full
+0	herzieht	herziehen	VERB	_	_
+
+VPC.semi
+0	angeworben	anwerben	VERB	_	_
+
+LVC.full
+0	spielte	spielen	VERB	_	_
+1	Rolle	Rolle	NOUN	0	obj
+
+LVC.full
+0	Kontakte	Kontakt	NOUN	1	obj
+1	unterhalten	unterhalten	VERB	_	_
+
+LVC.full
+0	zu	zu	ADP	2	case
+1	der	der	DET	2	det
+2	Verantwortung	Verantwortung	NOUN	3	obl
+3	gezogen	ziehen	VERB	_	_
+
+VPC.full
+0	suchten	suchen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.semi
+0	ausgewertet	auswerten	VERB	_	_
+
+LVC.full
+0	war	sein	VERB	3	cop
+1	an	an	ADP	3	case
+2	dem	der	DET	3	det
+3	Start	Start	NOUN	_	_
+
+VPC.full
+0	greift	greifen	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VPC.full
+0	untergebracht	unterbringen	ADJ	_	_
+
+IRV
+0	ergibt	ergeben	VERB	_	_
+1	sich	er|es|sie	PRON	0	obj
+
+VPC.full
+0	speist	speisen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+LVC.full
+0	kam	kommen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Bundesliga-Einsatz	Bundesliga-Einsatz	NOUN	0	nmod
+
+VPC.full
+0	aufgewachsen	aufwachsen	VERB	_	_
+
+VID
+0	Große	groß	ADJ	1	amod
+1	Reden	Rede|Reden	NOUN	2	dobj
+2	geschwungen	schwungen	VERB	_	_
+
+VID
+0	spielten	spielen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	Bälle	Ball	NOUN	0	nsubj
+3	hin	hin	ADV	0	compound:prt
+4	und	und	CONJ	0	cc
+5	her	her	ADV	0	compound:prt
+
+VPC.full
+0	sitzen	sitzen	VERB	_	_
+1	fest	fest	ADV	_	_
+
+VPC.full
+0	löst	lösen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	aufgeführt	aufführen	VERB	_	_
+
+VID
+0	klar	klar	ADJ	1	advmod
+1	stellte	stellen	VERB	_	_
+
+VPC.full
+0	zeichnete	zeichnet	ADJ	_	_
+1	aus	aus	ADP	_	_
+
+IRV
+0	wehren	wehren	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	anreichert	anreichern	VERB	_	_
+
+VID
+0	wurde	werden	AUX	_	_
+1	fündig	fündig	ADJ	_	_
+
+VPC.full
+0	statteten	statten	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VID
+0	Eindruck	Eindruck	NOUN	1	dobj
+1	erwecken	erwecken	VERB	_	_
+
+IRV
+0	handele	handel	PROPN	_	_
+1	sich	er|es|sie	PRON	_	_
+2	um	um	ADP	_	_
+
+VPC.full
+0	ahmten	ahmen	VERB	_	_
+1	nach	nach	ADP	0	compound:prt
+
+VPC.full
+0	heuerte	heueren	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+LVC.full
+0	in	in	ADP	1	case
+1	Krise	Krise	NOUN	2	nmod
+2	steckten	stecken	VERB	_	_
+
+VPC.full
+0	anbot	anbieten	VERB	_	_
+
+VID
+0	Abwärts	abwärt	NOUN	1	nmod
+1	ging	gehen	VERB	_	_
+2	es	es	PRON	1	nsubj
+
+VPC.full
+0	weitergehen	weitergehen	VERB	_	_
+
+VID
+0	hatten	haben	AUX	_	_
+1	im	in+der	ADP	2	case
+2	Griff	Griff	NOUN	_	_
+
+VID
+0	Bearbeitungsgebühr	Bearbeitungsgebühr	NOUN	1	nsubj
+1	entrichten	entrichen	VERB	_	_
+
+VPC.full
+0	schließen	schlassen	VERB	_	_
+1	ab	ab	ADP	_	_
+
+VPC.full
+0	ausrücken	ausrücken	VERB	_	_
+
+LVC.full
+0	übte	üben	VERB	_	_
+1	Kritik	Kritik	NOUN	0	dobj
+
+VID
+0	es	es	PRON	1	expl
+1	aussieht	aussiehen	VERB	_	_
+
+VPC.full
+0	aussieht	aussiehen	VERB	_	_
+
+VPC.full
+0	räumten	räumen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	aufgehalten	aufgehalten	VERB	_	_
+
+VID
+0	tut	tun	VERB	_	_
+1	weh	weh	ADV	0	advmod
+
+VPC.full
+0	ausrichten	ausrichten	VERB	_	_
+
+LVC.full
+0	Auskunft	Auskunft	NOUN	1	dobj
+1	geben	geben	VERB	_	_
+
+IRV
+0	schlägt	schlagen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	nieder	nieder	ADV	0	advmod
+
+VPC.full
+0	schlägt	schlagen	VERB	_	_
+1	nieder	nieder	ADV	0	advmod
+
+VPC.full
+0	fiel	fallen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.semi
+0	eingeladen	einladen	VERB	_	_
+
+VPC.full
+0	teilzunehmen	teilnehmen	VERB	_	_
+
+VPC.full
+0	ließ	lassen	VERB	_	_
+1	ein	ein	ADV	_	_
+
+VPC.full
+0	herausstellte	herausstellen	VERB	_	_
+
+VPC.full
+0	ausgelaufen	ausgelaufen	VERB	_	_
+
+LVC.full
+0	leitete	leiten	VERB	_	_
+1	Untersuchung	Untersuchung	NOUN	0	dobj
+2	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	leitete	leiten	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	verbirgt	verbergen	VERB	_	_
+1	sich	er|es|sie	PRON	_	_
+
+IRV
+0	beläuft	belaufen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	wiederzugeben	wiederzugeben	VERB	_	_
+
+LVC.cause
+0	Zutritt	Zutritt	NOUN	1	dobj
+1	gewähren	währen	VERB	_	_
+
+VID
+0	im	in+der	ADP	1	case
+1	Auge	Aug	NOUN	2	nmod
+2	behalten	behalten	VERB	_	_
+
+VID
+0	auf	auf	ADP	2	case
+1	die	der	DET	2	det
+2	Sprünge	Sprünge	NOUN	3	nmod
+3	helfen	helfen	VERB	_	_
+
+VPC.full
+0	fortgesetzt	fortgesetzen	VERB	_	_
+
+LVC.full
+0	Entscheidung	Entscheidung	NOUN	1	nsubj
+1	fällt	fallen|fällen	VERB	_	_
+
+VID
+0	kommt	kommen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Markt	Markt	NOUN	0	nmod
+
+VID
+0	Klischees	Klischees	PROPN	_	_
+1	bedient	bedienen	VERB	_	_
+
+VPC.full
+0	eingeworfen	eingewerfen	VERB	_	_
+
+VPC.full
+0	ausgefüllten	ausgefüllt	ADJ	_	_
+
+VID
+0	hält	halten	VERB	_	_
+1	davon	davon	PRON	_	_
+
+VID
+0	Es	es	PRON	_	_
+1	gilt	gelten	VERB	_	_
+
+VPC.semi
+0	einladen	einladen	VERB	_	_
+
+IRV
+0	tat	tun	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	tat	tun	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	schwer	schwer	ADJ	_	_
+
+IRV
+0	tut	tun	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.semi
+0	bietet	bieten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+IRV
+0	lohnt	lohnen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	legten	legen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	kamen	kommen	VERB	_	_
+1	ums	um+der	ADP	2	case
+2	Leben	Leben	NOUN	0	nmod
+
+IRV
+0	sich	er|es|sie	PRON	3	dobj
+1	nicht	nicht	PART	3	neg
+2	nehmen	nehmen	VERB	3	xcomp
+3	lassen	lassen	VERB	_	_
+
+VID
+0	fehlte	fehlen	VERB	_	_
+1	jede	jed	PRON	2	det
+2	Spur	Spur	NOUN	0	nsubj
+
+VID
+0	Freundschaften	Freundschaft	NOUN	_	_
+1	schließen	schließen	VERB	0	xcomp
+
+VID
+0	ernst	ernst	ADJ	1	advmod
+1	nehme	nehmen	VERB	_	_
+
+VPC.full
+0	ausgetragen	austragen	VERB	_	_
+
+VPC.full
+0	vorgestellt	vorgestellen	VERB	_	_
+
+VID
+0	es	es	PRON	1	expl
+1	geben	geben	VERB	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	nicht	nicht	PART	0	neg
+2	viel	viel	ADV	0	compound:prt
+
+VID
+0	herrscht	herrschen	VERB	_	_
+1	Hochbetrieb	Hochbetrieb	NOUN	0	dobj
+
+VPC.full
+0	herumzuhacken	herumzuhacken	VERB	_	_
+
+VPC.full
+0	angebrachte	angebracht	ADJ	_	_
+
+VID
+0	gab	geben	VERB	_	_
+1	es	es	PRON	0	expl
+
+VPC.full
+0	ausgelobt	ausgeloben	VERB	_	_
+
+VID
+0	es	es	PRON	1	expl
+1	gegeben	geben	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Besitz	Besitz	NOUN	2	nmod
+2	nahmen	nehmen	VERB	_	_
+
+VID
+0	es	es	PRON	1	dobj
+1	gibt	geben	VERB	_	_
+
+VPC.full
+0	ablichten	ablichten	VERB	_	_
+
+VPC.full
+0	setze	setz	NOUN	1	nsubj
+1	ein	ein	DET	_	_
+
+IRV
+0	verwahren	verwahren	VERB	_	_
+1	uns	wir	PRON	0	dobj
+
+VID
+0	stand	stehen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Wege	Weg	NOUN	0	nmod
+
+VPC.full
+0	anzuzapfen	anzapfen	VERB	_	_
+
+VPC.full
+0	abgesehen	abgesehen	VERB	_	_
+
+VID
+0	in	in	ADP	_	_
+1	Welt	Welt	NOUN	2	dobj
+2	setzen	setzen	VERB	_	_
+
+VID
+0	melden	melden	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	zu	zu	ADP	3	case
+3	Wort	Wort	NOUN	0	nmod
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	einzusetzen	einsetzen	VERB	_	_
+
+VPC.full
+0	angekündigt	ankündigen	VERB	_	_
+
+VPC.full
+0	durchgesetzt	durchgesetzen	VERB	_	_
+
+VPC.full
+0	stellt	stellen	VERB	_	_
+1	her	her	ADV	_	_
+
+VID
+0	aufmerksam	aufmerksam	ADJ	1	advmod
+1	machen	machen	VERB	_	_
+
+VID
+0	haben	haben	VERB	_	_
+1	Nase	Nas	NOUN	0	dobj
+2	vorn	vorn	ADV	0	compound:prt
+
+VID
+0	einiges	einiges	PRON	1	dobj
+1	getan	tun	VERB	_	_
+
+VPC.semi
+0	Angeboten	anbieten	VERB	_	_
+
+VID
+0	muten	muen	VERB	1	advcl
+1	bescheiden	bescheiden	VERB	_	_
+2	an	an	ADP	1	compound:prt
+
+VPC.full
+0	muten	muen	VERB	_	_
+1	an	an	ADP	_	_
+
+LVC.full
+0	spielen	spielen	VERB	_	_
+1	Rolle	Rolle	NOUN	0	dobj
+
+VID
+0	tun	tun	VERB	_	_
+1	unser	unser	DET	2	det:poss
+2	Bestes	Be	NOUN	0	appos
+
+VPC.full
+0	zurückgelegt	zurücklegen	VERB	_	_
+
+VPC.full
+0	gebe	geben	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+LVC.cause
+0	Ergebnis	Ergebnis	NOUN	1	nmod
+1	erzielen	erzielen	VERB	_	_
+
+LVC.full
+0	Durchbruch	Durchbruch	NOUN	1	dobj
+1	schaffen	schaffen	VERB	_	_
+
+VPC.full
+0	setzte	setzen	VERB	_	_
+1	durch	durch	ADP	_	_
+
+VPC.semi
+0	ausgerüstet	ausrüsten	ADJ	_	_
+
+LVC.full
+0	unternimmt	unternehmen	VERB	_	_
+1	Ausflug	Ausflug	NOUN	0	dobj
+
+VID
+0	davon	davon	ADV	1	advmod
+1	gekommen	kommen	VERB	_	_
+
+VID
+0	stellte	stellen	VERB	_	_
+1	klar	klar	ADJ	0	advmod
+
+LVC.full
+0	Fahrerflucht	Fahrerflucht	NOUN	1	nmod
+1	begangen	begehen	VERB	_	_
+
+VPC.full
+0	abzuhängen	abzuhängen	VERB	_	_
+
+VID
+0	stehen	stehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Programm	Programm	NOUN	0	nmod
+
+VID
+0	auf	auf	ADP	1	case
+1	Beine	Bein	NOUN	2	nmod
+2	gestellt	stellen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	fehlt	fehlen	VERB	_	_
+
+VID
+0	sitzt	sitzt	VERB	_	_
+1	auf	auf	ADP	3	case
+2	dem	der	DET	3	det
+3	Trockenen	trockene	NOUN	0	nmod
+
+VPC.full
+0	auszuschöpfen	auszuschöpfen	VERB	_	_
+
+VID
+0	bleibt	bleiben	VERB	_	_
+1	übrig	übrig	ADV	0	advmod
+
+VID
+0	macht	machen	VERB	_	_
+1	gute	gut	ADJ	2	amod
+2	Figur	Figur	NOUN	0	conj
+
+VPC.full
+0	ausgefallene	ausgefallen	ADJ	_	_
+
+VID
+0	schüren	schüren	VERB	_	_
+1	Rezessionsängste	Rezessionsäng	ADJ	0	amod
+
+VID
+0	zu	zu	ADP	1	case
+1	Gesicht	Gesicht	NOUN	2	nmod
+2	bekommen	bekommen	VERB	_	_
+
+VPC.full
+0	brachten	bringen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	brachten	bringen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	ein	ein	ADV	0	compound:prt
+
+VID
+0	hat	haben	VERB	_	_
+1	zu	zu	PART	2	mark
+2	tun	tun	VERB	0	conj
+
+LVC.cause
+0	brachte	bringen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Fall	Fall	NOUN	0	nmod
+
+VID
+0	fehlt	fehlen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VPC.full
+0	hielten	halten	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	sagt	sagen	VERB	_	_
+1	Kampf	Kampf	NOUN	0	dobj
+2	an	an	ADP	_	_
+
+LVC.full
+0	Gedanken	Gedanke	NOUN	_	_
+1	gemacht	machen	VERB	_	_
+
+LVC.full
+0	Entscheidung	Entscheidung	NOUN	1	dobj
+1	getroffen	treffen|triefen	VERB	_	_
+
+VPC.full
+0	zurückgetreten	zurückgetret	ADJ	_	_
+
+VID
+0	zu	zu	ADP	2	case
+1	viele	viel	ADJ	2	amod
+2	Köche	Köche	NOUN	_	_
+3	die	der	PRON	6	nsubj
+4	im	in+der	ADP	5	case
+5	Brei	Brei	NOUN	6	nmod
+6	herumrühren	herumrühren	VERB	_	_
+
+VID
+0	geben	geben	VERB	_	_
+1	eine	ein	DET	2	det
+2	Chance	Chance	NOUN	0	dobj
+
+VPC.full
+0	schweife	schweife	NOUN	_	_
+1	ab	ab	ADP	0	compound:prt
+
+LVC.full
+0	macht	machen	VERB	_	_
+1	Eindruck	Eindruck	NOUN	0	dobj
+
+VPC.full
+0	hergestellten	hergestellt	ADJ	_	_
+
+VID
+0	markierte	markiert	ADJ	1	amod
+1	1:0-Führung	1:0-Führung	NOUN	_	_
+
+VID
+0	Funken	Funke	NOUN	1	conj
+1	sprühen	sprüh	ADJ	_	_
+
+VID
+0	gut	gut	ADJ	3	advmod
+1	zu	zu	ADP	2	case
+2	Gesicht	Gesicht	NOUN	3	nmod
+3	stehen	stehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	genähert	nähern	VERB	_	_
+
+VPC.full
+0	schließt	schließen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+LVC.cause
+0	Zugriffsrechte	Zugriffsrecht	NOUN	1	dobj
+1	erteilen	erteilen	VERB	_	_
+
+VPC.semi
+0	ausreichten	ausreichen	VERB	_	_
+
+VID
+0	Davon	davon	PROPN	1	nsubj
+1	abgesehen	absehen	VERB	_	_
+
+VPC.full
+0	abgesehen	absehen	VERB	_	_
+
+VPC.full
+0	umgesetzt	umsetzen	VERB	_	_
+
+VID
+0	Der	der	DET	1	det
+1	Weg	Weg	NOUN	4	nsubj
+2	ist	sein	VERB	4	cop
+3	das	der	DET	4	det
+4	Ziel	Ziel	NOUN	_	_
+
+VPC.full
+0	hinnehmen	hinnehmen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	gibt	geben	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	auf	auf	ADP	3	case
+2	dem	der	DET	3	det
+3	Spiel	Spiel	NOUN	0	nmod
+
+VID
+0	es	es	PRON	1	nsubj
+1	gekommen	kommen	VERB	_	_
+
+VID
+0	auf	auf	ADP	2	case
+1	die	der	DET	2	det
+2	Straße	Straße	NOUN	_	_
+3	gehen	gehen	VERB	_	_
+
+VPC.full
+0	eingesetzten	eingesetzt	ADJ	_	_
+
+VID
+0	ernst	ernst	ADJ	1	advmod
+1	genommen	nehmen	VERB	_	_
+
+VPC.full
+0	Aufgefallen	aufgefalle	NOUN	_	_
+
+VPC.semi
+0	aufgerufen	aufgerufen	VERB	_	_
+
+LVC.full
+0	Stellungnahme	Stellungnahme	NOUN	1	dobj
+1	abzugeben	abgeben	VERB	_	_
+
+VPC.full
+0	abgelehnt	ablehnen	VERB	_	_
+
+VPC.full
+0	ausgesucht	ausgesuchen	VERB	_	_
+
+VPC.full
+0	fallen	falle	NOUN	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	angeschlagene	angeschlagen	ADJ	_	_
+
+VID
+0	stehen	stehen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Verfügung	Verfügung	NOUN	_	_
+
+VPC.full
+0	falle	falle	NOUN	_	_
+1	durch	durch	ADP	_	_
+
+VID
+0	fahren	fahren	VERB	_	_
+1	Krallen	Kralle|Krallen	PROPN	0	nmod
+2	aus	aus	ADP	_	_
+
+VPC.full
+0	einstellen	einstellen	VERB	_	_
+
+VID
+0	gibt's	gibt's	PROPN	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	befindet	befinden	VERB	_	_
+
+VID
+0	greift	greifen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Bewertungskeule	Bewertungskeule	NOUN	0	nmod
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	entschieden	entschieden	VERB	_	_
+
+LVC.full
+0	erstattete	erstatten	VERB	_	_
+1	Anzeige	Anzeige	NOUN	0	nsubj
+
+VPC.full
+0	einbrachen	einbrachen	NOUN	_	_
+
+VPC.full
+0	richteten	richten	VERB	_	_
+1	an	an	ADP	_	_
+
+VPC.full
+0	abgelaufen	abgelaufen	VERB	_	_
+
+VPC.full
+0	fortsetzen	fortsetzen	VERB	_	_
+
+VPC.full
+0	dargestellt	darstellen	VERB	_	_
+
+VPC.full
+0	nimmst	nimmst	ADV	_	_
+1	an	an	ADP	_	_
+
+LVC.full
+0	Rolle	Rolle	NOUN	1	dobj
+1	spielten	spielen	VERB	_	_
+
+VPC.full
+0	wegziehen	wegziehen	VERB	_	_
+
+VID
+0	Fest	Fest	NOUN	1	nsubj
+1	steht	stehen	VERB	_	_
+
+VPC.full
+0	fasste	fassen	VERB	_	_
+1	zusammen	zusammen	ADV	0	compound:prt
+
+VID
+0	genießen	nießen	VERB	_	_
+1	Ruf	Ruf	NOUN	0	dobj
+
+VID
+0	schlug	schlagen	VERB	_	_
+1	Bogen	Bogen	NOUN	0	dobj
+
+VPC.semi
+0	ausläuft	auslaufen	VERB	_	_
+
+VPC.full
+0	setzt	setzen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	wirft	werfen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+LVC.full
+0	Eindruck	Eindruck	NOUN	1	dobj
+1	vermitteln	vermitteln	VERB	_	_
+
+VPC.full
+0	auslösen	auslösen	VERB	_	_
+
+VID
+0	legt	legen	VERB	_	_
+1	lahm	lahm	ADJ	_	_
+
+VID
+0	bringt	bringen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Gehör	Gehör	NOUN	0	nmod
+
+VPC.full
+0	darstellten	darstellen	VERB	_	_
+
+VPC.full
+0	eingegangen	eingehen	VERB	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VID
+0	an	an	ADP	1	case
+1	Glanz	Glanz	NOUN	_	_
+2	verliert	verlieren	VERB	_	_
+
+VPC.full
+0	ausgebildeten	ausgebildet	ADJ	_	_
+
+VID
+0	es	es	PRON	_	_
+1	gehe	gehen	VERB	_	_
+2	um	um	ADP	_	_
+
+VID
+0	lernte	lernen	VERB	_	_
+1	kennen	kennen	ADV	_	_
+
+VID
+0	Es	es	PRON	1	expl
+1	gibt	geben	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Programm	Programm	NOUN	2	nmod
+2	stand	stehen	VERB	_	_
+
+VPC.full
+0	mitteilte	mitteilen	VERB	_	_
+
+IRV
+0	wehrten	wehren	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	in	in	ADP	1	case
+1	Empfang	Empfang	PROPN	_	_
+2	genommen	genommen	ADV	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	geschrieben	schreiben	VERB	_	_
+
+VPC.full
+0	anschließen	anschließen	VERB	_	_
+
+IRV
+0	uns	wir	PRON	1	dobj
+1	wehren	wehren	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Schieflage	Schieflage	NOUN	2	nmod
+2	geraten	gerat	ADJ	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Verfügung	Verfügung	NOUN	0	nmod
+
+VPC.full
+0	setzte	setzen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VID
+0	hatten	haben	VERB	_	_
+1	alle	alle	PRON	2	det
+2	Hände	Hand	NOUN	5	nsubjpass
+3	voll	voll	ADJ	5	advmod
+4	zu	zu	PART	5	mark
+5	tun	tun	VERB	0	xcomp
+
+VID
+0	zur	zu+der	ADP	1	case
+1	Hand	Hand	NOUN	_	_
+2	nehmen	nehmen	VERB	_	_
+
+VID
+0	vor	vor	ADP	1	case
+1	Augen	Auge	NOUN	_	_
+2	führen	führen	VERB	_	_
+
+VPC.full
+0	angekündigt	angekündigen	VERB	_	_
+
+LVC.full
+0	Tat	Tat	NOUN	_	_
+1	begangen	begehen	VERB	0	acl
+
+VPC.full
+0	war	sein	VERB	_	_
+1	her	her	ADV	_	_
+
+VID
+0	Champagner-Korken	Champagner-Korke	NOUN	1	nsubjpass
+1	geknallt	knallen	VERB	_	_
+
+VPC.semi
+0	angeboten	anbieten	VERB	_	_
+
+VID
+0	ad	ad	PROPN	1	name
+1	acta	acta	PROPN	_	_
+2	gelegt	gelegen|langen	VERB	_	_
+
+VID
+0	hatte	haben	VERB	_	_
+1	Schmerzen	Schmerz	NOUN	0	dobj
+
+LVC.full
+0	führen	fahren|führen	VERB	_	_
+1	Patrouillen	Patrouille	NOUN	0	nsubj
+2	durch	durch	ADP	0	compound:prt
+
+VPC.full
+0	führen	fahren|führen	VERB	_	_
+1	durch	durch	ADP	0	compound:prt
+
+VID
+0	Tat	Tat	NOUN	1	nsubj
+1	ereignete	ereignen	VERB	_	_
+2	sich	er|es|sie	PRON	1	dobj
+
+IRV
+0	ereignete	ereignen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	füge	fügen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	ein	ein	ADV	0	compound:prt
+
+IRV
+0	weigerte	weigern	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	herauszurücken	herauszurücken	VERB	_	_
+
+VPC.full
+0	wahrgenommen	wahrgenomme	NOUN	_	_
+
+VPC.full
+0	traf	treffen	VERB	_	_
+1	ein	ein	ADV	_	_
+
+VPC.full
+0	macht	machen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	trifft	treffen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	perfekt	perfekt	ADJ	1	advmod
+1	gemacht	machen	VERB	_	_
+
+LVC.full
+0	Unterstützung	Unterstützung	NOUN	1	nmod
+1	finden	finden	VERB	_	_
+
+LVC.full
+0	stand	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Alkoholeinfluss	Alkoholeinfluß	NOUN	0	nmod
+
+VID
+0	arbeiten	arbeiten	VERB	_	_
+1	schwarz	schwarz	ADJ	0	advmod
+
+VPC.full
+0	setzt	setzen	VERB	_	_
+1	an	an	ADP	_	_
+
+VID
+0	an	an	ADP	1	case
+1	Aufträge	Auftrag	NOUN	2	nmod
+2	kommen	kommen	VERB	_	_
+
+VID
+0	schwarzen	schwarz	ADJ	1	amod
+1	Zahlen	Zahl	NOUN	2	iobj
+2	schreiben	schreiben	VERB	_	_
+
+VPC.full
+0	festgestellt	festgestellen	VERB	_	_
+
+VPC.full
+0	angezeigt	angezeigen	VERB	_	_
+
+VPC.full
+0	niederzulegen	niederzulegen	VERB	_	_
+
+VPC.full
+0	anführten	anführen	VERB	_	_
+
+VPC.full
+0	vorgehen	vorgehen	VERB	_	_
+
+VID
+0	haben	haben	AUX	2	aux
+1	zu	zu	PART	2	mark
+2	tun	tun	VERB	_	_
+
+IRV
+0	erkundigt	erkundigen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	lief	laufen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Hochtouren	Hochtour	NOUN	0	nmod
+
+VID
+0	zu	zu	ADP	1	case
+1	Wort	Wort	NOUN	2	nmod
+2	kommen	kommen	VERB	_	_
+
+VPC.full
+0	vorlegen	vorlegen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	über	über	ADP	2	case
+2	Bühne	Bühne	NOUN	0	nmod
+
+VID
+0	Plattform	Plattform	NOUN	1	dobj
+1	geben	geben	VERB	_	_
+
+VID
+0	an	an	ADP	1	case
+1	Pranger	Pranger	NOUN	2	nmod
+2	stellen	stellen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	überschlagen	überschlagen	VERB	_	_
+
+VPC.full
+0	steht	stehen	VERB	_	_
+1	gegenüber	gegenüber	ADV	_	_
+
+VPC.full
+0	ablehnend	ablehnend	ADJ	_	_
+
+VID
+0	drückt	drücken	VERB	_	_
+1	auf	auf	ADP	3	case
+2	die	der	DET	3	det
+3	Entscheidung	Entscheidung	NOUN	0	nmod
+
+VPC.full
+0	nehmen	nehmen	VERB	_	_
+1	teil	teil	ADV	0	compound:prt
+
+VPC.full
+0	zugesetzt	zugesetzen	VERB	_	_
+
+VPC.full
+0	abfangen	abfangen	VERB	_	_
+
+VPC.full
+0	freigeben	freiben	VERB	_	_
+
+VID
+0	links	links	PROPN	_	_
+1	liegen	liegen	VERB	_	_
+2	lassen	lassen	VERB	1	xcomp
+
+VID
+0	ging	gehen	VERB	_	_
+1	baden	baden	ADJ	0	advmod
+
+VID
+0	steht	stehen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+LVC.full
+0	Rast	Rast	PROPN	_	_
+1	gemacht	machen	VERB	_	_
+
+IRV
+0	bewerben	bewerben	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	verschrieben	verschreiben	VERB	_	_
+
+VPC.full
+0	vorzubereiten	vorzubereit	NOUN	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	Spaß	Spaß	NOUN	0	dobj
+
+VID
+0	offen	offen	ADJ	1	conj
+1	lässt	lassen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	um	um	ADP	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	heiß	heiß	ADJ	0	advmod
+2	her	her	ADV	0	advmod
+
+VPC.full
+0	ging	gehen	VERB	_	_
+1	her	her	ADV	0	advmod
+
+VID
+0	Es	es	PRON	1	nsubj
+1	ging	gehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	verrannt	verrennen	VERB	_	_
+
+VID
+0	infrage	infrage	ADV	1	advmod
+1	gestellt	stellen	VERB	_	_
+
+LVC.full
+0	im	in+der	ADP	1	case
+1	Verdacht	Verdacht	NOUN	2	nmod
+2	stünden	stehen	VERB	_	_
+
+VPC.full
+0	weist	weisen	VERB	_	_
+1	zurück	zurück	ADV	_	_
+
+LVC.full
+0	leisten	leisten	VERB	_	_
+1	Widerstand	Widerstand	NOUN	0	dobj
+
+VID
+0	lässt	lassen	VERB	_	_
+1	kalt	kalt	ADJ	0	xcomp
+
+VPC.full
+0	kehren	kehren	VERB	_	_
+1	zurück	zurück	ADV	_	_
+
+VPC.full
+0	hingewiesen	hinweisen	VERB	_	_
+
+VPC.full
+0	fängt	fängen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+LVC.full
+0	spielte	spielen	VERB	_	_
+1	Rolle	Rolle	NOUN	0	dobj
+
+VPC.full
+0	flog	fliegen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	aufsuchen	aufsuchen	VERB	_	_
+
+LVC.full
+0	Baugenehmigung	Baugenehmigung	NOUN	_	_
+1	erteilt	erteilen	VERB	_	_
+
+VPC.full
+0	anfangen	anfangen	VERB	_	_
+
+VPC.full
+0	ablegen	ablegen	VERB	_	_
+
+VPC.full
+0	abgeben	abben	VERB	_	_
+
+VPC.full
+0	lehnt	lehnen	VERB	_	_
+1	ab	ab	ADP	_	_
+
+VID
+0	Es	es	PRON	1	nsubjpass
+1	geben	geben	VERB	_	_
+
+VPC.full
+0	auszuklammern	auszuklammern	VERB	_	_
+
+VID
+0	zustande	zustande	ADV	1	advmod
+1	gebracht	bringen	VERB	_	_
+
+VPC.full
+0	auszuhalten	auszuhalt	ADJ	_	_
+
+IRV
+0	überschlug	überschlagen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	Kröte	Kröte	NOUN	1	dobj
+1	schlucken	schlucken	VERB	_	_
+
+VPC.full
+0	abgewiesen	abgeweisen	VERB	_	_
+
+VID
+0	vorstellig	vorstellig	ADJ	_	_
+1	geworden	werden	VERB	0	cop
+
+VPC.full
+0	stellten	stellten	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	es	es	PRON	1	nsubj
+1	steht	stehen	VERB	_	_
+
+VID
+0	versetzt	versetzen	VERB	_	_
+1	werden	werden	AUX	0	auxpass
+
+LVC.full
+0	Anschluss	Anschluß	NOUN	1	nsubj
+1	finden	finden	VERB	_	_
+
+VID
+0	hatte	haben	AUX	_	_
+1	parat	pareten	VERB	_	_
+
+VPC.full
+0	angekundigt	angekundigen	VERB	_	_
+
+VID
+0	Gesetz	Gesetz	NOUN	1	dobj
+1	verabschiedet	verabschieden	VERB	_	_
+
+VID
+0	zu	zu	ADP	1	case
+1	Buche	Buche	NOUN	2	nmod
+2	schlage	schlage	NOUN	_	_
+
+VID
+0	machte	machen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	nützlich	nützlich	ADJ	0	advmod
+
+VID
+0	hat	haben	VERB	_	_
+1	freie	frei	ADJ	2	amod
+2	Bahn	Bahn	NOUN	0	dobj
+
+VID
+0	auf	auf	ADP	2	case
+1	ihren	ihr	DET	2	det:poss
+2	Platz	platz	NOUN	3	nmod
+3	zurückverwiesen	zurückverweisen	VERB	_	_
+
+VPC.full
+0	fieberten	fiebert	NOUN	_	_
+1	entgegen	entgegen	ADV	_	_
+
+VID
+0	kamen	kommen	VERB	_	_
+1	in	in	ADP	2	case
+2	Bedrängnis	Bedrängnis	NOUN	0	nmod
+
+VPC.semi
+0	eingeladen	eingeladen	PROPN	_	_
+
+VPC.full
+0	vorgestellt	vorstellen	VERB	_	_
+
+LVC.full
+0	Anklage	Anklage	NOUN	1	nsubj
+1	erheben	erheben	VERB	_	_
+
+IRV
+0	orientiert	orientieren	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	Durchhalten	Durchhalt	NOUN	_	_
+
+VID
+0	hängt	hängen	VERB	_	_
+1	in	in	ADP	2	case
+2	Luft	Luft	NOUN	0	nmod
+
+IRV
+0	belaufen	belaufen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	auf	auf	ADP	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	geleistet	geleisten	VERB	_	_
+
+VPC.full
+0	Eintreffen	eintreffen	NOUN	_	_
+
+VPC.semi
+0	festgehalten	festhalten	VERB	_	_
+
+VID
+0	vor	vor	ADP	1	case
+1	Probleme	Problem	NOUN	2	nmod
+2	stellen	stellen	VERB	_	_
+
+VPC.full
+0	feststeht	feststehen	VERB	_	_
+
+VID
+0	es	es	PRON	_	_
+1	geben	geben	VERB	_	_
+
+LVC.full
+0	bot	bieten	VERB	_	_
+1	Leistung	Leistung	NOUN	_	_
+
+VPC.semi
+0	ausmachen	ausmach	ADJ	_	_
+
+VPC.full
+0	kündigt	kündigen	VERB	_	_
+1	an	an	ADP	_	_
+
+VPC.full
+0	hängt	hängen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	Es	es	PRON	1	nsubj
+1	kommt	kommen	VERB	_	_
+2	an	an	ADP	1	compound:prt
+
+VPC.full
+0	kommt	kommen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	herausgestellt	herausstellen	VERB	_	_
+
+VPC.full
+0	weist	weisen	VERB	_	_
+1	hin	hin	ADV	0	compound:prt
+
+IRV
+0	wehrt	wehren	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	plädiert	plädieren	VERB	_	_
+1	auf	auf	ADP	3	case
+2	nicht	nicht	PART	3	neg
+3	schuldig	schuldig	ADJ	0	amod
+
+VID
+0	geht	gehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	tour	tour	PROPN	0	nmod
+
+IRV
+0	äußerte	äußern	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	sieht	sehen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+IRV
+0	entschied	entscheiden	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	für	für	ADP	_	_
+
+VPC.full
+0	lud	laden	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	macht	machen	VERB	_	_
+1	ratlos	ratlos	ADJ	0	advmod
+
+VPC.full
+0	abheben	abheben	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	_	_
+1	bewusst	bewußt	ADJ	_	_
+2	gewesen	sein	VERB	1	cop
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	ereignete	ereignen	VERB	_	_
+
+VPC.full
+0	eingebrochen	eingebrochen	NOUN	_	_
+
+VPC.full
+0	stehen	stehen	VERB	_	_
+1	an.	an.	ADJ	_	_
+
+VID
+0	gerade	gerade	ADV	1	advmod
+1	stehen	stehen	VERB	_	_
+
+VPC.full
+0	herausgegebene	herausgegeben	ADJ	_	_
+
+VPC.full
+0	schließt	schließen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	herumschlagen	herumschlagen	VERB	_	_
+
+VPC.full
+0	herumschlagen	herumschlagen	VERB	_	_
+
+VID
+0	rümpfen	rümpfen	VERB	_	_
+1	Nase	Nase	NOUN	0	conj
+
+VID
+0	liegengeblieben	liegengebleiben	VERB	_	_
+
+VID
+0	kommt	kommen	VERB	_	_
+1	zum	zu+der	ADP	2	case
+2	Vorschein	Vorschein	NOUN	_	_
+
+VPC.full
+0	gehört	gehören	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	breitet	breiten	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	fortsetzt	fortsetzen	VERB	_	_
+
+VPC.full
+0	vorgetragen	vortragen	VERB	_	_
+
+VPC.full
+0	tritt	treten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	stattfinden	stattfinden	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	davon	davon	PRON	0	advmod
+2	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	anlegt	anlegen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Ohren	Ohr	NOUN	2	nmod
+2	gelegen	liegen	VERB	_	_
+
+VID
+0	Schritt	Schritt	NOUN	1	dobj
+1	machen	machen	VERB	_	_
+
+VID
+0	kein	kein	PRON	2	neg
+1	gutes	gute	ADJ	2	amod
+2	Haar	Haar	NOUN	3	nsubj
+3	ließ	lassen	VERB	_	_
+
+VID
+0	war	sein	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Gast	Gast	NOUN	_	_
+
+VID
+0	es	es	PRON	1	expl
+1	gab	geben	VERB	_	_
+
+IRV
+0	erwies	erweisen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	Sportart	Sportart	NOUN	1	dobj
+1	treiben	treiben	VERB	_	_
+
+VPC.full
+0	bekanntgeben	bekanntgeben	VERB	_	_
+
+VID
+0	gingen	gehen	VERB	_	_
+1	in	in	ADP	_	_
+2	Führung	Führung	NOUN	_	_
+
+VPC.full
+0	vorgefallen	vorgefall	ADJ	_	_
+
+VPC.full
+0	wiederkehren	wiederkehren	VERB	_	_
+
+VID
+0	erklärt	erklären	VERB	_	_
+1	für	für	ADP	_	_
+2	tabu	tabu	PROPN	_	_
+
+VPC.full
+0	rausgeschmissen	rausgeschmissen	VERB	_	_
+
+VPC.full
+0	spitzt	spitzen	VERB	_	_
+1	zu	zu	ADP	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	gehen	gehen	VERB	_	_
+
+VID
+0	ins	in+der	ADP	1	case
+1	Spiel	Spiel	NOUN	2	nmod
+2	kommt	kommen	VERB	_	_
+
+VID
+0	Luft	Luft	NOUN	_	_
+1	nach	nach	ADP	2	case
+2	oben	oben	ADV	_	_
+3	sieht	sehen	VERB	_	_
+
+VPC.full
+0	anzufangen	anzufangen	VERB	_	_
+
+VPC.full
+0	gutgeheißen	gutgeheißen	VERB	_	_
+
+VPC.full
+0	abzuleiten	abzuleiten	VERB	_	_
+
+VPC.full
+0	nahmen	nehmen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+IRV
+0	kümmerten	kümmern	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	um	um	ADP	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Beine	Bein	NOUN	2	nmod
+2	fährt	fähren	VERB	_	_
+
+LVC.full
+0	Unterstützung	Unterstützung	NOUN	1	nmod
+1	erfährt	erfahren	VERB	_	_
+
+VPC.full
+0	Los	los	ADV	_	_
+1	geht	gehen	VERB	_	_
+
+VPC.full
+0	hervorgeht	hervorgehen	VERB	_	_
+
+VID
+0	Gibt	geben	VERB	_	_
+1	es	es	PRON	0	expl
+
+VID
+0	Mühe	Muh	NOUN	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	gibt	geben	VERB	_	_
+
+VID
+0	sieht	sehen	VERB	_	_
+1	gezwungen	zwungen	VERB	0	xcomp
+
+VPC.full
+0	zugeschlagen	zuschlagen	VERB	_	_
+
+VPC.semi
+0	ausmachten	ausmachten	VERB	_	_
+
+IRV
+0	bedient	bedienen	VERB	_	_
+1	sich	er|es|sie	PRON	_	_
+
+IRV
+0	an	an	ADP	1	case
+1	sich	er|es|sie	PRON	2	nmod
+2	genommen	nehmen	VERB	_	_
+
+VPC.full
+0	liegt	liegen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	geht	gehen	VERB	_	_
+1	davon	davon	PRON	0	dep
+2	aus	aus	ADP	0	compound:prt
+
+VID
+0	vor	vor	ADP	1	case
+1	Ideen	Idee	NOUN	2	nmod
+2	sprüht	sprühen	VERB	_	_
+
+VID
+0	zur	zu+der	ADP	1	case
+1	Verfügung	Verfügung	NOUN	2	nmod
+2	stehen	stehen	VERB	_	_
+
+VPC.full
+0	löste	lösen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	eingreifen	eingreifen	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Spur	Spur	NOUN	2	nmod
+2	bringen	bringen	VERB	_	_
+
+VPC.semi
+0	angezeigt	anzeigen	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Zug	Zug	NOUN	2	nmod
+2	aufspringen	aufspringen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	für	für	ADP	_	_
+2	entscheiden	entscheiden	VERB	_	_
+
+VID
+0	zog	ziehen	VERB	_	_
+1	Los	Lo	NOUN	0	conj
+
+LVC.full
+0	übt	üben	VERB	_	_
+1	Kritik	Kritik	NOUN	0	dobj
+
+VPC.full
+0	schlug	schlagen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VPC.full
+0	einzustellen	einstellen	VERB	_	_
+
+LVC.full
+0	Rolle	Rolle	NOUN	1	dobj
+1	spielen	spielen	VERB	_	_
+
+VPC.full
+0	umgesetzt	umgesetzen	ADJ	_	_
+
+LVC.cause
+0	unter	unter	ADP	1	case
+1	Strafe	Strafe	NOUN	2	nmod
+2	stellen	stellen	VERB	_	_
+
+VID
+0	Es	es	PRON	1	nsubj
+1	gibt	giben	VERB	_	_
+
+VPC.full
+0	sieht	sehen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	angesagt	angesagen	ADJ	_	_
+
+VPC.full
+0	gibt	giben	VERB	_	_
+1	auf	auf	ADP	_	_
+
+VPC.full
+0	antreten	antreten	VERB	_	_
+
+VPC.semi
+0	aufgerufen	aufrufen	VERB	_	_
+
+VID
+0	tun	tun	VERB	_	_
+1	weh	weh	ADV	_	_
+
+VID
+0	Vor	vor	ADP	1	case
+1	Abschied	Abschied	NOUN	_	_
+2	stehen	stehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	befinden	befinden	VERB	_	_
+
+VID
+0	mit	mit	ADP	2	case
+1	dem	der	DET	2	det
+2	Schlimmsten	schlimmst	NOUN	3	nmod
+3	rechnen	rechnen	VERB	_	_
+
+VPC.full
+0	angesetzt	angesetzen	VERB	_	_
+
+LVC.full
+0	ging	gehen	VERB	_	_
+1	Notruf	Notruf	NOUN	0	dobj
+2	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	abgeschlossen	abschließen	ADJ	_	_
+
+VID
+0	Schickt	schicken	ADV	_	_
+1	ins	in+der	ADP	2	case
+2	Rennen	rennen	VERB	_	_
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	los	los	ADV	0	mark
+
+VPC.full
+0	aufgepäppelt	aufgepäppeln	VERB	_	_
+
+VID
+0	in	in	ADP	2	case
+1	die	der	DET	2	det
+2	Gänge	Gang	NOUN	3	nmod
+3	kommen	kommen	VERB	_	_
+
+LVC.full
+0	Lehren	Lehr	NOUN	1	nsubjpass
+1	gezogen	ziehen	VERB	_	_
+
+VID
+0	Dran	dran	ADV	1	advmod
+1	bleiben	bleiben	VERB	_	_
+
+VPC.full
+0	hielt	halten	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VID
+0	kommt	kommen	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Spiel	Spiel	NOUN	0	nmod
+
+VPC.full
+0	vorzuwerfen	vorzuwerfen	VERB	_	_
+
+VPC.full
+0	hält	halten	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VID
+0	machte	machen	VERB	_	_
+1	aus	aus	ADP	3	case
+2	dem	der	DET	3	det
+3	Staub	Staub	NOUN	0	nmod
+
+VPC.full
+0	gingen	gehen	VERB	_	_
+1	los	los	ADV	0	advmod
+
+VPC.full
+0	abgefertigt	abgefertigen	VERB	_	_
+
+VID
+0	stehe	stehen	VERB	_	_
+1	still	still	ADV	0	advmod
+
+VPC.full
+0	kündet	künden	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	hat	haben	AUX	2	aux
+1	zu	zu	PART	2	mark
+2	tun	tun	VERB	_	_
+
+VPC.full
+0	gehen	gehen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	abschließen	abschließen	VERB	_	_
+
+VPC.full
+0	herangetreten	herangetren	VERB	_	_
+
+VID
+0	auf	auf	ADP	2	case
+1	offene	offen	ADJ	2	amod
+2	Ohren	Ohren	NOUN	3	nmod
+3	gestoßen	stoßen	VERB	_	_
+
+VPC.full
+0	deutete	deuten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	gab	geben	VERB	_	_
+1	nach	nach	ADP	0	compound:prt
+
+VPC.full
+0	weisen	weise	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VID
+0	kein	kein	PRON	2	neg
+1	gutes	gut	ADJ	2	amod
+2	Haar	Haar	NOUN	3	nmod
+3	ließ	lassen	VERB	_	_
+
+VID
+0	kam	kommen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Schluss	Schluß	NOUN	0	nmod
+
+VPC.full
+0	stimmte	stimmen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	auf	auf	ADP	1	case
+1	Tagesordnung	Tagesordnung	NOUN	2	nmod
+2	setzen	setzen	VERB	_	_
+
+VID
+0	Tiefpunkt	Tiefpunkt	NOUN	1	dobj
+1	erreicht	erreichen	VERB	_	_
+
+VPC.full
+0	kommt	kommen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	beigetragen	beitragen	VERB	_	_
+
+LVC.full
+0	zollte	zollen	AUX	_	_
+1	Anerkennung	Anerkennung	NOUN	_	_
+
+VPC.full
+0	lossagen	lossagen	VERB	_	_
+
+LVC.full
+0	Heimspiel	Heimspiel	NOUN	1	dobj
+1	bestreitet	bestreiten	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Schuss	Schuss	NOUN	2	nmod
+2	halten	halten	VERB	_	_
+
+LVC.full
+0	unter	unter	ADP	1	case
+1	Beweis	Beweis	NOUN	2	nmod
+2	stellt	stellen	VERB	_	_
+
+VPC.full
+0	nahezulegen	nahezulegen	VERB	_	_
+
+VPC.full
+0	einnehmen	einnehmen	VERB	_	_
+
+VID
+0	gehen	gehen	VERB	_	_
+1	davon	davon	PRON	0	dep
+2	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	gehen	gehen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	brach	brechen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	eingebunden	einbinden	VERB	_	_
+
+VPC.full
+0	traten	treten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	sprang	sprang	NOUN	_	_
+1	ab	ab	ADP	_	_
+
+VID
+0	lag	liegen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Bett	Bett	NOUN	0	nmod
+
+VPC.full
+0	ausschalten	ausschalten	VERB	_	_
+
+VPC.semi
+0	anbietet	anbieten	VERB	_	_
+
+VID
+0	auf	auf	ADP	2	case
+1	dem	der	DET	2	det
+2	Boden	Boden	NOUN	5	nmod
+3	der	der	DET	4	det
+4	Realität	realität	NOUN	2	nmod
+5	gelandet	gelanden	VERB	_	_
+
+VID
+0	zu	zu	PART	1	mark
+1	tun	tun	VERB	2	xcomp
+2	gab	geben	VERB	_	_
+
+VPC.full
+0	festlegen	festlegen	VERB	_	_
+
+VID
+0	Aufriss	Aufriss	NOUN	_	_
+1	machen	machen	VERB	0	cop
+
+VPC.full
+0	angesagt	angesagen	VERB	_	_
+
+VPC.full
+0	mitmachen	mitmach	ADJ	_	_
+
+VPC.full
+0	angegeben	angeben	ADJ	_	_
+
+LVC.cause
+0	machten	machen	VERB	_	_
+1	Druck	Druck	PROPN	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	aufgemacht	aufmachen	VERB	_	_
+
+VPC.full
+0	aufgemacht	aufmachen	VERB	_	_
+
+VID
+0	erwischte	erwischen	VERB	_	_
+1	auf	auf	ADP	3	case
+2	falschen	falsch	ADJ	3	amod
+3	Fuß	Fuß	NOUN	0	nmod
+
+VPC.full
+0	ausgegangen	ausgehen	VERB	_	_
+
+VID
+0	hielt	halten	VERB	_	_
+1	Kontakt	Kontakt	NOUN	0	dobj
+
+VPC.full
+0	aufblitzen	aufblitzen	VERB	_	_
+
+VID
+0	liege	liegen	VERB	_	_
+1	in	in	ADP	2	case
+2	Händen	Hand	NOUN	0	nmod
+
+VID
+0	Blut	Blut	NOUN	1	nsubj
+1	fließen	fließen	VERB	_	_
+
+VPC.full
+0	achtgab	achtgeben	VERB	_	_
+
+VID
+0	tödlich	tödlich	ADJ	1	advmod
+1	endenden	endend	ADJ	_	_
+
+VPC.full
+0	abgelöst	ablösen	VERB	_	_
+
+VID
+0	hatten	haben	AUX	_	_
+1	nichts	nichts	PRON	3	nsubj
+2	zu	zu	PART	3	mark
+3	lachen	lach	ADJ	_	_
+
+VID
+0	von	von	ADP	1	case
+1	Matte	Matte	NOUN	2	nmod
+2	gefegt	fegen	VERB	_	_
+
+VPC.full
+0	festgestellt	feststellen	VERB	_	_
+
+VPC.full
+0	nahmen	nehmen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+LVC.full
+0	im	in+der	ADP	1	case
+1	Einsatz	Einsatz	NOUN	_	_
+2	waren	sein	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	befand	befinden	VERB	_	_
+
+LVC.full
+0	Erlaubnis	Erlaubnis	NOUN	1	dobj
+1	gegeben	geben	VERB	_	_
+
+IRV
+0	Darum	darum	ADV	1	advmod
+1	kümmern	kümmern	VERB	_	_
+2	sich	er|es|sie	PRON	1	dobj
+
+LVC.full
+0	in	in	ADP	1	case
+1	Betrieb	Betrieb	NOUN	2	nmod
+2	nehmen	nehmen	VERB	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Brand	Brand	NOUN	2	nmod
+2	gesteckt	gesteckt	VERB	_	_
+
+IRV
+0	beißt	beißen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	durch	durch	ADP	0	compound:prt
+
+VID
+0	stehe	stehen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VPC.full
+0	tritt	treten	VERB	_	_
+1	an	an	ADP	_	_
+
+VID
+0	fallen	fallen	VERB	_	_
+1	zum	zu+der	ADP	2	case
+2	Opfer	Opfer	NOUN	_	_
+
+VPC.full
+0	stellte	stellen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	anfallen	anfallen	VERB	_	_
+
+VID
+0	Kräfte	Kraft	NOUN	1	dobj
+1	walten	walten	VERB	_	_
+
+VID
+0	Folgen	Folge	NOUN	1	nsubjpass
+1	gedreht	drehen	VERB	_	_
+
+VID
+0	es	es	PRON	_	_
+1	gibt	geben	VERB	_	_
+
+VPC.full
+0	gehen	gehen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	riegelten	riegelen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	unterbrachte	unterbrachen	VERB	_	_
+
+VPC.full
+0	steht	stehen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	zieht	zeihen|ziehen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	aufgedeckt	aufgedecken	VERB	_	_
+
+IRV
+0	engagieren	engagieren	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	stehen	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Druck	Druck	NOUN	0	nmod
+
+VID
+0	Weltrekord	Weltrekord	NOUN	1	dobj
+1	geknackt	geknackt	VERB	_	_
+
+VPC.full
+0	macht	machen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	lernen	lernen	VERB	_	_
+1	kennen	kennen	VERB	0	xcomp
+
+VID
+0	Saisonsieg	Saisonsieg	NOUN	1	dobj
+1	eingefahren	eingefahren	VERB	_	_
+
+VID
+0	Geht's	Geht's	PROPN	_	_
+1	noch	noch	ADV	_	_
+
+VPC.full
+0	aufstellen	aufstellen	VERB	_	_
+
+VPC.full
+0	zugehen	zugehen	VERB	_	_
+
+LVC.full
+0	steht	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Konkurrenzdruck	Konkurrenzdruck	NOUN	0	nmod
+
+VID
+0	ins	in+der	ADP	1	case
+1	Zeug	Zeug	NOUN	2	nmod
+2	gelegt	legen	VERB	_	_
+
+VID
+0	zu	zu	PART	1	mark
+1	bieten	bieten	VERB	_	_
+2	haben	haben	AUX	_	_
+
+LVC.full
+0	Reisen	Reise	NOUN	1	nsubjpass
+1	angetreten	antreten	VERB	_	_
+
+VPC.full
+0	angetreten	antreten	VERB	_	_
+
+VPC.full
+0	sah	sehen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	war	sein	VERB	_	_
+1	drauf	drauf	ADV	0	advmod
+2	und	und	CONJ	0	cc
+3	dran	dran	ADV	_	_
+
+VPC.full
+0	vorstellte	vorstellen	AUX	_	_
+
+LVC.full
+0	Anschluss	Anschluß	NOUN	1	nsubjpass
+1	finden	finden	VERB	_	_
+
+IRV
+0	mühen	müh	ADJ	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	ab	ab	ADP	0	compound:prt
+
+VID
+0	Schwerpunkt	Schwerpunkt	NOUN	1	nsubj
+1	liegen	liegen	VERB	_	_
+
+VID
+0	frei	frei	ADJ	1	advmod
+1	kaufen	kaufen	VERB	_	_
+
+VPC.full
+0	angeben	angeben	VERB	_	_
+
+VPC.full
+0	räumt	räumt	ADJ	_	_
+1	ein	ein	ADV	_	_
+
+VID
+0	Leichter	leichter	NOUN	1	nsubjpass
+1	gefallen	fallen|gefallen	VERB	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Betrieb	Betrieb	NOUN	2	nmod
+2	genommen	nehmen	VERB	_	_
+
+LVC.full
+0	Gefallen	Gefallen	NOUN	1	dobj
+1	finden	finden	VERB	_	_
+
+VID
+0	durchblicken	durchblicken	VERB	1	xcomp
+1	lassen	lassen	VERB	_	_
+
+VPC.full
+0	abdecken	abdecken	VERB	_	_
+
+VPC.full
+0	austauschen	austausch	ADJ	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	austauschen	austausch	ADJ	_	_
+
+VID
+0	es	es	PRON	1	expl
+1	gibt	geben	VERB	_	_
+
+VPC.full
+0	ausrichtet	ausrichten	VERB	_	_
+
+LVC.full
+0	Widerspruch	Widerspruch	NOUN	1	dobj
+1	eingelegt	einlegen	VERB	_	_
+
+VID
+0	stehen	stehen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Verfügung	Verfügung	NOUN	0	nmod
+
+VPC.full
+0	auftreten	auftreten	VERB	_	_
+
+LVC.full
+0	gaben	geben	VERB	_	_
+1	Konzert	Konzert	NOUN	0	dobj
+
+VID
+0	kommt	kommen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Schluss	Schluß	NOUN	0	nmod
+
+VID
+0	sah	sehen	VERB	_	_
+1	Gelb-Rot	Gelb-rot	PROPN	0	nsubj
+
+VPC.full
+0	durchführen	durchfahren|durchführen	VERB	_	_
+
+LVC.full
+0	kam	kommen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Kurzschluss	Kurzschluß	NOUN	0	nmod
+
+VID
+0	sei	sein	VERB	1	cop
+1	schwer	schwer	ADJ	3	advmod
+2	zu	zu	PART	3	mark
+3	sagen	sagen	VERB	_	_
+
+VID
+0	machen	machen	VERB	_	_
+1	mobil	mobil	ADJ	0	xcomp
+
+LVC.full
+0	Zuspruch	Zuspruch	NOUN	1	nmod
+1	fanden	finden	VERB	_	_
+
+VPC.full
+0	abzuschneiden	abzuschneiden	VERB	_	_
+
+VPC.full
+0	ziehen	zeihen|ziehen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	aufgeheizte	aufgeheizt	ADJ	_	_
+
+VPC.full
+0	sieht	sehen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	hält	halten	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VPC.full
+0	abzuschließen	abzuschließen	VERB	_	_
+
+VPC.full
+0	anmerken	anmerken	VERB	_	_
+
+VID
+0	gibt	geben	VERB	_	_
+1	zu	zu	PART	2	mark
+2	bedenken	bedenken	VERB	0	xcomp
+
+VID
+0	ins	in+der	ADP	1	case
+1	Leben	Leben	NOUN	2	nmod
+2	gerufen	rufen	VERB	_	_
+
+VID
+0	sei	sein	AUX	_	_
+1	auf	auf	ADP	3	case
+2	guten	gut	ADJ	3	amod
+3	Weg	Weg	NOUN	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Alarmbereitschaft	Alarmbereitschaft	NOUN	2	nmod
+2	versetzt	versetzen	VERB	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	klar	klar	ADJ	0	xcomp
+
+LVC.full
+0	machten	machen	VERB	_	_
+1	Auftakt	Auftakt	NOUN	0	dobj
+
+VID
+0	Beifall	Beifall	NOUN	1	conj
+1	erntete	ernten	VERB	_	_
+
+VPC.full
+0	lief	laufen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	liegt	liegen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Trend	Trend	NOUN	0	nmod
+
+LVC.full
+0	machte	machen	VERB	_	_
+1	Angaben	Angabe	NOUN	0	iobj
+
+IRV
+0	entschied	entscheiden	VERB	_	_
+1	für	für	ADP	2	case
+2	sich	er|es|sie	PRON	_	_
+
+VPC.full
+0	vorführte	vorführen	VERB	_	_
+
+VPC.full
+0	ausgerufen	ausgerufen	VERB	_	_
+
+VID
+0	haben	haben	AUX	2	aux
+1	das	der	DET	2	det
+2	Sagen	Sage|Sagen	NOUN	_	_
+
+VID
+0	überschreiten	überschreiten	VERB	_	_
+1	rote	rot	ADJ	2	amod
+2	Linie	Linie	NOUN	0	nsubjpass
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	äußern	äußern	VERB	_	_
+
+VID
+0	bis	bis	ADP	4	case
+1	auf	auf	ADP	3	case
+2	die	der	DET	3	det
+3	Knochen	Knochen	NOUN	0	nmod
+4	blamiert	blamieren	VERB	_	_
+
+VPC.full
+0	aufgab	aufgeben	VERB	_	_
+
+VPC.full
+0	löste	lösen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	nahm	nehmen	VERB	_	_
+1	zum	zu+der	ADP	2	case
+2	Anlass	Anlaß	NOUN	0	nmod
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	orientieren	orientieren	VERB	_	_
+
+VPC.full
+0	nachahmen	nachahmen	VERB	_	_
+
+VPC.full
+0	hält	halten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	gibt	giben	VERB	_	_
+1	zum	zu+der	ADP	2	case
+2	Besten	gut	NOUN	0	nmod
+
+VPC.full
+0	Setzt	setzt	ADV	1	advmod
+1	ab	ab	ADP	_	_
+
+VPC.full
+0	abgeschnitten	abschneiden	VERB	_	_
+
+VPC.full
+0	raufladen	raufladen	PROPN	_	_
+
+VPC.full
+0	anwenden	anwenden	VERB	_	_
+
+VPC.full
+0	abzulenken	abzulenken	VERB	_	_
+
+VPC.full
+0	aufgebürdet	aufgebürden	VERB	_	_
+
+VID
+0	im	in+der	ADP	1	case
+1	Stich	Stich	NOUN	2	nmod
+2	gelassen	lassen	VERB	_	_
+
+VID
+0	liefen	lafen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Hochtouren	Hochtour	NOUN	0	nmod
+
+VID
+0	besteht	bestehen	VERB	_	_
+1	Chance	Chance	NOUN	0	dobj
+
+VPC.full
+0	loszuwerden	loszuwerden	PROPN	_	_
+
+VPC.full
+0	festgenommen	festgenommen	VERB	_	_
+
+LVC.full
+0	zu	zu	ADP	1	case
+1	Ende	Ende	NOUN	2	nmod
+2	gegangen	gehen	VERB	_	_
+
+VPC.full
+0	angesehen	angesehen	VERB	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Betrieb	Betrieb	NOUN	_	_
+2	genommene	genommen	ADJ	_	_
+
+VPC.full
+0	ausgewiesen	ausgeweisen	VERB	_	_
+
+VID
+0	gebe	geben	VERB	_	_
+1	es	es	PRON	0	expl
+
+VPC.full
+0	haute	hauen	VERB	_	_
+1	raus	raus	ADV	0	compound:prt
+
+VID
+0	legt	legen	VERB	_	_
+1	Messlatte	Messlatte	NOUN	0	dobj
+2	hoch	hoch	ADJ	0	advmod
+
+VID
+0	deutlich	deutlich	ADJ	1	advmod
+1	machen	machen	VERB	_	_
+
+VID
+0	gab's	gab's	PROPN	_	_
+
+VPC.full
+0	nehmen	nehmen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+IRV
+0	befinden	befinden	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	dagegen	dagegen	ADV	_	_
+1	spricht	sprechen	VERB	_	_
+
+VID
+0	gut	gut	ADJ	1	advmod
+1	machen	machen	VERB	_	_
+
+VID
+0	gefügig	gefügig	ADJ	1	advmod
+1	gemacht	machen	VERB	_	_
+
+VID
+0	den	der	DET	2	det
+1	Kürzeren	kurz	ADJ	2	advmod
+2	ziehen	ziehen	VERB	_	_
+
+VID
+0	erlag	erliegen	VERB	_	_
+1	Verletzungen	Verletzung	NOUN	_	_
+
+VPC.full
+0	lahmgelegt	lahmlegen	ADJ	_	_
+
+VPC.full
+0	angebracht	anbringen	ADJ	_	_
+
+VID
+0	sei	sein	VERB	2	cop
+1	es	es	PRON	2	expl
+2	geboten	bieten|gebieten	ADJ	_	_
+
+VID
+0	grünes	grün	ADJ	1	amod
+1	Licht	Licht	NOUN	_	_
+2	gegeben	geben	VERB	_	_
+
+VPC.full
+0	führt	führen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	verkriechen	verkriech	ADJ	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Achse	Achs	NOUN	_	_
+2	ist	sein	VERB	1	cop
+
+VID
+0	Geltung	Geltung	NOUN	_	_
+1	verschaffen	verschaffen	VERB	_	_
+
+VPC.full
+0	eingelassen	einlassen	VERB	_	_
+
+VPC.full
+0	auszugehen	ausgehen	VERB	_	_
+
+VPC.full
+0	stattgefunden	stattfinden	VERB	_	_
+
+VID
+0	nahmen	nehmen	VERB	_	_
+1	in	in	ADP	2	case
+2	Pflicht	Pflicht	NOUN	_	_
+
+VID
+0	Marke	Marke	NOUN	_	_
+1	knacken	knacken	VERB	_	_
+
+VPC.full
+0	angefangen	angefangen	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	in	in	ADP	3	case
+2	erster	erst	ADJ	3	amod
+3	Reihe	Reihe	NOUN	0	nmod
+
+IRV
+0	stellte	stellen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	heraus	heraus	ADV	0	advmod
+
+VPC.full
+0	stellte	stellen	VERB	_	_
+1	heraus	heraus	ADV	0	advmod
+
+VID
+0	bekannt	bekennen	ADJ	1	advmod
+1	gegeben	geben	VERB	_	_
+
+VPC.full
+0	trifft	treffen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	handelt	handeln	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	um	um	ADP	_	_
+
+VPC.full
+0	ablehnte	ablehnen	VERB	_	_
+
+LVC.full
+0	Überzeugungsarbeit	Überzeugungsarbeit	NOUN	1	nsubjpass
+1	geleistet	leisten	VERB	_	_
+
+VPC.full
+0	Angefangen	Angefang	NOUN	_	_
+
+VPC.full
+0	abzureißen	abzureißen	VERB	_	_
+
+VPC.full
+0	zurückgehen	zurückgehen	VERB	_	_
+
+VID
+0	machst	machen	VERB	_	_
+1	dich	du	PRON	0	nsubj
+2	zum	zu+der	ADP	3	case
+3	Affen	Aff	NOUN	1	nmod
+
+VPC.full
+0	ausdrücken	ausdrücken	VERB	_	_
+
+IRV
+0	uns	wir	PRON	1	dobj
+1	geleistet	geleisten	VERB	_	_
+
+VPC.full
+0	zugeht	zugehen	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	lange	lang	NOUN	_	_
+2	Bank	Bank	PROPN	1	appos
+3	schieben	schieben	VERB	_	_
+
+VID
+0	gebührend	gebührend	ADJ	1	amod
+1	gefeiert	feiern	VERB	_	_
+
+VID
+0	gut	gut	NOUN	1	nsubj
+1	geht	gehen	VERB	_	_
+
+VID
+0	Platz	Platz	NOUN	1	dobj
+1	genommen	nehmen	VERB	_	_
+
+VPC.full
+0	aufgebrochener	aufgebrochen	ADJ	_	_
+
+VID
+0	fehle	fehlen	VERB	_	_
+1	jede	jed	PRON	2	det
+2	Spur	Spur	NOUN	0	nsubj
+
+VPC.full
+0	runterbrechen	runterbrech	ADJ	_	_
+
+VPC.full
+0	einzusetzen	einsetzen	VERB	_	_
+
+VID
+0	nichts	nichts	PRON	3	dobj
+1	zuschulden	zuschulden	VERB	3	xcomp
+2	kommen	kommen	VERB	3	xcomp
+3	ließen	lassen	VERB	_	_
+
+VPC.full
+0	bloßzustellen	bloßzustellen	VERB	_	_
+
+VPC.full
+0	einhalten	einhalten	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Regress	Regreß	NOUN	2	nmod
+2	genommen	nehmen	VERB	_	_
+
+VPC.full
+0	leitet	leiten	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	Plus	plus	NOUN	1	dobj
+1	gemacht	machen	VERB	_	_
+
+IRV
+0	befasst	befassen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	mit	mit	ADP	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Anspruch	Anspruch	NOUN	2	nmod
+2	nehmen	nehmen	VERB	_	_
+
+VID
+0	Anliegerbeiträge	Anliegerbeitrag	NOUN	1	dobj
+1	erheben	erheben	VERB	_	_
+
+VPC.full
+0	anstimmte	anstimmen	VERB	_	_
+
+VID
+0	verloren	verlieren	ADV	1	advmod
+1	geht	gehen	VERB	_	_
+
+VPC.full
+0	steckte	stecken	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	aufgeführte	aufgeführen	VERB	_	_
+
+VPC.semi
+0	aufzubieten	aufzubiet	ADJ	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	geben	geben	VERB	_	_
+
+VID
+0	ins	in+der	ADP	1	case
+1	Gespräch	Gespräch	NOUN	_	_
+2	gebracht	bringen	VERB	_	_
+
+VPC.full
+0	anzufeuern	anzufeuern	VERB	_	_
+
+VPC.full
+0	mitgeteilt	mitteilen	VERB	_	_
+
+LVC.full
+0	Erklärung	Erklärung	NOUN	1	dobj
+1	abgeben	abgeben	VERB	_	_
+
+IRV
+0	zeigte	zeigen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	mit	mit	ADP	_	_
+2	befasst	befassen	VERB	_	_
+
+VPC.full
+0	ausgebrochen	ausgebroch	ADJ	_	_
+
+IRV
+0	beugten	beugen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	herausstellt	herausstellen	VERB	_	_
+
+VPC.full
+0	werfen	werfen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+LVC.full
+0	war	sein	VERB	1	cop
+1	Versehen	Versehen	NOUN	_	_
+
+VPC.full
+0	fand	finden	VERB	_	_
+1	statt	statt	ADP	0	compound:prt
+
+VPC.full
+0	ankündigte	ankündigen	VERB	_	_
+
+VID
+0	nach	nach	ADP	1	case
+1	Hause	Haus	NOUN	2	nmod
+2	geschickt	geschickt	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	vertragen	vertragen	VERB	_	_
+
+VID
+0	stellt	stellen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VPC.full
+0	zieht	ziehen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	meldete	melden	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	zu	zu	ADP	3	case
+3	Wort	Wort	NOUN	0	nmod
+
+VID
+0	Dagegen	dagegen	ADV	1	advmod
+1	sprechen	sprechen	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Temperatur	Temperatur	NOUN	_	_
+2	bringen	bringen	VERB	_	_
+
+VPC.full
+0	schloss	schließen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+LVC.full
+0	stand	stehen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Disposition	Disposition	NOUN	0	nmod
+
+VPC.full
+0	ausgeübt	ausüben	VERB	_	_
+
+VID
+0	es	es	PRON	1	expl
+1	gilt	gelten	VERB	_	_
+
+VPC.full
+0	festzuhalten	festzuhalt	ADJ	_	_
+
+VID
+0	gerecht	rechen	ADJ	_	_
+1	werden	werden	VERB	0	cop
+
+LVC.cause
+0	in	in	ADP	1	case
+1	Brand	Brand	PROPN	2	nmod
+2	gesetzt	setzen	VERB	_	_
+
+VPC.full
+0	schoss	schießen	VERB	_	_
+1	ein	ein	ADV	0	advmod
+
+VPC.full
+0	bieten	bien	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	herhalten	herhalten	VERB	_	_
+
+VPC.full
+0	bekanntgab	bekanntgeben	VERB	_	_
+
+VPC.full
+0	abgerissen	abreißen	VERB	_	_
+
+VID
+0	finden	finden	VERB	_	_
+1	Mut	Mut	NOUN	0	dobj
+
+VPC.semi
+0	angehören	angehören	VERB	_	_
+
+VID
+0	Gespräche	Gespräch	NOUN	1	nsubjpass
+1	geführt	führen	VERB	_	_
+
+VID
+0	zum	zu+der	ADP	1	case
+1	Ziel	Ziel	NOUN	2	nmod
+2	gesetzt	setzen	VERB	_	_
+
+IRV
+0	handelt	handeln	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	um	um	ADP	_	_
+
+VID
+0	stellte	stellen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VID
+0	zu	zu	PART	1	mark
+1	bieten	bieten	VERB	_	_
+2	hat	haben	AUX	1	aux
+
+VPC.full
+0	hinziehen	hinziehen	VERB	_	_
+
+VID
+0	sind	sein	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Kasten	Kast	NOUN	_	_
+
+VID
+0	sich	er|es|sie	PRON	2	dobj
+1	Zeit	zeit	NOUN	2	dobj
+2	lassen	lassen	VERB	_	_
+
+VID
+0	schickte	schicken	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Rennen	Rennen	NOUN	0	nmod
+
+VID
+0	stehen	stehen	VERB	_	_
+1	bereit	bereit	ADJ	0	advmod
+
+VPC.full
+0	griffen	greifen	VERB	_	_
+1	über	über	ADP	0	compound:prt
+
+VPC.full
+0	hervorgebracht	hervorbringen	VERB	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	abwärts	abwärts	ADV	_	_
+
+VPC.semi
+0	nimmt	nehmen	VERB	_	_
+1	entgegen	entgegen	ADV	0	compound:prt
+
+LVC.full
+0	ergriffen	ergriffen	VERB	_	_
+1	Initiative	Initiative	NOUN	0	dobj
+
+VID
+0	Punkte	Punkt	NOUN	1	dobj
+1	einfahren	einfahren	VERB	_	_
+
+VPC.full
+0	einfahren	einfahren	VERB	_	_
+
+VPC.full
+0	ausgerichtet	ausgerichten	VERB	_	_
+
+VID
+0	stand	stehen	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Gesicht	Gesicht	NOUN	0	nmod
+3	geschrieben	schreiben	VERB	0	acl
+
+VPC.full
+0	angenommen	angenehmen	VERB	_	_
+
+VPC.full
+0	zugestimmt	nehmezugest	VERB	_	_
+
+VPC.full
+0	steht	stehen	VERB	_	_
+1	da	da	ADV	0	advmod
+
+VPC.full
+0	abgestürzt	abstürzen	ADJ	_	_
+
+VID
+0	erlebt	erleben	VERB	_	_
+1	am	an+der	ADP	3	case
+2	eigenen	eigen	ADJ	3	amod
+3	Leib	Leib	NOUN	0	nmod
+
+VID
+0	geht	gehen	VERB	_	_
+1	nichts	nichts	PRON	0	dobj
+
+VPC.semi
+0	einzusehen	einzusehen	NOUN	_	_
+
+VPC.full
+0	Aufgetaucht	Aufgetauchen	VERB	_	_
+
+VPC.full
+0	geben	geben	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	Risiken	Risiko	NOUN	_	_
+1	berge	berg	PROPN	0	nsubj
+
+IRV
+0	sich	er|es|sie	PRON	3	dobj
+1	ein	ein	DET	2	det
+2	Beispiel	Beispiel	NOUN	3	nsubj
+3	nehmen	nehmen	VERB	_	_
+
+VPC.full
+0	scheidet	scheiden	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	aufgemotzten	aufgemotzt	ADJ	_	_
+
+VID
+0	es	es	PRON	_	_
+1	gegeben	geben	ADJ	_	_
+
+VPC.full
+0	Auftauchen	Auftauchen	NOUN	_	_
+
+VPC.full
+0	einzubringen	einzubringen	VERB	_	_
+
+VPC.full
+0	laden	laden	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	aufgewachsen	aufgewachsen	VERB	_	_
+
+VID
+0	zuschulden	zuschulden	VERB	_	_
+1	kommen	kommen	VERB	2	xcomp
+2	lassen	lassen	VERB	_	_
+
+VID
+0	anbrennen	anbrennen	VERB	1	xcomp
+1	lassen	lassen	VERB	_	_
+
+VPC.full
+0	gehe	gehe	SCONJ	1	mark
+1	aus	aus	ADP	_	_
+
+VID
+0	gehe	gehe	SCONJ	2	mark
+1	davon	davon	PRON	2	dep
+2	aus	aus	ADP	_	_
+
+VID
+0	nach	nach	ADP	1	case
+1	sich	er|es|sie	PRON	2	nmod
+2	ziehen	ziehen	VERB	_	_
+
+VID
+0	Will	wollen	PROPN	1	name
+1	heißen	heißen	VERB	_	_
+
+VPC.full
+0	zugelassen	zulassen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubjpass
+1	geben	geben	VERB	_	_
+
+VID
+0	in	in	ADP	2	case
+1	die	der	DET	2	det
+2	Wege	Wege	NOUN	3	nmod
+3	geleitet	geleiten|leiten	VERB	_	_
+
+VPC.full
+0	losgehen	losgehen	VERB	_	_
+
+VPC.full
+0	anzulegen	anzulegen	VERB	_	_
+
+VID
+0	bleibt	bleiben	VERB	1	cop
+1	erspart	ersparen	ADJ	_	_
+
+VID
+0	Hand	hand	NOUN	_	_
+1	anzulegen	anzulegen	VERB	0	cop
+
+VPC.full
+0	ausfallen	ausfallen	VERB	_	_
+
+VID
+0	an	an	ADP	1	case
+1	Boden	boden	NOUN	2	nmod
+2	verloren	verlieren	VERB	_	_
+
+IRV
+0	befindet	befinden	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	umschlug	umschlagen	VERB	_	_
+
+VID
+0	darauf	darauf	ADV	1	advmod
+1	kommt	kommen	VERB	_	_
+2	es	es	PRON	1	nsubj
+3	an	an	ADP	1	compound:prt
+
+VPC.full
+0	sagen	sagen	VERB	_	_
+1	voraus	voraus	ADV	0	advmod
+
+VID
+0	ging	gehen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Tagesordnung	Tagesordnung	NOUN	0	nmod
+3	über	über	ADP	0	compound:prt
+
+VID
+0	kommt	kommen	VERB	_	_
+1	infrage	infrage	ADV	0	advmod
+
+VID
+0	atmet	atmet	PROPN	1	name
+1	Geschichte	Geschichte	PROPN	_	_
+
+VPC.full
+0	vorgelegt	vorlegen	VERB	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Verdacht	Verdacht	NOUN	_	_
+2	geraten	geraten|raten	VERB	_	_
+
+VID
+0	ließ	lassen	VERB	_	_
+1	in	in	ADP	2	case
+2	Karten	Karte	NOUN	3	nmod
+3	schauen	schauen	VERB	0	xcomp
+
+VID
+0	sprühten	sprühen	VERB	_	_
+1	Funken	Funke	NOUN	0	nsubj
+
+VPC.full
+0	zöge	zöge	VERB	_	_
+1	an	an	ADP	_	_
+
+LVC.full
+0	schöpfte	schöpfen	VERB	_	_
+1	Hoffnung	Hoffnung	NOUN	0	dobj
+
+VPC.full
+0	spielte	spielen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	Sinn	Sinn	NOUN	1	dobj
+1	ergibt	ergeben	VERB	_	_
+
+VID
+0	Sack	Sack	NOUN	1	dobj
+1	zugebunden	zugebund	ADJ	_	_
+
+LVC.full
+0	Sorgen	Sorge|Sorgen	NOUN	1	dobj
+1	machen	machen	VERB	_	_
+
+VPC.full
+0	wegwerfen	wegwerfen	VERB	_	_
+
+LVC.full
+0	auf	auf	ADP	1	case
+1	Jagd	Jagd	NOUN	2	nmod
+2	gehen	gehen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Ungnade	Ungnade	NOUN	2	nmod
+2	gefallen	fallen|gefallen	VERB	_	_
+
+VPC.full
+0	brach	brechen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VID
+0	Angst	Angst	NOUN	1	nsubj
+1	haben	haben	VERB	_	_
+
+VPC.full
+0	drückt	drücken	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	blicken	blicken	VERB	2	xcomp
+2	lassen	lassen	VERB	_	_
+
+VPC.full
+0	eingerichtet	eingerichten	VERB	_	_
+
+VID
+0	ins	in+der	ADP	1	case
+1	Gesicht	Gesicht	NOUN	_	_
+2	geschrieben	schreiben	VERB	3	xcomp
+3	steht	stehen	VERB	_	_
+
+LVC.full
+0	kommen	kommen	VERB	_	_
+1	zum	zu+der	ADP	2	case
+2	Einsatz	Einsatz	NOUN	0	nmod
+
+LVC.full
+0	stellt	stellen	VERB	_	_
+1	vor	vor	ADP	2	case
+2	Herausforderung	Herausforderung	NOUN	0	nmod
+
+VID
+0	gehe	gehe	VERB	_	_
+1	in	in	ADP	2	case
+2	Ordnung	Ordnung	NOUN	0	nmod
+
+IRV
+0	verständigten	verständigen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	ans	an+der	ADP	1	case
+1	Licht	Licht	NOUN	_	_
+2	kommen	kommen	PROPN	1	appos
+
+VPC.full
+0	feststellte	feststellen	AUX	_	_
+
+VPC.full
+0	abgedeckt	abdecken	VERB	_	_
+
+VID
+0	Fehler	Fehler	NOUN	_	_
+1	machen	machen	VERB	0	cop
+
+VPC.full
+0	vorstellte	vorstellen	VERB	_	_
+
+VID
+0	erklärte	erklären	VERB	_	_
+1	für	für	ADP	2	case
+2	verrückt	verrückt	ADJ	0	nmod
+
+VID
+0	ist	sein	VERB	3	cop
+1	die	der	DET	2	det
+2	Zeit	Zeit	NOUN	3	nsubj
+3	reif	reif	ADJ	_	_
+
+VPC.full
+0	ging	gehen	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VPC.full
+0	setzte	setzen	VERB	_	_
+1	durch	durch	ADP	0	compound:prt
+
+VPC.full
+0	angegriffen	angreifen	VERB	_	_
+
+VPC.full
+0	lässt	lassen	VERB	_	_
+1	los	los	ADV	0	advmod
+
+VPC.full
+0	festgenommen	festgenehmen	VERB	_	_
+
+VPC.full
+0	aufnehmen	aufnehmen	VERB	_	_
+
+LVC.full
+0	fand	finden	VERB	_	_
+1	Einstieg	Einstieg	NOUN	0	dobj
+
+VID
+0	ins	in+der	ADP	1	case
+1	Rennen	Rennen	NOUN	2	nmod
+2	geschickt	geschickt	VERB	_	_
+
+VPC.full
+0	umgesetzt	umgesetzen	VERB	_	_
+
+VID
+0	Kommt	kommen	VERB	_	_
+1	infrage	infrage	PROPN	_	_
+
+VID
+0	Nase	Nase	NOUN	2	nsubj
+1	vorn	vorn	ADV	2	advmod
+2	gehabt	haben	VERB	_	_
+
+VPC.full
+0	gehen	gehen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	abzulösen	ablösen	VERB	_	_
+
+VID
+0	klar	klar	ADJ	1	advmod
+1	machen	machen	VERB	_	_
+
+VID
+0	zu	zu	ADP	1	case
+1	Wort	Wort	NOUN	2	nmod
+2	kam	kommen	VERB	_	_
+
+VID
+0	sich	er|es|sie	PRON	2	dobj
+1	zufrieden	zufrieden	ADJ	2	advmod
+2	geben	geben	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	geben	geben	VERB	_	_
+
+VID
+0	Gebäude	Gebäude	NOUN	1	nsubjpass
+1	hochgezogen	hochziehen	VERB	_	_
+
+LVC.full
+0	machte	machen	VERB	_	_
+1	Weihnachtsgeschenk	Weihnachtsgeschenk	NOUN	_	_
+
+VID
+0	stellte	stellen	VERB	_	_
+1	in	in	ADP	2	case
+2	Raum	Raum	NOUN	0	nmod
+
+VPC.full
+0	meldeten	melden	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	machten	machen	VERB	_	_
+1	Luft	Luft	NOUN	0	dobj
+
+VPC.full
+0	zugestimmt	zugestimmen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Augenschein	Augenschein	PROPN	2	nmod
+2	genommen	nommen	ADJ	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	kommt	kommen	VERB	_	_
+2	an	an	ADP	1	compound:prt
+
+VPC.full
+0	rastet	rasten	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Schuss	Schuss	NOUN	_	_
+2	ist	sein	VERB	_	_
+
+VID
+0	Idee	Idee	NOUN	1	nsubjpass
+1	geboren	gebären	VERB	_	_
+
+VID
+0	hat	haben	VERB	_	_
+1	hinter	hinter	ADP	2	case
+2	sich	er|es|sie	PRON	0	nmod
+
+VPC.semi
+0	zeigte	zeigen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	aufpassen	aufpassen	VERB	_	_
+
+VID
+0	Geheimnis	Geheimnis	NOUN	1	nsubjpass
+1	gelüftet	lüften	VERB	_	_
+
+VPC.full
+0	tauchen	tauchen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	in	in	ADP	1	case
+1	Konflikt	Konflikt	NOUN	_	_
+2	kommen	kommen	VERB	_	_
+
+VPC.full
+0	wiesen	weisen	VERB	_	_
+1	auf	auf	ADP	_	_
+
+VPC.full
+0	abstimmt	abstimmen	VERB	_	_
+
+VID
+0	Eindruck	Eindruck	NOUN	1	dobj
+1	hinterließ	hinterlassen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	geht	gehen	VERB	_	_
+2	darum	darum	PRON	1	dep
+
+VID
+0	habe	haben	AUX	_	_
+1	im	in+der	ADP	2	case
+2	Griff	Griff	NOUN	_	_
+
+VID
+0	gern	gern	ADV	_	_
+1	gesehen	sehen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	außer	außer	ADP	2	case
+2	Haus	Haus	NOUN	0	appos
+
+VID
+0	in	in	ADP	1	case
+1	Wohlgefallen	Wohlgefalle	NOUN	2	nmod
+2	auflösen	auflösen	VERB	_	_
+
+VPC.full
+0	auflösen	auflösen	VERB	_	_
+
+LVC.cause
+0	in	in	ADP	1	case
+1	Gang	Gang	NOUN	2	nmod
+2	gesetzt	setzen	VERB	_	_
+
+VID
+0	zu	zu	PART	1	mark
+1	spüren	spüren	VERB	2	xcomp
+2	bekommen	bekommen	VERB	_	_
+
+VPC.full
+0	steht	stehen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	weiter	weiter	ADV	0	compound:prt
+
+VPC.full
+0	eingehalten	eingehalten	VERB	_	_
+
+VID
+0	gerecht	rechen	ADJ	_	_
+1	geworden	werden	VERB	0	cop
+
+VPC.full
+0	rausgeworfen	rausgewerfen	VERB	_	_
+
+VPC.full
+0	trafen	treffen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	einspannt	einspennen	VERB	_	_
+
+VPC.full
+0	eingeschränkt	eingeschränken	VERB	_	_
+
+VPC.full
+0	stimmte	stimmt	ADJ	_	_
+1	ein	ein	DET	_	_
+
+VPC.full
+0	aussehen	aussehen	VERB	_	_
+
+VPC.full
+0	ausgerastet	ausgerasten	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Kontakt	Kontakt	NOUN	2	nmod
+2	kommen	kommen	VERB	_	_
+
+VPC.full
+0	kam	kommen	VERB	_	_
+1	vor	vor	ADP	_	_
+
+VPC.full
+0	aufgetretenen	aufgetreten	ADJ	_	_
+
+VID
+0	in	in	ADP	2	case
+1	die	der	DET	2	det
+2	Jahre	Jahr	NOUN	3	nmod
+3	gekommen	kommen	VERB	_	_
+
+VPC.full
+0	kommt	kommen	VERB	_	_
+1	zugute	zugute	ADV	_	_
+
+VPC.full
+0	vorgeworfen	vorgewerfen	VERB	_	_
+
+VID
+0	Einfluss	Einfluß	NOUN	1	dobj
+1	nehmen	nehmen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	darum	darum	PRON	0	advmod
+
+VPC.full
+0	eingeblendet	eingeblenden	VERB	_	_
+
+IRV
+0	kümmert	kümmeren	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	um	um	ADP	_	_
+
+VID
+0	stillgelegt	stillgelegen	VERB	_	_
+
+VPC.full
+0	nahm	nehmen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+IRV
+0	nahm	nehmen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	bescheiden	bescheiden	VERB	0	acl
+3	aus	aus	ADP	2	compound:prt
+
+VID
+0	Es	es	PRON	1	nsubj
+1	kam	kommen	VERB	_	_
+
+VPC.full
+0	abgehoben	abheben	ADJ	_	_
+
+VID
+0	es	es	PRON	2	nsubj
+1	um	um	ADP	_	_
+2	geht	gehen	VERB	_	_
+
+VID
+0	es	es	PRON	_	_
+1	geht	gehen	VERB	_	_
+
+VID
+0	Service	Service	NOUN	1	dobj
+1	abgeben	abgeben	VERB	_	_
+
+VPC.full
+0	abgeben	abgeben	VERB	_	_
+
+VPC.full
+0	durchzuführen	durchführen	VERB	_	_
+
+IRV
+0	stellt	stellen	VERB	_	_
+1	sich	er|es|sie	PRON	0	iobj
+
+VID
+0	geht	gehen	VERB	_	_
+1	aufs	auf+der	ADP	2	case
+2	Ganze	Ganze	NOUN	0	nmod
+
+VID
+0	brachte	bringen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Welt	Welt	NOUN	_	_
+
+VID
+0	bekannt	bekennen	ADJ	1	advmod
+1	gab	geben	VERB	_	_
+
+VPC.full
+0	gaben	geben	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+LVC.full
+0	Anfang	Anfang	NOUN	1	dobj
+1	gemacht	machen	VERB	_	_
+
+VID
+0	kommen	kommen	VERB	_	_
+1	in	in	ADP	2	case
+2	Genuss	Genuß	NOUN	0	nmod
+
+VPC.full
+0	angeschlagen	angeschlagen	VERB	_	_
+
+VID
+0	über	über	ADP	1	case
+1	Tisch	Tisch	NOUN	2	nmod
+2	gelaufen	gelauf	ADJ	_	_
+
+VID
+0	legen	legen	VERB	_	_
+1	Fokus	Fokus	NOUN	0	dobj
+
+VPC.full
+0	abgelenkt	abgelenken	VERB	_	_
+
+LVC.full
+0	stellte	stellen	VERB	_	_
+1	Rekord	Rekord	NOUN	0	dobj
+2	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	stellte	stellen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	Fehler	Fehler	NOUN	_	_
+1	machen	machen	VERB	0	acl
+
+VPC.full
+0	aufzulösen	auflösen	VERB	_	_
+
+VPC.full
+0	umgegangen	umgegangen	VERB	_	_
+
+VID
+0	war	sein	VERB	2	cop
+1	der	der	DET	2	det
+2	Fall	Fall	NOUN	_	_
+
+VID
+0	sich	er|es|sie	PRON	3	dobj
+1	das	der	DET	2	det
+2	Leben	Leben	NOUN	3	dobj
+3	genommen	nehmen	VERB	_	_
+
+LVC.cause
+0	gewährte	gewähren	VERB	_	_
+1	Einblick	Einblick	NOUN	0	dobj
+
+VID
+0	aus	aus	ADP	1	case
+1	Vollen	volle	NOUN	2	nmod
+2	schöpfen	schöpfen	VERB	_	_
+
+VID
+0	waren	sein	VERB	_	_
+1	mit	mit	ADP	_	_
+2	von	von	ADP	4	case
+3	der	der	DET	4	det
+4	Partie	Partie	NOUN	1	nmod
+
+VID
+0	fest	fest	ADJ	1	advmod
+1	stehen	stehen	VERB	_	_
+
+VPC.full
+0	gibt	geben	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	Voll	vollen	AUX	_	_
+1	des	der	DET	2	det
+2	Lobes	Lobes	NOUN	0	nmod
+3	ist	sein	VERB	_	_
+
+LVC.full
+0	macht	machen	VERB	_	_
+1	Vorwürfe	Vorwürfe	NOUN	0	dobj
+
+VID
+0	hatte	haben	VERB	_	_
+1	Glück	Glück	NOUN	0	dobj
+
+VPC.full
+0	fällt	fallen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+LVC.full
+0	Rolle	Rolle	NOUN	1	dobj
+1	gespielt	spielen	VERB	_	_
+
+LVC.cause
+0	in	in	ADP	1	case
+1	Aussicht	Aussicht	NOUN	_	_
+2	gestellt	stellen	VERB	_	_
+
+VID
+0	Handlungsbedarf	Handlungsbedarf	NOUN	1	iobj
+1	besteht	bestehen	VERB	_	_
+
+VPC.full
+0	zogen	ziehen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.semi
+0	aufrecht	aufrecht	ADJ	1	advmod
+1	erhalten	erhalten	VERB	_	_
+
+LVC.full
+0	an	an	ADP	1	case
+1	Start	Start	NOUN	2	nmod
+2	gehen	gehen	VERB	_	_
+
+VID
+0	zeigte	zeigen	VERB	_	_
+1	Größe	Größe	NOUN	_	_
+
+VPC.full
+0	abgehängt	abgehängen	VERB	_	_
+
+VID
+0	Weichen	weich	VERB	_	_
+1	stellen	stellen	VERB	_	_
+
+VID
+0	tut	tun	VERB	_	_
+1	schwer	schwer	ADJ	0	advmod
+
+VID
+0	macht	machen	VERB	_	_
+1	zu	zu	PART	2	mark
+2	schaffen	schaffen	VERB	0	xcomp
+
+VPC.full
+0	zunehmen	zunehmen	VERB	_	_
+
+VPC.full
+0	heraus	heraus	ADV	1	advmod
+1	gestellt	stellen	VERB	_	_
+
+LVC.full
+0	gehen	gehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Sendung	Sendung	NOUN	0	nmod
+
+VPC.full
+0	mitteilt	mitteilen	VERB	_	_
+
+LVC.full
+0	stand	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Einfluss	Einfluß	NOUN	0	nmod
+
+VID
+0	steht	stehen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Raum	Raum	NOUN	0	nmod
+
+VPC.full
+0	steht	stehen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	Lieder	Lied	NOUN	_	_
+1	angestimmt	angestimmen	VERB	_	_
+
+VPC.full
+0	angestimmt	angestimmen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	um	um	ADP	_	_
+2	kümmern	kümmern	VERB	_	_
+
+VPC.semi
+0	angesehen	ansehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	3	dobj
+1	zur	zu+der	ADP	2	case
+2	Wehr	Wehr	NOUN	_	_
+3	setzen	setzen	VERB	_	_
+
+IRV
+0	ließ	lassen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	sich	er|es|sie	PRON	0	dobj
+3	nicht	nicht	PART	4	neg
+4	nehmen	nehmen	VERB	0	xcomp
+
+LVC.full
+0	zum	zu+der	ADP	1	case
+1	Ausdruck	Ausdruck	NOUN	2	nmod
+2	gebracht	bringen	VERB	_	_
+
+VID
+0	Fuß	Fuß	NOUN	1	dobj
+1	gefasst	fassen	VERB	_	_
+
+VPC.full
+0	fiel	fallen	VERB	_	_
+1	auf	auf	ADP	_	_
+
+IRV
+0	Geben	geben	NOUN	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	machten	machen	VERB	_	_
+1	Schluss	Schluß	NOUN	0	dobj
+
+VPC.full
+0	zulasse	zulasse	PROPN	_	_
+
+VPC.full
+0	steuerte	steuern	VERB	_	_
+1	bei	bei	ADP	0	compound:prt
+
+VID
+0	versuchten	versuchen	VERB	_	_
+1	ihr	ihr	DET	2	det:poss
+2	Glück	Glück	NOUN	0	dobj
+
+IRV
+0	setzten	setzen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	setzten	setzen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+IRV
+0	nimmt	nehmen	VERB	_	_
+1	Schuld	Schuld	ADJ	0	advmod
+2	auf	auf	ADP	3	case
+3	sich	er|es|sie	PRON	0	nmod
+
+VPC.full
+0	festgelegt	festlegen	VERB	_	_
+
+VPC.full
+0	eingebüßt	eingebüßen	VERB	_	_
+
+VPC.full
+0	angreifen	angreifen	VERB	_	_
+
+VPC.full
+0	abhielt	abhalten	VERB	_	_
+
+VPC.semi
+0	bietet	bieten	VERB	_	_
+1	an	an	ADP	_	_
+
+VID
+0	ins	in+der	ADP	1	case
+1	Visier	Visier	PROPN	2	nmod
+2	genommen	nommen	VERB	_	_
+
+VPC.full
+0	Steht	stehen	VERB	_	_
+1	bevor	bevor	ADV	0	advmod
+
+VPC.full
+0	stachelt	stacheln	VERB	_	_
+1	an	an	ADP	_	_
+
+VID
+0	Es	es	PRON	1	expl
+1	gebe	geben	VERB	_	_
+
+VPC.semi
+0	aufgenommen	aufgenehmen	VERB	_	_
+
+VPC.full
+0	zieht	zeihen|ziehen	VERB	_	_
+1	zurück	zurück	ADV	_	_
+
+VPC.full
+0	ausgerückt	ausgerückt	ADJ	_	_
+
+LVC.full
+0	leistete	leisten	VERB	_	_
+1	Erste	erst	PROPN	2	amod
+2	Hilfe	Hilfe	PROPN	0	nsubj
+
+VPC.semi
+0	forderte	fordern	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	anfreunden	anfreunden	VERB	_	_
+
+LVC.full
+0	im	in+der	ADP	1	case
+1	Einsatz	Einsatz	NOUN	2	nmod
+2	ist	sein	VERB	_	_
+
+LVC.cause
+0	in	in	ADP	1	case
+1	Verbindung	Verbindung	NOUN	2	nmod
+2	setzen	setzen	VERB	_	_
+
+LVC.full
+0	Hinweise	Hinweis	NOUN	1	nsubj
+1	machen	machen	VERB	_	_
+
+IRV
+0	nähert	nähern	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	hielt	halten	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VID
+0	mit	mit	ADP	1	case
+1	Vorsicht	Vorsicht	NOUN	2	nmod
+2	genießen	genießen	VERB	_	_
+
+VID
+0	sich	er|es|sie	PRON	3	dobj
+1	in	in	ADP	2	case
+2	Grenzen	Grenze	NOUN	_	_
+3	hielt	halten	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	ins	in+der	ADP	_	_
+2	Wochenende	Wochenende	NOUN	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	entspannt	entspannen	VERB	_	_
+
+VID
+0	hatte	haben	VERB	_	_
+1	zu	zu	PART	2	mark
+2	tun	tun	VERB	0	xcomp
+
+VPC.full
+0	austritt	austreten	VERB	_	_
+
+LVC.full
+0	hegt	hegen	VERB	_	_
+1	Verdacht	Verdacht	NOUN	0	dobj
+
+VPC.full
+0	zurückgeht	zurückgehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	stellen	stellen	VERB	_	_
+
+VPC.semi
+0	anbieten	anbieten	VERB	_	_
+
+VID
+0	hatte	haben	VERB	_	_
+1	Nachsehen	Nachsehen	NOUN	0	dobj
+
+VPC.full
+0	hob	heben	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	um	um	ADP	_	_
+1	ging	gehen	VERB	_	_
+2	es	es	PRON	1	nsubj
+
+VPC.full
+0	fielen	fielen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	in	in	ADP	1	case
+1	Gewalt	Gewalt	NOUN	2	nmod
+2	gebracht	bringen	VERB	_	_
+
+VID
+0	bekannt	bekannt	ADJ	1	advmod
+1	gibt	geben	VERB	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	Unterschied	Unterschied	NOUN	0	conj
+
+VPC.full
+0	eintragen	eintragen	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Stand	Stand	NOUN	2	nmod
+2	sein	sein	VERB	_	_
+
+VPC.full
+0	nachgeben	nachben	VERB	_	_
+
+VPC.full
+0	anstellen	anstellen	VERB	_	_
+
+VID
+0	Sanierungsarbeiten	Sanierungsarbeit	NOUN	1	nsubj
+1	laufen	laufen	VERB	_	_
+
+VPC.full
+0	ausdrückt	ausdrücken	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	ging	gehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	einigen	einigen	VERB	_	_
+
+VPC.full
+0	fangen	fangen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	herzustellen	herstellen	VERB	_	_
+
+VID
+0	Lob	Lob	NOUN	1	nmod
+1	zollte	zollen	VERB	_	_
+
+VID
+0	klar	klar	ADJ	1	advmod
+1	machte	machen	VERB	_	_
+
+LVC.cause
+0	Zur	zu+der	ADP	1	case
+1	Verfügung	Verfügung	NOUN	2	nmod
+2	gestellt	stellen	VERB	_	_
+
+VID
+0	gab	geben	VERB	_	_
+1	Gas	Gas	NOUN	0	nmod
+
+VPC.full
+0	vorzunehmen	vorzunehmen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	gegeben	geben	VERB	_	_
+
+VPC.full
+0	eingereicht	einreichen	VERB	_	_
+
+LVC.full
+0	Zustimmung	Zustimmung	NOUN	1	dobj
+1	gegeben	geben	VERB	_	_
+
+VID
+0	Spaß	Spaß	NOUN	1	dobj
+1	machen	machen	VERB	_	_
+
+VPC.full
+0	einbringen	einbringen	VERB	_	_
+
+VPC.full
+0	auftritt	auftreten	VERB	_	_
+
+VID
+0	tat	tun	VERB	_	_
+1	keinen	kein	PRON	2	neg
+2	Abbruch	Abbruch	NOUN	0	dobj
+
+VID
+0	brachte	bringen	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Spiel	Spiel	NOUN	0	nmod
+
+VID
+0	tritt	treten	VERB	_	_
+1	Amt	Amt	NOUN	0	dobj
+2	an	an	ADP	0	compound:prt
+
+IRV
+0	ergibt	ergeben	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+IRV
+0	gab	geben	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+IRV
+0	geniere	genieren	VERB	_	_
+1	mich	ich	PRON	0	dobj
+
+VID
+0	tut	tun	VERB	_	_
+1	leid	leid	NOUN	0	dobj
+
+VPC.full
+0	Abschneiden	Abschneide	NOUN	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Vordermann	Vordermann	NOUN	2	nmod
+2	bringen	bringen	VERB	_	_
+
+VID
+0	gibt	giben	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VID
+0	nehmen	nehmen	VERB	_	_
+1	zum	zu+der	ADP	2	case
+2	Anlass	Anlaß	NOUN	0	nmod
+
+VPC.full
+0	läuft	laufen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	nehmen	nehmen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+LVC.full
+0	Aufmerksamkeit	Aufmerksamkeit	NOUN	1	dobj
+1	gewidmet	widmen	VERB	_	_
+
+VPC.full
+0	einzuführen	einführen	VERB	_	_
+
+VID
+0	nimmt	nehmen	VERB	_	_
+1	Hürde	Hürde	NOUN	0	dobj
+
+VID
+0	ging	gehen	VERB	_	_
+1	es	es	PRON	0	expl
+2	um	um	ADP	_	_
+
+VPC.semi
+0	harrten	harren	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	abgezogen	abziehen	VERB	_	_
+
+VPC.full
+0	steht	stehen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	klingt	klingen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	setzt	setzen	VERB	_	_
+1	durch	durch	ADP	0	compound:prt
+
+IRV
+0	setzt	setzen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	durch	durch	ADP	0	compound:prt
+
+VID
+0	Haben	haben	VERB	_	_
+1	Angst	Angst	NOUN	0	dobj
+
+VID
+0	auf	auf	ADP	1	case
+1	Prüfstand	Prüfstand	NOUN	2	nmod
+2	stellt	stellen	VERB	_	_
+
+VPC.full
+0	eingestrichen	eingestrich	ADJ	_	_
+
+VID
+0	isst	messen|issen	VERB	_	_
+1	das	der	DET	2	det
+2	Auge	Auge	NOUN	0	dobj
+3	mit	mit	ADP	0	compound:prt
+
+VID
+0	ringt	ringen	VERB	_	_
+1	mit	mit	ADP	3	case
+2	dem	der	DET	3	det
+3	Tod	Tod	NOUN	0	nmod
+
+LVC.full
+0	zog	zog	PROPN	_	_
+1	Halbjahresbilanz	Halbjahresbilanz	NOUN	_	_
+
+VPC.full
+0	drehten	drehen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	publik	publik	PROPN	1	nmod
+1	gemacht	machen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Bett	Bett	NOUN	0	nmod
+
+VID
+0	hat	haben	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Gepäck	Gepäck	NOUN	_	_
+
+VPC.full
+0	teilt	teilen	VERB	_	_
+1	mit	mit	ADP	_	_
+
+VID
+0	schoben	schobe	NOUN	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	den	der	DET	4	det
+3	Schwarzen	schwarz	PROPN	4	name
+4	Peter	Peter	PROPN	0	appos
+5	zu	zu	ADP	4	case
+
+VPC.full
+0	lege	legen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	sagte	sagen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	verstand	verstehen	VERB	_	_
+1	es	es	PRON	0	expl
+
+VID
+0	Gefängnisstrafe	Gefängnisstrafe	NOUN	1	nsubj
+1	verbüßen	verbüßen	VERB	_	_
+
+LVC.full
+0	Gedanken	Gedanke	NOUN	1	dobj
+1	machen	machen	VERB	_	_
+
+LVC.full
+0	Spiele	Spiel	NOUN	1	dobj
+1	bestreiten	bestreiten	VERB	_	_
+
+VPC.full
+0	macht	machen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+LVC.cause
+0	Auftrittschance	Auftrittschance	NOUN	1	dobj
+1	gibt	geben	VERB	_	_
+
+VPC.full
+0	austragen	austragen	VERB	_	_
+
+VPC.full
+0	vornehmen	vornehm	VERB	_	_
+
+VID
+0	ließ	lassen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Stich	Stich	NOUN	0	nmod
+
+VID
+0	hatte	haben	VERB	_	_
+1	schlechte	schlecht	ADJ	2	amod
+2	Karten	Karte	NOUN	0	conj
+
+VPC.full
+0	eingeführt	einführen	VERB	_	_
+
+VPC.full
+0	abziehen	abziehen	VERB	_	_
+
+IRV
+0	mich	ich	PRON	1	dobj
+1	geschämt	schämen	VERB	_	_
+
+VPC.full
+0	vorgegangen	vorgegangen	PROPN	_	_
+
+LVC.full
+0	bereiten	bereiten	VERB	_	_
+1	Sorgen	Sorge|Sorgen	NOUN	0	nmod
+
+VPC.full
+0	ansetzen	ansetzen	VERB	_	_
+
+VPC.full
+0	stellten	stellen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	fällt	fallen|fällen	VERB	_	_
+1	schwer	schwer	ADJ	0	advmod
+
+VID
+0	wurde	werden	VERB	1	cop
+1	fündig	fündig	PROPN	_	_
+
+VID
+0	gibt	giben	VERB	_	_
+1	Kick	Kick	NOUN	0	dobj
+
+VID
+0	kam	kommen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Stande	Stand	NOUN	0	nmod
+
+VID
+0	kommt	kommen	VERB	_	_
+1	infrage	infrage	ADV	0	compound:prt
+
+VPC.full
+0	kommt	kommen	VERB	_	_
+1	zugute	zugute	ADV	0	advmod
+
+VPC.full
+0	mitgeteilt	mitgeteilen	VERB	_	_
+
+VPC.full
+0	kämen	kämen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	fällt	fallen|fällen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	strebt	streben	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	saß	sitzen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Gefängnis	Gefängnis	NOUN	0	nmod
+
+IRV
+0	wehrte	wehren	VERB	_	_
+1	sich	er|es|sie	PRON	_	_
+
+VPC.full
+0	Abbiegen	Abbieg	NOUN	_	_
+
+VPC.full
+0	fällt	fallen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	gab	geben	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+LVC.full
+0	spielt	spielen	VERB	_	_
+1	Rolle	Rolle	NOUN	0	dobj
+
+VPC.full
+0	festzuhalten	festzuhalten	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	bemühen	bemühen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	geht.	geht.	ADP	_	_
+
+VPC.full
+0	angeschlossen	anschließen	ADJ	_	_
+
+VID
+0	behielt	behalten	VERB	_	_
+1	Oberhand	Oberhand	NOUN	0	dobj
+
+VID
+0	darauf	darauf	ADV	2	advmod
+1	ankommen	ankommen	VERB	2	xcomp
+2	lassen	lassen	VERB	_	_
+
+LVC.full
+0	unter	unter	ADP	1	case
+1	Druck	Druck	NOUN	2	nmod
+2	stehen	stehen	VERB	_	_
+
+VID
+0	schaut	schauen	VERB	_	_
+1	hinter	hinter	ADP	2	case
+2	Kulissen	Kulisse	NOUN	0	nmod
+
+LVC.full
+0	leisten	leisten	VERB	_	_
+1	Beitrag	Beitrag	NOUN	0	dobj
+
+VID
+0	gut	gut	ADJ	2	advmod
+1	zu	zu	ADP	2	case
+2	Gesicht	Gesicht	NOUN	3	nmod
+3	stehen	stehen	VERB	_	_
+
+VPC.full
+0	trete	treten	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	machte	machen	VERB	_	_
+1	aus	aus	ADP	3	case
+2	der	der	DET	3	det
+3	Not	not	NOUN	0	nmod
+4	eine	ein	DET	5	det
+5	Tugend	Tugend	NOUN	0	dobj
+
+VID
+0	sich	er|es|sie	PRON	1	dobj
+1	ausgesprochen	aussprechen	VERB	_	_
+
+VPC.full
+0	rechnete	rechnen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	machte	machen	VERB	_	_
+1	aus	aus	ADP	2	case
+2	Herzen	Herz	NOUN	3	nmod
+3	Mördergrube	Mördergrub	NOUN	0	conj
+
+VPC.full
+0	ruf	ruf	NOUN	_	_
+1	an	an	ADP	_	_
+
+VID
+0	tun	tun	VERB	_	_
+1	gut	gut	ADJ	0	advmod
+
+VPC.full
+0	einmottete	einmotten	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Eis	Eis	NOUN	2	nmod
+2	legte	legen	VERB	_	_
+
+VPC.full
+0	auflöste	auflösen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	es	es	PRON	0	expl
+
+LVC.full
+0	in	in	ADP	1	case
+1	Erscheinung	Erscheinung	NOUN	2	nmod
+2	getreten	treten	VERB	_	_
+
+VPC.full
+0	stritt	streten	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+LVC.cause
+0	unter	unter	ADP	1	case
+1	Druck	Druck	NOUN	2	nmod
+2	gesetzt	setzen	VERB	_	_
+
+VID
+0	machen	machen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Weg	Weg	NOUN	0	nmod
+
+VPC.full
+0	sei	sein	VERB	_	_
+1	dran	dran	ADV	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Idee	Idee	NOUN	2	nmod
+2	gekommen	kommen	VERB	_	_
+
+VPC.full
+0	Abbiegen	Abbiegen	NOUN	_	_
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	hervor	hervor	ADV	0	compound:prt
+
+IRV
+0	stellen	stellen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	gehen	gehen	VERB	_	_
+1	um	um	ADP	_	_
+
+VPC.full
+0	klingen	klingen	VERB	_	_
+1	nach	nach	ADP	0	compound:prt
+
+VID
+0	Weltmeister-Titel	Weltmeister-Titel	NOUN	_	_
+1	eingefahren	eingefahren	VERB	_	_
+
+VPC.full
+0	eingefahren	eingefahren	VERB	_	_
+
+VPC.full
+0	aufgetreten	auftreten	VERB	_	_
+
+VID
+0	nähren	nähren	VERB	_	_
+1	Verdacht	Verdacht	NOUN	_	_
+
+VID
+0	geht's	geht's	ADJ	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VPC.full
+0	mitwirken	mitwirken	VERB	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Sache	Sache	NOUN	0	nmod
+
+VPC.full
+0	warf	warf	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	Worte	Wort	NOUN	1	nsubj
+1	fehlen	fehlen	VERB	_	_
+
+VID
+0	hat	haben	VERB	_	_
+1	Bock	Bock	NOUN	0	iobj
+
+VID
+0	auf	auf	ADP	1	case
+1	Tisch	Tisch	NOUN	2	nmod
+2	legen	legen	VERB	_	_
+
+VID
+0	gelte	geln	VERB	_	_
+1	es	es	PRON	0	expl
+
+VID
+0	es	es	PRON	1	nsubj
+1	gibt	giben	VERB	_	_
+
+VID
+0	an	an	ADP	2	case
+1	einem	ein	DET	2	det
+2	Strang	Strang	NOUN	_	_
+3	ziehen	ziehen	VERB	_	_
+
+VPC.full
+0	komme	kommen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	komme	kommen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	an	an	ADP	0	compound:prt
+
+IRV
+0	unterhält	unterhalten	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	sitzen	sitzen	VERB	_	_
+1	in	in	ADP	2	case
+2	Untersuchungshaft	Untersuchungshaft	NOUN	0	nmod
+
+VID
+0	groß	groß	ADJ	_	_
+1	geworden	werden	AUX	0	auxpass
+
+LVC.full
+0	machen	machen	VERB	_	_
+1	Eindruck	Eindruck	NOUN	0	dobj
+
+VPC.full
+0	abhängt	abhängen	VERB	_	_
+
+VPC.full
+0	Anknüpfen	anknüpfen	NOUN	_	_
+
+VPC.full
+0	ausgeräumt	ausgeräumen	VERB	_	_
+
+VPC.full
+0	trägt	tragen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	eingebracht	einbringen	VERB	_	_
+
+VPC.full
+0	gab	geben	VERB	_	_
+1	aus.	aus.	ADV	0	advmod
+
+VID
+0	entfachte	entfachen	VERB	_	_
+1	Hoffnung	Hoffnung	NOUN	0	nsubj
+
+VID
+0	über	über	ADP	1	case
+1	Ufer	Ufer	NOUN	2	nmod
+2	tritt	treten	VERB	_	_
+
+VID
+0	bringt	bringen	VERB	_	_
+1	mit	mit	ADP	2	case
+2	sich	er|es|sie	PRON	0	nmod
+
+VID
+0	Beine	Beine	PROPN	_	_
+1	gemacht	denken|gemenken	VERB	_	_
+
+VID
+0	zur	zu+der	ADP	1	case
+1	Vernunft	Vernunft	NOUN	2	nmod
+2	kommen	kommen	VERB	_	_
+
+VPC.full
+0	stand	stehen	VERB	_	_
+1	gegenüber	gegenüber	ADV	0	dobj
+
+LVC.full
+0	machen	machen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	Sorgen	Sorge|Sorgen	NOUN	0	dobj
+
+VPC.full
+0	stellt	stellen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VPC.semi
+0	überinterpretiert	überinterpretieren	VERB	_	_
+
+VPC.semi
+0	aufbereitet	aufbereiten	ADJ	_	_
+
+VID
+0	kennenlernen	kennenlernen	VERB	_	_
+
+VPC.full
+0	fällt	fallen|fällen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	bedient	bedienen	VERB	_	_
+
+VPC.full
+0	feststellen	feststellen	VERB	_	_
+
+VID
+0	festhalten	festhalten	VERB	_	_
+
+VPC.full
+0	zulassen	zulassen	VERB	_	_
+
+VPC.full
+0	fügt	fügen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	mitzuteilen	mitteilen	VERB	_	_
+
+VPC.full
+0	zurückgetreten	zurückgetreten	VERB	_	_
+
+VPC.full
+0	feststellte	feststellen	VERB	_	_
+
+VID
+0	liegen	liegen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Zeitplan	Zeitplan	NOUN	0	nmod
+
+VID
+0	Lotto-Doppeljackpot	Lotto-Doppeljackpot	NOUN	_	_
+1	geknackt	knacken	ADJ	_	_
+
+VID
+0	fand	finden	VERB	_	_
+1	Platz	Platz	NOUN	0	dobj
+
+LVC.cause
+0	zur	zu+der	ADP	1	case
+1	Verfügung	Verfügung	NOUN	_	_
+2	gestellt	stellen	VERB	_	_
+
+VID
+0	Zu	zu	PART	1	advmod
+1	tun	tun	VERB	_	_
+2	hat	haben	AUX	1	aux
+
+VID
+0	in	in	ADP	1	case
+1	Frage	Frage	NOUN	2	nmod
+2	gestellt	stellen	VERB	_	_
+
+VID
+0	geht's	geht's	ADJ	_	_
+
+VID
+0	ans	an+der	ADP	1	case
+1	Telefon	Telefon	NOUN	2	nmod
+2	geht	gehen	VERB	_	_
+
+VID
+0	gibt	geben	VERB	_	_
+1	Recht	Recht	NOUN	0	dobj
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	verhalten	verhalten	VERB	_	_
+
+VPC.full
+0	fielen	fallen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	gab	geben	VERB	_	_
+1	frei	frei	ADV	0	compound:prt
+
+VID
+0	Wird	werden	VERB	_	_
+1	Zeit	Zeit	NOUN	0	dobj
+
+VPC.full
+0	hinzugefügt	hinzugefügen	VERB	_	_
+
+LVC.full
+0	Antrag	Antrag	NOUN	1	dobj
+1	gestellt	stellen	VERB	_	_
+
+VID
+0	lernten	lernen	VERB	_	_
+1	kennen	kennen	VERB	0	xcomp
+
+VPC.full
+0	ausgeschildert	ausgeschildern	VERB	_	_
+
+VPC.full
+0	schließe	schlassen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VID
+0	stellen	stellen	VERB	_	_
+1	vor	vor	ADP	2	case
+2	Probleme	probleme	NOUN	0	nmod
+
+IRV
+0	hielten	halten	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	an	an	ADP	_	_
+
+VID
+0	warfen	warfen	VERB	_	_
+1	Blick	Blick	NOUN	0	dobj
+
+LVC.cause
+0	macht	machen	VERB	_	_
+1	Druck	Druck	NOUN	0	dobj
+
+VPC.full
+0	beizutreten	beitreten	VERB	_	_
+
+VID
+0	infrage	infrage	ADV	1	advmod
+1	stellen	stellen	VERB	_	_
+
+VPC.semi
+0	festgehalten	festgehalten	VERB	_	_
+
+VID
+0	standen	stehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Plan	Plan	NOUN	0	nmod
+
+VPC.full
+0	lassen	lassen	VERB	_	_
+1	nach	nach	ADP	0	compound:prt
+
+LVC.cause
+0	unter	unter	ADP	1	case
+1	Druck	Druck	NOUN	_	_
+2	gesetzt	setzen	VERB	_	_
+
+VPC.full
+0	Stell	Stell	ADJ	_	_
+1	vor	vor	ADP	_	_
+
+VPC.full
+0	ruft	rufen	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VID
+0	Rolle	Rolle	NOUN	1	nsubjpass
+1	gespielt	gespielt	VERB	_	_
+
+VPC.semi
+0	angelaufen	angelaufen	VERB	_	_
+
+VID
+0	zur	zu+der	ADP	1	case
+1	Faust	Faust	NOUN	_	_
+2	ballte	ballen	VERB	_	_
+
+VID
+0	kommt	kommen	VERB	_	_
+1	nicht	nicht	PART	0	neg
+2	von	von	ADP	3	case
+3	ungefähr	ungefähr	ADV	0	advmod
+
+VPC.full
+0	aufgespürt	aufgespüren	VERB	_	_
+
+VID
+0	willkommen	willkommen	ADJ	1	advmod
+1	geheißen	geheiß	ADJ	_	_
+
+VPC.full
+0	folg	folg	NOUN	1	nsubj
+1	auf	auf	ADP	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	beugen	beugen	VERB	_	_
+
+VID
+0	es	es	PRON	1	expl
+1	gebe	geben	VERB	_	_
+
+VPC.full
+0	vorliegt	vorliegen	VERB	_	_
+
+VPC.full
+0	hängen	hängen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+IRV
+0	bemüht	bemühen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	heißt	heißen	VERB	_	_
+1	das	der	PRON	0	nsubj
+
+VID
+0	geht	gehen	VERB	_	_
+1	Ära	Ära	NOUN	0	nsubj
+2	zu	zu	ADP	3	case
+3	Ende	Ende	NOUN	0	nmod
+
+VPC.full
+0	lädt	laden	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	gab	geben	VERB	_	_
+1	grünes	grün	ADJ	2	amod
+2	Licht	Licht	NOUN	0	nmod
+
+VID
+0	lässt	lassen	VERB	_	_
+1	offen	offen	ADV	0	compound:prt
+
+LVC.full
+0	Schuld	Schuld	NOUN	1	dobj
+1	gaben	geben	VERB	_	_
+
+VPC.full
+0	klären	klär	ADJ	_	_
+1	auf	auf	ADP	_	_
+
+VPC.semi
+0	auslaufe	auslaufen	VERB	_	_
+
+VPC.full
+0	räumt	räumen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	zum	zu+der	ADP	1	case
+1	Zuge	Zug	NOUN	2	nmod
+2	kommen	kommen	VERB	_	_
+
+VID
+0	Risiko	Risiko	NOUN	1	dobj
+1	eingegangen	eingehen	VERB	_	_
+
+LVC.full
+0	ins	in+der	ADP	1	case
+1	Gespräch	Gespräch	NOUN	2	nmod
+2	kommen	kommen	VERB	_	_
+
+VID
+0	gibt	geben	VERB	_	_
+1	einen	ein	DET	_	_
+2	aus	aus	ADP	1	compound:prt
+
+VPC.full
+0	gibt	geben	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	Ausgebildet	ausbilden	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Netz	Netz	NOUN	0	nmod
+
+VID
+0	nimmt	nehmen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Vertrag	Vertrag	NOUN	0	nmod
+
+VPC.full
+0	stürzten	stürzen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	Fußball	Fußball	NOUN	_	_
+1	spielen	spielen	VERB	_	_
+
+LVC.full
+0	Frage	Frage	NOUN	_	_
+1	stellen	stellen	VERB	_	_
+
+VID
+0	sprechen	sprechen	VERB	_	_
+1	eine	ein	DET	3	det
+2	deutliche	deutlich	ADJ	3	amod
+3	Sprache	Sprache	NOUN	0	dobj
+
+VPC.full
+0	Geht	gehen	VERB	_	_
+1	weiter	weiter	ADV	0	compound:prt
+
+VPC.full
+0	gehören	gehören	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	dagegen	dagegen	ADV	_	_
+1	sprechen	sprechen	VERB	_	_
+
+VPC.full
+0	aufgehoben	aufheben	ADJ	_	_
+
+VID
+0	fällt	fallen|fällen	VERB	_	_
+1	schwer	schwer	ADJ	0	xcomp
+
+VID
+0	Filme	Film	NOUN	1	nsubj
+1	drehen	drehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	vorstellen	vorstellen	VERB	_	_
+
+IRV
+0	bewirbt	bewerben	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	holen	holen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	herzuziehen	herzuziehen	VERB	_	_
+
+VPC.full
+0	schalten	schalen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	wehren	wehren	NOUN	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	Bogen	Bogen	NOUN	0	dobj
+
+VPC.full
+0	beitragen	beitragen	VERB	_	_
+
+VID
+0	kommen	kommen	VERB	1	xcomp
+1	sahen	sehen	VERB	_	_
+
+VID
+0	Rekord	Rekord	NOUN	1	dobj
+1	hielt	halten	VERB	_	_
+
+VPC.full
+0	her	her	PART	1	mark
+1	ist	sein	VERB	_	_
+
+LVC.full
+0	in	in	ADP	1	case
+1	Dienst	Dienst	NOUN	2	nmod
+2	stellt	stellen	VERB	_	_
+
+VID
+0	es	es	PRON	1	dobj
+1	gab	geben	VERB	_	_
+
+VPC.full
+0	hochgerechnet	hochgerechnen	VERB	_	_
+
+VPC.full
+0	hinbekommen	hinbekommen	NOUN	_	_
+
+VID
+0	guter	gut	ADJ	1	amod
+1	Dinge	Ding	NOUN	_	_
+2	ist	sein	VERB	1	cop
+
+LVC.full
+0	macht	machen	VERB	_	_
+1	Mut	Mut	PROPN	_	_
+
+VPC.full
+0	ansehen	ansehen	VERB	_	_
+
+VPC.full
+0	legte	legen	VERB	_	_
+1	nach	nach	ADP	0	compound:prt
+
+VPC.full
+0	abgestellt	abgestellen	VERB	_	_
+
+VID
+0	Vermögen	Vermögen	NOUN	1	dobj
+1	eingefroren	eingefror	NOUN	_	_
+
+VPC.full
+0	wirkte	wirken	VERB	_	_
+1	mit	mit	ADP	0	compound:prt
+
+VID
+0	geschlagen	schlagen	VERB	_	_
+1	geben	geben	VERB	0	xcomp
+
+VPC.full
+0	abnehmen	abnehmen	VERB	_	_
+
+VPC.full
+0	vorgesehen	vorsehen	ADJ	_	_
+
+VID
+0	springt	springen	VERB	_	_
+1	von	von	ADP	2	case
+2	Bord	Bord	PROPN	_	_
+
+IRV
+0	erstreckt	erstrecken	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	vorliegen	vorliegen	VERB	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	unsicher	unsich	ADJ	0	conj
+
+VPC.full
+0	eingesetztes	eingesetzt	ADJ	_	_
+
+VPC.full
+0	zugab	zugeben	VERB	_	_
+
+VPC.full
+0	stellen	stellen	VERB	_	_
+1	ein	ein	DET	_	_
+
+LVC.full
+0	Rolle	Rolle	NOUN	1	nsubjpass
+1	spielten	spielten	VERB	_	_
+
+LVC.full
+0	steht	stehen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Verdacht	Verdacht	NOUN	0	nmod
+
+VPC.full
+0	ausgespart	ausgesparen	VERB	_	_
+
+IRV
+0	erwies	erweisen	VERB	_	_
+1	sich	er|es|sie	PRON	0	nsubj
+
+VPC.full
+0	ist	sein	VERB	1	cop
+1	her	her	ADV	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	zu	zu	ADP	_	_
+2	weit	weit	ADJ	_	_
+
+VPC.full
+0	als	als	ADP	1	case
+1	Sieger	Sieger	NOUN	2	nmod
+2	hervorgehen	hervorgehen	VERB	_	_
+
+VPC.full
+0	aufgeben	aufgeben	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Plan	Plan	NOUN	2	nmod
+2	gerufen	rufen	VERB	_	_
+
+VID
+0	steht's	steht's	PROPN	_	_
+
+VID
+0	Es	es	PRON	1	nsubj
+1	ging	gehen	VERB	_	_
+2	um	um	ADP	_	_
+
+VPC.full
+0	findet	finden	VERB	_	_
+1	statt	statt	ADP	_	_
+
+VPC.full
+0	fängt	fängen	VERB	_	_
+1	an	an	ADP	_	_
+
+VID
+0	Luft	Luft	NOUN	1	dobj
+1	holte	holen	VERB	_	_
+
+VID
+0	gehe	gehen	VERB	_	_
+1	davon	davon	ADV	0	advmod
+2	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	gehe	gehen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	aufgefallen	auffallen	VERB	_	_
+
+VPC.full
+0	ausgewiesen	ausweisen	VERB	_	_
+
+VPC.full
+0	fiel	fallen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	mache	mach	ADJ	1	advmod
+1	halt	halt	VERB	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	Sinn	Sinn	NOUN	0	dobj
+
+VID
+0	kürzer	kurz	ADJ	_	_
+1	treten	treten	VERB	0	parataxis
+
+VPC.full
+0	eingewiesen	einweisen	VERB	_	_
+
+IRV
+0	berief	berufen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	auf	auf	ADP	_	_
+
+IRV
+0	bekannte	bekennen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	stand	stehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Programm	Programm	NOUN	_	_
+
+LVC.full
+0	brachten	bringen	VERB	_	_
+1	in	in	ADP	2	case
+2	Bedrängnis	Bedrängnis	NOUN	0	nmod
+
+VID
+0	stehenlassen	stehenlassen	VERB	_	_
+
+VPC.semi
+0	anzeigte	anzeigen	VERB	_	_
+
+VPC.full
+0	mitmachte	mitmachen	VERB	_	_
+
+LVC.full
+0	Beachtung	Beachtung	NOUN	1	dobj
+1	fand	finden	VERB	_	_
+
+VPC.full
+0	bilde	bilde	PROPN	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	einhergeht	einhergehen	VERB	_	_
+
+VID
+0	waren	sein	VERB	1	cop
+1	Hammer	Hammer	NOUN	_	_
+
+VPC.full
+0	wies	weisen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	auskommen	auskommen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	_	_
+1	einstellen	einstellen	VERB	_	_
+
+VID
+0	machte	machen	VERB	_	_
+1	Schlagzeilen	Schlagzeil	NOUN	0	nmod
+
+VID
+0	standen	stehen	VERB	_	_
+1	vor	vor	ADP	2	case
+2	Kamera	Kamera	NOUN	0	nmod
+
+VID
+0	Spaß	Spaß	NOUN	_	_
+1	hat	haben	AUX	_	_
+
+VPC.full
+0	einmischen	einmischen	NOUN	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+
+VID
+0	in	in	ADP	1	case
+1	Schublade	Schublade	NOUN	2	nmod
+2	passte	passen	VERB	_	_
+
+VPC.full
+0	einführt	einführen	VERB	_	_
+
+VID
+0	tritt	treten	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Plan	Plan	NOUN	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	beworben	bewerben	VERB	_	_
+
+VPC.full
+0	aufhält	aufhalten	VERB	_	_
+
+VID
+0	Weichen	weich	VERB	1	acl
+1	stellte	stellen	VERB	_	_
+
+VPC.full
+0	ist	sein	VERB	1	cop
+1	dran	dran	ADV	_	_
+
+VPC.full
+0	anpeilt	anpeilen	VERB	_	_
+
+VPC.full
+0	fortzusetzen	fortsetzen	VERB	_	_
+
+VPC.full
+0	schlagen	schlagen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VPC.full
+0	festzulegen	festzulegen	VERB	_	_
+
+VPC.full
+0	vorzugehen	vorgehen	VERB	_	_
+
+IRV
+0	einigten	einigen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	trug	tragen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	geben	geben	VERB	_	_
+1	Aufschluss	Aufschluß	NOUN	0	dobj
+
+LVC.full
+0	stößt	stoßen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Kritik	Kritik	NOUN	0	nmod
+
+VPC.full
+0	hergestelltes	hergestellt	ADJ	_	_
+
+VPC.full
+0	gehen	gehen	VERB	_	_
+1	um	um	ADP	0	compound:prt
+
+VID
+0	gehe	gehen	VERB	_	_
+1	davon	davon	PRON	0	dep
+2	aus	aus	ADP	0	compound:prt
+
+VID
+0	gab	geben	VERB	_	_
+1	Zepter	Zepter	NOUN	0	dobj
+2	aus	aus	ADP	3	case
+3	Hand	Hand	NOUN	0	nmod
+
+VID
+0	ums	um+der	ADP	1	case
+1	Leben	Leben	NOUN	2	nmod
+2	gekommen	kommen	VERB	_	_
+
+VID
+0	stand	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Motto	Motto	NOUN	_	_
+
+LVC.cause
+0	in	in	ADP	1	case
+1	Aussicht	Aussicht	NOUN	2	nmod
+2	gestellt	stellen	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Beine	Bein	NOUN	2	nmod
+2	stellen	stellen	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	vor	vor	ADP	2	case
+2	Scherbenhaufen	Scherbenhaufe	NOUN	0	nmod
+
+VID
+0	laufen	laufen	VERB	_	_
+1	schief	schief	ADV	0	advmod
+
+VPC.full
+0	abgesetzten	abgesetzt	ADJ	_	_
+
+IRV
+0	bemühe	bemüh	ADJ	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	verantwortlich	verantwortlich	ADJ	1	advmod
+1	zeichnen	zeichnen	VERB	_	_
+
+VID
+0	vom	von+der	ADP	1	case
+1	Tisch	Tisch	NOUN	2	nmod
+2	wischen	wisch	ADJ	_	_
+
+VPC.full
+0	ausgeschlagen	ausgeschlagen	VERB	_	_
+
+VID
+0	Wert	Wert	NOUN	1	dobj
+1	gelegt	legen	VERB	_	_
+
+VID
+0	laufen	laufen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Hochtouren	Hochtour	NOUN	0	nmod
+
+VID
+0	stellte	stellen	VERB	_	_
+1	sicher	sicher	ADV	0	compound:prt
+
+LVC.cause
+0	zur	zu+der	ADP	1	case
+1	Verfügung	Verfügung	NOUN	2	nmod
+2	gestellt	stellen	VERB	_	_
+
+VPC.semi
+0	einbrachten	einbrachen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Widersprüche	Widerspruch	NOUN	2	nmod
+2	verstrickt	verstricken	VERB	_	_
+
+VPC.full
+0	abgespeist	abgespeisen	VERB	_	_
+
+LVC.full
+0	zu	zu	ADP	1	case
+1	Ende	Ende	NOUN	_	_
+2	gehen	gehen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	davon	davon	PRON	_	_
+2	aus	aus	ADP	0	compound:prt
+
+VID
+0	Amok	Amok	PROPN	1	nmod
+1	läuft	laufen	VERB	_	_
+
+IRV
+0	bemüht	bemühen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	um	um	ADP	_	_
+
+VID
+0	stünden	stehen	VERB	_	_
+1	bereit	bereit	ADJ	0	advmod
+
+VID
+0	Hals	Hals	NOUN	1	nsubj
+1	gehabt	haben	VERB	_	_
+
+VPC.full
+0	sackte	sacken	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	auffielen	auffielen	VERB	_	_
+
+VID
+0	gab	geben	VERB	_	_
+1	einen	ein	DET	2	det
+2	Namen	Name	NOUN	0	dobj
+
+VPC.full
+0	knüpft	knüpfen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	einzuwenden	einzuwend	ADJ	_	_
+
+VPC.full
+0	sicherzustellen	sicherstellen	VERB	_	_
+
+VID
+0	hat	haben	VERB	_	_
+1	Ahnung	Ahnung	NOUN	0	dobj
+
+VID
+0	es	es	PRON	1	nsubj
+1	kam	kommen	VERB	_	_
+
+LVC.full
+0	Beihilfe	Beihilfe	PROPN	1	nmod
+1	geleistet	leisten	VERB	_	_
+
+VPC.full
+0	angepasst	angepassen	VERB	_	_
+
+VPC.semi
+0	angucken	angucken	VERB	_	_
+
+VPC.full
+0	einleuchten	einleuchten	VERB	_	_
+
+VID
+0	zu	zu	ADP	1	case
+1	Gast	Gast	NOUN	_	_
+2	gewesen	sein	AUX	_	_
+
+VID
+0	habhaft	habhaft	ADJ	_	_
+1	werden	werden	VERB	0	cop
+
+VPC.full
+0	kündigen	kündigen	VERB	_	_
+1	an	an	ADP	_	_
+
+VPC.full
+0	zahlt	zahlen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	angestoßen	angestoß	ADJ	_	_
+
+IRV
+0	ließ	lassen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	nicht	nicht	PART	4	neg
+3	lange	lange	ADV	4	advmod
+4	bitten	bitten	VERB	0	xcomp
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	zusammensetzt	zusammensetzen	VERB	_	_
+
+VPC.full
+0	zusammensetzt	zusammensetzen	VERB	_	_
+
+VPC.semi
+0	blieb	bleiben	VERB	1	cop
+1	aus	aus	ADP	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Lauer	Lauer	NOUN	2	nmod
+2	gelegt	gelegen|langen	VERB	_	_
+
+VID
+0	ins	in+der	ADP	1	case
+1	Visier	Visier	PROPN	_	_
+2	nimmt	nehmen	VERB	_	_
+
+VID
+0	Arbeit	Arbeit	NOUN	1	dobj
+1	niederzulegen	niederzulegen	VERB	_	_
+
+VPC.full
+0	setzten	setzen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.semi
+0	ausgemacht	ausmachen	VERB	_	_
+
+VID
+0	machte	machen	VERB	_	_
+1	Stimmung	Stimmung	NOUN	0	nmod
+
+VID
+0	Auf	auf	ADP	1	case
+1	Ideen	Idee	NOUN	2	nmod
+2	gekommen	kommen	VERB	_	_
+
+VID
+0	Steuern	steuer	NOUN	1	nsubj
+1	hinterziehen	hinterziehen	VERB	_	_
+
+IRV
+0	geben	geben	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	ausstellen	ausstellen	VERB	_	_
+
+VPC.full
+0	machen	machen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	ausübte	ausüben	VERB	_	_
+
+VID
+0	lege	legen	VERB	_	_
+1	Wert	Wert	NOUN	0	dobj
+
+VID
+0	von	von	ADP	1	case
+1	Dauer	Dauer	NOUN	2	nmod
+2	war	sein	VERB	_	_
+
+IRV
+0	lieferte	lieferen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	Verfolgungsjagd	Verfolgungsjagd	NOUN	_	_
+
+VPC.full
+0	anstellt	anstellen	VERB	_	_
+
+VPC.full
+0	hob	heben	VERB	_	_
+1	hervor	hervor	ADV	0	compound:prt
+
+LVC.full
+0	Vorschläge	Vorschlag	NOUN	1	dobj
+1	unterbreitet	unterbreiten	VERB	_	_
+
+VID
+0	aus	aus	ADP	1	case
+1	Bahn	Bahn	NOUN	_	_
+2	werfen	werfen	VERB	_	_
+
+VPC.full
+0	griff	greifen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	ausschließen	ausschließen	VERB	_	_
+
+VPC.full
+0	setzt	setzen	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+IRV
+0	setzt	setzen	VERB	_	_
+1	sich	er|es|sie	PRON	_	_
+2	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	aufgestellt	aufstellen	VERB	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	abwärts	abwärts	ADV	0	compound:prt
+
+VID
+0	auf	auf	ADP	1	case
+1	Straße	Straße	NOUN	2	nmod
+2	gegangen	gehen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Mitleidenschaft	Mitleidenschaft	NOUN	2	nmod
+2	gezogen	zogen	VERB	_	_
+
+IRV
+0	stellte	stellen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	heraus	heraus	ADV	0	compound:prt
+
+VPC.full
+0	stellte	stellen	VERB	_	_
+1	heraus	heraus	ADV	0	compound:prt
+
+VPC.full
+0	kennen	kennen	ADV	1	advmod
+1	gelernt	gelernt	ADJ	_	_
+
+VPC.semi
+0	anzubieten	anzubieten	VERB	_	_
+
+LVC.full
+0	Angebot	Angebot	NOUN	1	dobj
+1	unterbreitet	unterbreiten	VERB	_	_
+
+VID
+0	hat	haben	AUX	2	aux
+1	leicht	leicht	ADJ	2	advmod
+2	reden	reden	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	gelohnt	gelohnt	VERB	_	_
+
+VPC.semi
+0	auflauerte	auflaueren	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	auf	auf	ADP	_	_
+2	belaufen	belaufen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Führung	Führung	NOUN	2	nmod
+2	gingen	gehen	VERB	_	_
+
+VPC.full
+0	stürzte	stürzen	VERB	_	_
+1	ab	ab	ADP	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	vergangen	vergehen	VERB	_	_
+
+IRV
+0	schlug	schlagen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	herum	herum	ADV	0	compound:prt
+
+VID
+0	schüttelten	schüttelen	VERB	_	_
+1	aus	aus	ADP	2	case
+2	Ärmeln	Schimmel|Ärmeln	NOUN	0	nmod
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	um	um	ADP	_	_
+2	drehte	drehen	VERB	_	_
+
+VPC.semi
+0	angehalten	angehalten	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	vor	vor	ADP	3	case
+2	der	der	DET	3	det
+3	Tür	Tür	NOUN	0	nmod
+
+VID
+0	bringt	bringen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Tisch	Tisch	NOUN	0	nmod
+
+VPC.full
+0	hervorsticht	hervorsticht	NOUN	_	_
+
+LVC.full
+0	ist	sein	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Beschuss	Beschuß	NOUN	_	_
+
+VPC.full
+0	einzudämmen	eindämmen	VERB	_	_
+
+VID
+0	liefen	laufen	VERB	_	_
+1	Nacharbeiten	nacharbeit	NOUN	0	nsubj
+
+VPC.full
+0	zustellen	zustellen	VERB	_	_
+
+VPC.full
+0	zuschlagen	zuschlagen	VERB	_	_
+
+VID
+0	Jagd	Jagd	NOUN	1	dobj
+1	gemacht	machen	VERB	_	_
+
+LVC.full
+0	Notrufe	Notruf	NOUN	1	dobj
+1	abzusetzen	abzusetzen	VERB	_	_
+
+VPC.full
+0	abzusetzen	abzusetzen	VERB	_	_
+
+VID
+0	Notbremse	Notbremse	NOUN	1	nsubjpass
+1	gezogen	ziehen	VERB	_	_
+
+VPC.full
+0	Eingriffen	Eingriffen	NOUN	_	_
+
+VPC.full
+0	hinterließen	hinterlassen	VERB	_	_
+
+IRV
+0	bezog	beziehen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	Gesamtschaden	Gesamtschade	NOUN	1	nsubjpass
+1	angerichtet	angerichten	VERB	_	_
+
+VPC.full
+0	angerichtet	angerichten	VERB	_	_
+
+VPC.full
+0	ausgelegt	auslegen	ADJ	_	_
+
+VID
+0	unter	unter	ADP	1	case
+1	Verbot	Verbot	NOUN	2	nmod
+2	fallen	fallen	VERB	_	_
+
+VPC.full
+0	ausgestrahlt	ausstrahlen	VERB	_	_
+
+VPC.full
+0	hänge	hänge	NOUN	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VPC.full
+0	angesteckt	angestecken	VERB	_	_
+
+VID
+0	Spaß	Spaß	NOUN	1	dobj
+1	mache	mache	NOUN	_	_
+
+LVC.full
+0	erteilte	erteilen	VERB	_	_
+1	Absage	Absage	NOUN	0	appos
+
+IRV
+0	beläuft	belaufen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	auf	auf	ADP	_	_
+
+VID
+0	gingen	gehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Straße	Straße	NOUN	0	nmod
+
+VPC.full
+0	angriff	angreifen	VERB	_	_
+
+VPC.semi
+0	aufgelauert	aufgelauern	VERB	_	_
+
+VPC.full
+0	aufbringen	aufbringen	VERB	_	_
+
+VPC.full
+0	aufgebrochen	aufbrechen	VERB	_	_
+
+VID
+0	Das	der	PRON	1	nsubj
+1	heißt	heißen	VERB	_	_
+
+VPC.full
+0	Klären	Klär	NOUN	_	_
+1	auf	auf	ADP	_	_
+
+IRV
+0	krallt	krallen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	Dienst	Dienst	NOUN	1	dobj
+1	versehen	versehen	VERB	_	_
+
+VID
+0	kommen	kommen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Welt	Welt	NOUN	0	nmod
+
+VID
+0	verheißt	verheißen	VERB	_	_
+1	nichts	nichts	PRON	2	det
+2	Gutes	gut	NOUN	0	nmod
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	geeinigt	einigen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Rennen	Rennen	NOUN	2	nmod
+2	schicken	schicken	VERB	_	_
+
+VID
+0	zu	zu	ADP	2	cop
+1	hoch	hoch	ADJ	2	advmod
+2	gegriffen	gegriff	ADJ	_	_
+
+VPC.full
+0	ging	gehen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	Chance	Chance	NOUN	1	dobj
+1	hatte	haben	VERB	_	_
+
+VID
+0	gibts	gibts	VERB	_	_
+
+VID
+0	klingt	klingen	VERB	_	_
+1	gut	gut	ADJ	0	advmod
+
+VID
+0	gewachsen	wachsen	ADJ	_	_
+1	sei	sein	VERB	0	cop
+
+VID
+0	auf	auf	ADP	1	case
+1	Lippen	Lippe	NOUN	_	_
+2	hatten	haben	VERB	_	_
+
+VPC.full
+0	anberaumt	anberaumt	ADJ	_	_
+
+IRV
+0	Ereignet	ereignen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	zugetragen	zugetragen	VERB	_	_
+
+VPC.full
+0	abgestimmt	nehmeabgest	VERB	_	_
+
+VPC.full
+0	weggefallen	weggefall	ADJ	_	_
+
+VID
+0	100.000-Euro-Marke	100.000-Euro-Marke	NOUN	1	dobj
+1	knacken	knacken	VERB	_	_
+
+VPC.full
+0	drängt	drängen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	in	in	ADP	1	case
+1	Watte	Watte	PROPN	_	_
+2	gepackt	packen	VERB	_	_
+
+LVC.full
+0	waren	sein	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Einsatz	Einsatz	NOUN	0	nmod
+
+VID
+0	geschlagen	schlagen	VERB	1	cop
+1	geben	geben	VERB	_	_
+
+VID
+0	zogen	ziehen	VERB	1	cop
+1	Kürzeren	kurz	ADJ	_	_
+
+VPC.full
+0	zeichnet	zeichnen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	geht	gehen	VERB	_	_
+1	anders	anders	ADV	0	advmod
+
+VPC.full
+0	quellen	quellen	VERB	_	_
+1	über	über	ADP	_	_
+
+LVC.full
+0	Entscheidung	Entscheidung	NOUN	_	_
+1	trifft	treffen	VERB	_	_
+
+VID
+0	es	es	PRON	_	_
+1	gab	geben	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Knochen	Knochen	NOUN	2	nmod
+2	geht	gehen	VERB	_	_
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	anschloss	anschließen	VERB	_	_
+
+VPC.full
+0	anschloss	anschließen	VERB	_	_
+
+VPC.full
+0	zufügte	zufügen	VERB	_	_
+
+VID
+0	gaben	geben	VERB	_	_
+1	Stimme	Stimme	NOUN	0	dobj
+
+VID
+0	pflegte	pflegen	VERB	_	_
+1	Lebensstil	Lebensstil	NOUN	0	dobj
+
+VID
+0	geht	gehen	VERB	_	_
+1	es	es	PRON	0	dobj
+
+VPC.full
+0	setzte	setzen	VERB	_	_
+1	fort	fort	ADV	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	um	um	ADP	_	_
+2	gehandelt	handeln	VERB	_	_
+
+VID
+0	Von	von	ADP	_	_
+1	war	sein	VERB	3	cop
+2	die	der	DET	3	det
+3	Rede	Rede	NOUN	_	_
+
+VPC.full
+0	spiegelte	spiegelen	VERB	_	_
+1	wider	wider	ADV	0	compound:prt
+
+VPC.full
+0	angeschnallt	angeschnallen	ADJ	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	leer	leer	ADJ	0	advmod
+2	aus	aus	ADP	0	compound:prt
+
+LVC.full
+0	Fortschritte	Fortschritte	NOUN	_	_
+1	gemacht	machen	VERB	_	_
+
+VPC.full
+0	haltmacht	haltmachen	VERB	_	_
+
+VID
+0	bekam	bekommen	VERB	1	acl
+1	serviert	servieren	VERB	_	_
+
+VID
+0	spannt	spannen	VERB	_	_
+1	Bogen	Bogen	NOUN	0	dobj
+
+VID
+0	Es	es	PRON	1	expl
+1	gibt	geben	VERB	_	_
+2	nichts	nichts	PRON	3	det
+3	Besseres	Bessere	NOUN	1	nsubj
+
+VID
+0	legte	legen	VERB	_	_
+1	einen	ein	DET	2	det
+2	drauf	drauf	NOUN	0	dobj
+
+VPC.full
+0	aufzuziehen	aufzuziehen	VERB	_	_
+
+VID
+0	zu	zu	ADP	1	case
+1	Gast	Gast	NOUN	_	_
+2	waren	sein	VERB	_	_
+
+VPC.full
+0	tauchten	tauchen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	sich	er|es|sie	PRON	3	dobj
+1	in	in	ADP	2	case
+2	Tasche	Tasche	NOUN	3	nmod
+3	lügen	lagen	VERB	_	_
+
+VPC.full
+0	abgeschaltet	abschalten	ADJ	_	_
+
+LVC.full
+0	Abstand	Abstand	NOUN	_	_
+1	halten	halten	VERB	_	_
+
+VPC.full
+0	vorhat	vorhaben	VERB	_	_
+
+IRV
+0	unterhalten	unterhalen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	zu	zu	PART	1	mark
+1	schaffen	schaffen	VERB	2	xcomp
+2	gemacht	machen	VERB	_	_
+
+VID
+0	schuldig	schuldig	ADJ	1	advmod
+1	gesprochen	sprechen	VERB	_	_
+
+VID
+0	es	es	PRON	1	nsubj
+1	geht	gehen	VERB	_	_
+2	um	um	ADP	_	_
+
+VID
+0	auf	auf	ADP	2	case
+1	lange	lang	ADJ	2	amod
+2	Bank	Bank	NOUN	3	nsubj
+3	geraten	geraten|raten	VERB	_	_
+
+VID
+0	schlau	schlau	ADJ	1	advmod
+1	machen	machen	VERB	_	_
+
+LVC.full
+0	schaffte	schaffen	VERB	_	_
+1	Sprung	Sprung	NOUN	0	dobj
+
+VPC.full
+0	aufgesucht	aufsuchen	VERB	_	_
+
+VID
+0	hat	haben	VERB	_	_
+1	Angst	Angst	NOUN	0	conj
+
+LVC.full
+0	verfolgt	verfolgen	VERB	_	_
+1	Plan	Plan	NOUN	0	dobj
+
+VPC.full
+0	geben	geben	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VID
+0	von	von	ADP	1	case
+1	Fahrbahn	Fahrbahn	NOUN	2	nmod
+2	abgekommen	abgekehmen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Mangel	Mangel	NOUN	2	nmod
+2	genommen	nehmen	VERB	_	_
+
+VPC.semi
+0	sahen	sehen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VID
+0	gab	geben	VERB	_	_
+1	zur	zu+der	ADP	0	case
+2	Auswahl	Auswahl	NOUN	0	nmod
+
+LVC.full
+0	Kaufgebot	Kaufgebot	NOUN	1	dobj
+1	abgeben	abgeben	VERB	_	_
+
+VPC.full
+0	abgestürzt	abstürzen	VERB	_	_
+
+VPC.full
+0	stattfindet	stattfinden	VERB	_	_
+
+VID
+0	kommt	kommen	VERB	_	_
+1	nicht	nicht	PART	0	neg
+2	hinterher	hinterher	ADV	0	compound:prt
+
+VPC.full
+0	ausspielt	ausspalten	VERB	_	_
+
+VID
+0	daran	daran	PRON	1	dep
+1	hält	halten	VERB	_	_
+
+VID
+0	Wert	Wert	NOUN	1	nsubjpass
+1	gelegt	legen	VERB	_	_
+
+VPC.full
+0	zupacken	zupacken	VERB	_	_
+
+VPC.full
+0	anpacken	anpacken	VERB	_	_
+
+VID
+0	hatte	haben	AUX	_	_
+1	Bestand	Bestand	NOUN	_	_
+
+VPC.full
+0	ging	gehen	VERB	_	_
+1	einher	einher	ADV	_	_
+
+VID
+0	aus	aus	ADP	1	case
+1	Verkehr	Verkehr	NOUN	_	_
+2	gezogen	ziehen	VERB	_	_
+
+VPC.full
+0	zulassen	zulasse	NOUN	_	_
+
+VID
+0	liegt	liegen	VERB	_	_
+1	vor	vor	ADP	2	case
+2	Anker	Anker	NOUN	0	nmod
+
+VPC.full
+0	sehe	sehen	VERB	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	ausgeweitet	ausweiten	VERB	_	_
+
+VID
+0	Nase	Nas	NOUN	2	dobj
+1	vorn	vorn	ADV	2	advmod
+2	haben	haben	VERB	_	_
+
+VID
+0	brachte	bringen	VERB	_	_
+1	in	in	ADP	2	case
+2	Spur	Spur	NOUN	0	nmod
+
+VPC.full
+0	zugibt	zugeben	VERB	_	_
+
+VID
+0	Angst	Angst	NOUN	1	dobj
+1	hat	haben	VERB	_	_
+
+VID
+0	Angst	Angst	NOUN	1	dep
+1	haben	haben	VERB	_	_
+
+VPC.full
+0	hielt	hielen	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	Fehler	Fehler	NOUN	1	dobj
+1	macht	machen	VERB	_	_
+
+VID
+0	nach	nach	ADP	1	case
+1	Willen	willen	NOUN	2	dobj
+2	geht	gehen	VERB	_	_
+
+VPC.semi
+0	angedacht	angedachen	VERB	_	_
+
+IRV
+0	beteiligte	beteiligen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	im	in+der	ADP	1	case
+1	Einsatz	Einsatz	NOUN	_	_
+2	sind	sein	VERB	_	_
+
+VPC.full
+0	beutete	beuten	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.semi
+0	ablaufen	ablaufen	VERB	_	_
+
+VID
+0	stand	stehen	VERB	_	_
+1	fest	fest	ADV	_	_
+
+LVC.cause
+0	zur	zu+der	ADP	1	case
+1	Verfügung	Verfügung	NOUN	2	nmod
+2	stellt	stellen	VERB	_	_
+
+LVC.full
+0	Vortrages	Vortrag	NOUN	_	_
+1	hält	halten	VERB	_	_
+
+VPC.full
+0	beiträgt	beitragen	VERB	_	_
+
+VID
+0	gehe	gehen	VERB	_	_
+1	davon	davon	PRON	0	advmod
+2	aus	aus	ADP	0	compound:prt
+
+IRV
+0	hinter	hinter	ADP	1	case
+1	sich	er|es|sie	PRON	2	nmod
+2	gelassen	lassen	VERB	_	_
+
+VID
+0	ist	sein	VERB	_	_
+1	noch	noch	ADV	3	advmod
+2	in	in	ADP	3	case
+3	Erinnerung	Erinnerung	NOUN	0	nmod
+
+VPC.full
+0	einläuten	einläuten	VERB	_	_
+
+VPC.full
+0	zurückhalten	zurückhalten	VERB	_	_
+
+VID
+0	Hand	Hand	NOUN	_	_
+1	anlegen	anlegen	VERB	0	xcomp
+
+VID
+0	Faden	fade	NOUN	1	conj
+1	verloren	verlieren	VERB	_	_
+
+VID
+0	ganz	ganz	ADJ	2	advmod
+1	zu	zu	PART	2	mark
+2	schweigen	schweigen	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	gut	gut	ADJ	_	_
+
+VID
+0	genießt	genießen	VERB	_	_
+1	hohen	hoch	ADJ	2	amod
+2	Stellenwert	Stellenwert	NOUN	0	dobj
+
+LVC.full
+0	Komplimente	Komplimente	NOUN	1	dobj
+1	machen	machen	VERB	_	_
+
+VID
+0	bleiben	bleiben	VERB	1	xcomp
+1	lassen	lassen	VERB	_	_
+
+VPC.full
+0	ordnete	ordnet	ADJ	_	_
+1	an	an	ADP	_	_
+
+VID
+0	aufmerksam	aufmerksam	ADV	1	advmod
+1	machen	machen	VERB	_	_
+
+VPC.full
+0	aufstockte	aufstocken	VERB	_	_
+
+IRV
+0	beteiligen	beteiligen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	legt	legen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	Federn	Feder|Federn	NOUN	1	nsubj
+1	lassen	lassen	VERB	_	_
+
+LVC.full
+0	stellt	stellen	VERB	_	_
+1	Frage	Frage	NOUN	0	nmod
+
+VID
+0	kommt	kommen	VERB	_	_
+1	in	in	ADP	2	case
+2	Frage	Frage	NOUN	0	nmod
+
+VID
+0	stellten	stellen	VERB	_	_
+1	fest	fest	ADV	0	compound:prt
+
+VID
+0	Abrisskosten	Abrisskost	NOUN	_	_
+1	tragen.	tragen.	ADV	_	_
+
+VID
+0	unters	unters	PROPN	_	_
+1	Messer	Messer	PROPN	0	appos
+2	gelegt	legen	VERB	_	_
+
+LVC.full
+0	steht	stehen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Artenschutz	Artenschutz	NOUN	0	nmod
+
+VPC.full
+0	vorausgesetzt	vorausgesetzen	VERB	_	_
+
+VID
+0	macht	machen	VERB	_	_
+1	Strich	Strich	NOUN	0	nmod
+2	durch	durch	ADP	1	case
+3	Rechnung	Rechnung	NOUN	0	dobj
+
+VID
+0	Ins	in+der	ADP	2	case
+1	rechte	recht	ADJ	2	amod
+2	Bild	Bild	NOUN	3	nsubjpass
+3	gesetzt	setzen	VERB	_	_
+
+VID
+0	Rechnung	Rechnung	NOUN	1	iobj
+1	tragen	tragen	VERB	_	_
+
+VPC.full
+0	bereitet	bereiten	VERB	_	_
+1	vor	vor	ADP	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Lauer	Lauer	NOUN	2	nmod
+2	gelegt	legen	VERB	_	_
+
+VID
+0	war	sein	VERB	2	cop
+1	die	der	DET	2	det
+2	Rede	Rede	NOUN	_	_
+
+VID
+0	stehen	stehen	VERB	_	_
+1	bereit	bereit	ADJ	0	xcomp
+
+VID
+0	bildet	bilden	VERB	_	_
+1	Grundlage	Grundlage	NOUN	0	dobj
+
+VPC.full
+0	tragen	tragen	VERB	_	_
+1	auf	auf	ADP	0	compound:prt
+
+VPC.full
+0	handelte	handeln	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VPC.full
+0	stimmen	stimmen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+VID
+0	kehrt	kehren	VERB	_	_
+1	Rücken	Rücken	NOUN	0	dobj
+
+VPC.full
+0	weist	weisen	VERB	_	_
+1	hin	hin	ADV	_	_
+
+VID
+0	Es	es	PRON	1	nsubj
+1	geht	gehen	VERB	_	_
+2	darum	darum	PRON	_	_
+
+VID
+0	Gemüter	Gemut	NOUN	1	nsubj
+1	kochten	kochen	VERB	_	_
+2	hoch	hoch	ADJ	1	advmod
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+VPC.full
+0	teilnehmende	teilnehmend	ADJ	_	_
+
+VPC.full
+0	auszudrücken	auszudrücken	VERB	_	_
+
+IRV
+0	entschieden	entschieden	ADJ	_	_
+1	für	für	ADP	2	case
+2	sich	er|es|sie	PRON	_	_
+
+VID
+0	klargemacht	klarmachen	VERB	_	_
+
+VID
+0	ins	in+der	ADP	1	case
+1	Herz	Herz	NOUN	2	nmod
+2	geschlossen	schließen	ADJ	_	_
+
+VID
+0	hielt	hielen	VERB	_	_
+1	Kasten	Kaste|Kasten	NOUN	0	dobj
+2	sauber	sauber	ADJ	0	advmod
+
+VID
+0	stellt	stellen	VERB	_	_
+1	fest	fest	ADV	_	_
+
+VID
+0	ist	sein	VERB	1	cop
+1	durch	durch	ADP	_	_
+
+VPC.full
+0	vorstelle	vorstelle	PROPN	_	_
+
+VID
+0	blieb	bleiben	VERB	_	_
+
+VID
+0	Ärmel	Ärmel	NOUN	1	dobj
+1	hochgekrempelt	hochgekrempeln	VERB	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	an	an	ADP	2	case
+2	Börse	Börse	NOUN	0	nmod
+
+VPC.full
+0	ließ	lassen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+LVC.full
+0	machte	machen	VERB	_	_
+1	Aussagen	Aussage	NOUN	0	nmod
+
+VID
+0	zur	zu+der	ADP	1	case
+1	Bewährung	Bewährung	NOUN	2	nmod
+2	ausgesetzt	aussetzen	VERB	_	_
+
+IRV
+0	kennen	kennen	ADV	_	_
+1	sich	er|es|sie	PRON	_	_
+2	aus	aus	ADP	_	_
+
+VPC.full
+0	kennen	kennen	ADV	_	_
+1	aus	aus	ADP	_	_
+
+VPC.full
+0	aufwachsen	aufwachsen	VERB	_	_
+
+VID
+0	gab	geben	VERB	_	_
+1	zu	zu	PART	2	mark
+2	bedenken	bedenken	VERB	0	xcomp
+
+VID
+0	malt	malen	VERB	_	_
+1	an	an	ADP	2	case
+2	Wand	Wand	NOUN	0	nmod
+
+VID
+0	vor	vor	ADP	1	case
+1	Gericht	Gericht	NOUN	2	nmod
+2	zitiert	zitieren	VERB	_	_
+
+VPC.full
+0	tritt	treten	VERB	_	_
+1	zurück	zurück	ADV	0	compound:prt
+
+VPC.full
+0	einleitete	einleiten	VERB	_	_
+
+VID
+0	machte	machen	VERB	_	_
+1	Gebrauch	Gebrauch	NOUN	0	nmod
+
+VID
+0	Bild	bild	NOUN	1	nmod
+1	boten	bieten	VERB	_	_
+
+VID
+0	sagt	sagen	VERB	_	_
+1	Nein	nein	ADV	0	advmod
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	bereichert	bereichern	VERB	_	_
+
+VID
+0	steht	stehen	VERB	_	_
+1	parat	pareten	VERB	0	acl
+
+VPC.full
+0	deuten	deuten	VERB	_	_
+1	hin	hin	ADV	0	compound:prt
+
+VPC.full
+0	rücken	rücken	VERB	_	_
+1	aus	aus	ADP	_	_
+
+LVC.full
+0	waren	sein	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Einsatz	Einsatz	NOUN	_	_
+
+VPC.semi
+0	anmelden	anmelden	VERB	_	_
+
+VPC.full
+0	abstimmen	abstimmen	VERB	_	_
+
+VID
+0	schwerer	schwer	ADJ	1	advmod
+1	wiegt	wiegen	VERB	_	_
+
+VPC.full
+0	einfallen	einfallen	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	Fahnen	Fahn	NOUN	2	nmod
+2	geschrieben	schreiben	VERB	_	_
+
+VID
+0	komme	kommen	VERB	_	_
+1	zum	zu+der	ADP	2	case
+2	Tragen	Trage|Tragen	NOUN	0	nmod
+
+VID
+0	macht	machen	VERB	_	_
+1	Schule	Schule	NOUN	0	dobj
+
+VID
+0	ging	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	darum	darum	ADV	_	_
+
+VID
+0	verloren	verlieren	ADV	1	advmod
+1	gegangen	gehen	VERB	_	_
+
+LVC.full
+0	Zugang	Zugang	NOUN	1	dobj
+1	verschaffen	verschaffen	VERB	_	_
+
+LVC.full
+0	fielen	fallen	VERB	_	_
+1	Sätze	Satz	NOUN	0	nsubj
+
+VPC.semi
+0	aufgestellten	aufgestellt	ADJ	_	_
+
+VPC.full
+0	spiegelt	spiegeln	VERB	_	_
+1	wider	wider	ADV	_	_
+
+LVC.full
+0	unter	unter	ADP	1	case
+1	Beweis	Beweis	NOUN	2	nmod
+2	gestellt	stellen	VERB	_	_
+
+VID
+0	in	in	ADP	1	case
+1	Gewahrsam	Gewahrsam	NOUN	2	nmod
+2	genommen	nehmen	VERB	_	_
+
+VPC.full
+0	leitete	leiten	VERB	_	_
+1	über	über	ADP	0	compound:prt
+
+VID
+0	das	der	DET	1	det
+1	Zeug	Zeug	NOUN	2	dobj
+2	haben	haben	VERB	_	_
+
+IRV
+0	handele	handel	NOUN	_	_
+1	sich	er|es|sie	PRON	_	_
+2	um	um	ADP	_	_
+
+VPC.full
+0	angerufen	angerufen	VERB	_	_
+
+VID
+0	an	an	ADP	2	case
+1	der	der	DET	2	det
+2	Nase	Nase	NOUN	_	_
+3	eines	ein	DET	4	det
+4	Mannes	Mann	NOUN	2	nmod
+5	erkennt	erkennen	VERB	_	_
+6	man	man	PRON	5	nsubj
+7	seinen	sein	DET	8	det:poss
+8	Johannes	Johannes	PROPN	5	iobj
+
+VID
+0	schmackhaft	schmackhaft	ADJ	1	xcomp
+1	machen	machen	VERB	_	_
+
+VPC.full
+0	ausgesetzt	ausgesetzen	VERB	_	_
+
+VPC.full
+0	fiel	fallen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VID
+0	bringt	bringen	VERB	_	_
+1	dazu	dazu	PRON	0	dep
+
+VID
+0	In	in	ADP	_	_
+1	Fußstapfen	Fußstapfen	NOUN	_	_
+2	treten	tren	VERB	_	_
+
+VID
+0	tut	tun	VERB	_	_
+1	in	in	ADP	2	case
+2	Seele	Seel	NOUN	0	nmod
+3	weh	weh	ADV	0	compound:prt
+
+VPC.full
+0	angeordnet	anordnen	VERB	_	_
+
+VPC.full
+0	fing	fangen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+IRV
+0	sich	er|es|sie	PRON	1	dobj
+1	verplappert	verplappern	VERB	_	_
+
+VPC.full
+0	ablehnte	ablehnt	ADJ	_	_
+
+VPC.full
+0	niedergeschlagen	niederschlagen	VERB	_	_
+
+IRV
+0	stelle	stellen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	an	an	ADP	_	_
+2	gewandt	wanden	VERB	_	_
+
+VPC.full
+0	einstehen	einstehen	VERB	_	_
+
+VPC.full
+0	ausgewichen	ausgewich	ADJ	_	_
+
+VPC.full
+0	einbezogen	einbeziehen	VERB	_	_
+
+VID
+0	gab	geben	VERB	_	_
+1	bekannt	bekennen	ADJ	0	advmod
+
+IRV
+0	gibt	giben	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	Lust	Lust	NOUN	1	nsubj
+1	hat	haben	VERB	_	_
+
+VID
+0	ließ	lassen	VERB	_	_
+1	durchblicken	durchblicken	VERB	0	xcomp
+
+IRV
+0	sich	er|es|sie	PRON	2	dobj
+1	auf	auf	ADP	_	_
+2	berufen	berufen	VERB	_	_
+
+VID
+0	Der	der	DET	1	det
+1	Erfolg	Erfolg	NOUN	2	nsubj
+2	gab	geben	VERB	_	_
+3	ihnen	sie	PRON	2	iobj
+4	Recht	Recht	NOUN	2	dobj
+
+VID
+0	gab	geben	VERB	_	_
+1	Recht	Recht	NOUN	0	dobj
+
+VID
+0	bringt	bringen	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Grübeln	Grübel	NOUN	0	nmod
+
+VID
+0	lässt	lassen	VERB	_	_
+1	freien	frei	ADJ	2	amod
+2	Lauf	Lauf	NOUN	0	nmod
+
+VID
+0	Schwerpunkt	Schwerpunkt	NOUN	1	nsubjpass
+1	liegen	liegen	VERB	_	_
+
+VID
+0	halten	halten	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	in	in	ADP	3	case
+3	Grenzen	Grenze	NOUN	0	nmod
+
+VPC.full
+0	räumt	räumen	VERB	_	_
+1	ein	ein	DET	_	_
+
+LVC.full
+0	Beitrag	Beitrag	NOUN	1	dobj
+1	leisten	leisten	VERB	_	_
+
+VPC.full
+0	stellt	stellen	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	zehrte	zehren	VERB	_	_
+1	an	an	ADP	2	case
+2	Nerven	Nerven	NOUN	0	nmod
+
+LVC.full
+0	Auffassung	Auffassung	NOUN	1	nsubj
+1	vertritt	vertreten	VERB	_	_
+
+VPC.semi
+0	aufzubieten	aufzubieten	VERB	_	_
+
+VID
+0	amtlich	amtlich	ADJ	1	advmod
+1	machen	machen	VERB	_	_
+
+VID
+0	nutzte	nutzen	VERB	_	_
+1	Chancen	Chance	NOUN	0	dobj
+
+VID
+0	gab	geben	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Protokoll	Protokoll	PROPN	_	_
+
+VID
+0	gab	geben	VERB	_	_
+1	es	es	PRON	_	_
+
+VID
+0	Untersuchungen	Untersuchung	NOUN	1	nsubj
+1	laufen	laufen	VERB	_	_
+
+VPC.full
+0	ausgefallenen	ausgefallen	ADJ	_	_
+
+IRV
+0	setzte	setzen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	durch	durch	ADP	0	compound:prt
+
+VID
+0	droht	drohen	VERB	_	_
+1	das	der	DET	2	det
+2	Aus	aus	NOUN	0	nsubj
+
+VID
+0	verteidigte	verteidigen	VERB	_	_
+1	Titel	Titel	NOUN	0	nmod
+
+VID
+0	Die	der	DET	1	det
+1	Rede	Rede	NOUN	_	_
+2	ist	sein	VERB	_	_
+3	von	von	ADP	_	_
+
+VPC.full
+0	angeführt	anführen	VERB	_	_
+
+VID
+0	Wert	Wert	NOUN	1	nsubj
+1	legen	legen	VERB	_	_
+
+VID
+0	schlägt	schlagen	VERB	_	_
+1	zu	zu	ADP	2	case
+2	Buche	Buche	NOUN	0	nmod
+
+VPC.full
+0	auszeichnen	auszeichnen	VERB	_	_
+
+VID
+0	machten	machen	VERB	_	_
+1	ans	an+der	ADP	2	case
+2	Werk	Werk	NOUN	0	nmod
+
+IRV
+0	gibt	geben	VERB	_	_
+1	sich	er|es|sie	PRON	0	nsubj
+
+VPC.full
+0	eingerichtet	einrichten	VERB	_	_
+
+VPC.full
+0	fertiggestellt	fertiggestellen	VERB	_	_
+
+VPC.full
+0	beigesetzt	beigesetzen	VERB	_	_
+
+VID
+0	liegt	liegen	VERB	_	_
+1	in	in	ADP	3	case
+2	der	der	DET	3	det
+3	Luft	Luft	NOUN	0	nmod
+
+VPC.full
+0	absagen	absagen	VERB	_	_
+
+VPC.full
+0	freigestellt	freistellen	VERB	_	_
+
+VID
+0	brachten	bringen	VERB	_	_
+1	Niederlage	Niederlage	NOUN	0	dobj
+2	bei	bei	ADP	1	case
+
+VPC.full
+0	brachten	bringen	VERB	_	_
+1	bei	bei	ADP	_	_
+
+VID
+0	ließen	lassen	VERB	_	_
+1	anbrennen	anbrennen	VERB	0	xcomp
+
+LVC.full
+0	steckt	stecken	VERB	_	_
+1	in	in	ADP	2	case
+2	Vorbereitung	Vorbereitung	NOUN	0	nmod
+
+IRV
+0	sprachen	sprechen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	sprachen	sprechen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	lehnten	lehnen	VERB	_	_
+1	ab	ab	ADP	0	compound:prt
+
+IRV
+0	enthielten	enthalten	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	abschalten	abschalten	VERB	_	_
+
+VPC.full
+0	aufhält	aufhälen	VERB	_	_
+
+VPC.full
+0	macht	machen	VERB	_	_
+1	mit	mit	ADP	_	_
+
+VPC.full
+0	herauszugeben	herausgeben	VERB	_	_
+
+VPC.full
+0	machte	machen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VID
+0	nach	nach	ADP	2	case
+1	dem	der	DET	2	det
+2	Rechten	recht	NOUN	3	nmod
+3	sah	sehen	VERB	_	_
+
+VID
+0	nahmen	nehmen	VERB	_	_
+1	Stellung	Stellung	NOUN	0	dobj
+
+VID
+0	auf	auf	ADP	1	case
+1	Idee	Idee	NOUN	2	nmod
+2	kommen	kommen	VERB	_	_
+
+LVC.full
+0	stießen	stoßen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Gegenliebe	Gegenlieb	NOUN	0	nmod
+
+VID
+0	nehme	nehmen	VERB	_	_
+1	ernst	ernst	ADJ	0	advmod
+
+LVC.full
+0	Anklage	Anklage	NOUN	1	nsubjpass
+1	erhoben	erhieben	VERB	_	_
+
+VPC.full
+0	stieg	steigen	VERB	_	_
+1	um	um	ADP	0	compound:prt
+
+VID
+0	gut	gut	ADJ	1	advmod
+1	getan	tun	VERB	_	_
+
+VPC.full
+0	nimmt	nehmen	VERB	_	_
+1	vorweg	vorweg	ADV	_	_
+
+VID
+0	Offen	offen	ADJ	1	advmod
+1	lässt	lassen	VERB	_	_
+
+VPC.semi
+0	bot	bieten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+LVC.cause
+0	setzte	setzen	VERB	_	_
+1	unter	unter	ADP	2	case
+2	Druck	Druck	NOUN	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Sache	Sache	NOUN	_	_
+
+VID
+0	Soweit	Soweit	ADV	_	_
+1	gekommen	kommen	VERB	_	_
+
+VID
+0	ließ	lassen	VERB	_	_
+1	anbrennen	anbrennen	VERB	0	xcomp
+
+LVC.full
+0	Job-Angebot	Job-Angebot	NOUN	1	dobj
+1	gemacht	machen	VERB	_	_
+
+LVC.full
+0	Ist	sein	VERB	1	cop
+1	Thema	Thema	NOUN	_	_
+
+VID
+0	an	an	ADP	1	case
+1	Grenzen	Grenze	NOUN	_	_
+2	gehen	gehen	VERB	_	_
+
+LVC.full
+0	entsprach	entsprechen	VERB	_	_
+1	Forderung	forderung	NOUN	_	_
+
+LVC.full
+0	gibt	geben	VERB	_	_
+1	Konzert	Konzert	NOUN	0	dobj
+
+VPC.full
+0	ansprechen	ansprechen	VERB	_	_
+
+VID
+0	komme	kommen	VERB	_	_
+1	in	in	ADP	2	case
+2	Frage	Frage	NOUN	0	nmod
+
+LVC.cause
+0	machten	machen	VERB	_	_
+1	Druck	Druck	NOUN	0	dobj
+
+VPC.full
+0	stünden	stehen	VERB	_	_
+1	aus	aus	ADP	0	compound:prt
+
+VPC.full
+0	deutet	deuten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VPC.full
+0	läutete	läuten	VERB	_	_
+1	ein	ein	ADV	0	compound:prt
+
+VID
+0	gibt	geben	VERB	_	_
+1	mit	mit	ADV	4	advmod
+2	auf	auf	ADP	4	case
+3	den	der	DET	4	det
+4	Weg	Weg	NOUN	_	_
+
+VPC.full
+0	heraus	heraus	ADV	1	advmod
+1	stechen	stech	ADJ	_	_
+
+IRV
+0	ereigneten	ereignen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	geht	gehen	VERB	_	_
+1	zurück	zurück	ADV	0	advmod
+
+VID
+0	Es	es	PRON	1	expl
+1	heißt	heißen	VERB	_	_
+
+VID
+0	stehen	stehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Plan	Plan	NOUN	0	nmod
+
+VID
+0	liegt	liegen	VERB	_	_
+1	im	in+der	ADP	2	case
+2	Zwist	Zwist	NOUN	_	_
+
+VID
+0	ging	gehen	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	um	um	ADP	_	_
+
+VPC.full
+0	sagt	sagen	VERB	_	_
+1	ab	ab	ADP	_	_
+
+VID
+0	schlimmer	schlimm	ADJ	1	advmod
+1	kommen	kommen	VERB	_	_
+
+LVC.cause
+0	gaben	geben	VERB	_	_
+1	Einblicke	Einblicke	NOUN	0	dobj
+
+VID
+0	bekanntgegeben	bekanntgegeben	VERB	_	_
+
+VPC.full
+0	angeschafft	angeschaffen	VERB	_	_
+
+VID
+0	gehe	gehen	VERB	_	_
+1	es	es	PRON	0	expl
+2	darum	darum	ADV	0	advmod
+
+LVC.full
+0	Schlussfolgerungen	Schlussfolgerung	NOUN	1	dobj
+1	ziehen	ziehen	VERB	_	_
+
+VPC.full
+0	anstand	anstehen	VERB	_	_
+
+VID
+0	rückte	rücken	VERB	_	_
+1	ins	in+der	ADP	2	case
+2	Rampenlicht	Rampenlicht	NOUN	0	nmod
+
+VPC.semi
+0	hielt	halten	VERB	_	_
+1	an	an	ADP	0	compound:prt
+
+VID
+0	Kostprobe	Kostprobe	NOUN	1	nsubj
+1	geben	geben	VERB	_	_
+
+VID
+0	herrscht	herrschen	VERB	_	_
+1	Panik	Panik	PROPN	0	nsubj
+
+VPC.full
+0	ausgeschildert	ausgeschildern	ADJ	_	_
+
+VID
+0	gingen	gehen	VERB	_	_
+1	verloren	verlieren	VERB	0	cop
+
+VID
+0	Blicke	Blicke	PROPN	1	nsubj
+1	zog	ziehen	VERB	_	_
+2	auf	auf	ADP	3	case
+3	sich	er|es|sie	PRON	1	nmod
+
+VID
+0	lässt	lassen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	schwer	schwer	ADJ	3	advmod
+3	sagen	sagen	VERB	0	xcomp
+
+VPC.full
+0	mitmachen	mitmachen	NOUN	_	_
+
+VPC.full
+0	ausgeben	ausben	VERB	_	_
+
+VPC.full
+0	schreibt	schreeben	VERB	_	_
+1	vor	vor	ADP	0	compound:prt
+
+VID
+0	steht	stehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Spiel	Spiel	NOUN	0	nmod
+
+IRV
+0	belief	belafen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+2	auf	auf	ADP	_	_
+
+VPC.full
+0	zurückkehren	zurückkehren	VERB	_	_
+
+VPC.full
+0	sich	er|es|sie	PRON	1	dobj
+1	auszutauschen	austauschen	VERB	_	_
+
+VPC.full
+0	vorlagen	vorlagen	VERB	_	_
+
+VID
+0	geht	gehen	VERB	_	_
+1	auf	auf	ADP	2	case
+2	Tour	Tour	NOUN	0	nmod
+
+LVC.cause
+0	stellte	stellen	VERB	_	_
+1	zur	zu+der	ADP	2	case
+2	Verfügung	Verfügung	NOUN	0	nmod
+
+VID
+0	hat	haben	VERB	_	_
+1	es	es	PRON	0	nsubj
+2	in	in	ADP	_	_
+3	sich	er|es|sie	PRON	_	_
+
+VID
+0	locker	locker	ADJ	1	advmod
+1	machen	machen	VERB	_	_
+
+VPC.semi
+0	richte	richen	VERB	_	_
+1	her	her	ADV	0	compound:prt
+
+VPC.full
+0	abgestimmt	abgestimmen	VERB	_	_
+
+LVC.full
+0	unter	unter	ADP	1	case
+1	Arrest	Arrest	PROPN	_	_
+2	stellt	stellen	VERB	_	_
+
+VPC.semi
+0	abgestorbenen	abgestorben	ADJ	_	_
+
+VPC.full
+0	umgestellt	umgestellen	VERB	_	_
+
+VPC.full
+0	ausfällt	ausfällen	VERB	_	_
+
+IRV
+0	fühlt	fühlen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VID
+0	des	der	DET	1	det
+1	Lobes	Lob	NOUN	_	_
+2	voll	voll	ADJ	_	_
+3	gewesen	sein	VERB	2	cop
+
+LVC.full
+0	in	in	ADP	1	case
+1	Gewalt	Gewalt	NOUN	_	_
+2	gewesen	sein	VERB	_	_
+
+VID
+0	auf	auf	ADP	1	case
+1	sich	er|es|sie	PRON	2	nmod
+2	warten	warten	VERB	3	xcomp
+3	lassen	lassen	VERB	_	_
+
+VPC.full
+0	abgefälschter	abgefälschter	NOUN	_	_
+
+VPC.full
+0	Stattfinden	stattfinden	VERB	_	_
+
+VPC.full
+0	herausgestochen	herausgestochen	NOUN	_	_
+
+VPC.full
+0	trat	treten	VERB	_	_
+1	auf	auf	ADP	_	_
+
+VPC.full
+0	traut	trauen	VERB	_	_
+1	zu	zu	ADP	0	compound:prt
+
+IRV
+0	freute	freuen	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+VPC.full
+0	stellen	stellen	VERB	_	_
+1	dar	dar	ADV	0	compound:prt
+
+VID
+0	kam	kommen	VERB	_	_
+1	in	in	ADP	2	case
+2	Schwung	Schwung	NOUN	_	_
+
+VPC.full
+0	angetreten	angetreten	VERB	_	_
+
+VPC.full
+0	anfässt	anfässen	VERB	_	_
+
+VID
+0	wird	werden	AUX	_	_
+1	zu	zu	ADP	2	case
+2	Gold	Gold	PROPN	_	_
+
+VPC.full
+0	anerkennt	anerkennen	VERB	_	_
+
+IRV
+0	entscheidet	entscheiden	VERB	_	_
+1	sich	er|es|sie	PRON	0	dobj
+
+LVC.full
+0	in	in	ADP	1	case
+1	Rechnung	Rechnung	NOUN	_	_
+2	stellen	stellen	VERB	_	_
+
