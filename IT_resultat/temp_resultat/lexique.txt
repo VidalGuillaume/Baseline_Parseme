@@ -1,0 +1,10554 @@
+VID
+0	dar	dare	V	_	_
+1	luogo	luogo	S	0	obj
+
+VID
+0	messo	mettere	V	_	_
+1	da	da	E	0	comp
+2	parte	parte	S	1	prep
+
+LVC.full
+0	fare	fare	V	_	_
+1	ricorso	ricorso	S	0	obj
+
+LVC.cause
+0	dando	dare	V	_	_
+1	origini	origine	S	0	subj
+
+VID
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	carico	carico	S	0	subj
+
+VID
+0	ritornare	ritornare	V	_	_
+1	su	su	E	0	comp
+2	i	il	R	1	det
+3	passi	passo	S	1	prep
+
+VID
+0	battuti	battere	V	_	_
+1	per	per	E	0	arg
+
+IRV
+0	consumar-	consumare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	affida	affidare	V	_	_
+
+VID
+0	andrà	andare	V	_	_
+1	a	a	E	0	comp_loc
+2	ballottaggio	ballottaggio	S	1	prep
+
+VID
+0	Andremo	andare	V	_	_
+1	a	a	E	0	comp
+2	ballottaggio	ballottaggio	S	1	prep
+
+LS.ICV
+0	c'	ci	P	1	comp
+1	è	essere	V	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	preoccupa	preoccupare	V	_	_
+
+IAV
+0	arriverà	arrivare	V	_	_
+1	a	a	E	0	arg
+
+IRV
+0	si	si	P	1	clit
+1	trovano	trovare	V	_	_
+
+VID
+0	esser	essere	V	_	_
+1	parte	parte	S	0	obj
+
+LVC.full
+0	andato	andare	V	_	_
+1	oltre	oltre	E	0	comp
+
+IRV
+0	sottratto-	sottrarre	V	_	_
+1	si	si	P	0	clit
+
+VPC.full
+0	volata	volare	V	_	_
+1	via	via	B	0	mod
+
+VID
+0	messo	mettere	V	_	_
+1	in	in	E	0	comp
+2	scena	scena	S	1	prep
+
+VID
+0	è	essere	V	_	_
+1	di	di	E	0	pred
+2	casa	casa	S	1	prep
+
+VID
+0	ho	avere	V	1	aux
+1	cattiva	cattivo	A	2	mod
+2	fama	fama	S	_	_
+
+VID
+0	ha	avere	V	_	_
+1	cuore	cuore	S	0	obj
+
+IAV
+0	passa	passare	V	_	_
+1	a	a	E	0	comp
+
+IRV
+0	se	se	C	_	_
+1	la	la	P	2	obj
+2	prende	prendere	V	0	sub
+
+MVC
+0	ci	ci	P	2	obj
+1	vuoi	volere	V	2	modal
+2	fare	fare	V	_	_
+
+VPC.full
+0	mandare	mandare	V	_	_
+1	via	via	B	0	mod
+
+VID
+0	avere	avere	V	_	_
+1	occhio	occhio	S	0	obj
+2	lungo	lungo	A	1	mod
+
+LVC.full
+0	fatto	fare	V	_	_
+1	dichiarazioni	dichiarazione	S	0	obj
+
+IRV
+0	vi	vi	P	_	_
+1	avvicinati	avvicinare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	presenti	presentare	V	_	_
+
+VID
+0	sarebbe	essere	V	_	_
+1	un	un	R	3	det
+2	duro	duro	A	3	mod
+3	colpo	colpo	S	0	pred
+
+IRV
+0	ci	ci	P	1	comp
+1	accorge	accorgersi	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	accorge	accorgersi	V	_	_
+
+IRV
+0	si	si	P	_	_
+1	accorto	accorgersi	V	_	_
+
+IAV
+0	punta	punta	S	_	_
+1	su	su	E	0	comp
+
+VID
+0	incrociamo	incrociare	V	_	_
+1	le	il	R	2	det
+2	dita	dita	S	0	obj
+
+VID
+0	vengo	venire	V	_	_
+1	a	a	E	0	comp_ind
+2	il	il	R	1	det
+3	dunque	dunque	B	_	_
+
+IRV
+0	ritirar-	ritirare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	bisogno	bisogno	S	1	prep
+
+IAV
+0	Arrivare	arrivare	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	punto	punto	S	1	prep
+4	di	di	E	0	arg
+
+IAV
+0	portano	portare	V	_	_
+1	a	a	E	0	comp_ind
+
+VID
+0	Togliersi	Togliersi	S	_	_
+1	da	da	E	_	_
+2	il	il	R	1	det
+3	gioco	gioco	S	1	prep
+4	di	di	E	3	comp
+5	le	il	R	4	det
+6	parti	parte	S	4	prep
+
+VID
+0	essere	essere	V	_	_
+1	parte	parte	S	0	pred
+
+VID
+0	va	andare	V	_	_
+1	bene	bene	B	0	mod
+
+LVC.full
+0	ha	avere	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+LVC.full
+0	fare	fare	V	_	_
+1	politica	politica	S	0	obj
+
+IAV
+0	puntasse	puntare	V	_	_
+1	a	a	E	0	pred
+
+IRV
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	anticipatori	anticipatori	S	0	pred
+
+IAV
+0	porta	portare	V	_	_
+1	a	a	E	0	comp
+
+LVC.full
+0	avesse	avere	V	_	_
+1	coraggio	coraggio	S	0	obj
+
+VID
+0	fare	fare	V	_	_
+1	un	un	R	2	det
+2	passo	passo	S	0	obj
+3	indietro	indietro	B	2	mod
+
+VID
+0	far-	fare	V	_	_
+1	me	me	P	0	comp_ind
+2	strada	strada	S	0	obj
+
+VID
+0	fare	fare	V	_	_
+1	figura	figura	S	0	obj
+
+VID
+0	siamomessi	siamomessi	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	non	non	B	2	neg
+1	è	essere	V	2	aux
+2	detto	dire	V	_	_
+
+MVC
+0	si	si	P	1	clit
+1	tiene	tenere	V	_	_
+2	stretta	stretto	A	1	mod
+
+VPC.full
+0	tirare	tirare	V	_	_
+1	avanti	avanti	B	0	mod
+
+VID
+0	arrivano	arrivare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	fine	fine	S	1	prep
+4	di	di	E	3	comp
+5	il	il	R	4	det
+6	mese	mese	S	4	prep
+
+VID
+0	Va	andare	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	siamo	essere	V	_	_
+1	di	di	E	0	comp
+2	destra	destra	S	1	prep
+
+VID
+0	Ben	ben	B	1	mod
+1	venga	venire	V	_	_
+
+VID
+0	essere	essere	V	_	_
+1	di	di	E	0	pred
+2	destra	destra	S	1	prep
+
+VID
+0	Ben	Ben	S	_	_
+1	venga	venire	V	_	_
+
+VID
+0	è	essere	V	_	_
+1	in	in	E	_	_
+2	mano	mano	S	1	prep
+3	a	a	E	_	_
+
+VID
+0	stato	essere	V	_	_
+1	in	in	E	0	comp
+2	mano	mano	S	1	prep
+
+IRV
+0	ritrovar-	ritrovare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	messi	mettere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	bando	bando	S	1	prep
+
+LVC.full
+0	scelte	scelta	S	_	_
+1	fare	fare	V	_	_
+
+LVC.full
+0	dato	dare	V	_	_
+1	aiuto	aiuto	S	0	obj
+
+VID
+0	Avete	avere	V	_	_
+1	a	a	E	0	comp
+2	cuore	cuore	S	1	prep
+
+VID
+0	arriva	arrivare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	fine	fine	S	1	prep
+4	di	di	E	3	comp
+5	il	il	R	4	det
+6	mese	mese	S	4	prep
+
+VID
+0	far-	fare	V	_	_
+1	ne	ne	P	0	comp
+2	un	un	R	3	det
+3	vanto	vanto	S	0	pred
+
+IAV
+0	porta	portare	V	_	_
+1	a	a	E	0	comp_ind
+
+IAV
+0	si	si	P	1	clit
+1	basa	basare	V	_	_
+2	su	su	E	1	comp
+
+IAV
+0	basa	basare	V	_	_
+1	su	su	E	0	comp
+
+VID
+0	chiamato	chiamare	V	_	_
+1	a	a	E	0	comp
+2	raccolta	raccolta	S	1	prep
+
+VID
+0	fa	fare	V	_	_
+1	bene	bene	B	0	mod
+
+VPC.full
+0	siamo	essere	V	_	_
+1	indietro	indietro	B	_	_
+
+VPC.full
+0	rimasti	rimanere	V	_	_
+1	indietro	indietro	B	0	mod
+
+LVC.full
+0	ha	avere	V	_	_
+1	ragione	ragione	S	0	obj
+
+LVC.full
+0	Trovare	trovare	V	_	_
+1	soluzione	soluzione	S	0	obj
+
+IRV
+0	accorger-	accorgersi	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	mi	mi	P	_	_
+1	accorgendo	accorgersi	V	_	_
+
+IAV
+0	di	di	E	1	comp
+1	tratta-	trattare	V	_	_
+2	si	si	P	1	clit
+
+IAV
+0	tratta-	trattare	V	_	_
+1	si	si	P	0	clit
+
+LS.ICV
+0	far-	fare	V	_	_
+1	ce-	ce	P	0	clit
+2	la	la	P	0	obj
+
+LVC.full
+0	abbiamo	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+LVC.full
+0	prenderete	prendere	V	_	_
+1	decisione	decisione	S	0	obj
+
+IRV
+0	mi	mi	P	_	_
+1	proposto	proporre	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	dati	dare	V	_	_
+2	da	da	E	1	arg
+3	fare	fare	V	2	prep
+
+VID
+0	dati	dare	V	_	_
+1	da	da	E	0	arg
+2	fare	fare	V	1	prep
+
+VPC.full
+0	venuti	venire	V	_	_
+1	incontro	incontro	B	0	mod
+
+VID
+0	andare	andare	V	_	_
+1	in	in	E	0	comp
+2	contro	contro	B	1	prep
+
+LVC.cause
+0	render-	rendere	V	_	_
+1	migliore	migliore	A	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	rendono	rendere	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	rendono	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+VPC.full
+0	gettare	gettare	V	_	_
+1	via	via	B	0	mod
+
+VPC.full
+0	venuto	venire	V	_	_
+1	fuori	fuori	B	0	mod
+
+IAV
+0	aspirare	aspirare	V	_	_
+1	a	a	E	0	comp
+
+IAV
+0	mirare	mirare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	farà	fare	V	_	_
+1	un	un	R	2	det
+2	passo	passo	S	0	pred
+3	indietro	indietro	B	2	mod
+
+IRV
+0	si	si	P	1	clit
+1	ritira	ritirare	V	_	_
+
+VID
+0	lasciare	lasciare	V	_	_
+1	posto	posto	S	0	obj
+
+VID
+0	sia	essere	V	_	_
+1	di	di	E	0	comp
+2	destra	destra	S	1	prep
+
+LVC.full
+0	far-	fare	V	_	_
+1	domande	domanda	S	0	obj
+
+IAV
+0	hanno	avere	V	_	_
+1	da	da	E	0	arg
+2	vivere	vivere	V	1	prep
+
+LVC.full
+0	farete	fare	V	_	_
+1	accordi	accordo	S	0	obj
+
+MVC
+0	lascia	lasciare	V	_	_
+1	stare	stare	V	0	arg
+
+IRV
+0	allargando-	allargare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	s'	s'	P	1	clit
+1	impennato	impennare	V	_	_
+
+VID
+0	lancia	lanciare	V	_	_
+1	segnale	segnale	S	_	_
+
+IAV
+0	guardando	guardare	V	_	_
+1	a	a	E	0	comp
+
+IAV
+0	Passiamo	passare	V	_	_
+1	a	a	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	discostate	discostare	V	_	_
+
+VID
+0	portar-	portare	V	_	_
+1	fuori	fuori	E	0	comp
+2	strada	strada	S	1	prep
+
+VID
+0	mette	mettere	V	_	_
+1	a	a	E	0	comp
+2	disposizione	disposizione	S	1	prep
+
+LVC.cause
+0	data	dare	V	_	_
+1	colpa	colpa	S	0	pred
+
+LVC.full
+0	essere	essere	V	_	_
+1	di	di	E	0	comp
+2	aiuto	aiuto	S	1	prep
+
+LVC.full
+0	dato	dare	V	_	_
+1	in	in	E	0	comp
+2	carico	carico	S	1	prep
+
+IAV
+0	si	si	P	1	clit
+1	basato	basare	V	_	_
+2	su	su	E	1	comp
+
+IAV
+0	basato	basare	V	_	_
+1	su	su	E	0	comp
+
+VID
+0	andare	andare	V	_	_
+1	di	di	E	0	comp
+2	pari	pari	A	3	mod
+3	passo	passo	S	1	prep
+
+IAV
+0	si	si	P	1	clit
+1	tratta	trattare	V	_	_
+2	di	di	E	1	comp
+
+LVC.cause
+0	dare	dare	V	_	_
+1	inizio	inizio	S	0	obj
+
+IAV
+0	avviar-	avviare	V	_	_
+1	si	si	P	0	clit
+2	a	a	E	0	comp
+
+LVC.full
+0	avessero	avere	V	_	_
+1	obiezioni	obiezione	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	estenderebbe	estendere	V	_	_
+
+LVC.full
+0	creando	creare	V	_	_
+1	danni	danno	S	0	obj
+
+VID
+0	avere	avere	V	_	_
+1	a	a	E	0	arg
+2	che	che	P	3	obj
+3	fare	fare	V	1	prep
+
+IAV
+0	sarà	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	sono	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+
+IAV
+0	sono	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+3	di	di	E	2	arg
+
+VID
+0	facendo	fare	V	_	_
+1	leva	leva	S	0	obj
+
+LVC.full
+0	aveva	avere	V	1	aux
+1	ragione	ragione	S	_	_
+
+LS.ICV
+0	ce	ce	P	2	comp_ind
+1	la	la	P	2	obj
+2	farà	fare	V	_	_
+
+VID
+0	voleva	volere	V	1	modal
+1	diventare	diventare	V	_	_
+2	QUALCUNO	qualcuno	P	1	obj
+
+MVC
+0	volete	volere	V	_	_
+1	far-	fare	V	0	arg
+2	ci	ci	P	1	pred
+
+VID
+0	fare	fare	V	_	_
+1	lo	il	R	2	det
+2	sfigato	sfigato	S	0	obj
+
+LVC.full
+0	Chiedo	chiedere	V	_	_
+1	scusa	scusa	S	0	obj
+
+VID
+0	chiesto	chiedere	V	_	_
+1	amicizia	amicizia	S	0	obj
+
+LVC.full
+0	creare	creare	V	_	_
+1	contatto	contatto	S	0	obj
+
+LVC.full
+0	Chiedo	chiedere	V	_	_
+1	scusa	scusare	V	0	arg
+
+VID
+0	esce	uscire	V	_	_
+1	da	da	E	0	comp
+2	il	il	R	1	det
+3	letargo	letargo	S	1	prep
+
+IRV
+0	si	si	P	_	_
+1	presentato	presentare	V	_	_
+
+LVC.full
+0	fare	fare	V	_	_
+1	da	da	E	0	comp
+2	catalizzatore	catalizzatore	S	1	prep
+
+VID
+0	prendiamo	prendere	V	_	_
+1	atto	atto	S	0	obj
+
+IRV
+0	mantener-	mantenere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	fare	fare	V	_	_
+1	da	da	E	0	arg
+2	supporter	supporter	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	reso	rendere	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	reso	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+VID
+0	essere	essere	V	_	_
+1	preso	prendere	V	_	_
+2	in	in	E	1	comp
+3	giro	giro	S	2	prep
+
+VID
+0	preso	prendere	V	_	_
+1	in	in	E	0	comp
+2	giro	giro	S	1	prep
+
+IAV
+0	portar-	portare	V	_	_
+1	a	a	E	0	arg
+
+VID
+0	fa	fa	B	_	_
+1	leva	levare	V	_	_
+
+VID
+0	arrampicandosi	arrampicandosi	V	_	_
+1	su	su	E	0	comp
+2	gli	il	R	1	det
+3	specchi	specchio	S	1	prep
+
+VID
+0	non	non	B	1	neg
+1	hanno	avere	V	2	mod
+2	nulla	nulla	P	_	_
+3	da	da	E	2	arg
+4	temere	temere	V	3	prep
+
+VID
+0	fatto	fare	V	_	_
+1	meglio	meglio	B	0	mod
+
+VID
+0	hanno	avere	V	_	_
+1	di	di	E	0	comp
+2	che	che	P	3	obj
+3	vivere	vivere	V	1	prep
+
+VID
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	infinocchiare	infinocchiare	V	0	conj
+
+IRV
+0	me	me	P	_	_
+1	aspettata	aspettare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	defilato	defilare	V	_	_
+
+LVC.cause
+0	dato	dare	V	_	_
+1	inizio	inizio	S	0	obj
+
+IRV
+0	proponendo-	proporre	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	adattar-	adattare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	arrivare	arrivare	V	_	_
+1	a	a	E	0	comp
+2	fine	fine	A	3	mod
+3	mese	mese	S	1	prep
+
+IRV
+0	trovar-	trovare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	è	essere	V	_	_
+1	intenzione	intenzione	S	0	subj
+
+VID
+0	valga	valere	V	_	_
+1	la	il	R	2	det
+2	pena	pena	S	0	subj
+
+IRV
+0	si	si	P	1	clit
+1	commenta	commentare	V	_	_
+
+IAV
+0	hanno	avere	V	_	_
+1	da	da	E	0	arg
+
+LVC.full
+0	fare	fare	V	_	_
+1	politica	politico	A	_	_
+
+LS.ICV
+0	ci	ci	P	1	comp
+1	risiamo	riessere	V	_	_
+
+VID
+0	si	si	P	_	_
+1	messi	mettere	V	_	_
+2	male	male	B	1	mod
+
+VID
+0	è	essere	V	1	arg
+1	messi	mettere	V	_	_
+2	male	male	B	1	mod
+
+VID
+0	fanno	fare	V	_	_
+1	parte	parte	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	eespongono	eespongono	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	arrabbieranno	arrabbiare	V	_	_
+
+VID
+0	non	non	B	1	neg
+1	se	se	P	3	clit
+2	ne	ne	P	1	comp
+3	può	potere	V	4	modal
+4	più	più	B	_	_
+
+LS.ICV
+0	C'	ci	P	1	comp
+1	è	essere	V	_	_
+
+VID
+0	non	non	B	2	neg
+1	ne	ne	P	2	comp
+2	azzecca	azzeccare	V	_	_
+3	una	una	R	_	_
+
+LVC.full
+0	ce	ce	P	1	comp
+1	è	essere	V	_	_
+2	bisogno	bisogno	S	_	_
+
+VID
+0	Si	si	P	1	clit
+1	dia	dare	V	_	_
+2	una	una	R	3	det
+3	mossa	mossa	S	1	obj
+
+VID
+0	Si	si	P	1	clit
+1	dia	dare	V	_	_
+2	mossa	mossa	S	1	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	qualifichi	qualificare	V	_	_
+
+IRV
+0	occupar-	occupare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	metteremo	mettere	V	_	_
+1	in	in	E	0	comp
+2	lista	lista	S	1	prep
+
+VID
+0	mettere	mettere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	centro	centro	S	1	prep
+
+IRV
+0	si	si	P	2	clit
+1	è	essere	V	2	aux
+2	infuocata	infuocare	V	_	_
+
+VID
+0	sono	essere	V	_	_
+1	a	a	E	0	pred
+2	il	il	R	1	det
+3	centro	centro	S	1	prep
+4	di	di	E	3	comp
+5	l'	il	R	4	det
+6	attenzione	attenzione	S	4	prep
+
+VID
+0	sono	essere	V	_	_
+1	a	a	E	0	pred
+2	il	il	R	1	det
+3	centro	centro	S	1	prep
+4	di	di	E	3	comp
+5	attenzione	attenzione	S	4	prep
+
+VID
+0	c'	ci	P	1	comp
+1	è	essere	V	_	_
+2	da	da	E	1	arg
+3	dire	dire	V	2	prep
+
+LVC.full
+0	avere	avere	V	_	_
+1	appoggio	appoggio	S	0	obj
+
+VID
+0	resta	restare	V	_	_
+1	in	in	E	0	comp
+2	disparte	disparte	B	1	prep
+
+VID
+0	tolto	togliere	V	_	_
+1	sassolini	sassolini	S	0	obj
+2	da	da	E	0	comp
+3	le	il	R	2	det
+4	scarpe	scarpa	S	2	prep
+
+LVC.full
+0	accordi	accordo	S	_	_
+1	raggiunti	raggiungere	V	0	conj
+
+VID
+0	corrono	correre	V	_	_
+1	in	in	E	0	comp
+2	solitaria	solitaria	S	1	prep
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	atto	atto	S	1	prep
+
+IRV
+0	lamentar-	lamentare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	non	non	B	1	neg
+1	se	se	P	3	clit
+2	ne	ne	P	1	comp
+3	può	potere	V	_	_
+4	più	più	B	3	mod
+
+VID
+0	fanno	fare	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	fare	fare	V	_	_
+1	una	una	R	2	det
+2	istantanea	istantaneo	A	0	mod
+
+VID
+0	fa	fare	V	_	_
+1	la	il	R	2	det
+2	campagna	campagna	S	0	subj
+
+VID
+0	sono	essere	V	_	_
+1	in	in	E	0	pred
+2	prima	primo	N	3	mod
+3	linea	linea	S	1	prep
+
+VID
+0	visto	vedere	V	_	_
+1	giusto	giusto	A	0	pred
+
+LVC.full
+0	fa	fare	V	_	_
+1	critica	critica	S	0	subj
+
+LVC.full
+0	avrei	avere	V	1	aux
+1	voglia	voglia	S	_	_
+
+VID
+0	dia	dare	V	_	_
+1	di	di	E	0	comp
+2	il	il	R	1	det
+3	tu	tu	P	1	prep
+
+LVC.full
+0	ho	avere	V	1	aux
+1	bisogno	bisogno	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	prende	prendere	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	prende	prendere	V	_	_
+2	su	su	E	1	comp_loc
+3	il	il	R	2	det
+4	serio	serio	A	2	prep
+
+VID
+0	sono	essere	V	_	_
+1	di	di	E	0	pred
+2	parte	parte	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	presenta	presentare	V	_	_
+
+IRV
+0	mi	mi	P	1	comp_ind
+1	trovo	trovare	V	_	_
+
+LVC.full
+0	mi	mi	P	1	comp_ind
+1	trovo	trovare	V	_	_
+2	d'	d'	E	1	comp
+3	accordo	accordo	S	2	prep
+
+VPC.full
+0	andare	andare	V	_	_
+1	avanti	avanti	B	0	mod
+
+LVC.full
+0	sono	essere	V	_	_
+1	d'	d'	E	0	pred
+2	accordo	accordo	S	1	prep
+
+VID
+0	sono	essere	V	_	_
+1	di	di	E	0	conj
+2	destra	destra	S	1	prep
+
+LVC.full
+0	fare	fare	V	_	_
+1	scelta	scelta	S	0	obj
+
+LVC.full
+0	dato	dare	V	_	_
+1	prova	prova	S	0	obj
+
+IAV
+0	guardando-	guardare	V	_	_
+1	a	a	E	0	comp
+
+LVC.full
+0	avere	avere	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+LVC.full
+0	avrebbe	avere	V	1	aux
+1	intenzione	intenzione	S	_	_
+
+VID
+0	avuto	avere	V	_	_
+1	modo	modo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	proponeva	proporre	V	_	_
+
+VID
+0	hanno	avere	V	_	_
+1	in	in	E	0	comp_loc
+2	le	il	R	1	det
+3	mani	mano	S	1	prep
+
+VID
+0	hanno	avere	V	_	_
+1	in	in	E	0	comp_loc
+2	mani	mano	S	1	prep
+
+VID
+0	non	non	B	1	neg
+1	guarda	guardare	V	_	_
+2	in	in	E	1	comp
+3	faccia	faccia	S	2	prep
+4	nessuno	nessuno	P	1	subj
+
+VID
+0	guarda	guardare	V	_	_
+1	in	in	E	0	comp
+2	faccia	faccia	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	propongono	proporre	V	_	_
+
+LVC.cause
+0	dare	dare	V	_	_
+1	lavoro	lavoro	S	0	obj
+
+VID
+0	mancato	mancare	V	_	_
+1	a	a	E	0	comp
+2	l'	il	R	1	det
+3	affetto	affetto	S	1	prep
+
+VID
+0	finita	finire	V	_	_
+1	in	in	E	0	comp
+2	mano	mano	S	1	prep
+
+VID
+0	fatto	fare	V	_	_
+1	la	il	R	2	det
+2	spia	spia	S	0	obj
+
+LVC.cause
+0	dato	dare	V	_	_
+1	sollievo	sollievo	S	_	_
+
+VPC.full
+0	finita	finire	V	_	_
+1	qui	qui	B	0	mod_loc
+
+VID
+0	fatto	fare	V	_	_
+1	30	30	N	0	obj
+2	facendo	fare	V	0	conj
+3	31	31	N	2	mod
+
+LS.ICV
+0	ci	ci	P	2	comp
+1	si	si	P	2	clit
+2	mettono	mettere	V	_	_
+
+IAV
+0	arrivavano	arrivare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	metter-	mettere	V	_	_
+1	si	si	P	0	clit
+2	su	su	E	0	comp
+3	il	il	R	2	det
+4	stesso	stesso	A	5	mod
+5	piano	piano	S	2	prep
+
+VID
+0	metter-	mettere	V	_	_
+1	si	si	P	0	clit
+2	su	su	E	0	comp
+3	stesso	stesso	A	4	mod
+4	piano	piano	S	2	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	conoscenza	conoscenza	S	0	obj
+
+IAV
+0	passa	passare	V	_	_
+1	da	da	E	0	comp
+2	a	a	E	0	comp
+
+VPC.full
+0	dar	dare	V	_	_
+1	via	via	B	0	mod
+
+VID
+0	dar	dare	V	_	_
+1	via	via	B	0	mod
+2	di	di	E	0	comp
+3	matto	matto	S	2	prep
+
+LVC.full
+0	avere	avere	V	_	_
+1	rispetto	rispetto	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	presentano	presentare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	qualifica	qualificare	V	_	_
+
+IRV
+0	qualificar-	qualificare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	dar-	dare	V	_	_
+1	nome	nome	S	0	obj
+
+VID
+0	viene	venire	V	_	_
+1	in	in	E	0	comp_loc
+2	mente	mente	S	1	prep
+
+LVC.cause
+0	fatto	fare	V	_	_
+1	tenerezza	tenerezza	S	0	obj
+
+VID
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	guerra	guerra	S	0	pred
+
+VID
+0	mettere	mettere	V	_	_
+1	mani	mano	S	0	obj
+
+IAV
+0	basando-	basare	V	_	_
+1	su	su	E	0	comp
+
+LVC.full
+0	dare	dare	V	_	_
+1	impegno	impegno	S	0	obj
+
+VID
+0	faremo	fare	V	_	_
+1	di	di	E	0	comp
+2	tutto	tutto	P	1	prep
+
+IRV
+0	adeguar-	adeguare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	avrà	avere	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+VID
+0	Sarà	essere	V	_	_
+1	cura	cura	S	0	pred
+
+LVC.cause
+0	dare	dare	V	_	_
+1	pubblicità	pubblicità	S	0	obj
+
+VID
+0	sia	essere	V	_	_
+1	in	in	E	0	comp
+2	grado	grado	S	1	prep
+
+IAV
+0	sia	essere	V	_	_
+1	in	in	E	0	comp
+2	grado	grado	S	1	prep
+3	di	di	E	2	arg
+
+LVC.cause
+0	dare	dare	V	_	_
+1	certezza	certezza	S	0	obj
+
+VID
+0	vivere	vivere	V	_	_
+1	in	in	E	0	comp
+2	simbiosi	simbiosi	S	1	prep
+
+LVC.cause
+0	dando	dare	V	_	_
+1	facoltà	facoltà	S	0	obj
+
+LVC.full
+0	ce	ce	P	_	_
+1	fosse	essere	V	_	_
+2	bisogno	bisogno	S	1	subj
+
+VID
+0	essere	essere	V	_	_
+1	a	a	E	0	pred
+2	basso	basso	A	3	mod
+3	costo	costo	S	1	prep
+
+VID
+0	messe	mettere	V	_	_
+1	in	in	E	0	comp
+2	mobilità	mobilità	S	1	prep
+
+IAV
+0	passava	passare	V	_	_
+1	a	a	E	0	comp
+
+LVC.full
+0	prender-	prendere	V	_	_
+1	si	si	P	0	clit
+2	cura	cura	S	0	obj
+
+VID
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	carico	carico	S	0	pred
+
+VID
+0	faceva	fare	V	_	_
+1	comodo	comodo	A	0	pred
+
+IAV
+0	passare	passare	V	_	_
+1	a	a	E	0	comp
+
+LVC.full
+0	avere	avere	V	_	_
+1	durata	durata	S	0	obj
+
+VID
+0	messo	mettere	V	_	_
+1	piede	piede	S	0	obj
+
+VID
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	amici	amico	S	_	_
+
+VID
+0	dato	dare	V	_	_
+1	il	il	R	2	det
+2	benservito	benservito	S	0	obj
+
+LVC.full
+0	fatto	fare	V	_	_
+1	domanda	domanda	S	0	obj
+
+VID
+0	maturato	maturare	V	_	_
+1	il	il	R	2	det
+2	diritto	diritto	S	0	obj
+
+IRV
+0	curando-	curare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	In	in	E	1	comp
+1	è	essere	V	_	_
+2	atto	atto	S	_	_
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	comp
+2	atto	atto	S	1	prep
+
+VID
+0	far	fare	V	_	_
+1	parte	parte	S	0	obj
+
+IAV
+0	si	si	P	1	clit
+1	và	và	V	_	_
+2	ad	ad	E	1	arg
+
+VID
+0	c'	ci	P	1	comp
+1	è	essere	V	_	_
+2	lo	il	R	3	det
+3	zampino	zampino	S	1	subj
+
+LVC.cause
+0	porti	portare	V	_	_
+1	fortuna	fortuna	S	0	obj
+
+LVC.cause
+0	fortuna	fortuna	S	_	_
+1	portata	portare	V	_	_
+
+VID
+0	ha	avere	V	_	_
+1	il	il	R	2	det
+2	senso	senso	S	0	obj
+3	di	di	E	2	comp
+4	lo	il	R	3	det
+5	humor	humor	S	3	prep
+
+VID
+0	il	il	R	_	_
+1	hai	avere	V	_	_
+2	aria	aria	S	1	obj
+
+VID
+0	hai	avere	V	_	_
+1	aria	aria	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	documenta	documentare	V	_	_
+
+LVC.full
+0	è	essere	V	_	_
+1	attinente	attinente	A	0	pred
+2	a	a	E	1	comp
+
+VID
+0	mordi	mordere	V	_	_
+1	e	e	C	0	con
+2	fuggi	fuggire	V	0	conj
+
+IAV
+0	si	si	P	1	clit
+1	tratterebbe	trattare	V	_	_
+2	di	di	E	1	comp
+
+MVC
+0	facendo	fare	V	_	_
+1	incassare	incassare	V	0	mod
+
+IRV
+0	costituir-	costituire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	costituir-	costituire	V	_	_
+1	si	si	P	0	clit
+2	parte	parte	S	0	obj
+3	civile	civile	A	2	mod
+
+VID
+0	spargere	spargere	V	_	_
+1	la	il	R	2	det
+2	voce	voce	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	rivolto	rivolgere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	limitato	limitare	V	_	_
+
+IAV
+0	arriva	arrivare	V	_	_
+1	a	a	E	0	comp
+
+IRV
+0	permetter-	permettere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	il	il	R	_	_
+1	far	fare	V	_	_
+2	dichiarazione	dichiarazione	S	1	obj
+3	redditi	reddito	S	2	mod
+
+VID
+0	far	fare	V	_	_
+1	la	il	R	2	det
+2	dichiarazione	dichiarazione	S	0	obj
+3	redditi	reddito	S	2	mod
+
+LVC.full
+0	far	fare	V	_	_
+1	dichiarazione	dichiarazione	S	0	obj
+
+LVC.full
+0	hanno	avere	V	_	_
+1	un	un	R	2	det
+2	difetto	difetto	S	0	obj
+
+LVC.full
+0	sia	essere	V	_	_
+1	in	in	E	0	comp
+2	crescita	crescita	S	1	prep
+
+IAV
+0	legare	legare	V	_	_
+1	a	a	E	_	_
+
+VID
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	sicurezza	sicurezza	S	1	prep
+
+VID
+0	metter-	mettere	V	_	_
+1	in	in	E	0	comp
+2	sicurezza	sicurezza	S	1	prep
+
+IRV
+0	Si	si	P	1	clit
+1	chiama	chiamare	V	_	_
+
+VID
+0	mette	mettere	V	_	_
+1	la	il	R	2	det
+2	faccia	faccia	S	0	obj
+
+LVC.full
+0	dato	dare	V	_	_
+1	notizia	notizia	S	0	obj
+
+IRV
+0	si	si	P	2	clit
+1	è	essere	V	2	aux
+2	ritrovato	ritrovare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	ritrovato	ritrovare	V	_	_
+
+VPC.full
+0	vada	andare	V	_	_
+1	giù	giù	B	0	mod
+
+VID
+0	vada	andare	V	_	_
+1	giù	giù	B	0	mod
+2	su	su	E	0	comp_loc
+3	il	il	R	2	det
+4	pesante	pesante	A	2	prep
+
+LVC.full
+0	abbia	avere	V	_	_
+1	una	una	R	2	det
+2	visione	visione	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	frutto	frutto	S	0	pred
+
+IAV
+0	è	essere	V	_	_
+1	frutto	frutto	S	0	pred
+2	di	di	E	1	comp
+
+IAV
+0	è	essere	V	_	_
+1	frutto	frutto	S	0	pred
+2	di	di	E	1	comp
+3	il	il	R	_	_
+
+VID
+0	FATTO	fatto	S	_	_
+1	DA	da	E	0	comp
+2	SOLO	SOLO	S	1	prep
+
+IAV
+0	Datemi	Datemi	S	_	_
+1	di	di	E	0	comp
+
+VID
+0	fa	fare	V	_	_
+1	schifo	schifo	S	0	subj
+
+LVC.full
+0	avere	avere	V	_	_
+1	sfrontatezza	sfrontatezza	S	0	obj
+
+VID
+0	ravana	ravana	V	_	_
+1	in	in	E	0	comp
+2	il	il	R	1	det
+3	torbido	torbido	S	1	prep
+
+VID
+0	ravanare	ravanare	V	_	_
+1	in	in	E	0	comp_loc
+2	il	il	R	1	det
+3	torbido	torbido	S	1	prep
+
+VID
+0	ne	ne	P	1	comp
+1	vado	andare	V	_	_
+2	fiera	fiero	A	1	pred
+
+VID
+0	saranno	essere	V	_	_
+1	parte	parte	S	0	subj
+
+IAV
+0	saranno	essere	V	_	_
+1	parte	parte	S	0	subj
+2	di	di	E	_	_
+
+VID
+0	da	da	E	_	_
+1	il	il	R	2	det
+2	via	via	S	0	prep
+
+LVC.cause
+0	dato	dare	V	_	_
+1	nome	nome	S	0	obj
+
+LVC.cause
+0	fatto	fare	V	_	_
+1	onore	onore	S	0	obj
+
+IRV
+0	mi	mi	P	1	clit
+1	auguro	augurare	V	_	_
+
+VID
+0	sei	essere	V	_	_
+1	un	un	R	2	det
+2	grande	grande	A	0	pred
+
+VID
+0	è	essere	V	_	_
+1	un	un	R	2	det
+2	gioco	gioco	S	0	pred
+
+VID
+0	è	essere	V	_	_
+1	un	un	R	2	det
+2	tacchino	tacchino	S	0	pred
+
+IRV
+0	ci	ci	P	1	comp
+1	trova	trovare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	trova	trovare	V	_	_
+
+VID
+0	va	va	V	_	_
+1	per	per	E	0	comp
+2	le	il	R	4	det
+3	sue	suo	A	4	mod
+4	cose	cosa	S	1	prep
+
+LVC.full
+0	fatto	fare	V	_	_
+1	fint	fint	S	0	obj
+2	di	di	E	1	comp
+
+VID
+0	ringraziare	ringraziare	V	_	_
+1	di	di	E	0	comp
+2	CUORE	CUORE	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	esposto	esporre	V	_	_
+
+LVC.full
+0	ha	avere	V	1	aux
+1	preso	prendere	V	_	_
+2	punti	punto	S	_	_
+
+VID
+0	detto	dire	V	_	_
+1	la	il	R	2	det
+2	loro	loro	A	_	_
+
+IRV
+0	mi	mi	P	1	obj
+1	ricreduta	ricredere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	ricreduta	ricredere	V	_	_
+
+IRV
+0	presentar-	presentare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	fare	fare	V	_	_
+1	programma	programma	S	0	obj
+
+IRV
+0	esibir-	esibire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	mettendo-	mettere	V	_	_
+1	in	in	E	0	comp
+2	evidenza	evidenza	S	1	prep
+
+IAV
+0	fosse	essere	V	_	_
+1	fuori	fuori	B	_	_
+2	da	da	E	0	pred
+
+IAV
+0	conta	contare	V	_	_
+1	su	su	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	mescolano	mescolare	V	_	_
+
+VID
+0	va	andare	V	_	_
+1	a	a	E	0	comp
+2	braccetto	braccetto	S	1	prep
+
+VID
+0	sono	essere	V	_	_
+1	in	in	E	0	pred
+2	la	il	R	1	det
+3	bocca	bocca	S	1	prep
+4	di	di	E	3	comp
+5	tutti	tutto	P	4	prep
+
+VID
+0	sono	essere	V	_	_
+1	da	da	E	0	pred
+2	la	il	R	1	det
+3	tua	tuo	A	4	mod
+4	parte	parte	S	1	prep
+
+VID
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	un'	una	R	3	det
+3	idea	idea	S	0	pred
+
+IAV
+0	passata	passare	V	_	_
+1	da	da	E	0	comp
+2	a	a	E	_	_
+
+VID
+0	avuto	avere	V	_	_
+1	luogo	luogo	S	0	obj
+
+IRV
+0	guadagnar-	guadagnare	V	_	_
+1	si	si	P	0	clit
+
+IAV
+0	arrivando	arrivare	V	_	_
+1	a	a	E	0	arg
+
+LVC.full
+0	reso	rendere	V	_	_
+1	omaggio	omaggio	S	0	obj
+
+VID
+0	parola	parola	S	1	subj_pass
+1	data	dare	V	_	_
+
+LVC.full
+0	rende	rendere	V	_	_
+1	onore	onore	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	rifugia	rifugiare	V	_	_
+
+LVC.full
+0	dando	dare	V	_	_
+1	segnale	segnale	S	0	obj
+
+LVC.full
+0	avrà	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+LVC.full
+0	dato	dare	V	_	_
+1	sostegno	sostegno	S	0	obj
+
+MVC
+0	lascio	lasciare	V	_	_
+1	stare	stare	V	0	arg
+
+LVC.full
+0	richieste	richiesta	S	_	_
+1	fatte	fare	V	0	mod
+
+LVC.full
+0	scelta	scelta	S	_	_
+1	fatta	fare	V	0	mod
+
+VID
+0	la	la	P	1	obj
+1	dice	dire	V	_	_
+2	lunga	lungo	A	1	mod
+
+VID
+0	facciamo-	fare	V	_	_
+1	la	la	P	0	obj
+2	finita	finito	A	0	pred
+
+VID
+0	si	si	P	1	clit
+1	messo	mettere	V	_	_
+2	in	in	E	1	comp
+3	disparte	disparte	B	2	prep
+
+IRV
+0	ci	ci	P	1	comp
+1	contenda	contendere	V	_	_
+
+IAV
+0	punta	puntare	V	_	_
+1	su	su	E	0	comp
+
+VID
+0	sporcar-	sporcare	V	_	_
+1	si	si	P	0	clit
+2	le	il	R	3	det
+3	mani	mano	S	0	obj
+
+VID
+0	va	andare	V	_	_
+1	di	di	E	0	comp
+2	moda	moda	S	1	prep
+
+IRV
+0	sentir-	sentire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	sentir-	sentire	V	_	_
+1	si	si	P	0	clit
+2	parte	parte	S	0	obj
+
+VID
+0	fanno	fare	V	_	_
+1	parte	parte	S	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	asterranno	astenere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	professa	professare	V	_	_
+
+VID
+0	non	non	B	1	neg
+1	ha	avere	V	_	_
+2	eguali	eguale	A	1	pred
+
+IRV
+0	astener-	astenere	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	mantenere	mantenere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	propone	proporre	V	_	_
+
+VID
+0	diamo	dare	V	_	_
+1	per	per	E	0	comp
+2	scontato	scontato	A	1	prep
+
+LVC.cause
+0	mettere	mettere	V	_	_
+1	fine	fine	S	0	obj
+
+IRV
+0	reggersi	reggersi	V	_	_
+
+IAV
+0	basando-	basare	V	_	_
+1	si	si	P	0	clit
+2	su	su	E	0	comp
+
+VID
+0	mantenere	mantenere	V	_	_
+1	viva	vivo	A	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	compone	comporre	V	_	_
+
+IRV
+0	sintonizzar-	sintonizzare	V	_	_
+1	ci	ci	P	0	comp
+
+IRV
+0	allinear-	allineare	V	_	_
+1	ci	ci	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	rendesse	rendere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	manterrà	mantenere	V	_	_
+
+IRV
+0	render-	rendere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	siano	essere	V	2	aux
+1	già	già	B	2	mod
+2	scappati	scappare	V	_	_
+3	i	il	R	4	det
+4	buoi	bue	S	2	obj
+
+VID
+0	innalzar-	innalzare	V	_	_
+1	la	il	R	2	det
+2	posta	porre	V	0	mod
+3	in	in	E	2	comp
+4	gioco	gioco	S	3	prep
+
+VID
+0	rinchiuder-	rinchiudere	V	_	_
+1	si	si	P	0	clit
+2	a	a	E	0	comp
+3	riccio	riccio	S	2	prep
+
+IRV
+0	si	si	P	_	_
+1	rimettere	rimettere	V	_	_
+
+IAV
+0	portare	portare	V	_	_
+1	a	a	E	0	comp
+
+LVC.cause
+0	portare	portare	V	_	_
+1	a	a	E	0	comp
+2	compiutezza	compiutezza	S	1	prep
+
+VID
+0	fuggi	fuggire	V	_	_
+1	fuggi	fuggire	V	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	dimetterà	dimettere	V	_	_
+
+LVC.full
+0	mantenere	mantenere	V	_	_
+1	l'	il	R	2	det
+2	anonimato	anonimato	S	0	obj
+
+IRV
+0	dimetter-	dimettere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	uscì	uscire	V	_	_
+1	da	da	E	0	comp
+2	coalizione	coalizione	S	1	prep
+
+LVC.full
+0	fare	fare	V	_	_
+1	pressioni	pressione	S	0	obj
+
+LVC.full
+0	dar-	dare	V	_	_
+1	consigli	consiglio	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	vantaggio	vantaggio	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	confrontano	confrontare	V	_	_
+
+VID
+0	metter-	mettere	V	_	_
+1	si	si	P	0	clit
+2	d'	d'	E	0	comp
+3	accordo	accordo	S	2	prep
+
+LVC.full
+0	metter-	mettere	V	_	_
+1	d'	d'	E	0	comp
+2	accordo	accordo	S	1	prep
+
+IAV
+0	è	essere	V	_	_
+1	preso	prendere	V	0	pred
+2	da	da	E	1	comp
+
+LVC.full
+0	hanno	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+VID
+0	mettendo	mettere	V	_	_
+1	a	a	E	0	comp
+2	prova	prova	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	affermata	affermare	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	fatta	fare	V	_	_
+2	largo	largo	S	1	obj
+
+VID
+0	conquistato	conquistare	V	_	_
+1	il	il	R	_	_
+2	TITOLO	TITOLO	S	_	_
+
+VID
+0	mettendo-	mettere	V	_	_
+1	si	si	P	0	clit
+2	in	in	E	0	comp
+3	testa	testa	S	2	prep
+
+IRV
+0	si	si	P	1	clit
+1	esibite	esibire	V	_	_
+
+IRV
+0	affermar-	affermare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	fa	fare	V	_	_
+1	finta	finta	S	0	obj
+
+LVC.full
+0	trovare	trovare	V	_	_
+1	un	un	R	2	det
+2	accordo	accordo	S	0	obj
+
+LVC.cause
+0	dare	dare	V	_	_
+1	soddisfazione	soddisfazione	S	0	obj
+
+IAV
+0	portato	portare	V	_	_
+1	a	a	E	_	_
+
+LVC.full
+0	richiesta	richiesta	S	1	subj_pass
+1	fatta	fare	V	_	_
+
+LVC.cause
+0	dare	dare	V	_	_
+1	diffusione	diffusione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	impegna	impegnare	V	_	_
+
+IAV
+0	si	si	P	1	clit
+1	tratta	trattare	V	_	_
+2	di	di	E	1	arg
+
+VID
+0	presa	prendere	V	_	_
+1	in	in	E	0	comp
+2	carico	carico	S	1	prep
+
+VID
+0	andrà	andare	V	_	_
+1	in	in	E	0	comp_loc
+2	il	il	R	1	det
+3	dimenticatoio	dimenticatoio	S	1	prep
+
+LS.ICV
+0	ci	ci	P	1	comp
+1	vorrebbero	volere	V	_	_
+
+IRV
+0	si	si	P	_	_
+1	accorgendo	accorgersi	V	_	_
+
+VID
+0	fare	fare	V	_	_
+1	i	il	R	2	det
+2	conti	conte	S	0	obj
+
+VID
+0	darà	dare	V	_	_
+1	spazio	spazio	S	0	obj
+
+VID
+0	i	il	R	1	det
+1	conti	conte	S	2	subj
+2	far-	fare	V	_	_
+
+VID
+0	entreranno	entrare	V	_	_
+1	in	in	E	0	comp
+2	funzione	funzione	S	1	prep
+
+VID
+0	dato	dare	V	_	_
+1	l'	il	R	2	det
+2	ok	ok	I	0	obj
+
+IAV
+0	passerà	passare	V	_	_
+1	a	a	E	0	comp_loc
+
+VID
+0	cantar	cantare	V	_	_
+1	vittoria	vittoria	S	0	obj
+
+VID
+0	presa	prendere	V	_	_
+1	bene	bene	B	0	mod
+
+LVC.full
+0	avuto	avere	V	_	_
+1	difficoltà	difficoltà	S	0	obj
+
+VID
+0	faccia	fare	V	_	_
+1	un	un	R	2	det
+2	esame	esame	S	0	obj
+3	di	di	E	2	comp
+4	coscienza	coscienza	S	3	prep
+
+LVC.cause
+0	dia	dare	V	_	_
+1	colpa	colpa	S	0	obj
+
+VID
+0	sono	essere	V	_	_
+1	frutto	frutto	S	0	pred
+
+IAV
+0	sono	essere	V	_	_
+1	frutto	frutto	S	0	pred
+2	di	di	E	1	comp
+3	l'	il	R	2	det
+
+LVC.full
+0	AVERE	AVERE	S	1	mod
+1	PAURA	PAURA	S	_	_
+
+LVC.full
+0	ha	avere	V	_	_
+1	paura	paura	S	0	obj
+
+VPC.full
+0	tenuto	tenere	V	_	_
+1	dentro	dentro	B	0	mod
+
+IAV
+0	portato	portare	V	_	_
+1	a	a	E	0	obj
+
+LVC.cause
+0	provoca	provocare	V	_	_
+1	incidente	incidente	S	0	obj
+
+VID
+0	sia	essere	V	_	_
+1	buona	buono	A	2	mod
+2	norma	norma	S	0	pred
+
+LVC.full
+0	danno	dare	V	_	_
+1	sentenze	sentenza	S	0	obj
+
+LVC.full
+0	facciamo	fare	V	_	_
+1	la	il	R	2	det
+2	guerra	guerra	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	arrabbi	arrabbiare	V	_	_
+
+LVC.full
+0	fare	fare	V	_	_
+1	finta	finta	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	lamentava	lamentare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	recano	recare	V	_	_
+
+LVC.cause
+0	provoca	provocare	V	_	_
+1	incidenti	incidente	S	0	obj
+
+LVC.cause
+0	dar-	dare	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+VID
+0	fatto	fare	V	_	_
+1	passi	passo	S	0	obj
+2	da	da	E	1	comp
+3	gigante	gigante	S	2	prep
+
+VPC.full
+0	siamo	essere	V	_	_
+1	indietro	indietro	B	0	mod
+
+LVC.full
+0	ci	ci	P	1	comp
+1	posti	porre	V	_	_
+2	domanda	domanda	S	1	obj
+
+LVC.full
+0	posti	porre	V	_	_
+1	domanda	domanda	S	0	obj
+
+LVC.cause
+0	dando	dare	V	_	_
+1	vita	vita	S	0	obj
+
+IAV
+0	portato	portare	V	_	_
+1	ad	ad	E	0	arg
+
+LVC.full
+0	fa	fare	V	_	_
+1	eccezione	eccezione	S	0	obj
+
+IAV
+0	sono	essere	V	1	aux
+1	dotate	dotare	V	_	_
+2	di	di	E	1	comp
+
+VID
+0	facendo	fare	V	_	_
+1	i	il	R	2	det
+2	conti	conte	S	0	obj
+
+IRV
+0	adoperar-	adoperare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	sollevare	sollevare	V	_	_
+1	dubbi	dubbio	S	0	obj
+
+VID
+0	dando	dare	V	_	_
+1	luogo	luogo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	estende	estendere	V	_	_
+
+IAV
+0	stato	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	la	il	R	1	det
+1	strada	strada	S	_	_
+2	spianata	spianata	S	_	_
+
+LVC.full
+0	dare	dare	V	_	_
+1	risultati	risultato	S	0	obj
+
+LVC.full
+0	ponendo-	porre	V	_	_
+1	ci	ci	P	0	obj
+2	domanda	domanda	S	0	obj
+
+LVC.full
+0	ponendo-	porre	V	_	_
+1	domanda	domanda	S	0	obj
+
+IRV
+0	accontentiamo-	accontentare	V	_	_
+1	ci	ci	P	0	comp
+
+IAV
+0	portare	portare	V	_	_
+1	a	a	E	0	comp_temp
+
+VID
+0	continuare	continuare	V	_	_
+1	su	su	E	0	comp
+2	questa	questo	D	3	mod
+3	strada	strada	S	1	prep
+
+VPC.full
+0	dar-	dare	V	_	_
+1	gli	gli	P	0	comp_ind
+2	contro	contro	E	0	arg
+
+VPC.full
+0	dar-	dare	V	_	_
+1	contro	contro	E	0	arg
+
+VID
+0	poltrona	poltrona	S	_	_
+1	data	dare	V	0	mod_rel
+
+VPC.full
+0	dando	dare	V	_	_
+1	addosso	addosso	B	0	mod
+
+VID
+0	prendete	prendere	V	_	_
+1	con	con	E	0	comp
+2	le	il	R	3	det
+3	pinze	pinza	S	1	prep
+
+VID
+0	essere	essere	V	_	_
+1	in	in	E	0	pred
+2	mano	mano	S	1	prep
+
+IRV
+0	propor-	proporre	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	ti	ti	P	1	clit
+1	accorgerai	accorgersi	V	_	_
+
+VID
+0	il	il	R	_	_
+1	sorgerà	sorgere	V	_	_
+2	dubbio	dubbio	S	1	obj
+
+VID
+0	mettere	mettere	V	_	_
+1	il	il	R	2	det
+2	naso	naso	S	0	obj
+
+IAV
+0	portato	portare	V	_	_
+1	a	a	E	0	pred
+
+VID
+0	ci	ci	P	1	comp
+1	fosse	essere	V	_	_
+2	traccia	traccia	S	1	subj
+
+LVC.full
+0	ha	avere	V	_	_
+1	voglia	voglia	S	0	obj
+
+LS.ICV
+0	se	se	C	_	_
+1	ne	ne	P	2	comp
+2	fregano	fregare	V	0	sub
+
+VID
+0	siamo	essere	V	_	_
+1	a	a	E	0	comp
+2	posto	posto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	dotata	dotare	V	_	_
+
+IAV
+0	è	essere	V	1	aux
+1	dotata	dotare	V	_	_
+2	di	di	E	1	comp
+
+IRV
+0	disfar-	disfare	V	_	_
+1	se-	se	P	0	comp
+
+IAV
+0	portato	portare	V	_	_
+1	a	a	E	0	arg
+
+IAV
+0	ad	ad	E	_	_
+1	portato	portare	V	_	_
+
+LS.ICV
+0	ci	ci	P	1	comp
+1	rimesso	rimettere	V	_	_
+
+LVC.full
+0	preso	prendere	V	_	_
+1	in	in	E	0	comp
+2	considerazioni	considerazione	S	1	prep
+
+VID
+0	fatto	fare	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	bene	bene	B	_	_
+1	fare	fare	V	_	_
+
+LVC.full
+0	fare	fare	V	_	_
+1	pressione	pressione	S	0	obj
+
+LVC.full
+0	fatto	fare	V	_	_
+1	riferimento	riferimento	S	0	obj
+
+LVC.full
+0	far	fare	V	_	_
+1	critica	critica	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	esibita	esibire	V	_	_
+
+VID
+0	fatto	fare	V	_	_
+1	parte	parte	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	aggira	aggirare	V	_	_
+
+IAV
+0	passati	passare	V	_	_
+1	a	a	E	0	comp
+
+LVC.cause
+0	portare	portare	V	_	_
+1	benefici	beneficio	S	0	obj
+
+LVC.full
+0	dato	dare	V	_	_
+1	assenso	assenso	S	0	obj
+
+IRV
+0	mi	mi	P	1	comp_ind
+1	dispiace	dispiacere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	scontra	scontrare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	limitano	limitare	V	_	_
+
+VID
+0	paghi	pagare	V	_	_
+1	in	in	E	0	comp
+2	nero	nero	S	1	prep
+
+LVC.cause
+0	dare	dare	V	_	_
+1	mandato	mandare	V	0	arg
+
+IRV
+0	dissociar-	dissociare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	incarico	incarico	S	_	_
+1	dato	dare	V	0	mod
+
+VPC.full
+0	andato	andare	V	_	_
+1	giù	giù	B	0	mod
+
+VID
+0	messo	mettere	V	_	_
+1	in	in	E	0	comp
+2	saccoccia	saccoccia	S	1	prep
+
+LVC.cause
+0	dato	dare	V	_	_
+1	mandato	mandare	V	0	conj
+
+LVC.full
+0	hanno	avere	V	_	_
+1	coraggio	coraggio	S	_	_
+
+VID
+0	preso	prendere	V	_	_
+1	vita	vita	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	lamentano	lamentare	V	_	_
+
+LVC.cause
+0	porre	porre	V	_	_
+1	fine	fine	S	0	obj
+
+IAV
+0	legate	legare	V	_	_
+1	a	a	E	0	comp
+
+VPC.full
+0	mandare	mandare	V	_	_
+1	avanti	avanti	B	0	mod
+
+LVC.full
+0	ha	avere	V	_	_
+1	ragione	ragione	S	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	erge	ergere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	erge	ergere	V	_	_
+
+VID
+0	perso	perdere	V	_	_
+1	contatto	contatto	S	0	obj
+
+LVC.full
+0	Sono	essere	V	_	_
+1	d'	d'	E	0	pred
+2	accordo	accordo	S	1	prep
+
+LVC.full
+0	dare	dare	V	_	_
+1	risposte	risposta	S	0	obj
+
+VID
+0	non	non	B	1	neg
+1	ho	avere	V	2	aux
+2	peli	pelo	S	_	_
+3	su	su	E	2	comp
+4	la	il	R	3	det
+5	lingua	lingua	S	3	prep
+
+LVC.full
+0	far	fare	V	_	_
+1	politica	politica	S	0	obj
+
+VID
+0	ha	avere	V	_	_
+1	a	a	E	0	comp
+2	cuore	cuore	S	1	prep
+
+LVC.full
+0	ho	avere	V	_	_
+1	intenzione	intenzione	S	0	obj
+
+VID
+0	perdere	perdere	V	_	_
+1	tempo	tempo	S	0	obj
+
+VID
+0	entrato	entrare	V	_	_
+1	in	in	E	0	comp
+2	carica	carica	S	1	prep
+
+VID
+0	mantenere	mantenere	V	_	_
+1	un	un	R	2	det
+2	profilo	profilo	S	0	obj
+3	basso	basso	A	2	mod
+
+IAV
+0	portato	portare	V	_	_
+1	a	a	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	presentati	presentare	V	_	_
+
+VID
+0	sedere	sedere	S	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	tavolo	tavolo	S	1	prep
+4	di	di	E	3	comp
+5	le	il	R	4	det
+6	trattative	trattativa	S	4	prep
+
+IRV
+0	aprir-	aprire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	cada	cadere	V	_	_
+1	in	in	E	_	_
+2	testa	testa	S	1	prep
+
+VID
+0	dir-	dire	V	_	_
+1	glie-	gli	P	0	comp_ind
+2	ne	ne	P	0	comp
+3	quattro	quattro	N	0	clit
+
+LS.ICV
+0	se	se	C	_	_
+1	la	la	P	2	obj
+2	sbrighino	sbrigare	V	0	sub
+
+VID
+0	mando	mandare	V	_	_
+1	a	a	E	0	comp
+2	quel	quello	D	3	mod
+3	paese	paese	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	ritrova	ritrovare	V	_	_
+
+VID
+0	da	da	E	_	_
+1	i	il	R	0	det
+2	e	e	C	0	con
+3	dai	dare	V	_	_
+
+VID
+0	fanno	fare	V	_	_
+1	il	il	R	2	det
+2	lavoro	lavoro	S	0	obj
+3	sporco	sporco	A	2	mod
+
+VID
+0	viene	venire	V	_	_
+1	idea	idea	S	0	subj
+
+VID
+0	mando	mandare	V	_	_
+1	a	a	E	0	arg
+2	cagare	cagare	V	1	prep
+
+MVC
+0	lascia-	lasciare	V	_	_
+1	me	me	P	0	obj
+2	dormire	dormire	V	0	arg
+
+MVC
+0	lasciamo	lasciare	V	_	_
+1	riposare	riposare	V	0	arg
+
+VID
+0	tenere	tenere	V	_	_
+1	d'	d'	E	0	comp
+2	occhio	occhio	S	1	prep
+
+VID
+0	sono	essere	V	_	_
+1	in	in	E	0	pred
+2	piedi	piede	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	arrabbia	arrabbiare	V	_	_
+
+VPC.full
+0	andati	andare	V	_	_
+1	avanti	avanti	B	0	mod
+
+LVC.full
+0	davano	dare	V	_	_
+1	pubblicità	pubblicità	S	_	_
+
+LVC.full
+0	danno	dare	V	_	_
+1	calci	calcio	S	0	obj
+
+LVC.full
+0	danno	dare	V	_	_
+1	bastonate	bastonata	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	chiama	chiamare	V	_	_
+
+LVC.full
+0	dare	dare	V	_	_
+1	permesso	permesso	S	0	obj
+
+LVC.full
+0	fanno	fare	V	_	_
+1	finta	finta	S	0	obj
+
+VID
+0	far-	fare	V	_	_
+1	ci	ci	P	0	comp
+2	niente	niente	P	0	pred
+
+VID
+0	parar-	parare	V	_	_
+1	si	si	P	0	clit
+2	il	il	R	3	det
+3	culo	culo	S	0	obj
+
+LVC.full
+0	farà	fare	V	_	_
+1	fatica	fatica	S	0	obj
+
+VID
+0	veniva	venire	V	_	_
+1	in	in	E	0	comp
+2	mente	mente	S	1	prep
+
+LVC.cause
+0	far	fare	V	_	_
+1	paura	paura	S	0	obj
+
+VID
+0	Sta	Sta	V	_	_
+1	di	di	E	0	arg
+2	fatto	fare	V	1	prep
+
+VPC.full
+0	portata	portare	V	_	_
+1	avanti	avanti	B	0	mod
+
+VID
+0	messa	mettere	V	_	_
+1	in	in	E	0	comp
+2	il	il	R	1	det
+3	piatto	piatto	S	1	prep
+
+LVC.full
+0	prendere	prendere	V	_	_
+1	in	in	E	0	comp
+2	considerazione	considerazione	S	1	prep
+
+VID
+0	si	si	P	1	clit
+1	preso	prendere	V	_	_
+2	la	il	R	3	det
+3	briga	briga	S	1	obj
+
+LVC.full
+0	avere	avere	V	_	_
+1	coraggio	coraggio	S	0	obj
+
+IRV
+0	rifar-	rifare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	impegnando-	impegnare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	ho	avere	V	_	_
+1	ragione	ragione	S	_	_
+
+LVC.full
+0	hai	avere	V	_	_
+1	ragione	ragione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	alzi	alzare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	aggirano	aggirare	V	_	_
+
+LVC.full
+0	prendere	prendere	V	_	_
+1	conoscenza	conoscenza	S	0	obj
+
+LVC.full
+0	dia	dare	V	_	_
+1	disponibilità	disponibilità	S	0	obj
+
+IRV
+0	si	si	P	_	_
+1	aggravare	aggravare	V	_	_
+
+LS.ICV
+0	ci	ci	P	1	comp
+1	sta	stare	V	_	_
+
+LVC.cause
+0	far-	fare	V	_	_
+1	paura	paura	S	_	_
+
+IRV
+0	arrangiar-	arrangiare	V	_	_
+1	ci	ci	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	lascia	lasciare	V	_	_
+
+MVC
+0	si	si	P	1	clit
+1	lascia	lasciare	V	_	_
+2	intimidire	intimidire	V	1	arg
+
+VID
+0	non	non	B	2	neg
+1	c'	ci	P	2	comp
+2	è	essere	V	_	_
+3	più	più	B	2	mod
+4	religione	religione	S	2	pred
+
+VID
+0	si	si	P	1	clit
+1	leccavano	leccare	V	_	_
+2	i	il	R	3	det
+3	baffi	baffo	S	1	subj
+
+IRV
+0	si	si	P	1	clit
+1	preoccupati	preoccupare	V	_	_
+
+VID
+0	dà	dare	V	_	_
+1	una	una	R	2	det
+2	botta	botta	S	0	obj
+
+IRV
+0	aggravar-	aggravare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	affidar-	affidare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	entra	entrare	V	_	_
+1	in	in	E	0	comp
+2	campo	campo	S	1	prep
+
+LVC.full
+0	sia	essere	V	_	_
+1	di	di	E	0	comp
+2	aiuto	aiuto	S	1	prep
+
+IAV
+0	portano	portare	V	_	_
+1	a	a	E	0	arg
+
+VID
+0	ben	ben	B	1	mod
+1	venga	venire	V	_	_
+
+LVC.full
+0	facciamo	fare	V	_	_
+1	sforzo	sforzo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	rialzato	rialzare	V	_	_
+
+IRV
+0	comportar-	comportare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	rialzar-	rialzare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	rimangiar-	rimangiare	V	_	_
+1	si	si	P	0	clit
+2	le	il	R	3	det
+3	parole	parola	S	0	obj
+
+VID
+0	mette	mettere	V	_	_
+1	i	il	R	2	det
+2	bastoni	bastone	S	0	obj
+3	tra	tra	E	0	comp
+4	le	il	R	5	det
+5	ruote	ruota	S	3	prep
+
+VID
+0	far-	fare	V	_	_
+1	le	il	R	2	det
+2	scarpe	scarpa	S	0	subj
+
+VID
+0	fatto	fare	V	_	_
+1	i	il	R	2	det
+2	conti	conte	S	0	obj
+
+IAV
+0	legato	legare	V	_	_
+1	a	a	E	0	comp
+
+LVC.full
+0	avrà	avere	V	_	_
+1	attuazione	attuazione	S	0	obj
+
+VID
+0	darci	darci	V	_	_
+1	una	una	R	2	det
+2	mano	mano	S	0	obj
+
+LVC.cause
+0	dare	dare	V	_	_
+1	merito	merito	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	alza	alzare	V	_	_
+
+VID
+0	ha	avere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	attivo	attivo	S	1	prep
+
+IRV
+0	contender-	contendere	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	essere	essere	V	_	_
+1	d'	d'	E	0	pred
+2	accordo	accordo	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	schierati	schierare	V	_	_
+
+VID
+0	messe	mettere	V	_	_
+1	incinta	incinta	A	_	_
+
+VID
+0	Fare	fare	V	_	_
+1	leva	leva	S	0	pred
+
+LVC.cause
+0	fatto	fare	V	_	_
+1	male	male	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	vergognava	vergognarsi	V	_	_
+
+IRV
+0	m'	m'	P	1	comp_ind
+1	accorgo	accorgersi	V	_	_
+
+VID
+0	mettendo	mettere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	bando	bando	S	1	prep
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	crisi	crisi	S	1	prep
+
+VID
+0	si	si	P	1	clit
+1	facevano	fare	V	_	_
+2	onore	onore	S	1	subj
+
+LVC.full
+0	hanno	avere	V	_	_
+1	origine	origine	S	0	obj
+
+LVC.full
+0	dare	dare	V	_	_
+1	frutti	frutto	S	0	obj
+
+LVC.full
+0	avuto	avere	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+VID
+0	ho	avere	V	_	_
+1	modo	modo	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	svolti	svolgere	V	_	_
+
+LVC.full
+0	fatto	fare	V	_	_
+1	errore	errore	S	0	obj
+
+LVC.full
+0	fatta	fare	V	_	_
+1	scelta	scelta	S	0	obj
+
+VID
+0	fatta	fare	V	_	_
+1	luce	luce	S	0	obj
+
+VPC.full
+0	portare	portare	V	_	_
+1	avanti	avanti	B	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	rivolge	rivolgere	V	_	_
+
+IAV
+0	porterà	portare	V	_	_
+1	a	a	E	0	arg
+
+VID
+0	prender-	prendere	V	_	_
+1	atto	atto	S	0	obj
+
+LVC.full
+0	abbiate	avere	V	_	_
+1	rispetto	rispetto	S	0	obj
+
+IRV
+0	Si	si	P	1	clit
+1	rivolge	rivolgere	V	_	_
+
+VID
+0	tirare	tirare	V	_	_
+1	fuori	fuori	B	2	mod
+2	scheletri	scheletro	S	0	obj
+3	da	da	E	2	comp
+4	armadi	armadio	S	3	prep
+
+VID
+0	prenderà	prendere	V	_	_
+1	atto	atto	S	0	obj
+
+LVC.full
+0	avere	avere	V	_	_
+1	coraggio	coraggio	S	_	_
+
+MVC
+0	lasciato	lasciare	V	_	_
+1	fare	fare	V	0	pred
+
+VID
+0	mi	mi	P	1	comp_ind
+1	rendo	rendere	V	_	_
+2	conto	conto	A	1	pred
+
+VID
+0	portato	portare	V	_	_
+1	la	il	R	2	det
+2	questione	questione	S	0	obj
+
+LVC.full
+0	dato	dare	V	_	_
+1	risposta	risposta	S	0	obj
+
+IRV
+0	Mi	mi	P	1	clit
+1	dispiace	dispiacere	V	_	_
+
+LVC.full
+0	fare	fare	V	_	_
+1	una	una	R	2	det
+2	interrogazione	interrogazione	S	0	obj
+
+LVC.full
+0	fare	fare	V	_	_
+1	polemica	polemica	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	di	di	E	_	_
+2	auspicio	auspicio	S	1	prep
+
+VID
+0	fatto	fare	V	_	_
+1	figura	figura	S	_	_
+
+VID
+0	abbiamo	avere	V	_	_
+1	in	in	E	_	_
+2	programma	programma	S	1	prep
+
+VID
+0	è	essere	V	_	_
+1	a	a	E	0	pred
+2	rischio	rischio	S	1	prep
+
+LVC.full
+0	creare	creare	V	_	_
+1	danno	danno	S	0	obj
+
+LVC.full
+0	fare	fare	V	_	_
+1	sopraluogo	sopraluogo	S	0	obj
+
+LVC.full
+0	posto	porre	V	_	_
+1	attenzione	attenzione	S	0	mod
+
+LVC.full
+0	fare	fare	V	_	_
+1	bonifica	bonifica	S	0	obj
+
+IAV
+0	basata	basare	V	_	_
+1	su	su	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	verificare	verificare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	verificheranno	verificare	V	_	_
+
+VID
+0	vada	andare	V	_	_
+1	a	a	E	0	comp
+2	scapito	scapito	S	1	prep
+
+LVC.full
+0	dato	dare	V	_	_
+1	adesione	adesione	S	0	obj
+
+IRV
+0	svolta-	svolgere	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	faccio	fare	V	_	_
+1	polemiche	polemica	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	dichiarati	dichiarare	V	_	_
+
+IRV
+0	me	me	P	_	_
+1	aspettato	aspettare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	schierato	schierare	V	_	_
+
+IAV
+0	puntando	puntare	V	_	_
+1	a	a	E	0	arg
+
+VID
+0	sono	essere	V	_	_
+1	in	in	E	0	pred
+2	linea	linea	S	1	prep
+
+VID
+0	andiamoci	andiamoci	V	_	_
+1	giù	giù	B	0	mod
+2	pesante	pesante	A	0	pred
+
+LVC.cause
+0	mettano	mettere	V	_	_
+1	in	in	E	0	comp
+2	allarme	allarme	S	1	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	intenzione	intenzione	S	0	obj
+
+LVC.full
+0	sono	essere	V	_	_
+1	a	a	E	0	pred
+2	il	il	R	1	det
+3	lavoro	lavoro	S	1	prep
+
+VID
+0	fare	fare	V	_	_
+1	un	un	R	2	det
+2	passo	passo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	recare	recare	V	_	_
+
+VID
+0	portato	portare	V	_	_
+1	a	a	E	0	comp
+2	termine	termine	S	1	prep
+
+LVC.full
+0	avrebbero	avere	V	1	aux
+1	effetti	effetto	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	verificano	verificare	V	_	_
+
+IRV
+0	ci	ci	P	1	comp
+1	avviciniamo	avvicinare	V	_	_
+
+VID
+0	fa	fare	V	_	_
+1	capo	capo	S	0	obj
+
+IAV
+0	è	essere	V	_	_
+1	soggetta	soggetto	A	0	pred
+2	a	a	E	0	comp
+
+LVC.full
+0	abbiano	avere	V	_	_
+1	origini	origine	S	0	obj
+
+VID
+0	essere	essere	V	_	_
+1	il	il	R	2	det
+2	caso	caso	S	0	pred
+
+VID
+0	facendo	fare	V	_	_
+1	distinguo	distinguo	S	0	obj
+
+VID
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	piedi	piede	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	recherà	recare	V	_	_
+
+VID
+0	scenderanno	scendere	V	_	_
+1	in	in	E	0	comp
+2	campo	campo	S	1	prep
+
+VID
+0	avesse	avere	V	1	aux
+1	modo	modo	S	_	_
+
+VID
+0	messo	mettere	V	_	_
+1	a	a	E	0	comp
+2	disposizione	disposizione	S	1	prep
+
+VID
+0	accogliere	accogliere	V	_	_
+1	richieste	richiesta	S	0	obj
+2	gli	il	R	_	_
+
+LVC.full
+0	presi	prendere	V	_	_
+1	in	in	E	0	comp
+2	considerazione	considerazione	S	1	prep
+
+LVC.full
+0	effettuare	effettuare	V	_	_
+1	comunicazioni	comunicazione	S	0	obj
+
+IRV
+0	suicidar-	suicidarsi	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	dato	dare	V	_	_
+1	libertà	libertà	S	0	obj
+
+LVC.cause
+0	dar-	dare	V	_	_
+1	fastidio	fastidio	S	0	obj
+
+IRV
+0	si	si	P	_	_
+1	adeguare	adeguare	V	_	_
+
+VID
+0	state	stare	V	_	_
+1	stretti	stretto	A	0	pred
+
+MVC
+0	lascia	lasciare	V	_	_
+1	passare	passare	V	0	arg
+
+IRV
+0	ribellar-	ribellare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	usi	usare	V	_	_
+1	la	il	R	2	det
+2	ragione	ragione	S	0	obj
+
+VID
+0	passa	passare	V	_	_
+1	il	il	R	2	det
+2	convento	convento	S	0	obj
+
+VID
+0	FACCIA	FACCIA	S	_	_
+1	DI	di	E	_	_
+2	TUTTA	TUTTA	S	1	prep
+3	ERBA	Erba	S	1	prep
+4	UN	un	R	5	det
+5	FASCIO	FASCIO	S	_	_
+
+VID
+0	NON	non	B	2	neg
+1	è	essere	V	2	aux
+2	DETTO	dire	V	_	_
+
+VID
+0	CI	CI	S	2	mod
+1	PERDA	PERDA	S	2	mod
+2	TEMPO	Tempo	S	_	_
+
+IRV
+0	vi	vi	P	1	comp
+1	accorgete	accorgersi	V	_	_
+
+LVC.full
+0	prenotazione	prenotazione	S	1	subj
+1	effettua	effettuare	V	_	_
+
+VID
+0	terrà	tenere	V	_	_
+1	conto	conto	S	0	obj
+
+VID
+0	entrata	entrare	V	_	_
+1	in	in	E	0	comp
+2	vigore	vigore	S	1	prep
+
+IAV
+0	legata	legare	V	_	_
+1	a	a	E	0	comp
+
+IRV
+0	si	si	P	_	_
+1	documentare	documentare	V	_	_
+
+VID
+0	sta	sta	V	_	_
+1	di	di	E	0	arg
+2	fatto	fare	V	1	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	rispetto	rispetto	S	0	obj
+
+VID
+0	presi	prendere	V	_	_
+1	in	in	E	0	comp
+2	simpatia	simpatia	S	1	prep
+
+IAV
+0	contare	contare	V	_	_
+1	su	su	E	0	comp
+
+LS.ICV
+0	ci	ci	P	1	comp
+1	volevano	volere	V	_	_
+
+LVC.full
+0	aveva	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+VID
+0	il	il	R	_	_
+1	conti	conte	S	_	_
+2	fatti	fare	V	_	_
+
+VID
+0	spezzando	spezzare	V	_	_
+1	la	il	R	2	det
+2	catena	catena	S	0	subj
+
+VID
+0	mettendo	mettere	V	_	_
+1	in	in	E	0	comp
+2	pericolo	pericolo	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	riverseranno	riversare	V	_	_
+
+LVC.full
+0	fare	fare	V	_	_
+1	esperimento	esperimento	S	0	obj
+
+IAV
+0	porterebbero	portare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	fa	fare	V	_	_
+1	piacere	piacere	S	0	subj
+
+IRV
+0	si	si	P	1	clit
+1	avvalga	avvalersi	V	_	_
+
+IRV
+0	recar-	recare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	offre	offrire	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	aspetta	aspettare	V	_	_
+
+IRV
+0	vi	vi	P	1	comp
+1	aspettate	aspettare	V	_	_
+
+VID
+0	fanno	fare	V	_	_
+1	interessi	interesse	S	0	obj
+
+VID
+0	fosse	essere	V	_	_
+1	in	in	E	0	pred
+2	attivo	attivo	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	accinge	accingere	V	_	_
+
+VID
+0	fare	fare	V	_	_
+1	a	a	E	0	comp
+2	meno	meno	B	1	prep
+
+IAV
+0	Si	si	P	1	clit
+1	tratta	trattare	V	_	_
+2	di	di	E	1	comp
+
+LVC.full
+0	faccio	fare	V	_	_
+1	attenzione	attenzione	S	0	obj
+
+VID
+0	Sono	essere	V	_	_
+1	in	in	E	0	pred
+2	linea	linea	S	1	prep
+
+VID
+0	vado	andare	V	_	_
+1	in	in	E	0	comp
+2	giro	giro	S	1	prep
+
+LS.ICV
+0	l'	l'	P	1	obj
+1	spuntata	spuntare	V	_	_
+
+LS.ICV
+0	ce	ce	P	2	comp
+1	la	la	P	2	obj
+2	fa	fare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	accingeva	accingere	V	_	_
+
+VID
+0	scendevano	scendere	V	_	_
+1	le	il	R	2	det
+2	ombre	ombra	S	0	obj
+3	di	di	E	2	comp
+4	la	il	R	3	det
+5	sera	sera	S	3	prep
+
+VID
+0	tirate	tirare	V	_	_
+1	le	il	R	2	det
+2	somme	somma	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	lamentato	lamentare	V	_	_
+
+VID
+0	Conosce	conoscere	V	_	_
+1	a	a	E	0	comp
+2	menadito	menadito	B	1	prep
+
+LVC.full
+0	avranno	avere	V	_	_
+1	inizio	inizio	S	0	obj
+
+VID
+0	buttata	buttare	V	_	_
+1	in	in	E	0	comp
+2	il	il	R	1	det
+3	cesso	cesso	S	1	prep
+
+IRV
+0	Si	si	P	1	clit
+1	ritrovati	ritrovare	V	_	_
+
+VID
+0	ha	avere	V	_	_
+1	in	in	E	0	comp
+2	atto	atto	S	1	prep
+
+LVC.full
+0	messo	mettere	V	_	_
+1	in	in	E	0	comp
+2	atto	atto	S	1	prep
+
+VID
+0	preso	prendere	V	_	_
+1	la	il	R	2	det
+2	parola	parola	S	0	obj
+
+IAV
+0	legati	legare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	messe	mettere	V	_	_
+1	in	in	E	0	comp
+2	campo	campo	S	1	prep
+
+VID
+0	dando	dare	V	_	_
+1	fondo	fondo	S	0	obj
+
+VID
+0	mettano	mettere	V	_	_
+1	in	in	E	_	_
+2	grado	grado	S	1	prep
+
+LVC.full
+0	dando	dare	V	_	_
+1	contributo	contributo	S	0	obj
+
+IAV
+0	è	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+
+LVC.full
+0	scelta	scelta	S	1	subj
+1	fatta	fare	V	_	_
+
+IRV
+0	invischiar-	invischiare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	hanno	avere	V	_	_
+1	a	a	E	0	comp
+2	che	che	P	3	obj
+3	fare	fare	V	1	prep
+
+IAV
+0	portano	portare	V	_	_
+1	ad	ad	E	0	arg
+
+LVC.full
+0	fatto	fare	V	_	_
+1	domanda	domanda	S	_	_
+
+VID
+0	Era	essere	V	_	_
+1	di	di	E	_	_
+2	origini	origine	S	1	prep
+
+LVC.full
+0	chiedono	chiedere	V	_	_
+1	l'	il	R	2	det
+2	elemosina	elemosina	S	0	obj
+
+LVC.full
+0	chiedeva	chiedere	V	_	_
+1	l'	il	R	2	det
+2	elemosina	elemosina	S	0	obj
+
+LS.ICV
+0	se	se	C	_	_
+1	la	il	R	_	_
+2	passando	passare	V	0	sub
+
+VPC.full
+0	chiedere	chiedere	V	_	_
+1	l'	il	R	2	det
+2	elemosina	elemosina	S	0	obj
+
+VID
+0	star	stare	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	urtare	urtare	V	_	_
+1	la	il	R	2	det
+2	sensibilità	sensibilità	S	0	obj
+
+VID
+0	corso	correre	V	_	_
+1	in	in	E	0	comp
+2	aiuto	aiuto	S	1	prep
+
+LVC.full
+0	chiede	chiedere	V	_	_
+1	l'	il	R	2	det
+2	elemosina	elemosina	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	alimenta	alimentare	V	_	_
+
+VID
+0	sbarcare	sbarcare	V	_	_
+1	il	il	R	2	det
+2	lunario	lunario	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	curano	curare	V	_	_
+
+IRV
+0	rivolger-	rivolgere	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	Mi	mi	P	1	clit
+1	guardo	guardare	V	_	_
+
+VID
+0	Mi	mi	P	1	clit
+1	guardo	guardare	V	_	_
+2	bene	bene	B	1	mod
+
+VID
+0	misurare	misurare	V	_	_
+1	il	il	R	2	det
+2	linguaggio	linguaggio	S	0	obj
+
+VID
+0	passa	passare	V	_	_
+1	da	da	E	0	comp
+2	la	il	R	1	det
+3	ragione	ragione	S	1	prep
+4	a	a	E	0	comp
+5	il	il	R	4	det
+6	torto	torto	S	4	prep
+
+VID
+0	dar-	dare	V	_	_
+1	lo	lo	P	0	obj
+2	a	a	E	0	arg
+3	vedere	vedere	V	2	prep
+
+IRV
+0	si	si	P	1	clit
+1	opposti	opporre	V	_	_
+
+VID
+0	lanciare	lanciare	V	_	_
+1	segnale	segnale	S	0	obj
+
+LVC.full
+0	ha	avere	V	1	aux
+1	bisogno	bisogno	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	perde	perdere	V	_	_
+
+LVC.cause
+0	mette	mettere	V	_	_
+1	in	in	E	0	comp
+2	crisi	crisi	S	1	prep
+
+VID
+0	messo	mettere	V	_	_
+1	a	a	E	0	comp
+2	nudo	nudo	S	1	prep
+
+VID
+0	perde	perdere	V	_	_
+1	la	il	R	2	det
+2	testa	testa	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	sente	sentire	V	_	_
+
+LVC.full
+0	preso	prendere	V	_	_
+1	in	in	E	0	comp
+2	considerazione	considerazione	S	1	prep
+
+VID
+0	apre	aprire	V	_	_
+1	gli	il	R	2	det
+2	occhi	occhio	S	0	obj
+
+VID
+0	tiene	tenere	V	_	_
+1	in	in	E	0	comp
+2	piedi	piede	S	1	prep
+
+VID
+0	mantenere	mantenere	V	_	_
+1	in	in	E	0	comp
+2	piedi	piede	S	1	prep
+
+VID
+0	avrebbero	avere	V	2	aux
+1	i	il	R	2	det
+2	giorni	giorno	S	_	_
+3	contati	contato	A	2	mod
+
+MVC
+0	lascio	lasciare	V	_	_
+1	parlare	parlare	V	0	arg
+
+VID
+0	sono	essere	V	_	_
+1	di	di	E	0	pred
+2	l'	il	R	1	det
+3	idea	idea	S	1	prep
+
+VID
+0	non	non	B	2	neg
+1	mi	mi	P	2	clit
+2	sognerei	sognare	V	_	_
+3	mai	mai	B	2	mod_temp
+
+LS.ICV
+0	ci	ci	P	1	comp
+1	stare	stare	V	_	_
+
+LVC.full
+0	data	dare	V	_	_
+1	approvazione	approvazione	S	0	obj
+
+VID
+0	andata	andare	V	_	_
+1	in	in	E	0	comp
+2	il	il	R	1	det
+3	dimenticatoio	dimenticatoio	S	1	prep
+
+VID
+0	avevano	avere	V	_	_
+1	a	a	E	0	comp
+2	cuore	cuore	S	1	prep
+
+VID
+0	stata	essere	V	_	_
+1	cura	cura	S	0	pred
+
+VID
+0	nutrendo	nutrire	V	_	_
+1	dubbio	dubbio	S	0	obj
+
+LVC.full
+0	nutrito	nutrire	V	_	_
+1	dubbi	dubbio	S	0	subj_pass
+
+IAV
+0	arrivati	arrivare	V	_	_
+1	a	a	E	0	arg
+
+LVC.full
+0	por-	porre	V	_	_
+1	domanda	domanda	S	0	obj
+
+VID
+0	si	si	P	_	_
+1	difendere	difendere	V	_	_
+2	in	in	E	1	comp
+3	giudizio	giudizio	S	2	prep
+
+VID
+0	siamo	essere	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	mercè	mercè	S	1	prep
+
+VID
+0	mettere	mettere	V	_	_
+1	a	a	E	0	comp
+2	l'	il	R	1	det
+3	ordine	ordine	S	1	prep
+4	di	di	E	3	comp
+5	il	il	R	4	det
+6	giorno	giorno	S	4	prep
+
+LVC.full
+0	fatta	fare	V	_	_
+1	richiesta	richiesta	S	0	obj
+
+VID
+0	inserire	inserire	V	_	_
+1	a	a	E	_	_
+2	l'	il	R	1	det
+3	ordine	ordine	S	1	prep
+4	di	di	E	3	comp
+5	il	il	R	4	det
+6	giorno	giorno	S	4	prep
+
+VID
+0	messo	mettere	V	_	_
+1	a	a	E	0	comp
+2	l'	il	R	1	det
+3	ordine	ordine	S	1	prep
+4	di	di	E	3	comp
+5	il	il	R	4	det
+6	giorno	giorno	S	4	prep
+
+LVC.cause
+0	dare	dare	V	_	_
+1	certezze	certezza	S	0	obj
+
+VID
+0	presentava	presentare	V	_	_
+1	problemi	problema	S	0	obj
+
+VID
+0	rimettendo	rimettere	V	_	_
+1	in	in	E	0	comp
+2	discussione	discussione	S	1	prep
+
+LVC.full
+0	esempio	esempio	S	_	_
+1	dare	dare	V	_	_
+
+VPC.full
+0	porti	portare	V	_	_
+1	via	via	E	0	comp
+
+LVC.full
+0	si	si	P	1	clit
+1	mettano	mettere	V	_	_
+2	d'	d'	E	1	comp
+3	accordo	accordo	S	2	prep
+
+LVC.full
+0	mettano	mettere	V	_	_
+1	d'	d'	E	0	comp
+2	accordo	accordo	S	1	prep
+
+VID
+0	si	si	P	1	clit
+1	gonfia	gonfio	A	_	_
+2	il	il	R	3	det
+3	petto	petto	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	vergognino	vergognarsi	V	_	_
+
+LVC.full
+0	si	si	P	1	clit
+1	porti	portare	V	_	_
+2	via	via	E	1	comp
+
+LVC.full
+0	fare	fare	V	_	_
+1	fatica	fatica	S	0	obj
+
+IAV
+0	guardare	guardare	V	_	_
+1	a	a	E	0	comp
+
+VPC.full
+0	venire	venire	V	_	_
+1	incontro	incontro	B	0	mod
+
+VID
+0	far	fare	V	_	_
+1	fronte	fronte	S	0	obj
+
+IRV
+0	realizzar-	realizzare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	_	_
+1	chiamare	chiamare	V	_	_
+
+VID
+0	Misuro	Misuro	S	_	_
+1	parola	parola	S	0	mod
+
+LVC.full
+0	faccio	fare	V	_	_
+1	lezione	lezione	S	0	obj
+
+VID
+0	Essere	essere	V	_	_
+1	parte	parte	S	0	obj
+
+VID
+0	tiene	tenere	V	_	_
+1	conto	conto	S	0	obj
+
+LVC.full
+0	faremo	fare	V	_	_
+1	ricorso	ricorso	S	0	obj
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	discussione	discussione	S	1	prep
+
+VID
+0	dato	dare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	testa	testa	S	1	prep
+
+LVC.full
+0	C'	ci	P	1	comp
+1	è	essere	V	_	_
+2	bisogno	bisogno	S	1	subj
+
+VID
+0	lasciando	lasciare	V	_	_
+1	spazio	spazio	S	0	obj
+
+VPC.full
+0	fa	fare	V	_	_
+1	fuori	fuori	B	0	mod
+
+LVC.cause
+0	dar-	dare	V	_	_
+1	ragione	ragione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	rivela	rivelare	V	_	_
+
+IRV
+0	chiama	chiamare	V	_	_
+1	si	si	P	_	_
+
+IRV
+0	dichiarar-	dichiarare	V	_	_
+1	si	si	P	0	clit
+
+LS.ICV
+0	se	se	P	2	clit
+1	ne	ne	P	2	comp
+2	frega	fregare	V	_	_
+
+VID
+0	metteranno	mettere	V	_	_
+1	a	a	E	0	comp
+2	dura	duro	A	3	mod
+3	prova	prova	S	1	prep
+
+VID
+0	metteranno	mettere	V	_	_
+1	a	a	E	0	comp
+2	prova	prova	S	1	prep
+3	l'	il	R	_	_
+
+LVC.cause
+0	messo	mettere	V	_	_
+1	paura	paura	S	_	_
+
+LVC.cause
+0	dato	dare	V	_	_
+1	mandato	mandare	V	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	realizzare	realizzare	V	_	_
+
+LVC.full
+0	farebbe	fare	V	_	_
+1	scelte	scelta	S	0	obj
+
+LVC.full
+0	preso	prendere	V	_	_
+1	coscienza	coscienza	S	0	obj
+
+VID
+0	portare	portare	V	_	_
+1	a	a	E	0	comp
+2	casa	casa	S	1	prep
+
+VID
+0	portare	portare	V	_	_
+1	a	a	E	0	comp
+2	casa	casa	S	1	prep
+3	la	il	R	4	det
+4	pelle	pelle	S	0	obj
+
+VPC.full
+0	salta	saltare	V	_	_
+1	fuori	fuori	B	0	mod
+
+VID
+0	non	non	B	_	_
+1	se	se	P	_	_
+2	ne	ne	P	_	_
+3	potrà	potere	V	_	_
+4	più	più	B	_	_
+
+VID
+0	mettiamo	mettere	V	_	_
+1	a	a	E	0	comp
+2	disposizione	disposizione	S	1	prep
+
+VPC.full
+0	messo	mettere	V	_	_
+1	insieme	insieme	B	0	mod
+
+VID
+0	sfuggito	sfuggire	V	_	_
+1	all	all	S	0	obj
+2	attenzione	attenzione	S	1	mod
+
+VPC.full
+0	messi	mettere	V	_	_
+1	insieme	insieme	B	0	mod
+
+LVC.full
+0	svolgono	svolgere	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+LVC.full
+0	svolto	svolgere	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+LVC.full
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	dubbio	dubbio	S	1	prep
+
+VID
+0	fare	fare	V	_	_
+1	spazio	spazio	S	0	obj
+
+VPC.full
+0	portando	portare	V	_	_
+1	avanti	avanti	B	0	mod
+
+LVC.full
+0	prende	prendere	V	_	_
+1	decisioni	decisione	S	0	obj
+
+VID
+0	ha	avere	V	_	_
+1	in	in	E	_	_
+2	atto	atto	S	1	prep
+
+VID
+0	faccia	fare	V	_	_
+1	parte	parte	S	0	obj
+
+VID
+0	entrato	entrare	V	_	_
+1	a	a	E	0	arg
+2	far	fare	V	1	prep
+3	parte	parte	S	2	obj
+
+IAV
+0	mirante	mirare	V	_	_
+1	a	a	E	0	arg
+
+VID
+0	Fa	fare	V	_	_
+1	parte	parte	S	0	pred
+
+VID
+0	fa	fare	V	_	_
+1	parte	parte	S	0	obj
+
+VID
+0	Ha	avere	V	_	_
+1	tempo	tempo	S	_	_
+
+LVC.full
+0	dare	dare	V	_	_
+1	consigli	consiglio	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	riferisca	riferire	V	_	_
+
+VPC.full
+0	si	si	P	1	clit
+1	tira	tirare	V	_	_
+2	indietro	indietro	B	1	mod
+
+LVC.full
+0	prendere	prendere	V	_	_
+1	impegni	impegno	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	rifiuta	rifiutare	V	_	_
+
+LVC.full
+0	fatto	fare	V	_	_
+1	richiesta	richiesta	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	a	a	E	0	comp
+2	rischio	rischio	S	1	prep
+
+VID
+0	trovato	trovare	V	_	_
+1	traccia	traccia	S	0	obj
+
+IRV
+0	arrangiate-	arrangiare	V	_	_
+1	vi	vi	P	0	obj
+
+VID
+0	non	non	B	1	neg
+1	sa	sapere	V	_	_
+2	che	che	C	1	arg
+3	pesci	pesce	S	4	subj
+4	prendere	prendere	V	2	sub
+
+LVC.full
+0	fatto	fare	V	_	_
+1	verifica	verificare	V	0	conj
+
+LVC.cause
+0	data	dare	V	_	_
+1	precedenza	precedenza	S	0	obj
+
+IAV
+0	portando	portare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	messa	mettere	V	_	_
+1	in	in	E	0	comp
+2	ginocchio	ginocchio	S	1	prep
+
+LVC.full
+0	è	essere	V	_	_
+1	sotto	sotto	E	0	pred
+2	gli	il	R	3	det
+3	occhi	occhio	S	1	prep
+4	di	di	E	3	comp
+5	tutti	tutto	P	4	prep
+
+VID
+0	andato	andare	V	_	_
+1	in	in	E	0	comp
+2	tilt	tilt	S	1	prep
+
+VID
+0	tenuto	tenere	V	_	_
+1	con	con	E	0	comp
+2	il	il	R	1	det
+3	fiato	fiato	S	1	prep
+4	sospeso	sospendere	V	3	mod
+
+VID
+0	tenevano	tenere	V	_	_
+1	in	in	E	0	comp
+2	vita	vita	S	1	prep
+
+VID
+0	entrata	entrare	V	_	_
+1	in	in	E	0	comp
+2	coma	coma	S	1	prep
+
+LVC.full
+0	avrà	avere	V	_	_
+1	inizio	inizio	S	0	obj
+
+VID
+0	atto	atto	S	_	_
+1	dovuto	dovere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	svolgeranno	svolgere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	dimette	dimettere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	dimesso	dimettere	V	_	_
+
+VPC.full
+0	dimissioni	dimissione	S	1	subj_pass
+1	chieste	chiedere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	spento	spegnere	V	_	_
+
+VID
+0	notizia	notizia	S	_	_
+1	battuta	battuto	A	_	_
+
+IRV
+0	avvicinar-	avvicinare	V	_	_
+1	si	si	P	0	clit
+
+IAV
+0	avvicinar-	avvicinare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	si	si	P	1	clit
+1	stringe	stringere	V	_	_
+2	in	in	E	1	comp_loc
+3	il	il	R	2	det
+4	dolore	dolore	S	2	prep
+
+LVC.full
+0	notizia	notizia	S	1	subj_pass
+1	riportata	riportare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	rivolte	rivolgere	V	_	_
+
+VID
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	testa	testa	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	svolge	svolgere	V	_	_
+
+IRV
+0	svolger-	svolgere	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	mostrato	mostrare	V	_	_
+1	interesse	interesse	S	0	obj
+
+LVC.full
+0	raggiunto	raggiungere	V	_	_
+1	accordo	accordo	S	0	obj
+
+LVC.full
+0	sarà	essere	V	_	_
+1	di	di	E	0	pred
+2	aiuto	aiuto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	espongono	esporre	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	esibiscono	esibire	V	_	_
+
+LVC.full
+0	ce	ce	P	1	comp
+1	sia	essere	V	_	_
+2	bisogno	bisogno	S	1	subj
+
+VID
+0	attirare	attirare	V	_	_
+1	l'	il	R	2	det
+2	attenzione	attenzione	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+
+IAV
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+3	di	di	E	2	arg
+
+IAV
+0	si	si	P	1	clit
+1	basa	basare	V	_	_
+2	su	su	E	1	mod
+
+IAV
+0	basa	basare	V	_	_
+1	su	su	E	0	mod
+
+LVC.full
+0	risposte	risposta	S	_	_
+1	date	dare	V	0	mod
+
+LVC.full
+0	risposta	risposta	S	_	_
+1	data	dare	V	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	scontrato	scontrare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	accorti	accorgersi	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	aggravato	aggravare	V	_	_
+
+IAV
+0	porterà	portare	V	_	_
+1	ad	ad	E	0	arg
+
+VID
+0	dominava	dominare	V	_	_
+1	scena	scena	S	0	obj
+
+LVC.cause
+0	dato	dare	V	_	_
+1	preavviso	preavviso	S	0	obj
+
+VPC.full
+0	vada	andare	V	_	_
+1	avanti	avanti	B	0	mod
+
+MVC
+0	lascia	lasciare	V	_	_
+1	supporre	supporre	V	0	arg
+
+IRV
+0	si	si	P	1	clit
+1	svolgerà	svolgere	V	_	_
+
+VID
+0	resi	rendere	V	_	_
+1	noti	noto	A	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	sviluppato	sviluppare	V	_	_
+
+VID
+0	chiesto	chiedere	V	_	_
+1	il	il	R	2	det
+2	rinvio	rinvio	S	0	obj
+
+VID
+0	rinvio	rinvio	S	_	_
+1	a	a	E	_	_
+2	giudizio	giudizio	S	1	prep
+
+VID
+0	resa	rendere	V	_	_
+1	nota	noto	A	0	pred
+
+VID
+0	chiesto	chiedere	V	_	_
+1	il	il	R	2	det
+2	rinvio	rinvio	S	0	subj_pass
+
+VID
+0	rinvio	rinvio	S	_	_
+1	a	a	E	0	comp
+2	giudizio	giudizio	S	1	prep
+
+IAV
+0	portato	portare	V	_	_
+1	a	a	E	0	comp_loc
+
+IRV
+0	si	si	P	1	clit
+1	verificati	verificare	V	_	_
+
+IRV
+0	dichiarata-	dichiarare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	recato	recare	V	_	_
+
+IAV
+0	basate	basare	V	_	_
+1	su	su	E	0	comp
+
+IAV
+0	su	su	E	1	comp
+1	basa	basare	V	_	_
+
+IAV
+0	si	si	P	1	clit
+1	basa	basare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	svolta	svolgere	V	_	_
+
+VID
+0	faccia	fare	V	_	_
+1	luce	luce	S	0	obj
+
+VID
+0	aventi	avere	V	_	_
+1	diritto	diritto	S	0	obj
+2	a	a	E	0	arg
+3	il	il	R	2	det
+4	voto	votare	V	2	prep
+
+IRV
+0	si	si	P	1	clit
+1	conferma	confermare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	afferma	affermare	V	_	_
+
+VID
+0	andrà	andare	V	_	_
+1	a	a	E	0	comp
+2	ballottaggio	ballottaggio	S	1	prep
+
+VID
+0	richiesta	richiesta	S	1	subj_pass
+1	accolta	accogliere	V	_	_
+
+LVC.cause
+0	poste	porre	V	_	_
+1	sotto	sotto	E	0	comp
+2	sequestro	sequestro	S	1	prep
+
+VID
+0	si	si	P	1	clit
+1	costituire	costituire	V	_	_
+2	parte	parte	S	1	obj
+3	civile	civile	A	2	mod
+
+VPC.full
+0	portato	portare	V	_	_
+1	avanti	avanti	B	0	mod
+
+VID
+0	andavano	andare	V	_	_
+1	e	e	C	0	con
+2	tornavano	tornare	V	0	conj
+
+LVC.cause
+0	poste	posta	S	_	_
+1	sotto	sotto	E	0	comp
+2	sequestro	sequestro	S	1	prep
+
+LVC.full
+0	notizia	notizia	S	_	_
+1	data	dare	V	0	mod
+
+LVC.full
+0	annuncio	annuncio	S	1	subj_pass
+1	dato	dare	V	_	_
+
+LVC.full
+0	avere	avere	V	_	_
+1	inizio	inizio	S	0	obj
+
+VID
+0	dare	dare	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+
+VID
+0	entrato	entrare	V	_	_
+1	in	in	E	0	comp
+2	azione	azione	S	1	prep
+
+IAV
+0	legate	legare	V	_	_
+1	a	a	E	_	_
+
+IRV
+0	si	si	P	1	clit
+1	aggravata	aggravare	V	_	_
+
+VID
+0	lanciare	lanciare	V	_	_
+1	gridi	gridare	V	0	arg
+2	d'	d'	E	1	comp
+3	allarme	allarme	S	2	prep
+
+IAV
+0	porterà	portare	V	_	_
+1	ad	ad	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	riferisce	riferire	V	_	_
+
+LVC.full
+0	dato	dare	V	_	_
+1	consenso	consenso	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	obiezioni	obiezione	S	0	obj
+
+LVC.full
+0	effettuate	effettuare	V	_	_
+1	modifiche	modifica	S	0	obj
+
+IAV
+0	sono	essere	V	_	_
+1	oggetto	oggetto	S	_	_
+2	di	di	E	1	comp
+
+LVC.full
+0	presentato	presentare	V	_	_
+1	ricorso	ricorso	S	0	obj
+
+LVC.full
+0	ricorso	ricorso	S	1	subj
+1	fatto	fare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	costituito	costituire	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	costituito	costituire	V	_	_
+2	parte	parte	S	1	obj
+3	civile	civile	A	2	mod
+
+VID
+0	far-	fare	V	_	_
+1	ne	ne	P	3	comp
+2	le	il	R	3	det
+3	spese	spesa	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	corso	corso	S	1	prep
+
+MVC
+0	si	si	P	1	clit
+1	detti	dire	V	_	_
+2	preoccupati	preoccupare	V	1	mod
+
+LVC.full
+0	ha	avere	V	_	_
+1	intenzione	intenzione	S	_	_
+
+VID
+0	prenderanno	prendere	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+
+IRV
+0	laureato-	laureare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	laureato-	laureare	V	_	_
+1	si	si	P	0	clit
+2	vincitore	vincitore	S	0	obj
+
+VID
+0	reso	rendere	V	_	_
+1	noto	noto	A	0	pred
+
+LVC.full
+0	prestare	prestare	V	_	_
+1	attenzione	attenzione	S	0	obj
+
+VID
+0	dar	dare	V	_	_
+1	spettacolo	spettacolo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	dichiarano	dichiarare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	dicono	dire	V	_	_
+
+MVC
+0	si	si	P	1	clit
+1	dicono	dire	V	_	_
+2	preoccupati	preoccupare	V	1	pred
+
+IRV
+0	si	si	P	1	clit
+1	dichiara	dichiarare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	schiera	schierare	V	_	_
+
+LVC.cause
+0	messa	mettere	V	_	_
+1	in	in	E	0	comp
+2	discussione	discussione	S	1	prep
+
+IAV
+0	portasse	portare	V	_	_
+1	a	a	E	0	comp
+
+LVC.full
+0	preso	prendere	V	_	_
+1	fuoco	fuoco	S	0	obj
+
+LVC.cause
+0	portato	portare	V	_	_
+1	in	in	E	0	comp_loc
+2	salvo	salvo	S	1	prep
+
+LVC.full
+0	trovato	trovare	V	_	_
+1	rifugio	rifugio	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	rifugiato	rifugiare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	trovava	trovare	V	_	_
+
+IRV
+0	aggravando-	aggravare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	posto	porre	V	_	_
+1	sotto	sotto	E	0	comp
+2	sequestro	sequestro	S	1	prep
+
+IRV
+0	rivelar-	rivelare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	registrati	registrare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	verificate	verificare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	dissocia	dissociare	V	_	_
+
+LVC.full
+0	ricopriva	ricoprire	V	_	_
+1	la	il	R	2	det
+2	carica	carica	S	0	obj
+
+LVC.full
+0	ruolo	ruolo	S	_	_
+1	avuto	avere	V	0	mod
+
+VID
+0	prendere	prendere	V	_	_
+1	atto	atto	S	0	obj
+
+LVC.full
+0	ho	avere	V	_	_
+1	rispetto	rispetto	S	0	obj
+
+LVC.full
+0	fare	fare	V	_	_
+1	analisi	analisi	S	0	obj
+
+LVC.full
+0	chiesto	chiedere	V	_	_
+1	dimissioni	dimissione	S	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	dimettano	dimettere	V	_	_
+
+IAV
+0	si	si	P	1	clit
+1	passa	passare	V	_	_
+2	a	a	E	1	comp
+
+IRV
+0	si	si	P	1	clit
+1	svolte	svolgere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	oppone	opporre	V	_	_
+
+VID
+0	ritorna	ritornare	V	_	_
+1	su	su	E	0	comp
+2	i	il	R	1	det
+3	passi	passo	S	1	prep
+
+LVC.full
+0	fare	fare	V	_	_
+1	modifiche	modifica	S	0	obj
+
+VID
+0	fatto	fare	V	_	_
+1	il	il	R	2	det
+2	tempo	tempo	S	0	obj
+
+IRV
+0	aggiudicar-	aggiudicare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	aggiudicar-	aggiudicare	V	_	_
+1	si	si	P	0	clit
+2	vittoria	vittoria	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	uniscono	unire	V	_	_
+
+VID
+0	recuperano	recuperare	V	_	_
+1	posizioni	posizione	S	0	obj
+
+VID
+0	la	il	R	_	_
+1	conquistare	conquistare	V	_	_
+2	pole-position	pole-position	S	1	obj
+
+VID
+0	recuperare	recuperare	V	_	_
+1	posizioni	posizione	S	0	obj
+
+LVC.full
+0	fare	fare	V	_	_
+1	rifornimento	rifornimento	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	avvantaggiano	avvantaggiare	V	_	_
+
+VID
+0	conquista	conquistare	V	_	_
+1	pole-position	pole-position	S	0	obj
+
+VID
+0	perdono	perdere	V	_	_
+1	tempo	tempo	S	0	obj
+
+IRV
+0	si	si	P	_	_
+1	ritirare	ritirare	V	_	_
+
+VID
+0	prende	prendere	V	_	_
+1	la	il	R	2	det
+2	testa	testa	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	attardati	attardare	V	_	_
+
+VID
+0	subirà	subire	V	_	_
+1	una	una	R	2	det
+2	penalità	penalità	S	0	obj
+
+VID
+0	stato	essere	V	_	_
+1	in	in	E	0	comp
+2	testa	testa	S	1	prep
+
+VID
+0	prende	prendere	V	_	_
+1	vantaggio	vantaggio	S	0	obj
+
+LVC.cause
+0	conduce	condurre	V	_	_
+1	a	a	E	0	comp
+2	errori	errore	S	1	prep
+
+IRV
+0	fermar-	fermare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	recupera	recuperare	V	_	_
+1	a	a	E	0	comp
+2	vista	vista	S	1	prep
+3	d'	d'	E	2	comp
+4	occhio	occhio	S	3	prep
+
+VID
+0	cede	cedere	V	_	_
+1	di	di	E	0	comp
+2	schianto	schianto	S	1	prep
+
+VID
+0	esce	uscire	V	_	_
+1	di	di	E	0	comp
+2	pista	pista	S	1	prep
+
+VID
+0	risalito	risalire	V	_	_
+1	il	il	R	2	det
+2	gruppo	gruppo	S	0	obj
+
+VID
+0	difficoltà	difficoltà	S	_	_
+1	incontrate	incontrare	V	_	_
+
+IAV
+0	basato	basare	V	_	_
+1	su	su	E	0	comp_loc
+
+VID
+0	rilasceranno	rilasciare	V	_	_
+1	versioni	versione	S	0	obj
+
+LVC.full
+0	espresso	esprimere	V	_	_
+1	parere	parere	S	0	obj
+
+VID
+0	ritorna	ritornare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	ribalta	ribalta	S	1	prep
+
+VID
+0	va	andare	V	_	_
+1	a	a	E	0	comp
+2	muro	muro	S	1	prep
+
+VID
+0	restare	restare	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	comando	comando	S	1	prep
+
+LVC.full
+0	fare	fare	V	_	_
+1	rifornimento	rifornimento	S	_	_
+
+VID
+0	trovano	trovare	V	_	_
+1	una	una	R	2	det
+2	doppietta	doppietta	S	0	obj
+
+VID
+0	accogliendo	accogliere	V	_	_
+1	richiesta	richiesta	S	0	obj
+
+VID
+0	i	il	R	_	_
+1	far	fare	V	_	_
+2	decadere	decadere	V	1	arg
+3	accusa	accusa	S	2	obj
+
+VID
+0	far	fare	V	_	_
+1	decadere	decadere	V	0	arg
+2	l'	il	R	3	det
+3	accusa	accusa	S	1	obj
+
+VID
+0	chiedendo	chiedere	V	_	_
+1	il	il	R	2	det
+2	rinvio	rinvio	S	0	obj
+
+LVC.full
+0	fecero	fare	V	_	_
+1	ingresso	ingresso	S	0	obj
+
+MVC
+0	chiamati	chiamare	V	_	_
+1	ad	ad	E	0	arg
+2	indagare	indagare	V	1	prep
+
+IAV
+0	stati	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+
+LVC.full
+0	avuto	avere	V	_	_
+1	risonanza	risonanza	S	0	obj
+
+LVC.cause
+0	i	il	R	_	_
+1	chiesto	chiedere	V	_	_
+2	proscioglimento	proscioglimento	S	1	obj
+
+VID
+0	chiesto	chiedere	V	_	_
+1	il	il	R	2	det
+2	rinvio	rinvio	S	0	subj
+
+VID
+0	I	il	R	_	_
+1	contestato	contestare	V	_	_
+2	reato	reato	S	1	obj
+
+VID
+0	rinviato	rinviare	V	_	_
+1	a	a	E	0	comp
+2	giudizio	giudizio	S	1	prep
+
+VID
+0	prendere	prendere	V	_	_
+1	parte	parte	S	0	obj
+
+VID
+0	nati	nascere	V	_	_
+1	dubbi	dubbio	S	0	subj
+
+IAV
+0	si	si	P	1	clit
+1	trattasse	trattare	V	_	_
+2	di	di	E	1	comp
+
+VID
+0	conquistato	conquistare	V	_	_
+1	pole-position	pole-position	S	_	_
+
+VID
+0	preso	prendere	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+
+VID
+0	prendere	prendere	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	schierate	schierare	V	_	_
+
+IAV
+0	portava	portare	V	_	_
+1	a	a	E	0	comp_loc
+
+VID
+0	portava	portare	V	_	_
+1	a	a	E	0	comp_loc
+2	contatto	contatto	S	1	prep
+
+LVC.full
+0	svolto	svolgere	V	_	_
+1	una	una	R	2	det
+2	preparazione	preparazione	S	0	obj
+
+VID
+0	portato	portare	V	_	_
+1	a	a	E	0	comp_loc
+2	casa	casa	S	1	prep
+
+VID
+0	andati	andare	V	_	_
+1	secondo	secondo	N	2	mod
+2	pronostico	pronostico	S	0	obj
+
+IAV
+0	esordito	esordire	V	_	_
+1	su	su	E	0	comp_loc
+2	il	il	R	1	det
+3	campo	campo	S	1	prep
+4	centrale	centrale	A	3	mod
+
+LVC.full
+0	fare	fare	V	_	_
+1	una	una	R	2	det
+2	perizia	perizia	S	0	obj
+
+VID
+0	suona	suonare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	porta	porta	S	1	prep
+
+LVC.cause
+0	isolano	isolare	V	_	_
+1	la	il	R	2	det
+2	zona	zona	S	0	obj
+
+VPC.full
+0	portare	portare	V	_	_
+1	via	via	B	0	mod
+
+VID
+0	riportato	riportare	V	_	_
+1	a	a	E	0	comp
+2	normalità	normalità	S	_	_
+
+LVC.cause
+0	dominato	dominare	V	_	_
+1	la	il	R	2	det
+2	gara	gara	S	0	obj
+
+IRV
+0	qualificando-	qualificare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	risalire	risalire	V	_	_
+1	il	il	R	2	det
+2	gruppo	gruppo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	trovavano	trovare	V	_	_
+
+LVC.full
+0	dando	dare	V	_	_
+1	impressione	impressione	S	0	obj
+
+IRV
+0	si	si	P	_	_
+1	verificati	verificare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	verificata	verificare	V	_	_
+
+VID
+0	hanno	avere	V	_	_
+1	voci	voce	S	0	subj
+
+LVC.full
+0	provocato	provocare	V	_	_
+1	danni	danno	S	0	obj
+
+VID
+0	faranno	fare	V	_	_
+1	parte	parte	S	0	obj
+
+LVC.full
+0	reso	rendere	V	_	_
+1	onore	onore	S	0	obj
+
+VID
+0	sarà	essere	V	_	_
+1	cura	cura	S	0	pred
+
+IRV
+0	rifiutar-	rifiutare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	si	si	P	1	clit
+1	prendano	prendere	V	_	_
+2	carico	carico	S	1	obj
+
+VID
+0	entrerà	entrare	V	_	_
+1	in	in	E	0	comp
+2	vigore	vigore	S	1	prep
+
+VID
+0	entra	entrare	V	_	_
+1	in	in	E	0	comp
+2	vigore	vigore	S	1	prep
+
+IRV
+0	assicurar-	assicurare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	provocato	provocare	V	_	_
+1	le	il	R	2	det
+2	dimissione	dimissione	S	0	obj
+
+LVC.full
+0	decisioni	decisione	S	_	_
+1	prese	prendere	V	_	_
+
+LVC.cause
+0	dati	dare	V	_	_
+1	a	a	E	0	comp
+2	le	il	R	1	det
+3	fiamme	fiamma	S	1	prep
+
+LVC.full
+0	tenere	tenere	V	_	_
+1	manifestazione	manifestazione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	augurano	augurare	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	trovano	trovare	V	_	_
+2	a	a	E	1	comp_loc
+3	agio	agio	S	2	prep
+
+VID
+0	mantenere	mantenere	V	_	_
+1	la	il	R	2	det
+2	testa	testa	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	occupano	occupare	V	_	_
+
+LVC.full
+0	effettuate	effettuare	V	_	_
+1	intercettazioni	intercettazione	S	0	subj
+
+IRV
+0	si	si	P	1	clit
+1	diretti	dirigere	V	_	_
+
+VID
+0	preso	prendere	V	_	_
+1	il	il	R	2	det
+2	potere	potere	S	0	obj
+
+IAV
+0	essere	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+3	di	di	E	2	arg
+
+MVC
+0	lascia	lasciare	V	_	_
+1	presumere	presumere	V	0	arg
+
+VID
+0	dato	dare	V	_	_
+1	per	per	E	0	comp
+2	certo	certo	S	1	prep
+
+IAV
+0	si	si	P	1	clit
+1	tratti	trattare	V	_	_
+2	di	di	E	1	comp
+
+VID
+0	superare	superare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+VID
+0	Passano	passare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+VID
+0	passeranno	passare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+VID
+0	passa	passare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+VID
+0	prende	prendere	V	_	_
+1	in	in	E	0	comp
+2	mano	mano	S	1	prep
+
+VID
+0	mette	mettere	V	_	_
+1	in	in	E	0	comp
+2	campo	campo	S	1	prep
+
+VID
+0	entra	entrare	V	_	_
+1	in	in	E	0	comp
+2	area	area	S	1	prep
+
+VID
+0	dà	dare	V	_	_
+1	vita	vita	S	0	obj
+
+VID
+0	è	essere	V	2	aux
+1	ben	ben	B	2	mod
+2	visto	vedere	V	_	_
+
+VID
+0	perso	perdere	V	_	_
+1	contatti	contatto	S	0	obj
+
+VID
+0	si	si	P	1	clit
+1	alzati	alzare	V	_	_
+2	in	in	E	1	comp
+3	volo	volo	S	2	prep
+
+LVC.cause
+0	incidente	incidente	S	1	subj_pass
+1	provocato	provocare	V	_	_
+
+VID
+0	perdere	perdere	V	_	_
+1	conoscenza	conoscenza	S	0	obj
+
+VID
+0	passare	passare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+VID
+0	superano	superare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+VID
+0	va	andare	V	_	_
+1	in	in	E	0	comp
+2	vantaggio	vantaggio	S	1	prep
+
+VID
+0	si	si	P	1	clit
+1	portano	portare	V	_	_
+2	in	in	E	1	comp
+3	vantaggio	vantaggio	S	2	prep
+
+VID
+0	portano	portare	V	_	_
+1	in	in	E	0	comp
+2	vantaggio	vantaggio	S	1	prep
+
+VID
+0	Allunga	Allunga	S	2	mod
+1	le	il	R	2	det
+2	distanze	distanza	S	_	_
+
+VID
+0	infilando	infilare	V	_	_
+1	in	in	E	0	comp
+2	porta	porta	S	1	prep
+
+VID
+0	superano	superare	V	_	_
+1	di	di	E	_	_
+2	misura	misura	S	1	prep
+
+VID
+0	passare	passare	V	_	_
+1	in	in	E	0	comp
+2	vantaggio	vantaggio	S	1	prep
+
+VID
+0	riportare	riportare	V	_	_
+1	in	in	E	0	comp
+2	parità	parità	S	1	prep
+
+VID
+0	va	andare	V	_	_
+1	a	a	E	0	comp
+2	i	il	R	1	det
+3	rigori	rigore	S	1	prep
+
+VID
+0	danno	dare	V	_	_
+1	la	il	R	2	det
+2	vittoria	vittoria	S	0	obj
+
+LVC.cause
+0	danno	dare	V	_	_
+1	vittoria	vittoria	S	0	obj
+
+IAV
+0	portano	portare	V	_	_
+1	a	a	E	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	spento	spegnere	V	_	_
+
+VID
+0	entrare	entrare	V	_	_
+1	in	in	E	0	comp
+2	il	il	R	1	det
+3	giro	giro	S	1	prep
+
+VID
+0	chiude	chiudere	V	_	_
+1	un'	una	R	2	det
+2	epoca	epoca	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	riunirà	riunire	V	_	_
+
+IAV
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+3	di	di	E	0	arg
+
+IAV
+0	portar-	portare	V	_	_
+1	si	si	P	0	clit
+2	su	su	E	0	comp
+
+VID
+0	accorcia	accorciare	V	_	_
+1	le	il	R	2	det
+2	distanze	distanza	S	0	obj
+
+VID
+0	passa	passare	V	_	_
+1	in	in	E	0	comp
+2	vantaggio	vantaggio	S	1	prep
+
+VID
+0	supera	superare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	supera	superare	V	_	_
+
+VID
+0	deviare	deviare	V	_	_
+1	in	in	E	0	comp
+2	angolo	angolo	S	1	prep
+
+VID
+0	tira	tirare	V	_	_
+1	di	di	E	0	comp
+2	sinistro	sinistro	A	1	prep
+
+VID
+0	si	si	P	1	clit
+1	lancia	lanciare	V	_	_
+2	a	a	E	1	comp
+3	rete	rete	S	2	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	inizio	inizio	S	0	obj
+
+IAV
+0	sarà	essere	V	_	_
+1	soggetto	soggetto	S	0	pred
+2	a	a	E	1	comp
+
+LVC.full
+0	c'	ci	P	1	comp
+1	è	essere	V	_	_
+2	bisogno	bisogno	S	1	subj
+
+IRV
+0	si	si	P	1	clit
+1	sentono	sentire	V	_	_
+
+MVC
+0	si	si	P	1	clit
+1	sentono	sentire	V	_	_
+2	traditi	tradire	V	1	pred
+
+VID
+0	temuto	temere	V	_	_
+1	il	il	R	2	det
+2	peggio	peggio	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	sentirono	sentire	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	sentirono	sentire	V	_	_
+2	a	a	E	1	comp
+3	il	il	R	2	det
+4	sicuro	sicuro	S	2	prep
+
+LVC.full
+0	appare	apparire	V	_	_
+1	buio	buio	S	0	obj
+
+LVC.cause
+0	data	dare	V	_	_
+1	fuoco	fuoco	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	suicidò	suicidarsi	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	svuotano	svuotare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	comportando	comportare	V	_	_
+
+VID
+0	rimarranno	rimanere	V	_	_
+1	in	in	E	0	comp
+2	le	il	R	1	det
+3	mani	mano	S	1	prep
+
+VID
+0	ci	ci	P	1	comp
+1	rendere	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+IRV
+0	si	si	P	_	_
+1	rendere	rendere	V	_	_
+
+VID
+0	si	si	P	_	_
+1	rendere	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+VID
+0	La	il	R	1	det
+1	partita	partita	S	2	subj_pass
+2	decisa	decidere	V	_	_
+
+VID
+0	interviene	intervenire	V	_	_
+1	di	di	E	0	comp
+2	pugno	pugno	S	1	prep
+
+VID
+0	lavora	lavorare	V	_	_
+1	il	il	R	2	det
+2	pallone	pallone	S	_	_
+
+VID
+0	colpisce	colpire	V	_	_
+1	di	di	E	_	_
+2	destro	destro	A	1	prep
+
+VID
+0	mettendo	mettere	V	_	_
+1	fuori	fuori	E	0	comp
+2	causa	causa	S	1	prep
+
+LVC.cause
+0	effettuato	effettuare	V	_	_
+1	trapianto	trapianto	S	0	obj
+
+IAV
+0	arrivare	arrivare	V	_	_
+1	a	a	E	0	arg
+
+VID
+0	mettendo	mettere	V	_	_
+1	a	a	E	0	comp
+2	punto	punto	S	1	prep
+
+VID
+0	insacca	insaccare	V	_	_
+1	il	il	R	2	det
+2	gol	gol	S	0	obj
+
+VID
+0	devia	deviare	V	_	_
+1	in	in	E	0	comp
+2	angolo	angolo	S	1	prep
+
+VID
+0	segna	segnare	V	_	_
+1	di	di	E	0	comp
+2	sinistro	sinistro	A	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	scatena	scatenare	V	_	_
+
+VID
+0	rimane	rimanere	V	_	_
+1	in	in	E	0	comp_loc
+2	panchina	panchina	S	1	prep
+
+VPC.full
+0	tira	tirare	V	_	_
+1	fuori	fuori	B	0	mod
+
+VPC.full
+0	esce	uscire	V	_	_
+1	di	di	E	0	comp
+2	poco	poco	B	1	prep
+
+VID
+0	colpisce	colpire	V	_	_
+1	di	di	E	0	comp
+2	destro	destro	A	1	prep
+
+VID
+0	infilando	infilare	V	_	_
+1	in	in	E	0	comp
+2	rete	rete	S	1	prep
+
+VID
+0	porta	portare	V	_	_
+1	in	in	E	0	comp
+2	campo	campo	S	1	prep
+
+IAV
+0	porta	portare	V	_	_
+1	a	a	E	0	comp_loc
+
+VID
+0	infila	infilare	V	_	_
+1	in	in	E	_	_
+2	rete	rete	S	1	prep
+
+VID
+0	apre	aprire	V	_	_
+1	a	a	E	0	comp
+2	sinistra	sinistra	S	1	prep
+
+VID
+0	ciccando	ciccare	V	_	_
+1	il	il	R	2	det
+2	pallone	pallone	S	0	obj
+
+IRV
+0	se	se	P	1	clit
+1	accorge	accorgersi	V	_	_
+
+LVC.full
+0	prenderanno	prendere	V	_	_
+1	iniziative	iniziativa	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	sparsa	spargere	V	_	_
+
+VID
+0	hanno	avere	V	_	_
+1	notizie	notizia	S	0	subj
+
+VID
+0	tenere	tenere	V	_	_
+1	presente	presente	A	0	pred
+
+VPC.full
+0	mandò	mandare	V	_	_
+1	via	via	B	0	mod
+
+VID
+0	era	essere	V	_	_
+1	in	in	E	0	comp
+2	corso	corso	S	1	prep
+
+VID
+0	aveva	avere	V	_	_
+1	idea	idea	S	0	obj
+
+VID
+0	segna	segnare	V	_	_
+1	la	il	R	2	det
+2	fine	fine	S	0	obj
+
+IAV
+0	passati	passare	V	_	_
+1	da	da	E	0	comp
+2	a	a	E	0	comp
+
+IAV
+0	sono	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	evitare	evitare	V	_	_
+1	la	il	R	2	det
+2	vergogna	vergogna	S	0	obj
+
+IAV
+0	stati	essere	V	_	_
+1	opera	opera	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	tastare	tastare	V	_	_
+1	il	il	R	2	det
+2	polso	polso	S	0	obj
+
+LVC.full
+0	C'	ci	P	1	comp
+1	è	essere	V	_	_
+2	un	un	R	3	det
+3	divario	divario	S	1	subj
+
+VID
+0	ridotto	ridurre	V	_	_
+1	i	il	R	2	det
+2	margini	margine	S	0	obj
+
+IRV
+0	Mi	mi	P	1	comp_ind
+1	fa	fare	V	_	_
+
+VID
+0	fa	fare	V	_	_
+1	specie	specie	B	0	mod
+
+MVC
+0	lascia	lasciare	V	_	_
+1	sfilare	sfilare	V	0	arg
+
+VID
+0	va	andare	V	_	_
+1	in	in	E	0	comp
+2	testacoda	testacoda	S	1	prep
+
+VID
+0	cedere	cedere	V	_	_
+1	la	il	R	2	det
+2	posizione	posizione	S	0	obj
+
+VID
+0	ridotto	ridurre	V	_	_
+1	i	il	R	2	det
+2	toni	tono	S	0	obj
+
+VID
+0	allunga	allungare	V	_	_
+1	il	il	R	2	det
+2	distacco	distacco	S	0	obj
+
+LVC.full
+0	tenuta	tenere	V	_	_
+1	in	in	E	0	comp
+2	considerazione	considerazione	S	1	prep
+
+VID
+0	girato	girare	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	parte	partire	V	_	_
+1	in	in	E	0	comp
+2	contropiede	contropiede	S	1	prep
+
+VPC.full
+0	spara	sparare	V	_	_
+1	addosso	addosso	B	0	mod
+
+VID
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	rete	rete	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	aspettava	aspettare	V	_	_
+
+IRV
+0	svolto-	svolgere	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	aggiudica	aggiudicare	V	_	_
+
+VID
+0	conquistando	conquistare	V	_	_
+1	il	il	R	_	_
+2	titolo	titolo	S	_	_
+
+VID
+0	fa	fare	V	_	_
+1	sconti	sconto	S	0	obj
+
+VID
+0	vanno	andare	V	_	_
+1	in	in	E	0	comp
+2	gol	gol	S	1	prep
+
+VPC.full
+0	tirando	tirare	V	_	_
+1	fuori	fuori	B	0	mod
+
+VID
+0	mette	mettere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	sicuro	sicuro	A	1	prep
+
+VID
+0	entrato	entrare	V	_	_
+1	in	in	E	0	comp
+2	partita	partita	S	1	prep
+
+VID
+0	spara	sparare	V	_	_
+1	alto	alto	A	0	pred
+
+VID
+0	salva	salvare	V	_	_
+1	in	in	E	0	comp
+2	angolo	angolo	S	1	prep
+
+VID
+0	salva	salvare	V	_	_
+1	in	in	E	0	comp
+2	corner	corner	S	1	prep
+
+VID
+0	Accorcia	Accorcia	S	_	_
+1	le	il	R	2	det
+2	distanze	distanza	S	0	mod
+
+VID
+0	mette	mettere	V	_	_
+1	in	in	E	0	comp
+2	rete	rete	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	spinge	spingere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	rivolta	rivolgere	V	_	_
+
+LVC.full
+0	presenta	presentare	V	_	_
+1	ricorso	ricorso	S	0	obj
+
+LVC.full
+0	fanno	fare	V	_	_
+1	ricorso	ricorso	S	0	obj
+
+VID
+0	agire	agire	V	_	_
+1	per	per	E	0	comp
+2	vie	via	S	1	prep
+3	legali	legale	A	2	mod
+
+LVC.full
+0	dato	dare	V	_	_
+1	comunicazione	comunicazione	S	0	obj
+
+VID
+0	mettono	mettere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	sicuro	sicuro	A	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	mantiene	mantenere	V	_	_
+
+VID
+0	taglia	tagliare	V	_	_
+1	l'	il	R	2	det
+2	area	area	S	0	obj
+3	di	di	E	2	comp
+4	rigore	rigore	S	3	prep
+
+VID
+0	ruba	ruba	S	_	_
+1	palla	palla	S	0	mod
+
+VID
+0	ripaga	ripagare	V	_	_
+1	la	il	R	2	det
+2	fiducia	fiducia	S	0	obj
+
+VID
+0	infila	infilare	V	_	_
+1	in	in	E	0	comp
+2	rete	rete	S	1	prep
+
+LVC.full
+0	ottenuto	ottenere	V	_	_
+1	la	il	R	2	det
+2	maggioranza	maggioranza	S	0	obj
+
+VID
+0	sciogliere	sciogliere	V	_	_
+1	la	il	R	2	det
+2	Camera	Camera	S	_	_
+
+LVC.cause
+0	provocato	provocare	V	_	_
+1	le	il	R	2	det
+2	dimissioni	dimissione	S	0	obj
+
+IRV
+0	dicendo-	dire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	relazione	relazione	S	1	prep
+
+VID
+0	trascorrerà	trascorrere	V	_	_
+1	gli	il	R	2	det
+2	arresti	arresto	S	0	obj
+3	domiciliari	domiciliare	A	2	mod
+
+VID
+0	alleggerire	alleggerire	V	_	_
+1	il	il	R	2	det
+2	bilancio	bilancio	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	qualificano	qualificare	V	_	_
+
+LVC.full
+0	presentato	presentare	V	_	_
+1	dimissioni	dimissione	S	0	obj
+
+VID
+0	fare	fare	V	_	_
+1	il	il	R	2	det
+2	punto	punto	S	0	obj
+3	su	su	E	2	comp
+4	la	il	R	3	det
+5	situazione	situazione	S	3	prep
+
+IAV
+0	state	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	state	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+3	dibattito	dibattito	S	2	prep
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	svolgimento	svolgimento	S	1	prep
+
+VID
+0	conquistato	conquistare	V	_	_
+1	il	il	R	2	det
+2	titolo	titolo	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	aggiudicato	aggiudicare	V	_	_
+
+IRV
+0	si	si	P	2	clit
+1	è	essere	V	2	aux
+2	spezzato	spezzare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	riversate	riversare	V	_	_
+
+VID
+0	giocar-	giocare	V	_	_
+1	si	si	P	0	clit
+2	la	il	R	3	det
+3	vittoria	vittoria	S	0	obj
+
+VID
+0	tagliare	tagliare	V	_	_
+1	il	il	R	2	det
+2	traguardo	traguardo	S	0	obj
+
+VID
+0	chiudere	chiudere	V	_	_
+1	il	il	R	2	det
+2	buco	buco	S	0	obj
+
+VID
+0	ripetuto	ripetere	V	_	_
+1	il	il	R	2	det
+2	copione	copione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	confermata	confermare	V	_	_
+
+VID
+0	conquistare	conquistare	V	_	_
+1	il	il	R	2	det
+2	titolo	titolo	S	0	obj
+
+VID
+0	mantenere	mantenere	V	_	_
+1	vantaggio	vantaggio	S	_	_
+
+VID
+0	cedendo	cedere	V	_	_
+1	la	il	R	2	det
+2	posizione	posizione	S	0	obj
+
+VID
+0	passata	passare	V	_	_
+1	in	in	E	0	comp
+2	vantaggio	vantaggio	S	1	prep
+
+LVC.full
+0	trova	trovare	V	_	_
+1	le	il	R	2	det
+2	energie	energia	S	0	obj
+
+VPC.full
+0	mette	mettere	V	_	_
+1	a	a	E	0	comp
+2	destra	destra	S	1	prep
+
+VID
+0	salva	salvare	V	_	_
+1	su	su	E	0	comp
+2	la	il	R	1	det
+3	linea	linea	S	1	prep
+4	di	di	E	3	comp
+5	porta	porta	S	4	prep
+
+VID
+0	segna	segnare	V	_	_
+1	a	a	E	0	comp
+2	porta	porta	S	1	prep
+3	vuota	vuoto	A	2	mod
+
+VID
+0	buca	buca	S	_	_
+1	l'	il	R	2	det
+2	uscita	uscita	S	0	mod
+
+VID
+0	spara	sparare	V	_	_
+1	in	in	E	_	_
+2	il	il	R	1	det
+3	mucchio	mucchio	S	1	prep
+
+VID
+0	intercetta	intercettare	V	_	_
+1	pallone	pallone	S	_	_
+
+LVC.full
+0	fa	fare	V	_	_
+1	fatica	fatica	S	0	obj
+
+VID
+0	infila	infilare	V	_	_
+1	in	in	E	0	comp
+2	porta	porta	S	1	prep
+
+VID
+0	infila	infilare	V	_	_
+1	di	di	E	0	comp
+2	sinistro	sinistro	A	1	prep
+
+IRV
+0	Si	si	P	1	clit
+1	incarica	incaricare	V	_	_
+
+VID
+0	vince	vincere	V	_	_
+1	in	in	E	0	comp
+2	casa	casa	S	1	prep
+
+IRV
+0	si	si	P	_	_
+1	qualificate	qualificare	V	_	_
+
+VID
+0	Partono	partire	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	va	andare	V	_	_
+1	in	in	E	0	comp
+2	affanno	affanno	S	1	prep
+
+LVC.full
+0	ricopriranno	ricoprire	V	_	_
+1	la	il	R	2	det
+2	carica	carica	S	0	obj
+
+LVC.full
+0	eserciteranno	esercitare	V	_	_
+1	il	il	R	2	det
+2	ufficio	ufficio	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	durata	durata	S	_	_
+
+IRV
+0	aggiudicando-	aggiudicare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	ritirati-	ritirare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	restare	restare	V	_	_
+1	coperto	coperto	A	0	mod
+
+VID
+0	lasciato	lasciare	V	_	_
+1	la	il	R	2	det
+2	scia	scia	S	0	obj
+
+VID
+0	si	si	P	1	clit
+1	lanciato	lanciare	V	_	_
+2	a	a	E	1	comp
+3	la	il	R	2	det
+4	conquista	conquista	S	2	prep
+
+LVC.full
+0	trova	trovare	V	_	_
+1	un	un	R	2	det
+2	accordo	accordo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	ritirato	ritirare	V	_	_
+
+IAV
+0	portar-	portare	V	_	_
+1	a	a	E	_	_
+
+VID
+0	mette	mettere	V	_	_
+1	in	in	E	0	comp
+2	difficoltà	difficoltà	S	1	prep
+
+VID
+0	fare	fare	V	_	_
+1	a	a	E	0	comp
+2	meno	meno	B	_	_
+
+IRV
+0	si	si	P	1	clit
+1	incarica	incaricare	V	_	_
+
+LVC.full
+0	commette	commettere	V	_	_
+1	fallo	fallo	S	0	obj
+
+VID
+0	mette	mettere	V	_	_
+1	in	in	E	0	comp
+2	luce	luce	S	1	prep
+
+VPC.full
+0	punta	puntare	V	_	_
+1	davanti	davanti	B	0	mod
+
+VID
+0	gira	girare	V	_	_
+1	in	in	E	0	comp
+2	rete	rete	S	1	prep
+
+VID
+0	dà	dare	V	_	_
+1	la	il	R	2	det
+2	vittoria	vittoria	S	0	obj
+
+LVC.cause
+0	dà	dare	V	_	_
+1	vittoria	vittoria	S	0	obj
+
+LVC.cause
+0	messo	mettere	V	_	_
+1	in	in	E	0	comp
+2	discussione	discussione	S	1	prep
+
+IRV
+0	lamentando-	lamentare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	ci	ci	P	1	comp
+1	resi	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+IRV
+0	si	si	P	1	clit
+1	resi	rendere	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	resi	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+IAV
+0	portando-	portare	V	_	_
+1	a	a	E	0	comp
+
+LVC.full
+0	stato	essere	V	_	_
+1	a	a	E	0	pred
+2	la	il	R	1	det
+3	guida	guida	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	recava	recare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	dirige	dirigere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	unisce	unire	V	_	_
+
+LVC.full
+0	riportato	riportare	V	_	_
+1	notizie	notizia	S	0	obj
+
+VID
+0	sono	essere	V	_	_
+1	a	a	E	0	pred
+2	rischio	rischio	S	1	prep
+
+LVC.full
+0	far	fare	V	_	_
+1	ritorno	ritorno	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	aggrava	aggravare	V	_	_
+
+VID
+0	calmierare	calmierare	V	_	_
+1	il	il	R	2	det
+2	prezzo	prezzo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	estendendo	estendere	V	_	_
+
+VPC.full
+0	pompata	pompare	V	_	_
+1	via	via	B	0	mod
+
+LVC.full
+0	hanno	avere	V	_	_
+1	valore	valore	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	attesta	attestare	V	_	_
+
+VID
+0	abbiano	avere	V	_	_
+1	a	a	E	0	arg
+2	che	che	P	3	obj
+3	fare	fare	V	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	dice	dire	V	_	_
+
+VID
+0	dice	dire	V	_	_
+1	soddisfatto	soddisfatto	A	0	pred
+
+VPC.full
+0	votato	votare	V	_	_
+1	contro	contro	B	0	mod
+
+VID
+0	coprire	coprire	V	_	_
+1	la	il	R	2	det
+2	domanda	domanda	S	0	obj
+
+LVC.full
+0	essere	essere	V	_	_
+1	la	il	R	2	det
+2	testimonianza	testimonianza	S	0	pred
+
+VID
+0	dato	dare	V	_	_
+1	conto	conto	S	0	obj
+
+VID
+0	colto	cogliere	V	_	_
+1	l'	il	R	2	det
+2	occasione	occasione	S	0	obj
+
+VID
+0	prenderà	prendere	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+
+VID
+0	sollevato	sollevare	V	_	_
+1	da	da	E	0	comp
+2	l'	il	R	1	det
+3	incarico	incarico	S	1	prep
+
+VID
+0	facesse	fare	V	_	_
+1	interesse	interesse	S	_	_
+
+IAV
+0	trattando-	trattare	V	_	_
+1	si	si	P	0	clit
+2	di	di	E	0	comp
+
+LVC.full
+0	funzione	funzione	S	_	_
+1	svolgono	svolgere	V	0	mod_rel
+
+LVC.cause
+0	portato	portare	V	_	_
+1	a	a	E	0	comp_loc
+2	rottura	rottura	S	1	prep
+
+IAV
+0	pesato	pesare	V	_	_
+1	su	su	E	0	comp
+
+VPC.full
+0	andare	andare	V	_	_
+1	via	via	B	0	mod
+
+VID
+0	regolando	regolare	V	_	_
+1	in	in	E	0	comp
+2	volata	volata	S	1	prep
+
+IRV
+0	Si	si	P	1	clit
+1	aggiudicato	aggiudicare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	ritrovano	ritrovare	V	_	_
+
+IAV
+0	portano	portare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	Crolla	Crolla	S	_	_
+1	il	il	R	2	det
+2	mito	mito	S	0	mod
+
+VID
+0	si	si	P	1	clit
+1	mettono	mettere	V	_	_
+2	in	in	E	1	comp
+3	fila	fila	S	2	prep
+
+VID
+0	sceso	scendere	V	_	_
+1	in	in	E	0	comp_loc
+2	campo	campo	S	1	prep
+
+VID
+0	rimasto	rimanere	V	_	_
+1	su	su	E	0	comp_loc
+2	le	il	R	1	det
+3	sue	suo	A	4	mod
+4	idee	idea	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	attardano	attardare	V	_	_
+
+VID
+0	segnò	segnare	V	_	_
+1	la	il	R	2	det
+2	storia	storia	S	0	obj
+
+VID
+0	ricoprì	ricoprire	V	_	_
+1	la	il	R	2	det
+2	carica	carica	S	0	subj
+
+VID
+0	il	il	R	_	_
+1	ricoprì	ricoprire	V	_	_
+2	carica	carica	S	1	subj
+
+IRV
+0	si	si	P	1	clit
+1	suicidato	suicidarsi	V	_	_
+
+VID
+0	ritenuta	ritenere	V	_	_
+1	a	a	E	0	comp
+2	torto	torto	S	1	prep
+
+VID
+0	scendere	scendere	V	_	_
+1	in	in	E	0	comp_loc
+2	piazza	piazza	S	1	prep
+
+IAV
+0	Si	si	P	_	_
+1	trattato	trattare	V	_	_
+2	di	di	E	1	arg
+
+IRV
+0	si	si	P	1	clit
+1	separa	separare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	separano	separare	V	_	_
+
+LVC.cause
+0	dare	dare	V	_	_
+1	nomi	nome	S	0	obj
+
+LVC.cause
+0	dato	dare	V	_	_
+1	nome	nome	S	0	subj_pass
+
+LVC.cause
+0	portò	portare	V	_	_
+1	soccorso	soccorso	S	0	obj
+
+LVC.cause
+0	nome	nome	S	1	subj_pass
+1	dato	dare	V	_	_
+
+LVC.full
+0	dato	dare	V	_	_
+1	le	il	R	2	det
+2	dimissioni	dimissione	S	0	obj
+
+LVC.full
+0	dato	dare	V	_	_
+1	dimissioni	dimissione	S	0	obj
+
+IRV
+0	Ci	ci	P	1	clit
+1	giocati	giocare	V	_	_
+
+IRV
+0	riferendo-	riferire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	sfiora	sfiorare	V	_	_
+1	il	il	R	2	det
+2	ridicolo	ridicolo	S	0	subj
+
+VID
+0	fare	fare	V	_	_
+1	da	da	E	0	comp
+2	ponte	ponte	S	1	prep
+
+VID
+0	si	si	P	1	clit
+1	complica	complicare	V	_	_
+2	la	il	R	3	det
+3	vita	vita	S	1	obj
+
+IRV
+0	si	si	P	1	clit
+1	porta	portare	V	_	_
+
+VID
+0	ruba	rubare	V	_	_
+1	palla	palla	S	0	obj
+
+VID
+0	fa	fare	V	_	_
+1	il	il	R	2	det
+2	bis	bis	S	0	obj
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	vantaggio	vantaggio	S	1	prep
+
+VID
+0	infuria	infuriare	V	_	_
+1	la	il	R	2	det
+2	tempesta	tempesta	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	lamentati	lamentare	V	_	_
+
+VID
+0	Il	il	R	_	_
+1	mettere	mettere	V	_	_
+2	palla	palla	S	1	obj
+3	a	a	E	1	comp
+4	centro	centro	S	3	prep
+
+VID
+0	mettere	mettere	V	_	_
+1	la	il	R	2	det
+2	palla	palla	S	0	obj
+3	a	a	E	0	comp
+4	centro	centro	S	3	prep
+
+VID
+0	mettere	mettere	V	_	_
+1	palla	palla	S	0	obj
+2	a	a	E	0	comp
+3	il	il	R	2	det
+4	centro	centro	S	2	prep
+
+LVC.cause
+0	pone	porre	V	_	_
+1	termine	termine	S	0	obj
+
+VID
+0	dare	dare	V	_	_
+1	seguito	seguito	S	0	obj
+
+LVC.full
+0	creando	creare	V	_	_
+1	danni	danno	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	accorta	accorgersi	V	_	_
+
+LVC.full
+0	riporta	riportare	V	_	_
+1	notizia	notizia	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	adoperando	adoperare	V	_	_
+
+LVC.full
+0	notizia	notizia	S	_	_
+1	riportata	riportare	V	0	mod
+
+IRV
+0	Si	si	P	1	clit
+1	svolto	svolgere	V	_	_
+
+VID
+0	trovate	trovare	V	_	_
+1	tracce	traccia	S	0	subj
+
+VID
+0	vendette	vendetta	S	_	_
+1	per	per	E	0	comp
+2	30	30	N	3	mod
+3	denari	denaro	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	trasferito	trasferire	V	_	_
+
+VID
+0	sono	essere	V	_	_
+1	a	a	E	0	pred
+2	la	il	R	1	det
+3	mercé	mercé	S	1	prep
+
+VID
+0	ha	avere	V	_	_
+1	tempo	tempo	S	0	obj
+
+VID
+0	avrà	avere	V	_	_
+1	tempo	tempo	S	0	obj
+
+VID
+0	hanno	avere	V	_	_
+1	a	a	E	0	arg
+2	che	che	P	3	obj
+3	fare	fare	V	1	prep
+
+LVC.cause
+0	fanno	fare	V	_	_
+1	paura	paura	S	0	obj
+
+IRV
+0	mi	mi	P	1	clit
+1	arrendo	arrendere	V	_	_
+
+IRV
+0	rifutarsi	rifutarsi	V	_	_
+
+IRV
+0	alzando-	alzare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	a	a	E	_	_
+1	Dio	Dio	S	2	subj
+2	piacendo	piacere	V	0	prep
+
+VID
+0	aggiustare	aggiustare	V	_	_
+1	risultati	risultato	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	svolto	svolgere	V	_	_
+
+VID
+0	segna	segnare	V	_	_
+1	una	una	R	2	det
+2	svolta	svolta	S	0	obj
+
+VID
+0	batte	battere	V	_	_
+1	il	il	R	2	det
+2	primato	primato	S	0	obj
+
+VID
+0	riaprendo	riaprire	V	_	_
+1	campionato	campionato	S	0	obj
+
+VID
+0	ferma	fermare	V	_	_
+1	la	il	R	2	det
+2	marcia	marcia	S	0	obj
+3	trionfale	trionfale	A	2	mod
+
+VID
+0	porta	portare	V	_	_
+1	in	in	E	_	_
+2	vantaggio	vantaggio	S	1	prep
+
+LVC.cause
+0	chiudere	chiudere	V	_	_
+1	gara	gara	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	riunita	riunire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	contenderanno	contendere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	aspettano	aspettare	V	_	_
+
+LVC.cause
+0	varata	varare	V	_	_
+1	manovra	manovra	S	0	subj_pass
+
+IAV
+0	portando	portare	V	_	_
+1	ad	ad	E	0	comp
+
+LVC.full
+0	avrà	avere	V	_	_
+1	durata	durata	S	0	obj
+
+IAV
+0	porteranno	portare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	metterà	mettere	V	_	_
+1	la	il	R	2	det
+2	parola	parola	S	0	obj
+3	fine	fine	S	2	mod
+
+VID
+0	sono	essere	V	_	_
+1	a	a	E	0	pred
+2	carico	carico	S	1	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	costo	costo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	attestati	attestare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	spinti	spingere	V	_	_
+
+VID
+0	dare	dare	V	_	_
+1	manforte	manforte	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	ritirati	ritirare	V	_	_
+
+VPC.full
+0	va	andare	V	_	_
+1	avanti	avanti	B	0	mod
+
+LVC.full
+0	prendere	prendere	V	_	_
+1	possesso	possesso	S	0	obj
+
+VID
+0	ha	avere	V	_	_
+1	notizia	notizia	S	0	obj
+
+VID
+0	Passa	passare	V	_	_
+1	decreto	decreto	S	0	obj
+
+VID
+0	passato	passare	V	_	_
+1	decreto	decreto	S	0	subj
+
+LVC.full
+0	messi	mettere	V	_	_
+1	in	in	E	0	comp
+2	atto	atto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	svolgono	svolgere	V	_	_
+
+LVC.cause
+0	causando	causare	V	_	_
+1	diminuzione	diminuzione	S	_	_
+
+VPC.full
+0	va	andare	V	_	_
+1	sotto	sotto	B	0	mod
+
+VID
+0	entrò	entrare	V	_	_
+1	in	in	E	0	comp
+2	rotta	rotta	S	1	prep
+3	di	di	E	2	comp
+4	collisione	collisione	S	3	prep
+
+VID
+0	mandò	mandare	V	_	_
+1	a	a	E	0	comp
+2	quel	quello	D	3	mod
+3	paese	paese	S	1	prep
+
+IRV
+0	limitar-	limitare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	_	_
+1	svolgere	svolgere	V	_	_
+
+VID
+0	adottato	adottare	V	_	_
+1	risoluzione	risoluzione	S	_	_
+
+VID
+0	mettere	mettere	V	_	_
+1	a	a	E	0	comp
+2	disposizione	disposizione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	opposte	opporre	V	_	_
+
+LVC.cause
+0	dato	dare	V	_	_
+1	fuoco	fuoco	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	occupa	occupare	V	_	_
+
+VID
+0	dava	dare	V	_	_
+1	per	per	E	0	comp
+2	favorita	favorita	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	arenasse	arenare	V	_	_
+
+LVC.full
+0	ritrovano	ritrovare	V	_	_
+1	successo	successo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	ripropongono	riproporre	V	_	_
+
+VID
+0	ruba	rubare	V	_	_
+1	il	il	R	2	det
+2	tempo	tempo	S	0	obj
+
+VID
+0	indicato	indicare	V	_	_
+1	la	il	R	2	det
+2	strada	strada	S	0	obj
+
+VID
+0	entrato	entrare	V	_	_
+1	in	in	E	0	comp
+2	coma	coma	S	1	prep
+
+VID
+0	faceva	fare	V	_	_
+1	la	il	R	2	det
+2	guardia	guardia	S	0	obj
+
+IRV
+0	estendendo-	estendere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	seminare	seminare	V	_	_
+1	paura	paura	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	tratta	trattare	V	_	_
+
+VID
+0	scendere	scendere	V	_	_
+1	in	in	E	0	comp
+2	piazza	piazza	S	1	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	significato	significato	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	separata	separare	V	_	_
+
+IRV
+0	attestando-	attestare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	riportata	riportare	V	_	_
+1	notizia	notizia	S	0	subj_pass
+
+VID
+0	stato	essere	V	_	_
+1	una	una	P	2	mod
+2	stella	stella	S	0	pred
+
+IAV
+0	portarono	portare	V	_	_
+1	a	a	E	0	comp
+
+LVC.cause
+0	portarono	portare	V	_	_
+1	a	a	E	0	comp
+2	notorietà	notorietà	S	1	prep
+
+LVC.cause
+0	subì	subire	V	_	_
+1	arresto	arresto	S	0	obj
+
+VID
+0	raggiunge	raggiungere	V	_	_
+1	l'	il	R	2	det
+2	apice	apice	S	0	obj
+
+VID
+0	rinasce	rinascere	V	_	_
+1	la	il	R	3	det
+2	sua	suo	A	3	mod
+3	stella	stella	S	0	obj
+
+VID
+0	entrava	entrare	V	_	_
+1	in	in	E	0	comp
+2	scena	scena	S	1	prep
+
+VID
+0	portato	portare	V	_	_
+1	in	in	E	0	comp
+2	tribunale	tribunale	S	1	prep
+
+VID
+0	tenere	tenere	V	_	_
+1	a	a	E	0	comp_ind
+2	mente	mente	S	1	prep
+
+LVC.full
+0	impatto	impatto	S	_	_
+1	avere	avere	V	0	mod_rel
+
+VID
+0	essere	essere	V	_	_
+1	onorato	onorare	V	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	detta	dire	V	_	_
+
+VID
+0	detta	dire	V	_	_
+1	soddisfatta	soddisfatto	A	0	pred
+
+LVC.full
+0	decisione	decisione	S	_	_
+1	presa	prendere	V	_	_
+
+VID
+0	uscire	uscire	V	_	_
+1	da	da	E	0	comp
+2	coalizione	coalizione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	presenterà	presentare	V	_	_
+
+LVC.cause
+0	portare	portare	V	_	_
+1	a	a	E	0	comp
+2	compimento	compimento	S	1	prep
+
+VID
+0	prevenire	prevenire	V	_	_
+1	è	essere	V	0	arg
+2	meglio	meglio	B	1	pred
+3	che	che	C	2	arg
+4	curare	curare	V	3	sub
+
+IRV
+0	si	si	P	1	clit
+1	detto	dire	V	_	_
+
+MVC
+0	si	si	P	1	clit
+1	detto	dire	V	_	_
+2	preoccupato	preoccupare	V	1	pred
+
+IRV
+0	si	si	P	1	clit
+1	attendono	attendere	V	_	_
+
+VID
+0	dato	dare	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+
+VID
+0	dato	dare	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+3	libera	libero	A	2	mod
+
+VID
+0	Dato	dare	V	_	_
+1	il	il	R	2	det
+2	via	via	S	0	obj
+
+LVC.full
+0	dato	dare	V	_	_
+1	il	il	R	2	det
+2	nome	nome	S	0	subj
+
+LVC.cause
+0	dato	dare	V	_	_
+1	nome	nome	S	0	subj
+
+LVC.cause
+0	permetteva	permettere	V	_	_
+1	localizzazione	localizzazione	S	0	obj
+
+VID
+0	mette	mettere	V	_	_
+1	in	in	E	0	comp
+2	ginocchio	ginocchio	S	1	prep
+
+LVC.cause
+0	bloccato	bloccare	V	_	_
+1	traffico	traffico	S	0	obj
+
+LVC.cause
+0	provocato	provocare	V	_	_
+1	incidente	incidente	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	unito	unire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	registrava	registrare	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	fanno	fare	V	_	_
+2	sentire	sentire	V	1	arg
+
+VID
+0	mettendo	mettere	V	_	_
+1	a	a	E	0	comp
+2	rischio	rischio	S	1	prep
+
+IRV
+0	appropriar-	appropriare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	tenga	tenere	V	_	_
+1	conto	conto	S	0	obj
+
+VID
+0	pagare	pagare	V	_	_
+1	prezzo	prezzo	S	0	obj
+
+IAV
+0	portano	portare	V	_	_
+1	ad	ad	E	0	comp_loc
+
+LVC.full
+0	impegno	impegno	S	_	_
+1	preso	prendere	V	0	mod
+
+VID
+0	preso	prendere	V	_	_
+1	parte	parte	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	esposti	esporre	V	_	_
+
+LVC.full
+0	ha	avere	V	_	_
+1	validità	validità	S	0	obj
+
+VID
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	difficoltà	difficoltà	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	comportata	comportare	V	_	_
+
+LVC.full
+0	avuta	avere	V	_	_
+1	impressione	impressione	S	0	subj
+
+LVC.full
+0	notizia	notizia	S	1	subj_pass
+1	data	dare	V	_	_
+
+LVC.cause
+0	diede	dare	V	_	_
+1	inizio	inizio	S	0	obj
+
+LVC.cause
+0	da	da	E	_	_
+1	origine	origine	S	0	prep
+
+VID
+0	chinare	chinare	V	_	_
+1	la	il	R	2	det
+2	testa	testa	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	un	un	R	2	det
+2	piatto	piatto	S	0	pred
+3	ricco	ricco	A	2	mod
+
+IRV
+0	si	si	P	1	clit
+1	rende	rendere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	attestata	attestare	V	_	_
+
+VID
+0	render-	rendere	V	_	_
+1	noto	noto	A	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	registrano	registrare	V	_	_
+
+IRV
+0	confrontar-	confrontare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	Si	si	P	1	clit
+1	svolge	svolgere	V	_	_
+
+VID
+0	votato	votare	V	_	_
+1	la	il	R	2	det
+2	sfiducia	sfiducia	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	a	a	E	0	pred
+2	lo	il	R	1	det
+3	sbando	sbando	S	1	prep
+
+VID
+0	messa	mettere	V	_	_
+1	a	a	E	0	comp
+2	i	il	R	1	det
+3	voti	voto	S	1	prep
+
+VID
+0	è	essere	V	_	_
+1	di	di	E	0	pred
+2	l'	il	R	1	det
+3	idea	idea	S	1	prep
+
+VID
+0	creato	creare	V	_	_
+1	problemi	problema	S	0	obj
+
+VID
+0	il	il	R	_	_
+1	suggerisce	suggerire	V	_	_
+2	ipotesi	ipotesi	S	1	obj
+
+IAV
+0	passato	passare	V	_	_
+1	a	a	E	0	comp
+
+LVC.cause
+0	subendo	subire	V	_	_
+1	conseguenze	conseguenza	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	accorgono	accorgersi	V	_	_
+
+VID
+0	posta	porre	V	_	_
+1	a	a	E	0	comp
+2	gli	il	R	1	det
+3	arresti	arresto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	presentato	presentare	V	_	_
+
+LVC.full
+0	facendo	fare	V	_	_
+1	riferimento	riferimento	S	0	obj
+
+IRV
+0	curar-	curare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	avesse	avere	V	_	_
+1	intenzione	intenzione	S	0	obj
+
+VID
+0	vedono	vedere	V	_	_
+1	di	di	E	0	comp
+2	buon	buon	A	3	mod
+3	occhio	occhio	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	ripropone	riproporre	V	_	_
+
+IRV
+0	giustificar-	giustificare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	allungare	allungare	V	_	_
+1	la	il	R	2	det
+2	legislatura	legislatura	S	0	obj
+
+IRV
+0	mi	mi	P	1	clit
+1	attengo	attenere	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	recato	recare	V	_	_
+2	a	a	E	1	comp_loc
+3	il	il	R	2	det
+4	Quirinale	Quirinale	S	2	prep
+
+LVC.full
+0	accordo	accordo	S	_	_
+1	raggiunto	raggiungere	V	0	mod
+
+LVC.full
+0	raggiungerà	raggiungere	V	_	_
+1	accordo	accordo	S	0	obj
+
+LVC.full
+0	avanzato	avanzare	V	_	_
+1	proposta	proporre	V	_	_
+
+VID
+0	tornato	tornare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	carica	carica	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	fa	fare	V	_	_
+
+VID
+0	risponde	rispondere	V	_	_
+1	a	a	E	0	comp
+2	tono	tono	S	1	prep
+
+VID
+0	presa	prendere	V	_	_
+1	in	in	E	0	comp
+2	esame	esame	S	1	prep
+
+IAV
+0	passare	passare	V	_	_
+1	da	da	E	0	comp
+2	a	a	E	0	comp
+
+VID
+0	In	in	E	2	comp_loc
+1	lizza	lizza	S	0	prep
+2	sono	essere	V	_	_
+
+VID
+0	venuto	venire	V	_	_
+1	a	a	E	0	comp
+2	lo	il	R	1	det
+3	scontro	scontro	S	1	prep
+
+LVC.full
+0	pone	porre	V	_	_
+1	attenzione	attenzione	S	0	obj
+
+VID
+0	tornando	tornare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	normalità	normalità	S	1	prep
+
+LVC.full
+0	chiesto	chiedere	V	_	_
+1	dimissioni	dimissione	S	0	obj
+
+IRV
+0	piegar-	piegare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	svolte-	svolgere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	faccia	fare	V	_	_
+1	un	un	R	2	det
+2	passo	passo	S	0	obj
+3	indietro	indietro	B	2	mod
+
+IRV
+0	si	si	P	1	clit
+1	innesterà	innestare	V	_	_
+
+LVC.full
+0	svolgere	svolgere	V	_	_
+1	ruolo	ruolo	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	riuniti	riunire	V	_	_
+
+LVC.full
+0	avviare	avviare	V	_	_
+1	istruttoria	istruttoria	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	pronunciati	pronunciare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	registrata	registrare	V	_	_
+
+LVC.full
+0	mostrato	mostrare	V	_	_
+1	attenzione	attenzione	S	_	_
+
+LVC.full
+0	avere	avere	V	_	_
+1	attenzione	attenzione	S	0	obj
+
+VID
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	mostra	mostra	S	1	prep
+
+LVC.cause
+0	portare	portare	V	_	_
+1	a	a	E	0	comp
+2	termine	termine	S	1	prep
+
+VID
+0	Passa	passare	V	_	_
+1	il	il	R	2	det
+2	turno	turno	S	0	obj
+
+VID
+0	desta	destare	V	_	_
+1	scalpore	scalpore	S	0	obj
+
+IRV
+0	riuniti-	riunire	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	ha	avere	V	_	_
+1	risonanza	risonanza	S	0	obj
+
+VID
+0	avuto	avere	V	_	_
+1	esito	esito	S	0	obj
+2	positivo	positivo	A	1	mod
+
+VID
+0	essere	essere	V	_	_
+1	a	a	E	0	pred
+2	l'	il	R	1	det
+3	oscuro	oscuro	S	1	prep
+
+VID
+0	I	il	R	1	det
+1	reati	reato	S	_	_
+2	contestati	contestare	V	1	mod
+
+LVC.full
+0	conseguito	conseguire	V	_	_
+1	diploma	diploma	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	diplomati	diplomare	V	_	_
+
+VID
+0	è	essere	V	_	_
+1	un	un	R	2	det
+2	punto	punto	S	0	pred
+3	dolente	dolente	A	2	mod
+
+IAV
+0	portò	portare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	condurre	condurre	V	_	_
+1	una	una	R	2	det
+2	campagna	campagna	S	0	obj
+3	politica	politico	A	2	mod
+
+LVC.cause
+0	incidente	incidente	S	1	subj
+1	provocato	provocare	V	_	_
+
+VID
+0	dammi	dammi	S	_	_
+1	una	una	R	2	det
+2	mano	mano	S	_	_
+
+VID
+0	ho	avere	V	1	aux
+1	idea	idea	S	_	_
+
+VID
+0	serve	servire	V	_	_
+1	una	una	R	2	det
+2	mano	mano	S	0	subj
+
+VID
+0	sono	essere	V	_	_
+1	a	a	E	0	pred
+2	disposizione	disposizione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	iscrive	iscrivere	V	_	_
+
+LVC.full
+0	far-	fare	V	_	_
+1	pubblicità	pubblicità	S	0	obj
+
+LS.ICV
+0	gliene	gliene	P	1	obj
+1	fregare	fregare	V	_	_
+
+MVC
+0	lascio	lasciare	V	_	_
+1	perdere	perdere	V	0	mod
+
+VID
+0	mi	mi	P	1	comp_ind
+1	rendo	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+VID
+0	metter-	mettere	V	_	_
+1	in	in	E	0	comp
+2	mostra	mostra	S	1	prep
+
+VID
+0	mantenendo	mantenere	V	_	_
+1	la	il	R	2	det
+2	parola	parola	S	0	obj
+3	data	dare	V	2	mod
+
+VID
+0	parola	parola	S	_	_
+1	data	dare	V	0	mod
+
+VID
+0	fa	fare	V	_	_
+1	piacere	piacere	V	0	arg
+
+VID
+0	la	il	R	1	det
+1	campagna	campagna	S	_	_
+2	fatto	fare	V	_	_
+
+VID
+0	mantenuto	mantenere	V	_	_
+1	la	il	R	2	det
+2	promessa	promessa	S	0	obj
+
+IRV
+0	mi	mi	P	1	comp_ind
+1	troverà	trovare	V	_	_
+
+VID
+0	dando-	dare	V	_	_
+1	una	una	R	2	det
+2	coltellata	coltellata	S	0	obj
+3	a	a	E	2	comp
+4	le	il	R	3	det
+5	spalle	spalla	S	3	prep
+
+VID
+0	troverebbe	trovare	V	_	_
+1	scusa	scusa	S	0	obj
+
+IAV
+0	su	su	E	2	comp
+1	si	si	P	2	clit
+2	basa	basare	V	_	_
+
+IRV
+0	focalizzar-	focalizzare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	diedero	dare	V	_	_
+1	vita	vita	S	0	pred
+
+LVC.full
+0	avevano	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	possibilità	possibilità	S	_	_
+
+LVC.cause
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	funzione	funzione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	trovò	trovare	V	_	_
+
+LVC.full
+0	hanno	avere	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+VID
+0	spingere	spingere	V	_	_
+1	in	in	E	0	comp
+2	l'	il	R	1	det
+3	ombra	ombra	S	1	prep
+
+IRV
+0	si	si	P	2	clit
+1	è	essere	V	2	aux
+2	adattata	adattare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	adattata	adattare	V	_	_
+
+IRV
+0	è	essere	V	1	aux
+1	adattata	adattare	V	_	_
+2	si	si	P	_	_
+
+IRV
+0	adattata	adattare	V	_	_
+1	si	si	P	_	_
+
+IRV
+0	si	si	P	1	clit
+1	scontrasse	scontrare	V	_	_
+
+LVC.full
+0	ha	avere	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+LVC.cause
+0	offerto	offrire	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+IRV
+0	riferir-	riferire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	messe	mettere	V	_	_
+1	in	in	E	0	comp
+2	relazione	relazione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	preoccupò	preoccupare	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	misero	misero	A	_	_
+2	in	in	E	1	comp
+3	evidenza	evidenza	S	2	prep
+
+IAV
+0	basata	basare	V	_	_
+1	su	su	E	0	comp_loc
+
+IAV
+0	si	si	P	1	clit
+1	basava	basare	V	_	_
+2	su	su	E	1	comp
+
+IAV
+0	basava	basare	V	_	_
+1	su	su	E	0	comp
+
+IAV
+0	Si	si	P	_	_
+1	basate	basare	V	_	_
+2	su	su	E	1	comp
+
+LVC.cause
+0	dettero	dettero	S	_	_
+1	origine	origine	S	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	riversarono	riversare	V	_	_
+
+VID
+0	chiamò	chiamare	V	_	_
+1	a	a	E	0	comp
+2	sé	sé	P	1	prep
+
+VID
+0	essere	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+
+LVC.full
+0	prende	prendere	V	_	_
+1	nome	nome	S	0	obj
+
+LVC.full
+0	prende	prendere	V	_	_
+1	il	il	R	2	det
+2	nome	nome	S	0	obj
+
+VID
+0	presenta	presentare	V	_	_
+1	problemi	problema	S	0	obj
+
+IAV
+0	il	il	R	_	_
+1	sono	essere	V	_	_
+2	frutto	frutto	S	1	pred
+3	di	di	E	2	comp
+
+MVC
+0	sono	essere	V	_	_
+1	frutto	frutto	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	dare	dare	V	_	_
+1	un	un	R	2	det
+2	senso	senso	S	0	obj
+
+VID
+0	dare	dare	V	_	_
+1	senso	senso	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	sottoponeva	sottoporre	V	_	_
+
+VID
+0	ebbero	avere	V	_	_
+1	peso	peso	S	0	obj
+
+VID
+0	stare	stare	V	_	_
+1	in	in	E	0	comp
+2	piedi	piede	S	1	prep
+
+LVC.full
+0	ricoprire	ricoprire	V	_	_
+1	funzione	funzione	S	0	obj
+
+LVC.full
+0	essere	essere	V	_	_
+1	in	in	E	_	_
+2	atto	atto	S	1	prep
+
+LVC.full
+0	era	essere	V	_	_
+1	d'	d'	E	0	pred
+2	accordo	accordo	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	dedica	dedicare	V	_	_
+
+VID
+0	date	dare	V	_	_
+1	per	per	E	0	comp
+2	scontate	scontato	A	1	prep
+
+VID
+0	scolpita	scolpire	V	_	_
+1	in	in	E	0	comp
+2	la	il	R	1	det
+3	memoria	memoria	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	configura	configurare	V	_	_
+
+VID
+0	dà	dare	V	_	_
+1	impressione	impressione	S	0	obj
+
+LVC.full
+0	avere	avere	V	_	_
+1	impressioni	impressione	S	_	_
+
+VID
+0	dare	dare	V	_	_
+1	l'	il	R	2	det
+2	idea	idea	S	0	obj
+
+VID
+0	dare	dare	V	_	_
+1	idea	idea	S	0	obj
+
+VID
+0	va	andare	V	_	_
+1	da	da	E	0	comp
+2	sé	sé	P	1	prep
+
+LVC.cause
+0	dare	dare	V	_	_
+1	sensazioni	sensazione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	affaccia	affacciare	V	_	_
+
+IRV
+0	rapportar-	rapportare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	disinteressa	disinteressare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	riuniva	riunire	V	_	_
+
+VID
+0	stabilire	stabilire	V	_	_
+1	un	un	R	2	det
+2	punto	punto	S	0	obj
+3	fermo	fermo	A	2	mod
+
+IAV
+0	guardasse	guardare	V	_	_
+1	a	a	E	0	comp
+
+IAV
+0	porta	portare	V	_	_
+1	ad	ad	E	_	_
+
+IAV
+0	Basati	basare	V	_	_
+1	su	su	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	occupò	occupare	V	_	_
+
+LVC.full
+0	svolgere	svolgere	V	_	_
+1	funzione	funzione	S	0	obj
+
+LVC.full
+0	diedero	dare	V	_	_
+1	contributi	contributo	S	0	obj
+
+VID
+0	faceva	fare	V	_	_
+1	parte	parte	S	0	pred
+
+IAV
+0	portò	portare	V	_	_
+1	a	a	E	0	comp_loc
+
+IRV
+0	ci	ci	P	1	comp
+1	accorse	accorgersi	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	accorse	accorgersi	V	_	_
+
+IRV
+0	ci	ci	P	1	comp
+1	attendeva	attendere	V	_	_
+
+VID
+0	fatto	fare	V	_	_
+1	passi	passo	S	0	obj
+2	in	in	E	0	comp
+3	avanti	avanti	B	2	prep
+
+LVC.full
+0	giocare	giocare	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	servono	servire	V	_	_
+
+VID
+0	l'	il	R	_	_
+1	prende	prendere	V	_	_
+2	origini	origine	S	1	obj
+
+VID
+0	prende	prendere	V	_	_
+1	le	il	R	2	det
+2	origini	origine	S	0	obj
+
+LVC.cause
+0	da	da	E	_	_
+1	origini	origine	S	0	prep
+
+IRV
+0	si	si	P	1	clit
+1	considerano	considerare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	associa	associare	V	_	_
+
+VID
+0	diano	dare	V	_	_
+1	luogo	luogo	S	0	obj
+
+LVC.full
+0	trovare	trovare	V	_	_
+1	soluzione	soluzione	S	0	obj
+
+IRV
+0	verificar-	verificare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	ci	ci	P	1	comp
+1	troviamo	trovare	V	_	_
+
+IAV
+0	arrivano	arrivare	V	_	_
+1	a	a	E	0	arg
+
+LVC.full
+0	dar-	dare	V	_	_
+1	definizione	definizione	S	0	obj
+
+LVC.full
+0	facendo	fare	V	_	_
+1	uso	uso	S	0	obj
+
+LVC.full
+0	metter-	mettere	V	_	_
+1	in	in	E	0	comp
+2	discussione	discussione	S	1	prep
+
+IAV
+0	sono	essere	V	1	aux
+1	dotati	dotare	V	_	_
+2	di	di	E	1	comp
+
+LVC.full
+0	avere	avere	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+LVC.full
+0	fornire	fornire	V	_	_
+1	contributo	contributo	S	0	obj
+
+VID
+0	abbandonata	abbandonare	V	_	_
+1	l'	il	R	2	det
+2	idea	idea	S	0	obj
+
+VID
+0	si	si	P	1	clit
+1	fa	fare	V	_	_
+2	portavoce	portavoce	S	1	subj
+
+IRV
+0	si	si	P	1	clit
+1	stabilisce	stabilire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	riassumono	riassumere	V	_	_
+
+LVC.full
+0	ottenne	ottenere	V	_	_
+1	specializzazione	specializzazione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	associò	associare	V	_	_
+
+LVC.full
+0	ebbero	avere	V	_	_
+1	risonanza	risonanza	S	0	obj
+
+IAV
+0	puntava	puntare	V	_	_
+1	a	a	E	0	arg
+
+VID
+0	mettere	mettere	V	_	_
+1	in	in	E	0	comp
+2	risalto	risalto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	unì	unire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	distinse	distinguere	V	_	_
+
+VID
+0	conquistarono	conquistare	V	_	_
+1	i	il	R	2	det
+2	titoli	titolo	S	0	obj
+
+VID
+0	prese	prendere	V	_	_
+1	bene	bene	B	0	mod
+
+VID
+0	Dando-	dare	V	_	_
+1	si	si	P	0	clit
+2	a	a	E	0	comp
+3	la	il	R	2	det
+4	fuga	fuga	S	2	prep
+
+IRV
+0	Dando-	dare	V	_	_
+1	si	si	P	0	clit
+2	a	a	E	0	comp
+3	fuga	fuga	S	2	prep
+
+VID
+0	Dando-	dare	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	fuga	fuga	S	1	prep
+
+IRV
+0	si	si	P	_	_
+1	batté	batté	C	_	_
+
+LVC.full
+0	tiene	tenere	V	_	_
+1	un	un	R	2	det
+2	discorso	discorso	S	0	obj
+
+IAV
+0	di	di	E	_	_
+1	è	essere	V	_	_
+2	in	in	E	1	pred
+3	grado	grado	S	2	prep
+
+LVC.full
+0	fece	fare	V	_	_
+1	ricorso	ricorso	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	dichiaravano	dichiarare	V	_	_
+
+VID
+0	Esplode	esplodere	V	_	_
+1	il	il	R	2	det
+2	fenomeno	fenomeno	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	integrata	integrare	V	_	_
+
+LVC.full
+0	Entra	entrare	V	_	_
+1	in	in	E	0	comp
+2	crisi	crisi	S	1	prep
+
+VID
+0	Conosce	conoscere	V	_	_
+1	successo	successo	S	0	subj
+
+LVC.full
+0	riscuotere	riscuotere	V	_	_
+1	successo	successo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	registra	registrare	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	fa	fare	V	_	_
+2	sentire	sentire	V	1	arg
+
+IRV
+0	si	si	P	_	_
+1	sentire	sentire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	evolve	evolvere	V	_	_
+
+LVC.full
+0	entrano	entrare	V	_	_
+1	in	in	E	0	comp
+2	crisi	crisi	S	1	prep
+
+IRV
+0	riprender-	riprendere	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	riprendono	riprendere	V	_	_
+
+LVC.full
+0	riscuote	riscuotere	V	_	_
+1	successo	successo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	verificato	verificare	V	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	impongono	imporre	V	_	_
+
+LVC.full
+0	riscuote	riscuotere	V	_	_
+1	successo	successo	V	0	arg
+
+VID
+0	dominano	dominare	V	_	_
+1	le	il	R	2	det
+2	classifiche	classifica	S	0	obj
+
+LVC.full
+0	raccoglie	raccogliere	V	_	_
+1	successo	successo	S	0	obj
+
+VID
+0	precipita	precipitare	V	_	_
+1	in	in	E	0	comp
+2	i	il	R	1	det
+3	consensi	consenso	S	1	prep
+
+LVC.full
+0	fanno	fare	V	_	_
+1	scalpore	scalpore	S	0	obj
+
+VID
+0	conoscono	conoscere	V	_	_
+1	un	un	R	2	det
+2	successo	successo	S	0	obj
+
+VID
+0	conoscono	conoscere	V	_	_
+1	successo	successo	S	0	obj
+
+VID
+0	esce	uscire	V	_	_
+1	di	di	E	0	comp
+2	scena	scena	S	1	prep
+
+VID
+0	usciti	uscire	V	_	_
+1	di	di	E	0	comp
+2	produzione	produzione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	trasferì	trasferire	V	_	_
+
+VID
+0	aprire	aprire	V	_	_
+1	società	società	S	0	obj
+
+VID
+0	perse	perdere	V	_	_
+1	le	il	R	2	det
+2	gambe	gamba	S	0	obj
+
+IRV
+0	dedicar-	dedicare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	accorto	accorgersi	V	_	_
+
+VID
+0	rimediare	rimediare	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	danno	danno	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	distinti	distinguere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	evolse	evolvere	V	_	_
+
+VID
+0	dichiarato	dichiarare	V	_	_
+1	la	il	R	2	det
+2	neutralità	neutralità	S	0	obj
+
+VID
+0	trae	trarre	V	_	_
+1	origine	origine	S	0	obj
+
+LVC.cause
+0	ridusse	ridurre	V	_	_
+1	la	il	R	2	det
+2	presenza	presenza	S	0	obj
+
+VID
+0	fece	fare	V	_	_
+1	parte	parte	S	0	pred
+
+IAV
+0	portando	portare	V	_	_
+1	ad	ad	E	0	arg
+
+LVC.cause
+0	il	il	R	_	_
+1	sancirono	sancire	V	_	_
+2	divisione	divisione	S	1	obj
+
+LVC.cause
+0	sancirono	sancire	V	_	_
+1	la	il	R	2	det
+2	divisione	divisione	S	0	obj
+
+VID
+0	entrò	entrare	V	_	_
+1	a	a	E	0	arg
+2	far	fare	V	1	prep
+3	parte	parte	S	2	obj
+
+LVC.full
+0	Fanno	fare	V	_	_
+1	eccezione	eccezione	S	0	obj
+
+LVC.full
+0	fa	fare	V	_	_
+1	riferimento	riferimento	S	0	subj
+
+LVC.full
+0	raggiungere	raggiungere	V	_	_
+1	accordo	accordo	S	0	obj
+
+VID
+0	facente	facente	A	1	mod
+1	parte	parte	S	_	_
+
+VID
+0	facevano	fare	V	_	_
+1	parte	parte	S	0	pred
+
+VID
+0	entra	entrare	V	_	_
+1	a	a	E	0	arg
+2	far	fare	V	1	prep
+3	parte	parte	S	2	obj
+
+VID
+0	entrato	entrare	V	_	_
+1	in	in	E	0	comp
+2	vigore	vigore	S	1	prep
+
+IRV
+0	dotar-	dotare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	espresso	esprimere	V	_	_
+1	il	il	R	2	det
+2	desiderio	desiderio	S	0	obj
+
+VID
+0	Entrata	entrare	V	_	_
+1	in	in	E	0	comp
+2	vigore	vigore	S	1	prep
+
+VID
+0	dar	dare	V	_	_
+1	modo	modo	S	0	obj
+
+VID
+0	A	A	E	3	comp_temp
+1	l'	il	R	0	det
+2	appello	appello	S	0	prep
+3	mancheranno	mancare	V	_	_
+
+VID
+0	fu	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+
+IAV
+0	fu	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+3	di	di	E	2	arg
+
+LVC.cause
+0	dando	dare	V	_	_
+1	avvio	avvio	V	0	arg
+
+VID
+0	trae	trarre	V	_	_
+1	origini	origine	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	limita	limitare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	confrontati	confrontare	V	_	_
+
+IRV
+0	identificar-	identificare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	metter-	mettere	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	far-	fare	V	_	_
+1	ne	ne	P	0	comp
+2	dono	dono	S	0	pred
+
+LVC.full
+0	sviluppa	sviluppare	V	_	_
+1	una	una	R	2	det
+2	teoria	teoria	S	0	obj
+
+VID
+0	tempo	tempo	S	_	_
+1	perso	perdere	V	0	mod
+
+LVC.cause
+0	porta	portare	V	_	_
+1	benefici	beneficio	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	valore	valore	S	0	obj
+
+VID
+0	vale	valere	V	_	_
+1	a	a	E	0	arg
+2	dire	dire	V	1	prep
+
+IAV
+0	basato	basare	V	_	_
+1	su	su	E	0	conj
+
+IRV
+0	distanziar-	distanziare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	mantengono	mantenere	V	_	_
+
+LVC.full
+0	mettendo	mettere	V	_	_
+1	in	in	E	0	comp
+2	dubbio	dubbio	S	1	prep
+
+VID
+0	mettendo	mettere	V	_	_
+1	in	in	E	0	comp
+2	relazione	relazione	S	1	prep
+
+LVC.cause
+0	dà	dare	V	_	_
+1	origine	origine	S	0	obj
+
+VID
+0	raggiunge	raggiungere	V	_	_
+1	un	un	R	2	det
+2	equilibrio	equilibrio	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	imposta	imporre	V	_	_
+
+VID
+0	prende	prendere	V	_	_
+1	a	a	E	0	comp
+2	prestito	prestito	S	1	prep
+
+LVC.full
+0	avere	avere	V	_	_
+1	potere	potere	S	0	obj
+
+IRV
+0	s'	s'	P	1	obj
+1	inserisce	inserire	V	_	_
+
+IAV
+0	portano	portare	V	_	_
+1	ad	ad	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	distanzia	distanziare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	avvale	avvalersi	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	avvaleva	avvalersi	V	_	_
+
+LVC.full
+0	mostrano	mostrare	V	_	_
+1	interesse	interesse	S	0	obj
+
+VID
+0	Arrivò	arrivare	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	potere	potere	S	1	prep
+
+LVC.cause
+0	mise	mettere	V	_	_
+1	fine	fine	S	0	obj
+
+IRV
+0	trasferir-	trasferire	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	è	essere	V	_	_
+1	di	di	E	0	pred
+2	origine	origine	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	diplomò	diplomare	V	_	_
+
+IAV
+0	portò	portare	V	_	_
+1	a	a	E	0	arg
+
+IRV
+0	si	si	P	1	clit
+1	dedicò	dedicare	V	_	_
+
+LVC.full
+0	era	essere	V	_	_
+1	in	in	E	0	pred
+2	crisi	crisi	S	1	prep
+
+VID
+0	mettendo	mettere	V	_	_
+1	in	in	E	0	comp
+2	ginocchio	ginocchio	S	1	prep
+
+VID
+0	era	essere	V	_	_
+1	sotto	sotto	B	0	mod
+2	controllo	controllo	S	0	pred
+
+IAV
+0	è	essere	V	_	_
+1	soggetto	soggetto	S	0	pred
+2	a	a	E	0	comp
+
+LVC.full
+0	diede	dare	V	_	_
+1	indicazione	indicazione	S	0	obj
+
+IRV
+0	esser-	essere	V	_	_
+1	si	si	P	2	clit
+2	opposto	opposto	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	affidò	affidare	V	_	_
+
+VID
+0	mise	mettere	V	_	_
+1	in	in	E	0	comp
+2	campo	campo	S	1	prep
+
+VID
+0	dichiararono	dichiarare	V	_	_
+1	bancarotta	bancarotta	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	arrestato	arrestare	V	_	_
+
+VID
+0	prese	prendere	V	_	_
+1	il	il	R	2	det
+2	posto	posto	S	0	obj
+
+IAV
+0	furono	essere	V	1	aux
+1	oggetto	oggetto	S	_	_
+2	di	di	E	1	comp
+
+VID
+0	posto	porre	V	_	_
+1	a	a	E	0	comp
+2	gli	il	R	1	det
+3	arresti	arresto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	oppose	opporre	V	_	_
+
+LVC.full
+0	fare	fare	V	_	_
+1	ritorno	ritorno	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	fondava	fondare	V	_	_
+
+IRV
+0	affacciar-	affacciare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	dimise	dimettere	V	_	_
+
+LVC.full
+0	sollevava	sollevare	V	_	_
+1	dubbi	dubbio	S	0	obj
+
+IAV
+0	portando	portare	V	_	_
+1	a	a	E	0	arg
+
+LVC.full
+0	fatto	fare	V	_	_
+1	ingresso	ingresso	S	0	obj
+
+LVC.cause
+0	pose	porre	V	_	_
+1	fine	fine	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	presentavano	presentare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	dotò	dotare	V	_	_
+
+VID
+0	mise	mettere	V	_	_
+1	a	a	E	0	comp
+2	punto	punto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	impadronì	impadronirsi	V	_	_
+
+IAV
+0	portò	portare	V	_	_
+1	ad	ad	E	0	comp
+
+IAV
+0	sono	essere	V	_	_
+1	dotati	dotare	V	_	_
+2	di	di	E	1	arg
+
+VID
+0	entrò	entrare	V	_	_
+1	in	in	E	0	comp
+2	carica	carica	S	1	prep
+
+IAV
+0	portarono	portare	V	_	_
+1	a	a	E	0	arg
+
+LVC.cause
+0	portò	portare	V	_	_
+1	a	a	E	0	comp
+2	l'	il	R	1	det
+3	annessione	annessione	S	1	prep
+
+IAV
+0	portarono	portare	V	_	_
+1	ad	ad	E	0	comp
+
+LVC.cause
+0	portò	portare	V	_	_
+1	a	a	E	0	comp_loc
+2	l'	il	R	1	det
+3	annessione	annessione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	lega	legare	V	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	trova	trovare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	sviluppata	sviluppare	V	_	_
+
+LVC.full
+0	fare	fare	V	_	_
+1	riferimento	riferimento	S	0	obj
+
+IRV
+0	Si	si	P	1	clit
+1	distinguono	distinguere	V	_	_
+
+IAV
+0	si	si	P	1	clit
+1	basa	basare	V	_	_
+2	su	su	E	1	comp_loc
+
+IRV
+0	si	si	P	1	clit
+1	caratterizza	caratterizzare	V	_	_
+
+IRV
+0	sviluppar-	sviluppare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	trova	trovare	V	_	_
+1	impiego	impiego	S	0	obj
+
+IRV
+0	spingendo-	spingere	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	associando-	associare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	sono	essere	V	_	_
+1	di	di	E	_	_
+2	origine	origine	S	1	prep
+
+VID
+0	è	essere	V	_	_
+1	degno	degno	A	0	pred
+2	di	di	E	1	comp
+3	nota	nota	S	2	prep
+
+IRV
+0	si	si	P	1	clit
+1	sviluppa	sviluppare	V	_	_
+
+LVC.cause
+0	dar	dare	V	_	_
+1	vita	vita	S	0	obj
+
+IAV
+0	è	essere	V	_	_
+1	oggetto	oggetto	S	_	_
+2	di	di	E	1	comp
+
+LVC.full
+0	danni	danno	S	_	_
+1	provocati	provocare	V	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	distingue	distinguere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	imposte	imporre	V	_	_
+
+IRV
+0	si	si	P	_	_
+1	mescolati	mescolare	V	_	_
+
+LVC.full
+0	svolge	svolgere	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+VID
+0	facenti	facente	A	_	_
+1	parte	parte	S	_	_
+
+LVC.full
+0	abbiano	avere	V	_	_
+1	origine	origine	S	0	obj
+
+LVC.full
+0	trovino	trovare	V	_	_
+1	spiegazione	spiegazione	S	0	obj
+
+IAV
+0	basa	basare	V	_	_
+1	su	su	E	0	comp_loc
+
+IAV
+0	lega	legare	V	_	_
+1	a	a	E	0	comp
+
+IRV
+0	dedicando-	dedicare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	è	essere	V	_	_
+1	storia	storia	S	0	pred
+2	passata	passato	A	1	mod
+
+LVC.cause
+0	tratto	trarre	V	_	_
+1	in	in	E	0	comp
+2	salvo	salvo	S	1	prep
+
+VID
+0	ebbe	avere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	attivo	attivo	S	1	prep
+
+IAV
+0	di	di	E	_	_
+1	si	si	P	2	clit
+2	trattava	trattare	V	_	_
+
+VID
+0	trovata	trovare	V	_	_
+1	traccia	traccia	S	0	subj
+
+VID
+0	fanno	fare	V	1	mod
+1	parte	partire	V	_	_
+
+VID
+0	tener	tenere	V	_	_
+1	conto	conto	S	0	obj
+
+IAV
+0	essere	essere	V	1	aux
+1	dotata	dotare	V	_	_
+2	di	di	E	1	comp
+
+IAV
+0	sono	essere	V	_	_
+1	soggette	soggetto	A	0	pred
+2	a	a	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	reca	recare	V	_	_
+
+IAV
+0	sono	essere	V	_	_
+1	soggette	soggetto	A	_	_
+2	ad	ad	E	_	_
+
+LVC.full
+0	Fa	fare	V	_	_
+1	parte	parte	S	0	obj
+
+IAV
+0	è	essere	V	_	_
+1	soggetto	soggetto	S	0	pred
+2	a	a	E	0	comp_ind
+
+IRV
+0	si	si	P	1	clit
+1	costituisce	costituire	V	_	_
+
+VID
+0	facenti	facente	A	1	mod
+1	parte	parte	S	_	_
+
+IAV
+0	si	si	P	1	clit
+1	tratti	trattare	V	_	_
+2	di	di	E	_	_
+
+VID
+0	ebbe	avere	V	_	_
+1	luogo	luogo	S	0	obj
+
+LVC.full
+0	giocato	giocare	V	_	_
+1	un	un	R	2	det
+2	ruolo	ruolo	S	0	obj
+
+IAV
+0	è	essere	V	1	aux
+1	oggetto	oggetto	S	_	_
+2	di	di	E	1	comp
+
+IRV
+0	si	si	P	1	clit
+1	chiamava	chiamare	V	_	_
+
+LVC.full
+0	dà	dare	V	_	_
+1	interpretazione	interpretazione	S	0	obj
+
+LVC.cause
+0	darà	dare	V	_	_
+1	fama	fama	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	trovate	trovare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	circondò	circondare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	immerse	immergere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	presentò	presentare	V	_	_
+
+LVC.full
+0	fece	fare	V	_	_
+1	comparsa	comparsa	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	manifestò	manifestare	V	_	_
+
+VID
+0	perde	perdere	V	_	_
+1	ogni	ogni	D	2	mod
+2	traccia	traccia	S	0	subj
+
+IRV
+0	si	si	P	1	clit
+1	accontenta	accontentare	V	_	_
+
+IRV
+0	distinguer-	distinguere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	era	essere	V	_	_
+1	in	in	E	0	pred
+2	rotta	rotta	S	1	prep
+
+VID
+0	non	non	B	1	neg
+1	hanno	avere	V	_	_
+2	nulla	nulla	P	1	obj
+3	a	a	E	1	comp
+4	che	che	P	3	concat
+5	vedere	vedere	V	3	prep
+
+IRV
+0	si	si	P	1	clit
+1	riferiscono	riferire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	discostano	discostare	V	_	_
+
+IAV
+0	porta	portare	V	_	_
+1	ad	ad	E	0	comp
+
+LVC.full
+0	fa	fare	V	_	_
+1	parte	parte	S	0	subj
+
+LVC.full
+0	svolgere	svolgere	V	_	_
+1	funzioni	funzione	S	0	obj
+
+LVC.full
+0	svolge	svolgere	V	_	_
+1	funzione	funzione	S	0	obj
+
+LVC.full
+0	funzione	funzione	S	_	_
+1	svolta	svolgere	V	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	verifica	verificare	V	_	_
+
+LVC.full
+0	svolgono	svolgere	V	_	_
+1	funzione	funzione	S	0	obj
+
+IRV
+0	dimostrando-	dimostrare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	prendendo	prendere	V	_	_
+1	in	in	E	0	comp
+2	considerazione	considerazione	S	1	prep
+
+IAV
+0	si	si	P	1	clit
+1	basavano	basare	V	_	_
+2	su	su	E	1	comp
+
+IAV
+0	basavano	basare	V	_	_
+1	su	su	E	0	comp
+
+IAV
+0	passati	passare	V	_	_
+1	a	a	E	0	arg
+
+IAV
+0	si	si	P	_	_
+1	basata	basare	V	_	_
+2	su	su	E	1	comp
+
+IRV
+0	si	si	P	1	clit
+1	avvicina	avvicinare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	interessò	interessare	V	_	_
+
+LVC.full
+0	funzioni	funzione	S	_	_
+1	svolte	svolgere	V	0	mod
+
+IAV
+0	si	si	P	1	clit
+1	tratta	trattare	V	_	_
+2	di	di	E	_	_
+
+VID
+0	È	essere	V	_	_
+1	il	il	R	2	det
+2	caso	caso	S	0	pred
+
+IRV
+0	unir-	unire	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	Si	si	P	1	clit
+1	presentare	presentare	V	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	trovano	trovare	V	_	_
+
+VID
+0	Fanno	fare	V	_	_
+1	parte	parte	S	0	pred
+
+IRV
+0	Si	si	P	1	clit
+1	iscrisse	iscrivere	V	_	_
+
+LVC.full
+0	prese	prendere	V	_	_
+1	la	il	R	2	det
+2	laurea	laurea	S	0	obj
+
+IRV
+0	interessar-	interessare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	mostrò	mostrare	V	_	_
+1	attenzione	attenzione	S	0	obj
+
+VID
+0	ricoprì	ricoprire	V	_	_
+1	la	il	R	2	det
+2	carica	carica	S	0	obj
+
+LVC.full
+0	assunse	assumere	V	_	_
+1	incarico	incarico	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	ritrovò	ritrovare	V	_	_
+
+VID
+0	Vale	valere	V	_	_
+1	a	a	E	0	arg
+2	dire	dire	V	1	prep
+
+LVC.full
+0	stato	essere	V	_	_
+1	a	a	E	0	comp
+2	la	il	R	1	det
+3	guida	guida	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	rendere	rendere	V	_	_
+
+LVC.full
+0	venire	venire	V	_	_
+1	a	a	E	0	comp
+2	conoscenza	conoscenza	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	serviti	servire	V	_	_
+
+VID
+0	lanciò	lanciare	V	_	_
+1	un	un	R	2	det
+2	appello	appello	S	0	obj
+
+LVC.full
+0	prestarono	prestare	V	_	_
+1	attenzione	attenzione	S	0	mod
+
+IRV
+0	rendendo-	rendere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	sentire	sentire	V	_	_
+1	ragioni	ragione	S	0	obj
+
+LVC.full
+0	notizia	notizia	S	1	subj
+1	riportata	riportare	V	_	_
+
+IAV
+0	legato	legare	V	_	_
+1	a	a	E	_	_
+
+IRV
+0	ci	ci	P	1	comp
+1	aspetta	aspettare	V	_	_
+
+LVC.full
+0	ha	avere	V	_	_
+1	certezza	certezza	S	0	obj
+
+IAV
+0	basati	basare	V	_	_
+1	su	su	E	0	comp
+
+VID
+0	sono	essere	V	_	_
+1	su	su	E	0	pred
+2	il	il	R	1	det
+3	mercato	mercato	S	1	prep
+
+VID
+0	mettere	mettere	V	_	_
+1	da	da	E	0	comp
+2	parte	parte	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	caratterizzavano	caratterizzare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	caratterizzano	caratterizzare	V	_	_
+
+LVC.full
+0	fa	fare	V	_	_
+1	uso	uso	S	0	obj
+
+LVC.cause
+0	portava	portare	V	_	_
+1	a	a	E	0	comp
+2	blocchi	blocco	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	appropriavano	appropriare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	abituati	abituare	V	_	_
+
+VID
+0	far-	fare	V	_	_
+1	ne	ne	P	0	comp
+2	a	a	E	0	comp
+3	meno	meno	B	2	prep
+
+VID
+0	far-	fare	V	_	_
+1	a	a	E	0	comp
+2	meno	meno	B	1	prep
+
+VID
+0	è	essere	V	_	_
+1	di	di	E	0	pred
+2	interesse	interesse	S	1	prep
+
+VID
+0	aveva	avere	V	_	_
+1	in	in	E	0	comp
+2	mano	mano	S	1	prep
+
+LVC.full
+0	aver	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+IRV
+0	mantenendo-	mantenere	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	distingueva	distinguere	V	_	_
+
+VID
+0	faceva	fare	V	_	_
+1	capo	capo	S	0	obj
+
+VID
+0	erano	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+
+IAV
+0	erano	essere	V	_	_
+1	in	in	E	0	pred
+2	grado	grado	S	1	prep
+3	di	di	E	2	arg
+
+VID
+0	metteva	mettere	V	_	_
+1	a	a	E	0	comp
+2	disposizione	disposizione	S	1	prep
+
+VID
+0	degna	degno	A	_	_
+1	di	di	E	0	comp
+2	nota	nota	S	1	prep
+3	è	essere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	fonda	fondare	V	_	_
+
+VID
+0	era	essere	V	_	_
+1	di	di	E	0	comp
+2	tutto	tutto	B	1	prep
+3	rispetto	rispetto	S	1	prep
+
+IAV
+0	erano	essere	V	1	aux
+1	dotati	dotare	V	_	_
+2	di	di	E	1	comp
+
+LVC.full
+0	fece	fare	V	_	_
+1	ingresso	ingresso	S	0	obj
+
+LVC.full
+0	messa	mettere	V	_	_
+1	in	in	E	0	comp
+2	crisi	crisi	S	1	prep
+
+VID
+0	ribaltare	ribaltare	V	_	_
+1	la	il	R	2	det
+2	situazione	situazione	S	0	obj
+
+LVC.full
+0	erano	essere	V	_	_
+1	a	a	E	0	pred
+2	conoscenza	conoscenza	S	1	prep
+
+VID
+0	visto	vedere	V	_	_
+1	la	il	R	2	det
+2	luce	luce	S	0	obj
+
+LVC.full
+0	Fecero	fare	V	_	_
+1	il	il	R	2	det
+2	esordio	esordio	S	0	obj
+
+IAV
+0	legate	legare	V	_	_
+1	a	a	E	0	comp_loc
+
+LVC.cause
+0	offrendo	offrire	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+LVC.cause
+0	nome	nome	S	_	_
+1	dato	dare	V	0	mod
+
+VID
+0	versioni	versione	S	_	_
+1	rilasciate	rilasciare	V	0	mod
+
+VID
+0	messe	mettere	V	_	_
+1	a	a	E	0	comp
+2	disposizione	disposizione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	dota	dotare	V	_	_
+
+VID
+0	fare	fare	V	_	_
+1	presente	presente	A	0	pred
+
+IAV
+0	è	essere	V	1	aux
+1	dotata	dotare	V	_	_
+2	di	di	E	_	_
+
+LVC.full
+0	faccia	faccia	S	1	subj
+1	richiesta	richiedere	V	_	_
+
+LVC.full
+0	abbiano	avere	V	_	_
+1	una	una	R	2	det
+2	resa	resa	S	0	obj
+
+VID
+0	pone	porre	V	_	_
+1	l'	il	R	2	det
+2	accento	accento	S	0	obj
+
+LVC.full
+0	prese	prendere	V	_	_
+1	il	il	R	2	det
+2	nome	nome	S	0	obj
+
+LVC.full
+0	prese	prendere	V	_	_
+1	nome	nome	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	trasferirono	trasferire	V	_	_
+
+IRV
+0	rifugiar-	rifugiare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	stabiliti	stabilire	V	_	_
+
+LVC.full
+0	prendesse	prendere	V	_	_
+1	possesso	possesso	S	0	obj
+
+VID
+0	passò	passare	V	_	_
+1	sotto	sotto	E	0	comp_loc
+2	il	il	R	3	det
+3	dominio	dominio	S	1	prep
+
+IAV
+0	passò	passare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	è	essere	V	_	_
+1	parte	parte	S	0	pred
+
+IAV
+0	è	essere	V	_	_
+1	parte	parte	S	0	pred
+2	di	di	E	_	_
+
+IAV
+0	l'	il	R	_	_
+1	è	essere	V	_	_
+2	frutto	frutto	S	1	pred
+3	di	di	E	2	comp
+
+IRV
+0	levar-	levare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	avuto	avere	V	_	_
+1	bisogno	bisogno	S	0	obj
+
+LVC.full
+0	tenendo	tenere	V	_	_
+1	in	in	E	0	comp
+2	considerazione	considerazione	S	1	prep
+
+LVC.cause
+0	danno	dare	V	_	_
+1	lavoro	lavoro	S	0	obj
+
+IRV
+0	tener-	tenere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	messa	mettere	V	_	_
+1	in	in	E	0	comp
+2	sicurezza	sicurezza	S	1	prep
+
+IAV
+0	milita	militare	V	_	_
+1	in	in	E	0	comp
+
+VID
+0	teniamo	tenere	V	_	_
+1	conto	conto	S	0	obj
+
+LVC.full
+0	aveva	avere	V	_	_
+1	durata	durata	S	0	obj
+
+LVC.full
+0	Prende	prendere	V	_	_
+1	nome	nome	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	rivelò	rivelare	V	_	_
+
+VID
+0	fanno	fare	V	_	_
+1	bella	bello	A	2	mod
+2	mostra	mostra	S	0	obj
+
+IRV
+0	mimetizzar-	mimetizzare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	prende	prendere	V	_	_
+1	iniziativa	iniziativa	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	accompagnano	accompagnare	V	_	_
+
+IRV
+0	defilar-	defilare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	prendono	prendere	V	_	_
+1	nome	nome	S	0	obj
+
+VID
+0	Andavo	andare	V	_	_
+1	pazzo	pazzo	S	0	subj
+
+IRV
+0	mi	mi	P	1	comp_ind
+1	innamorai	innamorare	V	_	_
+
+IRV
+0	m'	m'	P	1	comp_ind
+1	innamoravo	innamorare	V	_	_
+
+IRV
+0	mi	mi	P	_	_
+1	innamorare	innamorare	V	_	_
+
+IRV
+0	mi	mi	P	1	comp_ind
+1	figuravo	figurare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	trasferisce	trasferire	V	_	_
+
+IRV
+0	rifacendo-	rifare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	Si	si	P	1	clit
+1	lega	legare	V	_	_
+
+LVC.full
+0	farà	fare	V	_	_
+1	parte	parte	S	0	obj
+
+LVC.full
+0	dà	dare	V	_	_
+1	valutazione	valutazione	S	0	obj
+
+VID
+0	oltrepassato	oltrepassare	V	_	_
+1	il	il	R	2	det
+2	segno	segno	S	0	obj
+
+VID
+0	far	fare	V	_	_
+1	meglio	meglio	B	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	accende	accendere	V	_	_
+
+VID
+0	avere	avere	V	_	_
+1	in	in	E	0	comp
+2	le	il	R	1	det
+3	sue	suo	A	4	mod
+4	corde	corda	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	considera	considerare	V	_	_
+
+LVC.full
+0	mostra	mostrare	V	_	_
+1	interessi	interesse	S	0	obj
+
+LVC.full
+0	ebbe	avere	V	_	_
+1	una	una	R	2	det
+2	relazione	relazione	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	riflette	riflettere	V	_	_
+
+VID
+0	abbia	avere	V	_	_
+1	a	a	E	0	comp
+2	capo	capo	S	1	prep
+
+IRV
+0	s'	s'	P	1	clit
+1	accorge	accorgersi	V	_	_
+
+LVC.full
+0	ebbe	avere	V	_	_
+1	successo	successo	S	0	obj
+
+VID
+0	si	si	P	1	clit
+1	dia	dare	V	_	_
+2	la	il	R	3	det
+3	briga	briga	S	1	obj
+
+VID
+0	è	essere	V	_	_
+1	a	a	E	0	pred
+2	la	il	R	1	det
+3	base	base	S	1	prep
+
+VID
+0	diede	dare	V	_	_
+1	un	un	R	2	det
+2	colpo	colpo	S	0	obj
+
+LVC.cause
+0	diede	dare	V	_	_
+1	colpo	colpo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	fondavano	fondare	V	_	_
+
+LVC.full
+0	lo	il	R	_	_
+1	formula	formulare	V	_	_
+2	ipotesi	ipotesi	S	1	obj
+
+LVC.cause
+0	dar	dare	V	_	_
+1	gloria	gloria	S	0	obj
+
+LVC.cause
+0	facendo	fare	V	_	_
+1	male	male	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	ribellava	ribellare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	opposta	opporre	V	_	_
+
+VID
+0	si	si	P	1	clit
+1	chiude	chiudere	V	_	_
+2	in	in	E	1	comp
+3	se	se	P	2	prep
+4	stessa	stessa	A	3	mod
+
+IRV
+0	opponendo-	opporre	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	giudizio	giudizio	S	_	_
+1	diede	dare	V	_	_
+
+VID
+0	riallacciare	riallacciare	V	_	_
+1	una	una	R	2	det
+2	relazione	relazione	S	0	obj
+
+VID
+0	si	si	P	1	clit
+1	rende	rendere	V	_	_
+2	conto	conto	S	1	obj
+
+IRV
+0	si	si	P	1	clit
+1	troveranno	trovare	V	_	_
+
+LVC.full
+0	fece	fare	V	_	_
+1	atto	atto	S	0	obj
+2	di	di	E	1	comp
+3	obbedienza	obbedienza	S	2	prep
+
+LVC.full
+0	fan	fan	S	_	_
+1	lega	legare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	opponga	opporre	V	_	_
+
+VID
+0	Messa	Messa	S	_	_
+1	in	in	E	0	comp
+2	luce	luce	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	riveli	rivelare	V	_	_
+
+IRV
+0	confonder-	confondere	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	alimentar-	alimentare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	sentivano	sentire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	rivolgeva	rivolgere	V	_	_
+
+VID
+0	teneva	tenere	V	_	_
+1	presenti	presente	A	0	pred
+
+VID
+0	render-	rendere	V	_	_
+1	si	si	P	0	clit
+2	conto	conto	S	0	obj
+
+VID
+0	far-	fare	V	_	_
+1	si	si	P	0	clit
+2	interprete	interprete	S	0	pred
+
+IRV
+0	si	si	P	1	clit
+1	piegò	piegare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	alleava	alleare	V	_	_
+
+LVC.cause
+0	desse	dare	V	_	_
+1	forza	forza	S	0	obj
+
+VID
+0	fatta	fare	V	_	_
+1	largo	largo	S	0	obj
+
+IRV
+0	sottrar-	sottrarre	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	va	andare	V	_	_
+1	per	per	E	0	comp
+2	il	il	R	3	det
+3	verso	verso	S	1	prep
+
+LVC.cause
+0	dar	dare	V	_	_
+1	rilievo	rilievo	S	0	obj
+
+IRV
+0	Si	si	P	1	clit
+1	chiamano	chiamare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	allearono	alleare	V	_	_
+
+VID
+0	preso	prendere	V	_	_
+1	in	in	E	0	comp
+2	prestito	prestito	S	1	prep
+
+VID
+0	erano	essere	V	_	_
+1	di	di	E	0	comp
+2	interesse	interesse	S	1	prep
+
+VID
+0	ha	avere	V	1	aux
+1	ceduto	cedere	V	_	_
+2	il	il	R	3	det
+3	passo	passo	S	1	obj
+
+IRV
+0	si	si	P	1	clit
+1	sottomettono	sottomettere	V	_	_
+
+LVC.full
+0	hanno	avere	V	_	_
+1	impatto	impatto	S	0	obj
+
+VID
+0	fu	essere	V	_	_
+1	a	a	E	0	pred
+2	capo	capo	S	1	prep
+
+VID
+0	fare	fare	V	_	_
+1	voto	votare	V	0	mod
+
+VID
+0	rimase	rimanere	V	_	_
+1	incinta	incinta	A	0	pred
+
+LVC.full
+0	presero	prendere	V	_	_
+1	il	il	R	2	det
+2	nome	nome	S	0	obj
+
+LVC.full
+0	presero	prendere	V	_	_
+1	nome	nome	S	0	obj
+
+VID
+0	i	il	R	_	_
+1	prese	prendere	V	_	_
+2	origine	origine	S	1	obj
+
+VID
+0	prese	prendere	V	_	_
+1	origine	origine	S	0	obj
+
+VID
+0	prese	prendere	V	_	_
+1	origine	origine	S	0	obj
+2	la	il	R	_	_
+
+IRV
+0	si	si	P	1	clit
+1	riunivano	riunire	V	_	_
+
+IAV
+0	Si	si	P	1	clit
+1	trattava	trattare	V	_	_
+2	di	di	E	1	comp
+
+VID
+0	presa	presa	S	_	_
+1	in	in	E	0	comp
+2	carico	carico	S	1	prep
+
+VPC.full
+0	andata	andare	V	_	_
+1	via	via	E	0	comp
+
+IRV
+0	si	si	P	1	clit
+1	dichiarata	dichiarare	V	_	_
+
+IRV
+0	s'	s'	P	1	clit
+1	inseriscono	inserire	V	_	_
+
+VID
+0	fa	fare	V	_	_
+1	parte	parte	S	0	pred
+
+IAV
+0	sono	essere	V	_	_
+1	meta	meta	S	0	pred
+2	di	di	E	1	comp
+
+LVC.full
+0	trae	trarre	V	_	_
+1	il	il	R	2	det
+2	significato	significato	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	manifesta	manifestare	V	_	_
+
+VID
+0	dà	dare	V	_	_
+1	la	il	R	2	det
+2	vita	vita	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	discosta	discostare	V	_	_
+
+IAV
+0	sarà	essere	V	_	_
+1	oggetto	oggetto	S	0	obj
+2	di	di	E	1	comp
+
+VID
+0	sarà	essere	V	_	_
+1	oggetto	oggetto	S	0	obj
+2	di	di	E	1	comp
+3	dibattito	dibattito	S	2	prep
+
+LVC.cause
+0	determina	determinare	V	_	_
+1	cambiamento	cambiamento	S	0	obj
+
+IAV
+0	essendo	essere	V	_	_
+1	fuori	fuori	B	0	mod
+2	da	da	E	0	comp
+
+LVC.full
+0	svolto	svolgere	V	_	_
+1	funzioni	funzione	S	0	obj
+
+LVC.full
+0	portano	portare	V	_	_
+1	il	il	R	2	det
+2	nome	nome	S	0	obj
+
+LVC.full
+0	ebbe	avere	V	_	_
+1	difficoltà	difficoltà	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	laureò	laureare	V	_	_
+
+VID
+0	mise	mettere	V	_	_
+1	a	a	E	0	comp
+2	il	il	R	1	det
+3	servizio	servizio	S	1	prep
+
+IRV
+0	stabilito-	stabilire	V	_	_
+1	si	si	P	0	clit
+
+IAV
+0	Basando-	basare	V	_	_
+1	si	si	P	0	clit
+2	su	su	E	0	comp
+
+IAV
+0	Basando-	basare	V	_	_
+1	su	su	E	0	comp
+
+IAV
+0	su	su	E	_	_
+1	basa	basare	V	_	_
+
+IAV
+0	si	si	P	1	clit
+1	basa	basare	V	_	_
+2	su	su	E	_	_
+
+IRV
+0	Si	si	P	1	clit
+1	trasferì	trasferire	V	_	_
+
+LVC.cause
+0	condotto	condurre	V	_	_
+1	in	in	E	0	comp
+2	giudizio	giudizio	S	1	prep
+
+VID
+0	prendendo	prendere	V	_	_
+1	spunto	spunto	S	0	obj
+
+IAV
+0	fu	essere	V	_	_
+1	oggetto	oggetto	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	ebbero	avere	V	_	_
+1	modo	modo	S	0	pred
+
+VID
+0	preso	prendere	V	_	_
+1	parte	parte	S	0	obj
+
+VID
+0	faceva	fare	V	_	_
+1	parte	parte	S	0	obj
+
+LVC.full
+0	provocando	provocare	V	_	_
+1	danni	danno	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	svolse	svolgere	V	_	_
+
+VID
+0	milita	militare	V	_	_
+1	in	in	E	0	comp
+2	Campionato	campionato	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	guadagnata	guadagnare	V	_	_
+
+LVC.full
+0	giocano	giocare	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+VID
+0	messi	mettere	V	_	_
+1	a	a	E	0	comp
+2	punto	punto	S	1	prep
+
+LVC.full
+0	acquisito	acquisire	V	_	_
+1	importanza	importanza	S	0	obj
+
+LVC.full
+0	assume	assumere	V	_	_
+1	un	un	R	2	det
+2	valore	valore	S	0	obj
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	crescita	crescita	S	1	prep
+
+LVC.full
+0	sono	essere	V	_	_
+1	indici	indice	S	0	pred
+
+IRV
+0	ci	ci	P	1	comp
+1	aspetterebbe	aspettare	V	_	_
+
+IRV
+0	combinando-	combinare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	ha	avere	V	_	_
+1	la	il	R	2	det
+2	sintesi	sintesi	S	0	obj
+
+VID
+0	creare	creare	V	_	_
+1	problemi	problema	S	0	obj
+
+LVC.full
+0	abbiano	avere	V	_	_
+1	significato	significato	S	0	obj
+
+VID
+0	è	essere	V	1	aux
+1	indicato	indicare	V	_	_
+
+VID
+0	venga	venire	V	_	_
+1	a	a	E	0	comp
+2	contatto	contatto	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	comporta	comportare	V	_	_
+
+LVC.full
+0	attenzione	attenzione	S	_	_
+1	posta	porre	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	presta	prestare	V	_	_
+
+IRV
+0	Trovasi	Trovasi	B	_	_
+
+VID
+0	richiesta	richiesta	S	1	subj
+1	accolta	accogliere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	affacciano	affacciare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	impegnò	impegnare	V	_	_
+
+IAV
+0	fu	essere	V	_	_
+1	soggetta	soggetto	A	_	_
+2	a	a	E	_	_
+
+VID
+0	fece	fare	V	_	_
+1	parte	parte	S	0	obj
+
+VID
+0	fu	essere	V	_	_
+1	a	a	E	_	_
+2	capo	capo	S	1	prep
+
+VID
+0	posta	porre	V	_	_
+1	a	a	E	0	comp
+2	capo	capo	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	scontrò	scontrare	V	_	_
+
+LVC.full
+0	aveva	avere	V	_	_
+1	in	in	E	0	comp
+2	odio	odio	S	1	prep
+
+LVC.cause
+0	dando	dare	V	_	_
+1	fuoco	fuoco	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	trovarono	trovare	V	_	_
+
+VID
+0	raggiunse	raggiungere	V	_	_
+1	il	il	R	2	det
+2	apice	apice	S	0	obj
+
+LVC.cause
+0	condusse	condurre	V	_	_
+1	ad	ad	E	_	_
+2	decadenza	decadenza	S	1	prep
+
+VID
+0	dare	dare	V	_	_
+1	status	status	S	0	obj
+
+VID
+0	assunse	assumere	V	_	_
+1	ruolo	ruolo	S	_	_
+
+VID
+0	cadde	cadere	V	_	_
+1	in	in	E	0	comp
+2	mano	mano	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	dichiarò	dichiarare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	rifugiarono	rifugiare	V	_	_
+
+VID
+0	assunse	assumere	V	_	_
+1	ruolo	ruolo	S	0	obj
+
+LVC.cause
+0	ebbe	avere	V	_	_
+1	sviluppo	sviluppo	S	0	obj
+
+VID
+0	persero	perdere	V	_	_
+1	la	il	R	2	det
+2	vita	vita	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	riprese	riprendere	V	_	_
+
+VID
+0	tradizione	tradizione	S	1	subj
+1	vuole	volere	V	_	_
+
+VID
+0	ha	avere	V	_	_
+1	aria	aria	S	0	obj
+
+VID
+0	È	essere	V	_	_
+1	a	a	E	0	pred
+2	rischio	rischio	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	registrato	registrare	V	_	_
+
+LVC.full
+0	avuto	avere	V	_	_
+1	un	un	R	2	det
+2	raddoppio	raddoppio	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	incremento	incremento	S	_	_
+
+IRV
+0	si	si	P	1	clit
+1	mescolavano	mescolare	V	_	_
+
+IRV
+0	stabiliti-	stabilire	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	trasferite-	trasferire	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	sviluppano	sviluppare	V	_	_
+
+VID
+0	peso	peso	S	_	_
+1	hanno	avere	V	_	_
+
+IAV
+0	pesa	pesare	V	_	_
+1	su	su	E	0	comp
+
+LVC.full
+0	giunti	giungere	V	_	_
+1	ad	ad	E	0	comp
+2	un	un	R	3	det
+3	accordo	accordo	S	1	prep
+
+LVC.full
+0	la	il	R	_	_
+1	aveva	avere	V	_	_
+2	esclusiva	esclusivo	A	1	obj
+
+LVC.full
+0	aveva	avere	V	_	_
+1	l'	il	R	2	det
+2	esclusiva	esclusivo	A	0	obj
+
+IRV
+0	stabilir-	stabilire	V	_	_
+1	si	si	P	0	clit
+
+IAV
+0	era	essere	V	_	_
+1	opera	opera	S	0	pred
+2	di	di	E	1	comp
+
+VID
+0	perso	perdere	V	_	_
+1	il	il	R	2	det
+2	trono	trono	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	stabilì	stabilire	V	_	_
+
+VID
+0	trae	trarre	V	_	_
+1	spunto	spunto	S	0	obj
+
+VID
+0	cadere	cadere	V	_	_
+1	in	in	E	0	comp
+2	mani	mano	S	1	prep
+
+VID
+0	senza	senza	E	_	_
+1	colpo	colpo	S	0	prep
+2	ferire	ferire	V	0	prep
+
+VID
+0	rimasero	rimanere	V	_	_
+1	a	a	E	0	comp
+2	bocca	bocca	S	1	prep
+3	aperta	aperto	A	2	mod
+
+IRV
+0	accorse	accorgersi	V	_	_
+1	si	si	P	_	_
+
+VID
+0	scoppiò	scoppiare	V	_	_
+1	a	a	E	0	arg
+2	ridere	ridere	V	1	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	origini	origine	S	0	obj
+
+VID
+0	giunse	giungere	V	_	_
+1	ad	ad	E	0	comp
+2	compromesso	compromesso	S	1	prep
+
+VID
+0	entrare	entrare	V	_	_
+1	in	in	E	0	comp
+2	il	il	R	1	det
+3	merito	merito	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	distinguono	distinguere	V	_	_
+
+LVC.cause
+0	danno	dare	V	_	_
+1	origine	origine	S	0	obj
+
+VID
+0	è	essere	V	_	_
+1	a	a	E	0	pred
+2	il	il	R	1	det
+3	primo	primo	N	4	mod
+4	posto	posto	S	1	prep
+
+LVC.full
+0	fanno	fare	V	_	_
+1	scalo	scalo	S	0	obj
+
+VID
+0	aperto	aprire	V	_	_
+1	la	il	R	2	det
+2	strada	strada	S	0	obj
+
+IRV
+0	si	si	P	_	_
+1	servire	servire	V	_	_
+
+LVC.full
+0	svolge	svolgere	V	_	_
+1	funzioni	funzione	S	0	obj
+
+IAV
+0	portato	portare	V	_	_
+1	ad	ad	E	0	comp
+
+IRV
+0	iscrivendo-	iscrivere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	nasce	nascere	V	_	_
+1	da	da	E	0	comp
+2	le	il	R	1	det
+3	ceneri	cenere	S	1	prep
+
+LVC.full
+0	fanno	fare	V	_	_
+1	base	base	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	il	il	R	2	det
+2	privilegio	privilegio	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	riuniscono	riunire	V	_	_
+
+IAV
+0	datano	datare	V	_	_
+1	a	a	E	0	comp_loc
+
+LVC.full
+0	ebbe	avere	V	_	_
+1	possibilità	possibilità	S	0	obj
+
+VID
+0	state	essere	V	_	_
+1	ben	ben	B	2	mod
+2	accette	accetto	A	0	pred
+
+IAV
+0	prese	prendere	V	_	_
+1	ad	ad	E	0	arg
+
+LVC.full
+0	sviluppò	sviluppare	V	_	_
+1	una	una	R	2	det
+2	teoria	teoria	S	0	obj
+
+VPC.full
+0	era	essere	V	_	_
+1	avanti	avanti	B	_	_
+
+VPC.full
+0	avuto	avere	V	_	_
+1	impatto	impatto	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	sentiva	sentire	V	_	_
+
+VID
+0	non	non	B	2	neg
+1	c'	ci	P	2	comp
+2	era	essere	V	_	_
+3	nulla	nulla	P	2	subj
+4	da	da	E	2	arg
+5	fare	fare	V	4	prep
+
+LVC.full
+0	hanno	avere	V	_	_
+1	origini	origine	S	0	obj
+
+IAV
+0	di	di	E	_	_
+1	si	si	P	2	clit
+2	trattasse	trattare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	perdono	perdere	V	_	_
+
+IRV
+0	confondendo-	confondere	V	_	_
+1	si	si	P	0	clit
+
+IAV
+0	datati	datare	V	_	_
+1	a	a	E	0	comp_temp
+
+VID
+0	traeva	trarre	V	_	_
+1	origine	origine	S	0	obj
+
+LVC.cause
+0	assegnato	assegnare	V	_	_
+1	un	un	R	2	det
+2	ruolo	ruolo	S	0	obj
+
+VID
+0	hanno	avere	V	_	_
+1	notizie	notizia	S	0	obj
+
+VID
+0	era	essere	V	_	_
+1	in	in	E	0	comp_loc
+2	uso	uso	S	1	prep
+
+LVC.cause
+0	dare	dare	V	_	_
+1	impulso	impulso	S	0	obj
+
+IAV
+0	datata	datare	V	_	_
+1	a	a	E	0	comp
+
+VID
+0	erano	essere	V	_	_
+1	sotto	sotto	B	2	mod
+2	controllo	controllo	S	0	obj
+
+IRV
+0	evolvendo-	evolvere	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	diede	dare	V	_	_
+1	incremento	incremento	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	impose	imporre	V	_	_
+
+IRV
+0	impossessando-	impossessarsi	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	scontrarono	scontrare	V	_	_
+
+LVC.full
+0	davano	dare	V	_	_
+1	battaglia	battaglia	S	0	subj
+
+LVC.full
+0	assumendo	assumere	V	_	_
+1	significati	significato	S	0	obj
+
+VID
+0	si	si	P	1	clit
+1	fa	fare	V	_	_
+2	mantenere	mantenere	V	1	arg
+
+VID
+0	guadagnando-	guadagnare	V	_	_
+1	si	si	P	0	clit
+2	da	da	E	0	arg
+3	vivere	vivere	V	2	prep
+
+IAV
+0	pesa	pesare	V	_	_
+1	su	su	E	0	comp_loc
+
+IRV
+0	si	si	P	1	clit
+1	aggirò	aggirare	V	_	_
+
+LVC.full
+0	fece	fare	V	_	_
+1	causa	causa	S	0	obj
+
+LVC.cause
+0	incidente	incidente	S	_	_
+1	provocò	provocare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	recavano	recare	V	_	_
+
+IRV
+0	avviando-	avviare	V	_	_
+1	si	si	P	0	clit
+
+IAV
+0	avviando-	avviare	V	_	_
+1	si	si	P	0	clit
+2	a	a	E	0	arg
+
+VID
+0	Si	si	P	1	clit
+1	prese	prendere	V	_	_
+2	la	il	R	3	det
+3	rivincita	rivincita	S	1	obj
+
+VID
+0	Si	si	P	1	clit
+1	prese	prendere	V	_	_
+2	rivincita	rivincita	S	1	obj
+
+VID
+0	fu	essere	V	_	_
+1	a	a	E	0	pred
+2	la	il	R	1	det
+3	base	base	S	1	prep
+
+VID
+0	destò	destare	V	_	_
+1	scalpore	scalpore	S	0	obj
+
+LVC.full
+0	faceva	fare	V	_	_
+1	ricorso	ricorso	S	0	obj
+
+VID
+0	vengono	venire	V	_	_
+1	a	a	E	0	comp
+2	contatto	contatto	S	1	prep
+
+LVC.cause
+0	messo	mettere	V	_	_
+1	in	in	E	0	comp
+2	commercio	commercio	S	1	prep
+
+LVC.cause
+0	dando	dare	V	_	_
+1	forma	forma	S	0	obj
+
+IAV
+0	portare	portare	V	_	_
+1	ad	ad	E	_	_
+
+IAV
+0	punta	puntare	V	_	_
+1	su	su	E	0	comp_loc
+
+LVC.cause
+0	determinano	determinare	V	_	_
+1	cambiamento	cambiamento	S	0	obj
+
+IRV
+0	appaiar-	appaiare	V	_	_
+1	si	si	P	0	clit
+
+LVC.full
+0	hanno	avere	V	1	aux
+1	morfogenesi	morfogenesi	S	_	_
+
+IRV
+0	si	si	P	_	_
+1	riprodurre	riprodurre	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	legano	legare	V	_	_
+
+LVC.full
+0	ha	avere	V	_	_
+1	diffusione	diffusione	S	0	obj
+
+LVC.cause
+0	dà	dare	V	_	_
+1	nome	nome	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	valore	valore	S	_	_
+
+LVC.full
+0	avrà	avere	V	_	_
+1	valore	valore	S	0	obj
+
+IRV
+0	alzar-	alzare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	mantenendo	mantenere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	troverebbe	trovare	V	_	_
+
+VID
+0	i	il	R	_	_
+1	caddero	cadere	V	_	_
+2	in	in	E	1	comp
+3	miseria	miseria	S	2	prep
+
+IRV
+0	depositar-	depositare	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	instaurando	instaurare	V	_	_
+1	legami	legame	S	0	obj
+
+LVC.full
+0	ha	avere	V	_	_
+1	effetto	effetto	S	0	obj
+
+LVC.full
+0	aveva	avere	V	_	_
+1	effetti	effetto	S	0	obj
+
+VID
+0	viene	venire	V	_	_
+1	a	a	E	0	comp
+2	contatto	contatto	S	1	prep
+
+LVC.full
+0	trovano	trovare	V	_	_
+1	impiego	impiego	S	0	obj
+
+LVC.full
+0	è	essere	V	_	_
+1	in	in	E	0	pred
+2	circolazione	circolazione	S	1	prep
+
+VID
+0	è	essere	V	_	_
+1	in	in	E	_	_
+2	uso	uso	S	1	prep
+
+IRV
+0	si	si	P	_	_
+1	trovare	trovare	V	_	_
+
+LVC.full
+0	ha	avere	V	_	_
+1	aspetto	aspetto	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	accompagna	accompagnare	V	_	_
+
+LVC.full
+0	fatta	fare	V	_	_
+1	distinzione	distinzione	S	0	obj
+
+VID
+0	trova	trovare	V	_	_
+1	uso	uso	S	0	obj
+
+LVC.full
+0	trovano	trovare	V	_	_
+1	impiego	impiego	S	_	_
+
+IRV
+0	legar-	legare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	danno	dare	V	_	_
+1	luogo	luogo	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	libera	liberare	V	_	_
+
+LVC.cause
+0	porta	portare	V	_	_
+1	a	a	E	0	comp
+2	rottura	rottura	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	sviluppò	sviluppare	V	_	_
+
+LVC.full
+0	ha	avere	V	1	aux
+1	origini	origine	S	_	_
+
+VID
+0	passò	passare	V	_	_
+1	sotto	sotto	B	3	mod
+2	il	il	R	3	det
+3	dominio	dominio	S	_	_
+
+LVC.full
+0	diede	dare	V	_	_
+1	investitura	investitura	S	0	obj
+
+VID
+0	segnerà	segnare	V	_	_
+1	la	il	R	2	det
+2	storia	storia	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	ribellò	ribellare	V	_	_
+
+IRV
+0	rifugiati-	rifugiare	V	_	_
+1	si	si	P	0	clit
+
+IAV
+0	si	si	P	1	clit
+1	trattò	trattare	V	_	_
+2	di	di	E	1	comp
+
+IRV
+0	laureando-	laureare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	chiamar-	chiamare	V	_	_
+1	si	si	P	0	clit
+
+IRV
+0	si	si	P	1	clit
+1	serve	servire	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	immedesimi	immedesimare	V	_	_
+
+LVC.full
+0	è	essere	V	_	_
+1	a	a	E	0	pred
+2	conoscenza	conoscenza	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	attende	attendere	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	prestava	prestare	V	_	_
+
+LVC.full
+0	ci	ci	P	_	_
+1	fosse	essere	V	_	_
+2	bisogno	bisogno	S	_	_
+
+VID
+0	erano	essere	V	_	_
+1	a	a	E	0	pred
+2	l'	il	R	1	det
+3	avanguardia	avanguardia	S	1	prep
+
+LVC.full
+0	posta	porre	V	_	_
+1	in	in	E	0	comp
+2	contrapposizione	contrapposizione	S	1	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	un	un	R	2	det
+2	ruolo	ruolo	S	0	obj
+
+VPC.full
+0	andare	andare	V	_	_
+1	oltre	oltre	B	0	mod
+
+LVC.full
+0	avrà	avere	V	_	_
+1	una	una	R	2	det
+2	relazione	relazione	S	0	obj
+
+IRV
+0	ritagliando-	ritagliare	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	incontra	incontrare	V	_	_
+1	il	il	R	2	det
+2	favore	favore	S	0	obj
+
+VID
+0	prende	prendere	V	_	_
+1	parte	parte	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	esibisce	esibire	V	_	_
+
+MVC
+0	lasciano	lasciare	V	_	_
+1	pensare	pensare	V	0	arg
+
+VID
+0	siano	essere	V	_	_
+1	di	di	E	0	comp
+2	interesse	interesse	S	1	prep
+
+LVC.full
+0	ha	avere	V	_	_
+1	applicazioni	applicazione	S	0	obj
+
+VID
+0	trova	trovare	V	_	_
+1	uso	uso	S	0	pred
+
+VID
+0	darebbero	dare	V	_	_
+1	per	per	E	0	comp
+2	buona	buono	A	1	prep
+
+VID
+0	infittito	infittire	V	_	_
+1	il	il	R	2	det
+2	mistero	mistero	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	sviluppare	sviluppare	V	_	_
+
+VID
+0	fare	fare	V	_	_
+1	conto	conto	S	0	obj
+
+VID
+0	crea	creare	V	_	_
+1	problemi	problema	S	0	obj
+
+LVC.full
+0	Trova	trovare	V	_	_
+1	applicazioni	applicazione	S	0	obj
+
+VID
+0	trovato	trovare	V	_	_
+1	uso	uso	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	convertì	convertire	V	_	_
+
+LVC.full
+0	avendo	avere	V	_	_
+1	sviluppo	sviluppo	S	0	obj
+
+VPC.full
+0	sorge	sorgere	V	_	_
+1	attorno	attorno	B	0	mod
+
+IRV
+0	si	si	P	1	clit
+1	estendeva	estendere	V	_	_
+
+LVC.full
+0	L'	il	R	_	_
+1	mantenne	mantenere	V	_	_
+2	dominio	dominio	S	1	obj
+
+IRV
+0	si	si	P	1	clit
+1	verificò	verificare	V	_	_
+
+IRV
+0	sottometter-	sottomettere	V	_	_
+1	si	si	P	0	clit
+
+LVC.cause
+0	portò	portare	V	_	_
+1	morte	morte	S	0	obj
+
+LVC.cause
+0	portò	portare	V	_	_
+1	distruzione	distruzione	S	_	_
+
+IRV
+0	spargendo-	spargere	V	_	_
+1	si	si	P	0	clit
+
+VID
+0	misero	misero	A	_	_
+1	a	a	E	0	comp
+2	ferro	ferro	S	1	prep
+3	e	e	C	2	con
+4	fuoco	fuoco	S	2	conj
+
+VID
+0	ebbe	avere	V	_	_
+1	scossoni	scossone	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	distinsero	distinguere	V	_	_
+
+IAV
+0	fu	essere	V	_	_
+1	oggetto	oggetto	S	_	_
+2	di	di	E	1	comp
+
+IRV
+0	si	si	P	1	clit
+1	adattati	adattare	V	_	_
+
+IRV
+0	si	si	P	2	clit
+1	sono	essere	V	2	aux
+2	adattati	adattare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	ripercuote	ripercuotere	V	_	_
+
+VID
+0	Sono	essere	V	_	_
+1	in	in	E	0	pred
+2	corso	corso	S	1	prep
+
+VID
+0	erano	essere	V	_	_
+1	parte	parte	S	0	pred
+
+LVC.full
+0	ottennero	ottenere	V	_	_
+1	primati	primate	S	0	obj
+
+VID
+0	mettono	mettere	V	_	_
+1	in	in	E	0	comp
+2	relazione	relazione	S	1	prep
+
+IRV
+0	si	si	P	1	clit
+1	realizzano	realizzare	V	_	_
+
+IRV
+0	si	si	P	1	clit
+1	realizza	realizzare	V	_	_
+
+LVC.full
+0	ha	avere	V	_	_
+1	senso	senso	S	0	obj
+
+LVC.full
+0	hanno	avere	V	_	_
+1	intensità	intensità	S	0	obj
+
+IRV
+0	si	si	P	1	clit
+1	riproducono	riprodurre	V	_	_
+
+LVC.full
+0	fatte	fare	V	_	_
+1	rivendicazioni	rivendicazione	S	0	obj
+
+LVC.full
+0	mostrato	mostrare	V	_	_
+1	rivendicazioni	rivendicazione	S	0	obj
+
+LVC.full
+0	avanzato	avanzare	V	_	_
+1	rivendicazioni	rivendicazione	S	0	obj
+
