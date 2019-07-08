@@ -1,0 +1,41 @@
+lemma_order
+68
+## Global evaluation
+* MWE-based: P=391/1450=0.2697 R=391/500=0.7820 F=0.4010
+* Tok-based: P=825/2913=0.2832 R=825/1010=0.8168 F=0.4206
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=102/1450=7%
+* LVC.cause: MWE-based: P=8/102=0.0784 R=8/14=0.5714 F=0.1379
+* LVC.cause: Tok-based: P=16/204=0.0784 R=16/28=0.5714 F=0.1379
+* LVC.full: MWE-proportion: gold=382/500=76% pred=1130/1450=78%
+* LVC.full: MWE-based: P=306/1130=0.2708 R=306/382=0.8010 F=0.4048
+* LVC.full: Tok-based: P=638/2266=0.2816 R=638/766=0.8329 F=0.4208
+* VID: MWE-proportion: gold=104/500=21% pred=315/1450=22%
+* VID: MWE-based: P=66/315=0.2095 R=66/104=0.6346 F=0.3150
+* VID: Tok-based: P=142/637=0.2229 R=142/216=0.6574 F=0.3329
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=442/1450=30%
+* Continuous: MWE-based: P=330/442=0.7466 R=330/403=0.8189 F=0.7811
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=1008/1450=70%
+* Discontinuous: MWE-based: P=61/1008=0.0605 R=61/97=0.6289 F=0.1104
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=1450/1450=100%
+* Multi-token: MWE-based: P=391/1450=0.2697 R=391/500=0.7820 F=0.4010
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/1450=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=1450/1450=100%
+* Seen-in-train: MWE-based: P=391/1450=0.2697 R=391/414=0.9444 F=0.4195
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/1450=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=1215/1450=84%
+* Variant-of-train: MWE-based: P=187/1215=0.1539 R=187/210=0.8905 F=0.2625
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=235/1450=16%
+* Identical-to-train: MWE-based: P=204/235=0.8681 R=204/204=1.0000 F=0.9294
+

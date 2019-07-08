@@ -1,0 +1,41 @@
+form_upostag_order
+68
+## Global evaluation
+* MWE-based: P=197/284=0.6937 R=197/500=0.3940 F=0.5026
+* Tok-based: P=416/575=0.7235 R=416/1010=0.4119 F=0.5249
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=6/284=2%
+* LVC.cause: MWE-based: P=4/6=0.6667 R=4/14=0.2857 F=0.4000
+* LVC.cause: Tok-based: P=8/12=0.6667 R=8/28=0.2857 F=0.4000
+* LVC.full: MWE-proportion: gold=382/500=76% pred=234/284=82%
+* LVC.full: MWE-based: P=162/234=0.6923 R=162/382=0.4241 F=0.5260
+* LVC.full: Tok-based: P=338/471=0.7176 R=338/766=0.4413 F=0.5465
+* VID: MWE-proportion: gold=104/500=21% pred=44/284=15%
+* VID: MWE-based: P=28/44=0.6364 R=28/104=0.2692 F=0.3784
+* VID: Tok-based: P=63/92=0.6848 R=63/216=0.2917 F=0.4091
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=194/284=68%
+* Continuous: MWE-based: P=174/194=0.8969 R=174/403=0.4318 F=0.5829
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=90/284=32%
+* Discontinuous: MWE-based: P=23/90=0.2556 R=23/97=0.2371 F=0.2460
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=284/284=100%
+* Multi-token: MWE-based: P=197/284=0.6937 R=197/500=0.3940 F=0.5026
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/284=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=283/284=100%
+* Seen-in-train: MWE-based: P=197/283=0.6961 R=197/414=0.4758 F=0.5653
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=1/284=0%
+* Unseen-in-train: MWE-based: P=0/1=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=85/283=30%
+* Variant-of-train: MWE-based: P=18/85=0.2118 R=18/210=0.0857 F=0.1220
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=198/283=70%
+* Identical-to-train: MWE-based: P=179/198=0.9040 R=179/204=0.8775 F=0.8905
+

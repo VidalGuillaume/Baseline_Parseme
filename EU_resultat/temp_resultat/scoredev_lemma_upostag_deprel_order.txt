@@ -1,0 +1,41 @@
+lemma_upostag_deprel_order
+69
+## Global evaluation
+* MWE-based: P=339/523=0.6482 R=339/500=0.6780 F=0.6628
+* Tok-based: P=697/1052=0.6625 R=697/1010=0.6901 F=0.6760
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=23/523=4%
+* LVC.cause: MWE-based: P=7/23=0.3043 R=7/14=0.5000 F=0.3784
+* LVC.cause: Tok-based: P=14/46=0.3043 R=14/28=0.5000 F=0.3784
+* LVC.full: MWE-proportion: gold=382/500=76% pred=407/523=78%
+* LVC.full: MWE-based: P=271/407=0.6658 R=271/382=0.7094 F=0.6869
+* LVC.full: Tok-based: P=553/817=0.6769 R=553/766=0.7219 F=0.6987
+* VID: MWE-proportion: gold=104/500=21% pred=102/523=20%
+* VID: MWE-based: P=56/102=0.5490 R=56/104=0.5385 F=0.5437
+* VID: Tok-based: P=115/207=0.5556 R=115/216=0.5324 F=0.5437
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=345/523=66%
+* Continuous: MWE-based: P=294/345=0.8522 R=294/403=0.7295 F=0.7861
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=178/523=34%
+* Discontinuous: MWE-based: P=45/178=0.2528 R=45/97=0.4639 F=0.3273
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=523/523=100%
+* Multi-token: MWE-based: P=339/523=0.6482 R=339/500=0.6780 F=0.6628
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/523=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=523/523=100%
+* Seen-in-train: MWE-based: P=339/523=0.6482 R=339/414=0.8188 F=0.7236
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/523=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=311/523=59%
+* Variant-of-train: MWE-based: P=147/311=0.4727 R=147/210=0.7000 F=0.5643
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=212/523=41%
+* Identical-to-train: MWE-based: P=192/212=0.9057 R=192/204=0.9412 F=0.9231
+

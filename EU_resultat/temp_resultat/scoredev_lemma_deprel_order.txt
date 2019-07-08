@@ -1,0 +1,41 @@
+lemma_deprel_order
+69
+## Global evaluation
+* MWE-based: P=346/695=0.4978 R=346/500=0.6920 F=0.5791
+* Tok-based: P=712/1396=0.5100 R=712/1010=0.7050 F=0.5919
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=51/695=7%
+* LVC.cause: MWE-based: P=8/51=0.1569 R=8/14=0.5714 F=0.2462
+* LVC.cause: Tok-based: P=16/102=0.1569 R=16/28=0.5714 F=0.2462
+* LVC.full: MWE-proportion: gold=382/500=76% pred=544/695=78%
+* LVC.full: MWE-based: P=276/544=0.5074 R=276/382=0.7225 F=0.5961
+* LVC.full: Tok-based: P=561/1091=0.5142 R=561/766=0.7324 F=0.6042
+* VID: MWE-proportion: gold=104/500=21% pred=122/695=18%
+* VID: MWE-based: P=57/122=0.4672 R=57/104=0.5481 F=0.5044
+* VID: Tok-based: P=118/247=0.4777 R=118/216=0.5463 F=0.5097
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=366/695=53%
+* Continuous: MWE-based: P=299/366=0.8169 R=299/403=0.7419 F=0.7776
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=329/695=47%
+* Discontinuous: MWE-based: P=47/329=0.1429 R=47/97=0.4845 F=0.2207
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=695/695=100%
+* Multi-token: MWE-based: P=346/695=0.4978 R=346/500=0.6920 F=0.5791
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/695=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=695/695=100%
+* Seen-in-train: MWE-based: P=346/695=0.4978 R=346/414=0.8357 F=0.6240
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/695=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=473/695=68%
+* Variant-of-train: MWE-based: P=151/473=0.3192 R=151/210=0.7190 F=0.4422
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=222/695=32%
+* Identical-to-train: MWE-based: P=195/222=0.8784 R=195/204=0.9559 F=0.9155
+

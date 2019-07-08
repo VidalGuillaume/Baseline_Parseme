@@ -1,0 +1,41 @@
+lemma
+68
+## Global evaluation
+* MWE-based: P=414/2010=0.2060 R=414/500=0.8280 F=0.3299
+* Tok-based: P=877/4036=0.2173 R=877/1010=0.8683 F=0.3476
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=138/2010=7%
+* LVC.cause: MWE-based: P=9/138=0.0652 R=9/14=0.6429 F=0.1184
+* LVC.cause: Tok-based: P=18/276=0.0652 R=18/28=0.6429 F=0.1184
+* LVC.full: MWE-proportion: gold=382/500=76% pred=1560/2010=78%
+* LVC.full: MWE-based: P=322/1560=0.2064 R=322/382=0.8429 F=0.3316
+* LVC.full: Tok-based: P=678/3127=0.2168 R=678/766=0.8851 F=0.3483
+* VID: MWE-proportion: gold=104/500=21% pred=476/2010=24%
+* VID: MWE-based: P=71/476=0.1492 R=71/104=0.6827 F=0.2448
+* VID: Tok-based: P=157/961=0.1634 R=157/216=0.7269 F=0.2668
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=523/2010=26%
+* Continuous: MWE-based: P=340/523=0.6501 R=340/403=0.8437 F=0.7343
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=1487/2010=74%
+* Discontinuous: MWE-based: P=74/1487=0.0498 R=74/97=0.7629 F=0.0934
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=2010/2010=100%
+* Multi-token: MWE-based: P=414/2010=0.2060 R=414/500=0.8280 F=0.3299
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/2010=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=2010/2010=100%
+* Seen-in-train: MWE-based: P=414/2010=0.2060 R=414/414=1.0000 F=0.3416
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/2010=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=1775/2010=88%
+* Variant-of-train: MWE-based: P=210/1775=0.1183 R=210/210=1.0000 F=0.2116
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=235/2010=12%
+* Identical-to-train: MWE-based: P=204/235=0.8681 R=204/204=1.0000 F=0.9294
+
