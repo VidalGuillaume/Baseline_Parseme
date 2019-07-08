@@ -1,0 +1,5335 @@
+lemma_deprel
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	το	ο	DET	3	det
+2	πρώτο	πρώτος	NUM	3	nummod
+3	βήμα	βήμα	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	βήμα	βήμα	NOUN	0	obj
+
+VID
+0	Σε	σε	ADP	1	case
+1	θέση	θέση	NOUN	3	obl
+2	μάχης	μάχη	NOUN	1	nmod
+3	βρίσκονται	βρίσκω	VERB	_	_
+
+VID
+0	ρίξει	ρίχνω	VERB	_	_
+1	το	ο	DET	2	det
+2	βάρος	βάρος	NOUN	0	obj
+3	στους	στου	ADP	_	_
+
+LVC.full
+0	Κάλεσμα	Κάλεσμα	NOUN	1	nsubj
+1	απηύθυνε	απευθύνω	VERB	_	_
+
+VID
+0	κριθεί	κρίνω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	νήμα	νήμα	NOUN	0	obl
+
+VID
+0	έχασε	χάνω	VERB	_	_
+1	τη	ο	DET	2	det
+2	ζωή	ζωή	NOUN	0	obj
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	προανάκριση	προανάκριση	NOUN	1	obl
+1	διενεργεί	διενεργώ	VERB	_	_
+
+LVC.full
+0	Άσκηση	άσκηση	NOUN	1	nsubj
+1	πραγματοποιηθεί	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	άσκηση	άσκηση	NOUN	1	nsubj
+1	διενεργείται	διενεργώ	VERB	_	_
+
+VID
+0	έδωσαν	δίνω	VERB	_	_
+1	τον	ο	DET	2	det
+2	τόνο	τόνος	NOUN	0	obj
+
+VID
+0	πήραν	πήραν	VERB	_	_
+1	μέρος	μέρος	NOUN	0	obj
+
+LVC.full
+0	Έχουν	έχω	VERB	_	_
+1	φόβους	φόβος	NOUN	0	obj
+
+LVC.full
+0	Έχουν	έχω	VERB	_	_
+1	φοβίες	φοβία	NOUN	_	_
+
+VID
+0	μπαίνει	μπαίνω	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χωράφια	χωράφια	NOUN	0	obl
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	διάθεσή	διάθεση	NOUN	0	obl
+3	της	μου	PRON	2	nmod
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	πληροφορία	πληροφορία	NOUN	0	obj
+
+LVC.full
+0	δίνουν	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	0	obj
+
+LVC.full
+0	αγώνας	αγώνας	NOUN	_	_
+1	διεξάγεται	διεξάγω	VERB	0	acl:relcl
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	μονοπώλιο	μονοπώλιο	NOUN	0	obj
+
+LVC.full
+0	δίνουν	δίνω	VERB	_	_
+1	μαθήματα	μαθήμα	NOUN	0	obj
+
+LVC.full
+0	υποκρισία	υποκρισία	NOUN	_	_
+1	ασκείται	ασκώ	VERB	0	acl:relcl
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	κηρύγματα	κηρύγμα	NOUN	0	obj
+
+LVC.full
+0	Ανέλαβε	αναλαμβάνω	VERB	_	_
+1	την	ο	DET	2	det
+2	προεδρία	προεδρία	NOUN	0	obj
+
+VID
+0	χάνει	χάνω	VERB	_	_
+1	έδαφος	έδαφος	NOUN	0	obj
+
+LVC.full
+0	παράδειγμα	παράδειγμα	NOUN	_	_
+1	δίνει	δίνω	VERB	0	acl:relcl
+
+VID
+0	έρχεται	έρχομαι	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	NOUN	0	obl
+3	της	ο	DET	4	det
+4	δημοσιότητας	δημοσιότητα	NOUN	2	nmod
+
+LVC.full
+0	έρχεται	έρχομαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	επαφή	επαφή	NOUN	0	obl
+
+VPC.full
+0	έκανε	κάνω	VERB	_	_
+1	πίσω	πίσω	ADV	0	advmod
+
+LVC.full
+0	απαντήσεις	απαντήση	NOUN	_	_
+1	δοθούν	δίνω	VERB	_	_
+
+LVC.full
+0	ασκήσει	ασκώ	VERB	_	_
+1	το	ο	DET	2	det
+2	δικαίωμα	δικαίωμα	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	επιρροή	επιρροή	NOUN	0	obj
+
+LVC.full
+0	επίθεση	επίθεση	NOUN	_	_
+1	εξαπέλυσαν	εξαπέλυσαν	VERB	0	acl:relcl
+
+VID
+0	έχασαν	χάνω	VERB	_	_
+1	τη	ο	DET	2	det
+2	ζωή	ζωή	NOUN	0	obj
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	τέλμα	τέλμα	NOUN	0	obl
+
+LVC.cause
+0	θέσει	θέτω	VERB	_	_
+1	ως	ως	ADV	2	case
+2	στόχο	στόχος	NOUN	0	obl
+
+LVC.full
+0	πραγματοποιούν	πραγματοποιώ	VERB	_	_
+1	έρευνες	έρευνα	NOUN	0	obj
+
+LVC.full
+0	υπέστησαν	υπέστησαν	VERB	_	_
+1	πλήγμα	πλήγμα	NOUN	0	obj
+
+LVC.full
+0	ασκήσει	ασκώ	VERB	_	_
+1	έφεση	έφεση	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	παρόν	παρόν	NOUN	0	obj
+
+VPC.full
+0	βγουν	βγω	VERB	_	_
+1	μπροστά	μπροστά	ADV	0	advmod
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	υπέρβαση	υπέρβαση	NOUN	0	obj
+
+LVC.full
+0	βάζουν	βάζω	VERB	_	_
+1	τάξη	τάξη	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	0	xcomp
+
+LVC.full
+0	ρόλο	ρόλος	NOUN	_	_
+1	διαδραματίσει	διαδραματίζω	VERB	_	_
+
+LVC.full
+0	τεθεί	θέτω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+LVC.full
+0	ασκηθούν	ασκώ	VERB	_	_
+1	πιέσεις	πιέση	NOUN	0	nsubj
+
+LVC.full
+0	συνάντηση	συνάντηση	NOUN	_	_
+1	είχε	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	συναντήσεων	συνάντηση	NOUN	_	_
+1	πραγματοποιηθούν	πραγματοποιώ	VERB	0	acl:relcl
+
+VID
+0	κινδύνους	κίνδυνος	NOUN	_	_
+1	εγκυμονεί	εγκυμονώ	VERB	0	acl:relcl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	έγκρισή	έγκριση	NOUN	0	obj
+
+LVC.full
+0	έρχεται	έρχομαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	αντίθεση	αντίθεση	NOUN	0	obl
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	δήλωση	δήλωση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	σχόλιο	σχόλιο	NOUN	0	obj
+
+VID
+0	λάβει	λαμβάνω	VERB	_	_
+1	μέρος	μέρος	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	δικαίωμα	δικαίωμα	NOUN	0	obj
+
+LVC.full
+0	ασκεί	ασκώ	VERB	_	_
+1	προεδρία	προεδρία	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	αντίκτυπο	αντίκτυπος	NOUN	0	obj
+
+VID
+0	τεθεί	θέτω	VERB	_	_
+1	επί	επί	ADP	2	case
+2	τάπητος	τάπη	NOUN	0	obl
+
+VID
+0	το	ο	DET	1	det
+1	πράσινο	πράσινος	NOUN	_	_
+2	φως	φως	ADV	3	advmod
+3	έδωσε	δίνω	VERB	_	_
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	αναφορά	αναφορά	NOUN	0	obj
+
+LVC.full
+0	απόφασης	απόφαση	NOUN	_	_
+1	έλαβε	λαμβάνω	VERB	0	acl:relcl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	δάνειο	δάνειο	NOUN	0	obj
+
+LVC.full
+0	σημειώσει	σημειώνω	VERB	_	_
+1	προόδους	προόδος	NOUN	_	_
+
+VID
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	επι	επς	VERB	0	ccomp
+2	τάπητος	τάπη	ADV	1	advmod
+
+LVC.full
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	εξέλιξη	εξέλιξη	NOUN	0	obl
+
+VID
+0	περιμένει	περιμένω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	γωνία	γωνία	NOUN	0	obl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	αναφορά	αναφορά	NOUN	0	obj
+
+LVC.full
+0	πάρει	παίρνω	VERB	_	_
+1	απόφαση	απόφαση	NOUN	0	obj
+
+VID
+0	ήταν	είμαι	AUX	2	cop
+1	σε	σε	ADP	2	case
+2	θέση	θέση	NOUN	_	_
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	επισκευή	επισκευή	NOUN	0	obl
+
+LVC.cause
+0	έδωσαν	δίνω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	δημοσιότητα	δημοσιότητα	NOUN	0	obl
+
+VID
+0	καταρρίπτει	καταρρίπτω	ADP	1	case
+1	ρεκόρ	ρεκόρ	X	_	_
+
+LVC.full
+0	ευθύνη	ευθύνη	NOUN	_	_
+1	έχει	έχω	VERB	_	_
+
+VID
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	στα	στου	ADP	2	case
+2	μαχαίρια	μαχαίριο	NOUN	0	obl
+
+LVC.full
+0	Επαιξε	Επαιξε	VERB	_	_
+1	ρόλο	ρόλος	NOUN	0	obj
+
+VID
+0	βγουν	βγω	VERB	_	_
+1	στους	στου	ADP	2	case
+2	δρόμους	δρόμος	NOUN	0	obl
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	στόχο	στόχος	NOUN	0	obj
+
+VID
+0	είδαν	βλέπω	VERB	_	_
+1	το	ο	DET	2	det
+2	φως	φως	NOUN	0	obj
+3	της	ο	DET	4	det
+4	δημοσιότητας	δημοσιότητα	NOUN	2	nmod
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	διεξαχθεί	διεξάγω	VERB	_	_
+1	ψηφοφορία	ψηφοφορία	NOUN	0	nsubj
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	συνομιλίες	συνομιλία	NOUN	0	obj
+
+LVC.full
+0	δίνουν	δίνω	VERB	_	_
+1	συνεντεύξεις	συνεντεύξη	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	0	obj
+
+VID
+0	άνοιξαν	ανοίγω	VERB	_	_
+1	πυρ	πυρ	NOUN	0	obj
+
+LVC.full
+0	Σε	σε	ADP	1	case
+1	αντιπαράθεση	αντιπαράθεση	NOUN	_	_
+2	έρθει	έρχομαι	VERB	_	_
+
+LVC.full
+0	Έρευνα	έρευνα	NOUN	_	_
+1	πραγματοποίησε	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	δοθούν	δίνω	VERB	_	_
+1	εγγυήσεις	εγγύηση	NOUN	0	nsubj
+
+VID
+0	πρώτα	πρώτα	ADJ	1	amod
+1	βήματά	βήματά	NOUN	_	_
+2	έκανε	κάνω	VERB	1	acl:relcl
+
+VID
+0	λαμβάνει	λαμβάνω	VERB	_	_
+1	χώρα	χώρα	NOUN	0	obj
+
+VID
+0	στρέφει	στρέφω	VERB	_	_
+1	το	ο	DET	2	det
+2	βλέμμα	βλέμμα	NOUN	0	nsubj
+3	από	από	ADP	5	case
+4	την	ο	DET	5	det
+5	άλλη	άλλος	PRON	_	_
+
+VID
+0	έχει	έχω	VERB	_	_
+1	θέση	θέση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	λάθη	λάθος	NOUN	0	obj
+
+VID
+0	παίρνει	παίρνω	VERB	_	_
+1	το	ο	DET	2	det
+2	μέρος	μέρος	NOUN	0	obj
+
+LVC.cause
+0	τέθηκε	θέτω	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	κράτηση	κράτηση	NOUN	0	obl
+
+VID
+0	έχει	έχω	VERB	_	_
+1	σημασία	σημασία	NOUN	0	obj
+
+VID
+0	έπαιξε	παίζω	VERB	_	_
+1	τη	ο	DET	2	det
+2	γάτα	γάτα	X	0	obj
+3	και	και	CCONJ	5	cc
+4	το	ο	DET	5	det
+5	ποντίκι	ποντίκι	NOUN	2	conj
+
+LVC.full
+0	αντίσταση	αντίσταση	NOUN	_	_
+1	προέβαλαν	προοβάλλω	VERB	0	acl:relcl
+
+LVC.cause
+0	έχουν	έχω	VERB	_	_
+1	υποστήριξη	υποστήριξη	NOUN	0	obj
+
+LVC.full
+0	παίρνοντας	παίρνω	VERB	_	_
+1	θέση	θέση	NOUN	0	obj
+
+LVC.full
+0	απευθύνεται	απευθύνω	VERB	_	_
+1	έκκληση	έκκληση	NOUN	0	nsubj
+
+LVC.full
+0	ασκηθεί	ασκώ	VERB	_	_
+1	πίεση	πίεση	NOUN	0	nsubj
+
+VID
+0	έχει	έχω	VERB	_	_
+1	έδρα	έδρα	NOUN	0	obj
+
+LVC.full
+0	επενδύσεις	επένδυση	NOUN	_	_
+1	έκανε	κάνω	VERB	0	acl:relcl
+
+VID
+0	λαμβάνουν	λαμβάνω	VERB	_	_
+1	υπόψη	υπόψη	ADV	0	advmod
+
+LVC.full
+0	δίνουμε	δίνω	VERB	_	_
+1	έμφαση	έμφασος	NOUN	0	obj
+
+VID
+0	μέτρα	μέτρο	NOUN	_	_
+1	έλαβε	λαμβάνω	VERB	0	acl:relcl
+
+VID
+0	Τα	ο	DET	1	det
+1	ρέστα	ρέστα	NOUN	3	nsubj
+2	της	μου	PRON	1	nmod
+3	παίζει	παίζω	VERB	_	_
+
+VID
+0	ήρθε	έρχομαι	VERB	_	_
+1	στο	στου	ADP	2	case
+2	προσκήνιο	προσκήνιος	NOUN	0	obl
+
+VID
+0	είχε	έχω	VERB	_	_
+1	στην	στου	ADP	2	case
+2	ατζέντα	ατζέντα	NOUN	0	obl
+3	της	μου	PRON	2	nmod
+
+LVC.full
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	επαφές	επαφή	NOUN	0	obl
+
+VID
+0	τα	εγώ	PRON	1	obj
+1	βρει	βρω	VERB	_	_
+
+VID
+0	ραντεβού	ραντεβός	NOUN	_	_
+1	κλείσει	κλείνω	VERB	0	acl:relcl
+
+LVC.full
+0	δόθηκαν	δόνω	VERB	_	_
+1	στην	στου	ADP	2	case
+2	δημοσιότητα	δημοσιότητα	NOUN	0	obl
+
+LVC.full
+0	Επίθεση	επίθεση	NOUN	1	obj
+1	έκανε	κάνω	VERB	_	_
+
+VID
+0	τα	εγώ	PRON	1	obj
+1	παρατήσει	παρατώ	VERB	_	_
+
+VID
+0	κρατούν	κρατώ	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χέρια	χέρι	NOUN	0	obl
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	νίκη	νίκη	NOUN	0	obj
+
+LVC.full
+0	μεταφορά	μεταφορά	NOUN	1	nsubj
+1	γίνεται	γίνομαι	VERB	_	_
+
+LVC.full
+0	μετακόμιση	μετακόμιση	NOUN	1	nsubj
+1	υλοποιείται	υλοποιώ	VERB	_	_
+
+VPC.full
+0	προσπάθεια	προσπάθεια	NOUN	_	_
+1	καταβάλλει	καταβάλλω	VERB	0	acl:relcl
+
+VID
+0	δίνει	δίνω	VERB	_	_
+1	έδαφος	έδαφος	NOUN	0	xcomp
+
+VPC.full
+0	ήταν	είμαι	AUX	1	cop
+1	πίσω	πίνω	ADV	_	_
+
+VID
+0	είχε	έχω	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χέρια	χέρι	NOUN	_	_
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	έχοντας	έχω	VERB	_	_
+1	παρουσία	παρουσία	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	υπεροχή	υπεροχή	NOUN	0	obl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	προβάδισμα	προβάδισμα	NOUN	_	_
+
+LVC.full
+0	έγινε	γίνομαι	VERB	_	_
+1	ανάλυση	ανάλυση	NOUN	0	nsubj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	επανεκκίνηση	επανεκκίνηση	NOUN	0	nsubj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	0	obj
+
+VID
+0	έχασαν	χάνω	VERB	_	_
+1	έδαφος	έδαφος	NOUN	0	xcomp
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	τη	ο	DET	2	det
+2	διαφορά	διαφορά	NOUN	0	obj
+
+LVC.full
+0	δίνοντας	δίνω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+VID
+0	πάτησε	πατώ	VERB	_	_
+1	γκάζι	γκάζι	VERB	0	ccomp
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	προβάδισμα	προβάδισμα	NOUN	_	_
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	προβάδισμα	προβάδισμα	NOUN	0	nsubj
+
+VID
+0	σημείωσαν	σημειώνω	VERB	_	_
+1	νίκη	νίκη	NOUN	0	obj
+
+LVC.full
+0	πήραν	πήραν	VERB	_	_
+1	ρεβάνς	ρεβάνς	NOUN	_	_
+
+VID
+0	κατεβάζει	κατεβάζω	VERB	_	_
+1	ρολά	ρολά	ADV	0	advmod
+
+LVC.full
+0	πήρε	παίρνω	VERB	_	_
+1	τον	ο	DET	2	det
+2	έλεγχο	έλεγχος	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	αποκρούσεις	αποκρούση	NOUN	0	obj
+
+VID
+0	παίρνει	παίρνω	VERB	_	_
+1	ψυχολογία	ψυχολογία	NOUN	0	obj
+
+VID
+0	έσπασε	σπω	VERB	_	_
+1	το	ο	DET	2	det
+2	ρόδι	ρόδι	NOUN	0	nsubj
+
+LVC.full
+0	πήρε	παίρνω	X	_	_
+1	υπό	υπό	ADP	2	case
+2	έλεγχο	έλεγχος	NOUN	0	nmod
+
+VID
+0	έκανε	κάνω	VERB	_	_
+1	την	ο	DET	2	det
+2	εμφάνιση	εμφάνιση	NOUN	0	obj
+3	της	μου	PRON	2	nmod
+
+VID
+0	έκανε	κάνω	VERB	_	_
+1	εμφάνιση	εμφάνιση	NOUN	0	obj
+
+LVC.full
+0	εμφάνιση	εμφάνιση	NOUN	1	obj
+1	έκανε	κάνω	VERB	_	_
+
+VID
+0	καταρρίπτοντας	καταρρίπτω	VERB	_	_
+1	ρεκόρ	ρεκόρ	X	_	_
+
+LVC.full
+0	ρεκόρ	ρεκόρ	X	_	_
+1	κάνει	κάνω	VERB	_	_
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	δημοσιότητα	δημοσιότητα	NOUN	0	obl
+
+VID
+0	ακολουθώντας	ακολουθώ	VERB	_	_
+1	τα	ο	DET	2	det
+2	βήματα	βήμα	NOUN	0	obj
+
+LVC.full
+0	πήρε	παίρνω	VERB	_	_
+1	απόφαση	απόφαση	NOUN	0	obj
+
+VID
+0	πάρει	παίρνω	VERB	_	_
+1	τα	ο	DET	2	det
+2	ηνία	ηνία	NOUN	0	nsubj
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	την	ο	DET	2	det
+2	εμφάνισή	εμφάνιση	NOUN	0	obj
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	εμφάνισή	εμφάνιση	NOUN	0	obj
+
+LVC.full
+0	δέχτηκε	δέχομαι	VERB	_	_
+1	επίθεση	επίθεση	NOUN	0	obj
+
+LVC.full
+0	δέχτηκε	δέχομαι	VERB	_	_
+1	επίθεση	επίθεση	NOUN	0	obl
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	σχόλια	σχόλι	NOUN	0	obj
+
+LVC.cause
+0	έχει	έχω	VERB	_	_
+1	υποστήριξη	υποστήριξη	NOUN	0	obj
+
+VID
+0	Στο	στου	ADP	1	case
+1	στόχαστρο	στόχαστρο	NOUN	2	obl
+2	μπήκε	μπαίνω	VERB	_	_
+
+LVC.full
+0	προκάλεσε	προκαλώ	VERB	_	_
+1	σάλο	σάλος	NOUN	0	obj
+
+LVC.full
+0	ρόλο	ρόλος	NOUN	1	obl
+1	έχει	έχω	VERB	_	_
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	τον	ο	DET	2	det
+2	γύρο	γύρος	NOUN	0	obj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	διαπραγμάτευση	διαπραγμάτευση	NOUN	0	nsubj
+
+LVC.full
+0	λάμβαναν	λάμβανας	VERB	_	_
+1	μέτρα	μέτρο	NOUN	0	obj
+
+LVC.full
+0	λάβει	λαμβάνω	VERB	_	_
+1	πρωτοβουλίες	πρωτοβουλία	NOUN	0	obj
+
+LVC.full
+0	Προανάκριση	Προανάκριση	NOUN	1	obj
+1	διενεργεί	διενεργώ	VERB	_	_
+
+LVC.full
+0	Πτώση	πτώση	NOUN	1	obl
+1	σημείωσαν	σημειώνω	VERB	_	_
+
+LVC.full
+0	σημείωσε	σημειώνω	VERB	_	_
+1	πτώση	πτώση	NOUN	0	obl
+
+LVC.full
+0	σημείωσαν	σημειώνω	VERB	_	_
+1	βουτιά	βουτιά	ADJ	_	_
+
+LVC.full
+0	σημείωσε	σημειώνω	VERB	_	_
+1	πτώση	πτώση	NOUN	0	obj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	απομείωση	απομείωση	NOUN	0	nsubj
+
+LVC.full
+0	παρέχεις	παρέχη	NOUN	_	_
+1	κούρεμα	κούρεμα	NOUN	0	nmod
+
+LVC.full
+0	προσφέρεις	προσφέρεις	NOUN	_	_
+1	απομείωση	απομείωση	NOUN	0	nmod
+
+LVC.full
+0	Κάνοντας	Κάνω	VERB	_	_
+1	αποτίμηση	αποτίμηση	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	αναφορές	αναφορά	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	ανακοίνωση	ανακοίνωση	NOUN	1	obl
+1	έκαναν	έκανας	VERB	_	_
+
+VID
+0	είχε	έχω	VERB	_	_
+1	κατά	κατά	ADP	2	case
+2	νου	νος	NOUN	0	obl
+
+VID
+0	δώσουν	δώζω	VERB	_	_
+1	τη	ο	DET	2	det
+2	θέση	θέση	NOUN	0	obj
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	απάντηση	απάντηση	NOUN	1	obj
+1	έδωσε	δίνω	VERB	_	_
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+VID
+0	λαμβάνοντας	λαμβάνω	VERB	_	_
+1	υπόψη	υπόψη	ADV	0	advmod
+
+LVC.full
+0	απόφαση	απόφαση	NOUN	_	_
+1	ελήφθη	λαμβάνω	VERB	_	_
+
+LVC.full
+0	επεξεργασία	επεξεργασία	NOUN	1	nsubj
+1	γίνεται	γίνομαι	VERB	_	_
+
+VID
+0	σπάζοντας	σπάζο	VERB	_	_
+1	τον	ο	DET	3	det
+2	φαύλο	φαύλος	ADJ	3	amod
+3	κύκλο	κύκλος	NOUN	0	obj
+
+LVC.full
+0	ενέχουν	ενέχω	VERB	_	_
+1	κίνδυνο	κίνδυνος	NOUN	0	obj
+
+LVC.cause
+0	έχει	έχω	VERB	_	_
+1	μεταχείριση	μεταχείριση	NOUN	0	obj
+
+LVC.full
+0	δοθεί	δίνω	VERB	_	_
+1	λύση	λύση	NOUN	0	obj
+
+LVC.full
+0	ανάλυση	ανάλυση	NOUN	_	_
+1	κάνει	κάνω	VERB	0	acl:relcl
+
+VID
+0	στρέφει	στρέφω	VERB	_	_
+1	το	ο	DET	2	det
+2	βλέμμα	βλέμμα	NOUN	0	obj
+
+VID
+0	κρατήσει	κρατώ	VERB	_	_
+1	χαμηλούς	χαμηλός	ADJ	2	amod
+2	τόνους	τόνος	NOUN	0	obj
+
+VPC.full
+0	τάσσεται	τάσσω	VERB	_	_
+1	υπέρ	υπέρ	ADP	_	_
+
+VID
+0	ισορροπήσει	ισορροπήνω	VERB	_	_
+1	σε	σε	ADP	3	case
+2	τεντωμένο	τεντωμένος	ADJ	3	amod
+3	σχοινί	σχοινί	NOUN	0	obl
+
+VID
+0	πάει	πηγαίνω	VERB	_	_
+1	κόντρα	κόντρο	NOUN	0	obj
+
+LVC.full
+0	δώσουν	δώζω	VERB	_	_
+1	το	ο	DET	2	det
+2	παρών	παρά	NOUN	0	obj
+
+VID
+0	πέσουν	πέφτω	VERB	_	_
+1	οι	ο	DET	2	det
+2	τόνοι	τόνος	NOUN	0	nsubj
+
+VID
+0	Στο	στου	ADP	1	case
+1	στόχαστρο	στόχαστρο	NOUN	_	_
+2	βρίσκεται	βρίσκω	VERB	_	_
+
+VID
+0	σηκώνει	σηκώνω	VERB	_	_
+1	το	ο	DET	2	det
+2	γάντι	γάντι	NOUN	0	obj
+
+VID
+0	φέρνει	φέρω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	προσκήνιο	προσκήνιος	NOUN	0	obl
+
+VID
+0	κάνουν	κάνω	VERB	_	_
+1	αγώνα	αγώνος	NOUN	0	obj
+2	δρόμου	δρόμος	NOUN	1	nmod
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	συναντήσεων	συνάντηση	NOUN	_	_
+
+LVC.full
+0	αλλαγές	αλλαγή	NOUN	_	_
+1	γίνουν	γίνομαι	VERB	_	_
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	συναντήσεις	συνάντηση	NOUN	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	τέχνασμα	τέχνασμα	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	ταχυ-δακτυλολογίες	ταχυ-δακτυλολογία	NOUN	0	obj
+
+LVC.full
+0	ταχυ-δακτυλολογίες	ταχυ-δακτυλολογία	NOUN	_	_
+1	έκανε	κάνω	VERB	0	acl:relcl
+
+VID
+0	λάβουμε	λαμβάνω	VERB	_	_
+1	υπόψη	υπόψη	ADV	0	advmod
+
+VID
+0	λάβουμε	λαμβάνω	VERB	_	_
+1	υπόψη	υπόψη	ADV	0	advmod
+2	μας	εγώ	PRON	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	κρίσεις	κρίση	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	ευθύνη	ευθύνη	NOUN	0	obj
+
+VID
+0	χυθεί	χύω	VERB	_	_
+1	αίμα	αίμα	NOUN	0	nsubj
+
+LVC.full
+0	προκαλέσει	προκαλώ	VERB	_	_
+1	προβληματισμό	προβληματισμός	NOUN	0	obj
+
+LVC.full
+0	Προβληματισμό	προβληματισμός	NOUN	1	obj
+1	προκαλεί	προκαλώ	VERB	_	_
+
+LVC.full
+0	έρθουν	έρχομαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	επαφή	επαφή	NOUN	0	obl
+
+VID
+0	ραντεβού	ραντεβός	NOUN	1	nsubj
+1	δοθεί	δίνω	VERB	_	_
+
+LVC.cause
+0	τεθούν	θέτω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	ισχύ	ισχύς	NOUN	0	obl
+
+LVC.full
+0	έκαναν	έκανας	DET	1	det
+1	επιθέσεις	επίθεση	NOUN	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	αναφορά	αναφορά	NOUN	0	obj
+
+VID
+0	βάζουν	βάζω	VERB	_	_
+1	φωτιά	φωτιά	NOUN	0	obj
+
+LVC.full
+0	χρηματοδότηση	χρηματοδότηση	NOUN	_	_
+1	κάνει	κάνω	VERB	_	_
+
+LVC.full
+0	χρηματοδότηση	χρηματοδότηση	NOUN	1	nsubj
+1	έκανε	κάνω	VERB	_	_
+
+VID
+0	έγραψε	έγραψε	VERB	_	_
+1	Ιστορία	ιστορία	X	0	obj
+
+VID
+0	τα	ο	DET	1	det
+1	έδωσαν	δίνω	VERB	_	_
+2	όλα	όλος	ADJ	1	obj
+
+VID
+0	τα	εγώ	PRON	1	obj
+1	καταφέρουν	καταφέρνω	VERB	_	_
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	πλεονέκτημα	πλεονέκτημα	NOUN	0	obj
+
+LVC.full
+0	παίρνει	παίρνω	VERB	_	_
+1	απόφαση	απόφαση	NOUN	0	obj
+
+LVC.cause
+0	έδωσε	δίνω	VERB	_	_
+1	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+LVC.full
+0	φέρουν	φέρω	VERB	_	_
+1	ευθύνη	ευθύνη	NOUN	0	obj
+
+LVC.full
+0	συνέπειες	συνέπεια	NOUN	_	_
+1	έχει	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	φέρει	φέρω	VERB	_	_
+1	ευθύνη	ευθύνη	NOUN	0	obj
+
+LVC.cause
+0	τελούσε	τελώ	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	κατοχή	κατοχή	NOUN	0	obl
+
+LVC.full
+0	διαθέτουν	διαθέτω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	0	obj
+
+LVC.full
+0	έδωσαν	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	παρών	παρά	NOUN	0	obj
+
+VID
+0	έκανε	κάνω	VERB	_	_
+1	ό,τι	ό,τι	PRON	2	nsubj
+2	περνούσε	περνώ	VERB	0	ccomp
+3	από	από	ADP	5	case
+4	το	ο	DET	5	det
+5	χέρι	χέρι	NOUN	2	obl
+6	της	μου	PRON	5	nmod
+
+VID
+0	περνούσε	περνώ	VERB	_	_
+1	από	από	ADP	3	case
+2	το	ο	DET	3	det
+3	χέρι	χέρι	NOUN	0	obl
+4	της	μου	PRON	3	nmod
+
+VID
+0	Τον	ο	DET	1	det
+1	τόνο	τόνος	NOUN	2	obl
+2	έδωσε	δίνω	VERB	_	_
+
+LVC.full
+0	λάβει	λαμβάνω	VERB	_	_
+1	ευθύνη	ευθύνη	NOUN	0	obj
+
+LVC.full
+0	έπαιξε	παίζω	VERB	_	_
+1	ρόλο	ρόλος	NOUN	0	obj
+
+VID
+0	κλείσει	κλείσει	VERB	_	_
+1	το	ο	DET	2	det
+2	στόμα	στόμα	NOUN	0	obj
+
+LVC.full
+0	κατάθεση	κατάθεση	NOUN	1	nsubj
+1	δοθεί	δίνω	VERB	_	_
+
+LVC.full
+0	ήρθε	έρχομαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	επαφή	επαφή	NOUN	0	obl
+
+LVC.full
+0	έδωσαν	δίνω	VERB	_	_
+1	εντολή	εντολή	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	στην	στου	ADP	2	case
+2	κατοχή	κατοχή	NOUN	0	obl
+3	της	ο	DET	_	_
+
+VID
+0	τάχθηκε	τάσσω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	πλευρό	πλευρό	NOUN	0	obl
+
+LVC.full
+0	επίθεση	επίθεση	NOUN	1	nsubj
+1	διαπράχθηκε	διαπράχνω	VERB	_	_
+
+LVC.full
+0	έχουμε	έχω	VERB	_	_
+1	βούληση	βούληση	NOUN	0	obj
+
+VPC.full
+0	τασσόμαστε	τασσόμαι	VERB	_	_
+1	υπέρ	υπέρ	ADP	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	βήματα	βήμα	NOUN	0	obj
+
+LVC.full
+0	Κάνουν	κάνω	VERB	_	_
+1	λάθος	λάθος	NOUN	0	obj
+
+LVC.full
+0	γίνονται	γίνομαι	VERB	_	_
+1	διαχωρισμοί	διαχωρισμός	NOUN	0	nsubj
+
+LVC.cause
+0	έχει	έχω	VERB	_	_
+1	νομιμοποίηση	νομιμοποίηση	NOUN	0	obj
+
+LVC.full
+0	συνομιλία	συνομιλία	NOUN	_	_
+1	είχε	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	προκαλεί	προκαλώ	VERB	_	_
+1	έκπληξη	έκπληξη	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	βλέψεις	βλέψη	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	επίγνωση	επίγνωση	NOUN	0	obj
+
+LVC.full
+0	επιπτώσεων	επίπτωση	NOUN	_	_
+1	είχε	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	αντίκτυπος	αντίκτυπος	NOUN	_	_
+1	έχει	έχω	VERB	0	acl:relcl
+
+VID
+0	ληφθεί	λαμβάνω	VERB	_	_
+1	υπόψη	υπόψη	ADV	0	advmod
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	συνομιλίες	συνομιλία	NOUN	0	obj
+
+LVC.full
+0	έλθει	έλχομαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	αντιπαράθεση	αντιπαράθεση	NOUN	0	obl
+
+LVC.full
+0	Διαδηλώσεις	διαδήλωση	NOUN	1	nsubj
+1	πραγματοποιηθούν	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	συνέντευξη	συνέντευξη	NOUN	_	_
+1	παραχώρησε	παραχωρώ	VERB	0	acl:relcl
+
+LVC.full
+0	λαμβάνουν	λαμβάνω	VERB	_	_
+1	αποφάσεις	απόφαση	NOUN	_	_
+
+LVC.full
+0	λάβει	λαμβάνω	VERB	_	_
+1	πρωτοβουλία	πρωτοβουλία	NOUN	0	obj
+
+LVC.full
+0	πάρει	παίρνω	VERB	_	_
+1	κατεύθυνση	κατεύθυνση	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	εικασίες	εικασία	NOUN	0	obj
+
+LVC.full
+0	τέθηκε	θέτω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	εφαρμογή	εφαρμογή	NOUN	0	obl
+
+VID
+0	πήρε	παίρνω	VERB	_	_
+1	το	ο	DET	2	det
+2	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	ανάγκη	ανάγκη	NOUN	0	obj
+
+LVC.full
+0	κριτικής	κριτική	NOUN	_	_
+1	ασκούν	ασκώ	VERB	0	acl:relcl
+
+LVC.full
+0	δημοσιοποίηση	δημοσιοποίηση	NOUN	1	nsubj
+1	έγινε	γίνομαι	VERB	_	_
+
+LVC.full
+0	έρευνα	έρευνα	NOUN	_	_
+1	διεξάγεται	διεξάγω	VERB	0	acl:relcl
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	χρήση	χρήση	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	χρήση	χρήση	NOUN	0	nsubj
+
+LVC.full
+0	πραγματοποιούσε	πραγματοποιώ	VERB	_	_
+1	πτήση	πτήση	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	χρήση	χρήση	NOUN	0	obj
+
+LVC.full
+0	τεθεί	θέτω	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	αμφισβήτηση	αμφισβήτηση	NOUN	0	obl
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	έδρα	έδρα	NOUN	0	obj
+
+LVC.full
+0	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+1	συνάντηση	συνάντηση	NOUN	0	xcomp
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	οπτική	οπτικός	ADJ	0	obj
+
+LVC.full
+0	διενεργεί	διενεργώ	VERB	_	_
+1	εξετάσεις	εξετάση	NOUN	0	obj
+
+LVC.full
+0	παρέχει	παρέχω	VERB	_	_
+1	υπηρεσίες	υπηρεσία	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	κόστος	κόστος	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	δικαίωμα	δικαίωμα	NOUN	0	obj
+
+VID
+0	ανοίγουν	ανοίγω	VERB	_	_
+1	πυρ	πυρ	NOUN	0	obj
+
+VID
+0	άνοιξε	ανοίγω	VERB	_	_
+1	πυρ	πυρ	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	στόχο	στόχος	NOUN	0	obj
+
+VID
+0	κερδίζει	κερδίζω	VERB	_	_
+1	έδαφος	έδαφος	NOUN	0	xcomp
+
+LVC.full
+0	απειλής	απειλή	NOUN	_	_
+1	θέτουν	θέτω	VERB	0	acl:relcl
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	κατανόηση	κατανόηση	NOUN	0	obj
+
+LVC.full
+0	επιλογή	επιλογή	NOUN	_	_
+1	έκανε	κάνω	VERB	0	acl:relcl
+
+VID
+0	Αφήνω	Αφήνω	VERB	_	_
+1	στην	στου	ADP	_	_
+2	άκρη	άκρος	ADJ	_	_
+
+LVC.cause
+0	δοθεί	δίνω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	0	nsubj
+
+VID
+0	έβγαλε	έβγαλε	VERB	_	_
+1	κορώνες	κορώνη	NOUN	0	obj
+
+VID
+0	τον	ο	DET	1	det
+1	τόνο	τόνος	NOUN	2	obl
+2	δίνουν	δίνω	VERB	_	_
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	παρακολούθηση	παρακολούθηση	NOUN	_	_
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	υποβολή	υποβολή	NOUN	0	nsubj
+
+LVC.full
+0	γίνουν	γίνομαι	VERB	_	_
+1	αλλαγές	αλλαγή	NOUN	0	obj
+
+LVC.full
+0	συναντήσεις	συνάντηση	NOUN	_	_
+1	πραγματοποίησε	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	σημασία	σημασία	NOUN	_	_
+1	έχει	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	επέκταση	επέκταση	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	διαθεσιμότητα	διαθεσιμότητα	NOUN	_	_
+
+LVC.full
+0	στεφθεί	στέπω	VERB	_	_
+1	με	με	ADP	2	case
+2	επιτυχία	επιτυχία	NOUN	0	obl
+
+LVC.full
+0	σημειώνοντας	σημειώνω	VERB	_	_
+1	αύξηση	αύξηση	NOUN	0	nsubj
+
+LVC.full
+0	γίνουν	γίνομαι	VERB	_	_
+1	προσαρμογές	προσαρμογή	NOUN	0	nsubj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	επαφές	επαφή	NOUN	0	obj
+
+VID
+0	τεθούν	θέτω	VERB	_	_
+1	επί	επί	ADP	2	case
+2	τάπητος	τάπη	NOUN	0	obl
+
+LVC.cause
+0	έχει	έχω	VERB	_	_
+1	πρόβλημα	πρόβλημα	NOUN	0	nsubj
+
+VID
+0	έχει	έχω	VERB	_	_
+1	τον	ο	DET	3	det
+2	πρώτο	πρώτος	NUM	3	nummod
+3	λόγο	λόγος	NOUN	0	obj
+
+VID
+0	έχει	έχω	VERB	_	_
+1	τον	ο	DET	2	det
+2	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	στοχεύσεις	στοχεύση	NOUN	0	obj
+
+VID
+0	Στο	στου	ADP	1	case
+1	μικροσκόπιο	μικροσκόπιος	NOUN	2	obl
+2	μπήκαν	μπήκω	VERB	_	_
+
+LVC.full
+0	έχω	έχω	VERB	_	_
+1	πίστη	πίστης	NOUN	0	obj
+
+LVC.full
+0	δίκης	δίκη	NOUN	_	_
+1	γίνεται	γίνομαι	VERB	_	_
+
+LVC.full
+0	διεξήγαν	διεξάγω	VERB	_	_
+1	έρευνα	έρευνα	NOUN	0	obj
+
+VID
+0	Φωτιά	Φωτιά	ADJ	1	advmod
+1	βάζει	βάζω	VERB	_	_
+
+LVC.full
+0	προεκτάσεις	προεκτάση	NOUN	_	_
+1	έχει	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	ασκήθηκε	ασκώ	VERB	_	_
+1	ποινική	ποινικός	ADJ	2	amod
+2	δίωξη	δίωξος	NOUN	0	nsubj
+
+LVC.full
+0	ασκήθηκε	ασκώ	VERB	_	_
+1	δίωξη	δίωξος	NOUN	0	nsubj
+
+LVC.full
+0	σχέση	σχέση	NOUN	1	nsubj
+1	έχω	έχω	VERB	_	_
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	δήλωση	δήλωση	NOUN	0	obj
+
+LVC.full
+0	αρμοδιότητα	αρμοδιότητα	NOUN	_	_
+1	έχει	έχω	VERB	_	_
+
+LVC.full
+0	απάντηση	απάντηση	NOUN	1	nsubj
+1	έδωσε	δίνω	VERB	_	_
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	λάθος	λάθος	NOUN	0	nsubj
+
+LVC.full
+0	επίθεση	επίθεση	NOUN	1	nsubj
+1	εξαπέλυσε	εξαπέλυσε	VERB	_	_
+
+LVC.full
+0	κάνω	κάνω	VERB	_	_
+1	ρεζίλι	ρεζίλι	NOUN	_	_
+
+LVC.full
+0	επιχειρεί	επιχειρώ	VERB	_	_
+1	καταγραφή	καταγραφή	NOUN	0	obj
+
+LVC.full
+0	επιχειρεί	επιχειρώ	VERB	_	_
+1	σύγκριση	σύγκριση	NOUN	_	_
+
+LVC.full
+0	έρευνα	έρευνα	NOUN	2	nsubj
+1	γνώμης	γνώμη	NOUN	0	nmod
+2	διενεργήθηκε	διενεργώ	VERB	_	_
+
+LVC.full
+0	εντύπωση	εντύπωση	NOUN	1	nsubj
+1	κάνει	κάνω	VERB	_	_
+
+LVC.full
+0	λάμβανε	λάμβανε	VERB	_	_
+1	απόφαση	απόφαση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	ενέργειες	ενέργεια	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	ζημιά	ζημιά	NOUN	0	obj
+
+LVC.full
+0	γίνουν	γίνομαι	VERB	_	_
+1	προβλέψεις	προβλέψη	NOUN	0	nsubj
+
+VID
+0	έχουμε	έχω	VERB	_	_
+1	το	ο	DET	2	det
+2	νου	νος	NOUN	0	obj
+3	μας	μου	PRON	2	nmod
+
+LVC.full
+0	θέσει	θέτω	VERB	_	_
+1	υποψηφιότητα	υποψηφιότητα	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	κολύμπι	κολύμπι	NOUN	_	_
+
+LVC.full
+0	υπεβλήθη	υπεβλήθος	VERB	_	_
+1	σε	σε	ADP	3	case
+2	χειρουργική	χειρουργικός	ADJ	3	amod
+3	επέμβαση	επέμβαση	NOUN	0	obl
+
+LVC.full
+0	υπεβλήθη	υπεβλήθος	VERB	_	_
+1	σε	σε	ADP	2	case
+2	επέμβαση	επέμβαση	NOUN	0	obl
+
+LVC.full
+0	θέσουν	θέζω	VERB	_	_
+1	ερωτήσεις	ερωτήση	NOUN	0	obj
+
+LVC.full
+0	ασκήσουν	ασκώ	VERB	_	_
+1	κριτική	κριτική	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	εκτόξευση	εκτόξευση	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	ικανότητα	ικανότητα	NOUN	0	obj
+
+MVC
+0	έχουν	έχω	VERB	_	_
+1	να	να	PART	2	aux
+2	κάνουν	κάνω	VERB	0	csubj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	ισχύ	ισχύς	NOUN	0	obl
+
+LVC.full
+0	συνάντηση	συνάντηση	NOUN	_	_
+1	είχαν	έχω	VERB	0	acl:relcl
+
+VID
+0	ανοίγει	ανοίγω	VERB	_	_
+1	ο	ο	DET	2	det
+2	δρόμος	δρόμος	NOUN	0	nsubj
+
+VID
+0	ανοίγει	ανοίγω	VERB	_	_
+1	τον	ο	DET	2	det
+2	δρόμο	δρόμος	NOUN	0	obj
+
+VID
+0	φέρνει	φέρω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	ADV	0	advmod
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	βουτιά	βουτιά	NOUN	0	obj
+
+VID
+0	σήμανε	σημαίνω	VERB	_	_
+1	συναγερμό	συναγερμός	ADJ	0	xcomp
+
+LVC.full
+0	συνάντηση	συνάντηση	NOUN	1	nsubj
+1	έχει	έχω	VERB	_	_
+
+VID
+0	βρίσκονται	βρίσκω	VERB	_	_
+1	στα	στου	ADP	2	case
+2	κάγκελα	κάγκελος	NOUN	0	obl
+
+LVC.full
+0	κατακτήσεις	κατάκτηση	NOUN	_	_
+1	είχαμε	έχω	VERB	0	acl:relcl
+
+VID
+0	Στα	στου	ADP	1	case
+1	σκαριά	σκαρί	NOUN	_	_
+2	βρίσκεται	βρίσκω	VERB	_	_
+
+VID
+0	λάμβαναν	λάμβανας	DET	1	det
+1	χώρα	χώρα	NOUN	_	_
+
+LVC.full
+0	καταθέσεις	καταθέτω	NOUN	1	nsubj
+1	δοθεί	δίνω	VERB	_	_
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	λάθος	λάθος	NOUN	0	obj
+
+VID
+0	άφησε	αφήνω	VERB	_	_
+1	αιχμές	αιχμός	NOUN	0	obj
+
+MVC
+0	έχουν	έχω	VERB	_	_
+1	να	να	PART	2	aux
+2	κάνουν	κάνω	VERB	0	ccomp
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	εμπλοκή	εμπλοκή	NOUN	0	obj
+
+VID
+0	βάζω	βάζω	VERB	_	_
+1	το	ο	DET	2	det
+2	χέρι	χέρι	NOUN	0	obj
+3	μου	μου	PRON	2	nmod
+4	στη	στου	ADP	5	case
+5	φωτιά	φωτιά	NOUN	0	obl
+
+LVC.full
+0	δίνεται	δίνω	VERB	_	_
+1	παράταση	παράταση	NOUN	0	nsubj
+
+LVC.full
+0	μνεία	μνεία	NOUN	_	_
+1	κάνει	κάνω	VERB	_	_
+
+LVC.full
+0	αναφορά	αναφορά	NOUN	1	nsubj
+1	κάνει	κάνω	VERB	_	_
+
+LVC.full
+0	έγιναν	γίνομαι	VERB	_	_
+1	αποκοπές	αποκοπή	NOUN	0	nsubj
+
+LVC.full
+0	Παρέμβαση	Παρέμβαση	NOUN	_	_
+1	έκανε	κάνω	VERB	0	conj
+
+LVC.full
+0	έρευνα	έρευνα	NOUN	1	nsubj
+1	διενεργείται	διενεργώ	VERB	_	_
+
+VID
+0	κλείστηκε	κλείζω	VERB	_	_
+1	ραντεβού	ραντεβού	ADV	0	advmod
+
+LVC.full
+0	ρίξουν	ρίχνω	VERB	_	_
+1	φως	φως	ADV	0	advmod
+
+LVC.full
+0	επιχείρηση	επιχείρηση	NOUN	_	_
+1	πραγματοποιήθηκε	πραγματοποιώ	VERB	0	acl:relcl
+
+LVC.full
+0	πραγματοποίησαν	πραγματοποιώ	VERB	_	_
+1	έρευνα	έρευνα	NOUN	0	xcomp
+
+LVC.full
+0	ασκήθηκε	ασκώ	VERB	_	_
+1	ποινική	ποινικός	ADJ	2	amod
+2	δίωξη	δίωξος	NOUN	0	obj
+
+LVC.full
+0	ασκήθηκε	ασκώ	VERB	_	_
+1	δίωξη	δίωξος	NOUN	0	obj
+
+LVC.full
+0	δοθεί	δίνω	VERB	_	_
+1	προσοχή	προσοχή	NOUN	0	obj
+
+LVC.full
+0	διατρέχει	διατρέχω	VERB	_	_
+1	κίνδυνο	κίνδυνος	NOUN	0	obj
+
+LVC.full
+0	πραγματοποιηθεί	πραγματοποιώ	VERB	_	_
+1	συνάντηση	συνάντηση	NOUN	0	obj
+
+VID
+0	άφησε	αφήνω	VERB	_	_
+1	ανοικτή	ανοιχτός	ADJ	3	amod
+2	την	ο	DET	3	det
+3	πόρτα	πόρτο	NOUN	0	obj
+
+LVC.full
+0	δοθεί	δίνω	VERB	_	_
+1	ώθηση	ώθηση	NOUN	0	obj
+
+LVC.full
+0	έγιναν	γίνομαι	VERB	_	_
+1	απολύσεων	απολύση	NOUN	_	_
+
+LVC.full
+0	έγιναν	γίνομαι	VERB	_	_
+1	αλλαγές	αλλαγή	NOUN	0	obj
+
+LVC.full
+0	απόφαση	απόφαση	NOUN	1	nsubj
+1	ελήφθη	λαμβάνω	VERB	_	_
+
+LVC.full
+0	συνεδρίαση	συνεδρίαση	NOUN	_	_
+1	είχαν	έχω	VERB	0	acl:relcl
+
+VID
+0	κατεβάσουν	κατεβάζω	VERB	_	_
+1	τους	ο	DET	2	det
+2	τόνους	τόνος	NOUN	0	obj
+
+VID
+0	πέσει	πώ	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χέρια	χέρι	NOUN	0	obl
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	_	_
+
+VID
+0	ανοίγοντας	ανοίγω	VERB	_	_
+1	πυρ	πυρ	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	στάσεις	στάση	NOUN	0	obj
+
+LVC.full
+0	πραγματοποίησε	πραγματοποιώ	VERB	_	_
+1	μελέτη	μελέτη	NOUN	_	_
+
+LVC.full
+0	δόθηκε	δίνω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	δημοσιότητα	δημοσιότητα	NOUN	0	obl
+
+LVC.full
+0	απηύθυνε	απευθύνω	VERB	_	_
+1	έκκληση	έκκληση	NOUN	0	obj
+
+VID
+0	θέσει	θέτω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	αρχείο	αρχείο	NOUN	0	obl
+
+LVC.full
+0	πραγματοποιείται	πραγματοποιώ	VERB	_	_
+1	δίκη	δίκη	NOUN	0	nsubj
+
+LVC.full
+0	επίθεσης	επίθεση	NOUN	_	_
+1	πραγματοποίησαν	πραγματοποιώ	VERB	0	acl:relcl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	εμφάνισή	εμφάνιση	NOUN	0	obl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	την	ο	DET	2	det
+2	εμφάνισή	εμφάνιση	NOUN	0	obl
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	θέτοντας	θέτω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	περιορισμό	περιορισμός	NOUN	0	obl
+
+LVC.full
+0	συλλήψεις	συλλήψη	NOUN	1	nsubj
+1	έγιναν	γίνομαι	VERB	_	_
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	πληροφορία	πληροφορία	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	ως	ως	ADV	2	case
+2	αποτέλεσμα	αποτέλεσμα	NOUN	0	obl
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	αποτέλεσμα	αποτέλεσμα	NOUN	0	obl
+
+LVC.full
+0	βάλουν	βάλω	VERB	_	_
+1	στοπ	στοπ	X	0	obj
+
+VID
+0	καθίσουν	κάθομαι	VERB	_	_
+1	στο	στου	ADP	2	case
+2	τραπέζι	τραπέζι	NOUN	0	obl
+3	των	ο	DET	4	det
+4	διαπραγματεύσεων	διαπραγμάτευση	NOUN	2	nmod
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	αίτημα	αίτημα	NOUN	0	obj
+
+VID
+0	βρίσκονται	βρίσκω	VERB	_	_
+1	προ	προ	ADP	3	case
+2	των	ο	DET	3	det
+3	πυλών	πυλή	NOUN	0	obl
+
+VID
+0	στο	στου	ADP	1	case
+1	στόχαστρο	στόχαστρος	NOUN	_	_
+2	μπήκαν	μπήκω	VERB	_	_
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ρεκόρ	ρεκόρ	X	_	_
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	παράσταση	παράσταση	NOUN	0	obl
+
+VID
+0	πιάσει	πιάνω	VERB	_	_
+1	δουλειά	δουλειά	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	εμετό	εμετός	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	καταθέσεις	καταθέτω	NOUN	0	obj
+
+LVC.full
+0	κατάθεση	κατάθεση	NOUN	1	nsubj
+1	δόθηκε	δίνω	VERB	_	_
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	πληρωμές	πληρωμή	NOUN	0	obj
+
+LVC.full
+0	καταθέσεις	καταθέτω	NOUN	_	_
+1	δίδονται	δίδω	VERB	_	_
+
+VID
+0	τον	ο	DET	1	det
+1	δρόμο	δρόμος	NOUN	_	_
+2	παίρνει	παίρνω	VERB	_	_
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	κατάθεση	κατάθεση	NOUN	0	obj
+
+LVC.full
+0	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+1	πώληση	πώληση	NOUN	0	nsubj
+
+LVC.full
+0	δημοπρασία	δημοπρασία	NOUN	1	nsubj
+1	πραγματοποιείται	πραγματοποιώ	VERB	_	_
+
+VID
+0	ληφθεί	λαμβάνω	VERB	_	_
+1	μέτρα	μέτρο	NOUN	0	obj
+
+LVC.full
+0	προβώ	προβώ	VERB	_	_
+1	σε	σε	ADP	2	case
+2	ενέργειες	ενέργεια	NOUN	0	obl
+
+LVC.full
+0	κάνω	κάνω	VERB	_	_
+1	μηνύσεις	μηνύση	NOUN	0	obj
+
+LVC.full
+0	εξαπολύουν	εξαπολύω	VERB	_	_
+1	επιθέσεις	επίθεση	NOUN	0	obj
+
+LVC.full
+0	διεξάγει	διεξάγω	VERB	_	_
+1	έρευνα	έρευνα	NOUN	0	obj
+
+LVC.full
+0	επιθέσεις	επίθεση	NOUN	_	_
+1	έκανε	κάνω	VERB	_	_
+
+LVC.full
+0	άσκησε	ασκώ	VERB	_	_
+1	έφεση	έφεση	NOUN	0	obj
+
+LVC.full
+0	δόθηκε	δίνω	VERB	_	_
+1	εντολή	εντολή	NOUN	0	nsubj
+
+LVC.full
+0	τεθεί	θέτω	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	κράτηση	κράτηση	NOUN	0	obl
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	βήμα	βήμα	NOUN	0	obj
+
+LVC.full
+0	κατέχουν	κατέχω	VERB	_	_
+1	ρεκόρ	ρεκόρ	X	0	obj
+
+VID
+0	κάνουν	κάνω	VERB	_	_
+1	θραύση	θραύση	NOUN	0	obj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	άδεια	άδεια	ADV	0	advmod
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	θόρυβο	θόρυβο	ADJ	0	xcomp
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	διάθεσή	διάθεση	NOUN	0	obl
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	πράξη	πράξη	NOUN	0	obj
+
+LVC.full
+0	έβαλε	έβαλε	VERB	_	_
+1	στοίχημα	στοίχημα	NOUN	0	nsubj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	οπισθοδρομήσεις	οπισθοδρομήση	NOUN	0	obj
+
+LVC.full
+0	επιτευχθεί	επιτυγχάνω	VERB	_	_
+1	συμβιβασμός	συμβιβασμός	NOUN	0	xcomp
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	αποκάλυψη	αποκάλυψη	NOUN	0	obj
+
+VID
+0	έκανε	κάνω	VERB	_	_
+1	φύλλο	φύλλο	PROPN	0	obj
+2	και	και	CCONJ	_	_
+3	φτερό	φτερός	ADP	_	_
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	προσπάθειες	προσπάθεια	NOUN	0	obj
+
+LVC.full
+0	δέσμευση	δέσμευση	NOUN	_	_
+1	δώσει	δίνω	VERB	0	acl:relcl
+
+LVC.full
+0	κάνετε	κάνω	VERB	_	_
+1	μεταβολή	μεταβολή	NOUN	0	obj
+
+LVC.full
+0	ασκήσει	ασκώ	VERB	_	_
+1	κριτική	κριτική	NOUN	0	obj
+
+VID
+0	αναλάβει	αναλαμβάνω	VERB	_	_
+1	τα	ο	DET	2	det
+2	ηνία	ηνία	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	αντίρρηση	αντίρρηση	NOUN	0	obj
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	αναφορά	αναφορά	NOUN	0	obj
+
+LVC.full
+0	παίξει	παίζω	VERB	_	_
+1	ρόλο	ρόλος	NOUN	0	obj
+
+LVC.full
+0	προσπάθεια	προσπάθεια	NOUN	_	_
+1	καταβάλουν	καταβάλλω	VERB	0	acl:relcl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ερώτηση	ερώτηση	NOUN	0	obj
+
+VID
+0	σπάσει	σπάω	VERB	_	_
+1	ο	ο	DET	2	det
+2	πάγος	πάγος	NOUN	0	nsubj
+
+VID
+0	Τον	ο	DET	1	det
+1	λόγο	λόγος	NOUN	_	_
+2	πήρε	παίρνω	VERB	1	acl
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	παράπονα	παράπονο	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	διευκρινίσεις	διευκρινίση	NOUN	0	obj
+
+LVC.full
+0	εκλογών	εκλογή	NOUN	_	_
+1	διεξήχθησαν	διεξάγω	VERB	0	acl:relcl
+
+LVC.full
+0	έκαναν	έκανας	DET	1	det
+1	λόγο	λόγος	NOUN	_	_
+
+LVC.full
+0	έδινε	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	0	obj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	στίγμα	στίγμα	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	αρμονία	αρμονία	NOUN	0	nsubj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	δικαίωμα	δικαίωμα	NOUN	0	obj
+
+VID
+0	λάβουν	λαμβάνω	VERB	_	_
+1	μέρος	μέρος	NOUN	0	obj
+
+LVC.full
+0	λαμβάνουν	λαμβάνω	VERB	_	_
+1	αποφάσεις	απόφαση	NOUN	0	obj
+
+LVC.full
+0	βγάλει	βγάλλω	VERB	_	_
+1	φωτογραφίες	φωτογραφία	NOUN	0	obj
+
+LVC.cause
+0	έχουν	έχω	VERB	_	_
+1	στήριξη	στήριξος	NOUN	0	obj
+
+LVC.cause
+0	υπόκεινται	υπόκειμαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	διακρίσεις	διάκριση	NOUN	0	obl
+
+LVC.cause
+0	υπόκεινται	υπόκειμαι	VERB	_	_
+1	σε	σε	ADP	_	_
+2	βία	βία	NOUN	_	_
+
+LVC.full
+0	θέτει	θέτω	VERB	_	_
+1	περιορισμούς	περιορισμός	NOUN	0	obj
+
+VID
+0	πάρει	παίρνω	VERB	_	_
+1	μέρος	μέρος	NOUN	0	obj
+
+LVC.full
+0	αποφάσεις	απόφαση	NOUN	_	_
+1	λήφθηκαν	λαμβάνω	VERB	0	acl:relcl
+
+LVC.full
+0	Έκανε	κάνω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	αποφάσεις	απόφαση	NOUN	_	_
+1	λαμβάνει	λαμβάνω	VERB	0	acl:relcl
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	επιπτώσεις	επίπτωση	NOUN	0	obj
+
+LVC.full
+0	παρέχουμε	παρέχω	VERB	_	_
+1	προστασία	προστασία	NOUN	0	obj
+
+LVC.cause
+0	στο	στου	ADP	1	case
+1	στόχαστρο	στόχαστρο	NOUN	2	obl
+2	βρίσκονται	βρίσκω	VERB	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	ανάληψη	ανάληψη	NOUN	0	obj
+
+LVC.full
+0	υπηρεσία	υπηρεσία	NOUN	1	nsubj
+1	παρέχουν	παρέχω	VERB	_	_
+
+LVC.full
+0	κατέληξε	καταλήγω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	συμπέρασμα	συμπέρασμα	NOUN	0	obl
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	ανάληψη	ανάληψος	NOUN	0	nsubj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	ανάληψη	ανάληψη	NOUN	0	nsubj
+
+LVC.full
+0	δουλειά	δουλειά	NOUN	_	_
+1	κάνουν	κάνω	VERB	0	acl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	δημοσιότητα	δημοσιότητα	NOUN	0	obl
+
+LVC.cause
+0	δέχονται	δέχομαι	VERB	_	_
+1	πιέσεις	πιέση	NOUN	0	obj
+
+LVC.full
+0	πραγματοποίησαν	πραγματοποιώ	VERB	_	_
+1	έρευνες	έρευνα	NOUN	0	obj
+
+LVC.full
+0	πραγματοποίησε	πραγματοποιώ	VERB	_	_
+1	έρευνες	έρευνα	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	σχέση	σχέση	NOUN	0	obj
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	δημοσίευση	δημοσίευση	NOUN	0	obj
+
+LVC.cause
+0	υποστεί	υφίσταμαι	VERB	_	_
+1	επεξεργασία	επεξεργασία	NOUN	0	nsubj
+
+VID
+0	έφερε	φέρω	VERB	_	_
+1	στον	στου	ADP	2	case
+2	κόσμο	κόσμος	NOUN	0	obl
+
+VID
+0	πήρε	παίρνω	VERB	_	_
+1	μέρος	μέρος	NOUN	0	obj
+
+LVC.full
+0	παίρνει	παίρνω	VERB	_	_
+1	διαστάσεις	διαστάση	NOUN	0	obj
+
+LVC.cause
+0	πήρε	παίρνω	VERB	_	_
+1	δημοσιότητα	δημοσιότητα	NOUN	0	obj
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	λόγος	λόγος	NOUN	0	nsubj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	τον	ο	DET	2	det
+2	έλεγχο	έλεγχος	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	δουλειά	δουλειά	NOUN	0	obj
+
+LVC.full
+0	ακρόαση	ακρόαση	NOUN	_	_
+1	πραγματοποιηθεί	πραγματοποιώ	VERB	0	acl:relcl
+
+VID
+0	χάσει	χάνω	VERB	_	_
+1	τη	ο	DET	2	det
+2	ζωή	ζωή	NOUN	0	obj
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	δόθηκαν	δόνω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	δημοσιότητα	δημοσιότητα	NOUN	0	obl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	ώθηση	ώθηση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	δώρα	δώρα	ADV	0	advmod
+
+LVC.full
+0	συνάντηση	συνάντηση	NOUN	1	nsubj
+1	πραγματοποιηθεί	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	Κάνοντας	Κάνω	VERB	_	_
+1	βόλτα	βόλτα	ADV	0	advmod
+
+LVC.full
+0	κάνετε	κάνω	VERB	_	_
+1	διάλειμμα	διάλειμμα	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	επιπτώσεις	επίπτωση	NOUN	0	obj
+
+LVC.full
+0	επιλογές	επιλογή	NOUN	_	_
+1	κάνετε	κάνω	VERB	_	_
+
+LVC.full
+0	κάνουμε	κάνω	VERB	_	_
+1	διατροφή	διατροφή	NOUN	0	nsubj
+
+LVC.full
+0	κάνουμε	κάνω	VERB	_	_
+1	άσκηση	άσκηση	NOUN	_	_
+
+LVC.full
+0	Φόρουμ	φόρουμ	X	_	_
+1	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+
+VID
+0	έχουν	έχω	VERB	_	_
+1	τσαγανό	τσαγανός	ADJ	0	xcomp
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	επιδόσεις	επίδοση	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	συμβουλές	συμβουλή	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	εντύπωση	εντύπωση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	περιήγηση	περιήγηση	NOUN	0	obl
+
+LVC.full
+0	πήραμε	πήρω	VERB	_	_
+1	διαδρομή	διαδρομή	NOUN	_	_
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	εντύπωση	εντύπωση	NOUN	0	nsubj
+
+LVC.full
+0	έδωσα	δίνω	VERB	_	_
+1	οδηγίες	οδηγία	NOUN	_	_
+
+LVC.full
+0	έχεις	έχει	NOUN	_	_
+1	διάθεση	διάθεση	NOUN	_	_
+
+LVC.full
+0	έρχεται	έρχομαι	VERB	_	_
+1	αντιμέτωπος	αντιμέτωπος	ADJ	0	xcomp
+
+LVC.full
+0	δίνουν	δίνω	VERB	_	_
+1	ζωή	ζωή	NOUN	0	obj
+
+VID
+0	έχουν	έχω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	μυαλό	μυαλο	NOUN	0	obl
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	Κάνουμε	κάνω	VERB	_	_
+1	ανακύκλωση	ανακύκλωση	NOUN	0	obj
+
+LVC.full
+0	Κάνουμε	κάνω	VERB	_	_
+1	δουλειά	δουλειά	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	βόλτα	βόλτα	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	αξία	αξία	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	δουλειά	δουλειά	NOUN	0	obj
+
+VID
+0	τα	εγώ	PRON	1	obj
+1	πάει	πηγαίνω	VERB	_	_
+
+VID
+0	άνοιξε	ανοίγω	VERB	_	_
+1	τις	ο	DET	2	det
+2	πόρτες	πόρτης	NOUN	0	obj
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	πρόταση	πρόταση	NOUN	0	obj
+
+VID
+0	πέφτουν	πέφτω	VERB	_	_
+1	μάσκες	μάσκη	NOUN	0	obj
+
+VID
+0	ανοίξει	ανοίγω	VERB	_	_
+1	τις	ο	DET	2	det
+2	πόρτες	πόρτης	NOUN	0	obj
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	εκπτώσεις	έκπτωση	NOUN	0	obj
+
+VID
+0	είχαν	έχω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	μυαλό	μυαλο	NOUN	0	obl
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	βόλτα	βόλτα	ADV	0	advmod
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	γνώση	γνώσος	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	βόλτα	βόλτα	NOUN	_	_
+
+VID
+0	το	εγώ	PRON	1	obj
+1	βάζει	βάζω	VERB	_	_
+2	κάτω	κάτω	ADV	1	advmod
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	πλεονέκτημα	πλεονέκτημα	NOUN	0	obj
+
+VID
+0	ρίξτε	ρίξτε	VERB	_	_
+1	μια	ένας	DET	2	det
+2	ματιά	ματιά	NOUN	0	obj
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	βόλτα	βόλτα	NOUN	0	obj
+
+LVC.full
+0	κάνετε	κάνω	VERB	_	_
+1	βόλτα	βόλτα	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	διάλειμμα	διάλειμμα	NOUN	0	obj
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	απόδοση	απόδοσος	NOUN	0	nsubj
+
+VID
+0	Τα	εγώ	DET	1	det
+1	ρίχνουμε	ρίχνω	VERB	_	_
+
+VID
+0	στρέφουν	στρέφω	VERB	_	_
+1	το	ο	DET	2	det
+2	δάχτυλο	δάχτυλος	NOUN	0	obj
+
+VID
+0	τα	ο	DET	1	det
+1	θαλάσσωσα	θαλάσσωσα	NOUN	_	_
+
+VID
+0	πετάξουν	πετάχνω	VERB	_	_
+1	το	ο	DET	2	det
+2	μπαλάκι	μπαλάκι	NOUN	0	nsubj
+
+VID
+0	ορθώνουν	ορθώνω	VERB	_	_
+1	ανάστημά	ανάστημα	NOUN	0	obj
+
+LVC.full
+0	δοθεί	δίνω	VERB	_	_
+1	απάντηση	απάντηση	NOUN	0	nsubj
+
+VID
+0	παίρνει	παίρνω	VERB	_	_
+1	το	ο	DET	2	det
+2	λόγο	λόγος	NOUN	0	obj
+
+VID
+0	βγαίνουμε	βγαίνω	VERB	_	_
+1	εκτός	εκτός	ADV	2	advmod
+2	εαυτού	εαυτού	ADJ	0	xcomp
+
+LVC.full
+0	έχω	έχω	VERB	_	_
+1	δίκιο	δίκιο	NOUN	0	obj
+
+LVC.full
+0	θέστε	θέι	VERB	_	_
+1	ερώτημα	ερώτημα	NOUN	0	obj
+
+VID
+0	είναι	είμαι	AUX	2	cop
+1	σε	σε	ADP	2	case
+2	θέση	θέση	NOUN	_	_
+
+LVC.full
+0	αποστολή	αποστολή	NOUN	_	_
+1	γίνει	γίνομαι	VERB	_	_
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	δηλώσεις	δήλωση	NOUN	0	nsubj
+
+LVC.full
+0	έγινε	γίνομαι	VERB	_	_
+1	πράξη	πράξη	NOUN	0	nsubj
+
+VID
+0	ληφθούν	λαμβάνω	VERB	_	_
+1	υπόψη	υπόψη	ADV	0	advmod
+
+LVC.full
+0	ελπίδες	ελπίδα	NOUN	_	_
+1	έτρεφαν	έτρεφαν	VERB	0	advcl
+
+LVC.full
+0	κριτική	κριτική	NOUN	_	_
+1	ασκεί	ασκώ	VERB	0	acl:relcl
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	πληροφορία	πληροφορία	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	εκτίμηση	εκτίμηση	NOUN	0	obj
+
+VID
+0	αιχμή	αιχμή	NOUN	_	_
+1	άφησε	αφήνω	VERB	0	acl:relcl
+
+VID
+0	έχει	έχω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	υποβάλουν	υποβάλλω	VERB	_	_
+1	υποψηφιότητά	υποψηφιότητα	NOUN	0	obj
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	περιθώριο	περιθώριο	NOUN	0	obj
+
+LVC.full
+0	υπέβαλε	υποβάλλω	VERB	_	_
+1	υποψηφιότητά	υποψηφιότητα	NOUN	0	obj
+
+LVC.full
+0	υποβάλει	υποβάλλω	VERB	_	_
+1	υποψηφιότητα	υποψηφιότητα	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	υποσχέσεις	υποσχέση	NOUN	0	obj
+
+LVC.full
+0	διεξάγει	διεξάγω	VERB	_	_
+1	επίθεση	επίθεση	NOUN	0	obl
+
+LVC.full
+0	πήραν	πήραν	VERB	_	_
+1	τον	ο	DET	2	det
+2	έλεγχο	έλεγχος	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	στόχο	στόχος	NOUN	0	obj
+
+LVC.full
+0	τηρεί	τηρώ	VERB	_	_
+1	στάση	στάση	NOUN	0	obj
+2	αναμονής	αναμονής	NOUN	1	nmod
+
+LVC.cause
+0	δημιουργήσει	δημιουργώ	VERB	_	_
+1	διάσπαση	διάσπαση	NOUN	0	obj
+
+LVC.cause
+0	δημιουργήσει	δημιουργώ	VERB	_	_
+1	σύγχυση	σύγχυση	NOUN	0	obj
+
+LVC.cause
+0	έχουν	έχω	VERB	_	_
+1	στήριξη	στήριξη	NOUN	0	obj
+
+LVC.full
+0	έρθουν	έρχομαι	VERB	_	_
+1	αντιμέτωποι	αντιμέτωπος	ADJ	0	xcomp
+
+LVC.full
+0	προσπάθειες	προσπάθεια	NOUN	_	_
+1	καταβάλει	καταβάλλω	VERB	0	acl:relcl
+
+LVC.full
+0	ιδέα	ιδέα	NUM	_	_
+1	κατατεθεί	καταθέτω	VERB	0	acl:relcl
+
+LVC.full
+0	έρευνας	έρευνα	NOUN	_	_
+1	διεξήγε	διεξηγαίνω	VERB	_	_
+
+LVC.cause
+0	έδωσε	δίνω	VERB	_	_
+1	διορία	διορία	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	πρόσβαση	πρόσβαση	NOUN	0	obj
+
+LVC.full
+0	αντίκτυπο	αντίκτυπος	NOUN	_	_
+1	έχει	έχω	VERB	0	acl:relcl
+
+LVC.cause
+0	γίνει	γίνομαι	VERB	_	_
+1	κατάργηση	κατάργηση	NOUN	0	nsubj
+
+LVC.full
+0	έχει	έχω	VERB	1	advcl
+1	ανάγκη	ανάγκη	NOUN	_	_
+
+LVC.full
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	στην	στου	ADP	2	case
+2	αιχμή	αιχμή	NOUN	0	obl
+3	του	ο	DET	4	det
+4	δόρατος	δόρα	NOUN	2	nmod
+
+MVC
+0	έχει	έχω	VERB	_	_
+1	να	να	PART	2	aux
+2	κάνει	κάνω	VERB	0	ccomp
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	θάρρος	θάρρος	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	βούληση	βούληση	NOUN	_	_
+
+LVC.full
+0	παρατηρήσεις	παρατήρηση	NOUN	_	_
+1	γίνει	γίνομαι	VERB	0	acl:relcl
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	επενδύσεις	επένδυση	NOUN	0	obl
+
+VID
+0	πιάνουν	πιάνω	VERB	_	_
+1	τόπο	τόπος	NOUN	0	obj
+
+VID
+0	τα	εγώ	PRON	1	nsubj
+1	πάει	πηγαίνω	VERB	_	_
+
+LVC.full
+0	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+1	απολογισμός	απολογισμός	NOUN	0	nsubj
+
+LVC.full
+0	Έγινε	γίνομαι	VERB	_	_
+1	αναφορά	αναφορά	NOUN	0	obj
+
+VID
+0	κερδίζει	κερδίζω	VERB	_	_
+1	έδαφος	έδαφος	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	συστάσεις	σύσταση	NOUN	0	obj
+
+LVC.full
+0	επιχορήγησης	επιχορήγηση	NOUN	_	_
+1	δόθηκε	δίνω	VERB	0	acl:relcl
+
+LVC.full
+0	συνάντησης	συνάντηση	NOUN	_	_
+1	είχε	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	απάντηση	απάντηση	NOUN	0	obj
+
+VID
+0	πάρουμε	πάρλω	VERB	_	_
+1	αντίμετρα	αντίμετρα	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	υποχωρήσεις	υποχωρήση	NOUN	0	obj
+
+LVC.full
+0	απόφαση	απόφαση	NOUN	1	nsubj
+1	ληφθεί	λαμβάνω	VERB	_	_
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	συναντήσεις	συνάντηση	NOUN	0	obj
+
+LVC.full
+0	πρωτοβουλία	πρωτοβουλία	NOUN	_	_
+1	ανέλαβαν	αναλαμβάνω	VERB	_	_
+
+LVC.full
+0	ερώτημα	ερώτημα	NOUN	_	_
+1	θέσει	θέτω	VERB	0	acl:relcl
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	κουμάντο	κουμάντος	NOUN	0	obj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	αξιολόγηση	αξιολόγηση	NOUN	0	obj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	διαπραγμάτευση	διαπραγμάτευση	NOUN	_	_
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	ανοδική	ανοδικός	ADJ	2	amod
+2	τάση	τάση	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	ενστάσεις	ενστάση	NOUN	0	obj
+
+LVC.full
+0	πλειστηριασμούς	πλειστηριασμός	NOUN	_	_
+1	γίνεται	γίνομαι	VERB	_	_
+
+VID
+0	τίθενται	θέτω	VERB	_	_
+1	τραπέζι	τραπέζι	NOUN	0	obl
+
+LVC.full
+0	ενδιαφέρον	ενδιαφέρον	NOUN	_	_
+1	έχουν	έχω	VERB	0	advcl
+
+LVC.cause
+0	ασκήσουν	ασκώ	VERB	_	_
+1	πίεση	πίεση	NOUN	0	obj
+
+LVC.full
+0	Έχει	έχω	VERB	_	_
+1	στόχο	στόχος	NOUN	0	xcomp
+
+LVC.full
+0	προσπάθειας	προσπάθεια	NOUN	_	_
+1	κάνει	κάνω	VERB	0	acl:relcl
+
+LVC.cause
+0	δίνουν	δίνω	VERB	_	_
+1	έμφαση	έμφαση	NOUN	0	obj
+
+LVC.full
+0	αποτίμηση	αποτίμηση	NOUN	_	_
+1	γίνει	γίνομαι	VERB	_	_
+
+LVC.full
+0	πραγματοποιήσει	πραγματοποιώ	VERB	_	_
+1	ομιλία	ομιλία	NOUN	0	nsubj
+
+LVC.cause
+0	έχει	έχω	VERB	_	_
+1	αξιολογήσεις	αξιολόγηση	NOUN	_	_
+
+LVC.full
+0	εστίαση	εστίαση	NOUN	1	nsubj
+1	γίνεται	γίνομαι	VERB	_	_
+
+LVC.full
+0	διενεργούνται	διενεργούμαι	VERB	_	_
+1	διασταυρώσεις	διασταυρώση	NOUN	_	_
+
+LVC.full
+0	τήρησαν	τήρησαν	VERB	_	_
+1	στάση	στάση	NOUN	0	obj
+2	αναμονής	αναμονής	NOUN	1	nmod
+
+VID
+0	αν	αν	SCONJ	2	mark
+1	και	και	CCONJ	2	cc
+2	έχασαν	χάνω	VERB	7	advcl
+3	την	ο	DET	4	det
+4	μάχη	μάχη	NOUN	2	obj
+5	δεν	δεν	PART	7	advmod
+6	έχουν	έχω	VERB	7	aux
+7	χάσει	χάνω	VERB	_	_
+8	ακόμα	ακόμα	ADV	7	advmod
+9	τον	ο	DET	10	det
+10	πόλεμο	πόλεμος	NOUN	8	nmod
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	έφοδο	έφοδο	NOUN	_	_
+
+VID
+0	τράπηκαν	τράπηκαν	VERB	_	_
+1	σε	σε	ADP	2	case
+2	φυγή	φυγή	NOUN	0	obl
+
+VID
+0	πράσινο	πράσινος	ADJ	1	nsubj
+1	δόθηκε	δίνω	VERB	_	_
+
+VID
+0	φως	φως	ADV	_	_
+
+VID
+0	παίζει	παίζω	VERB	_	_
+1	ρόλο	ρόλος	NOUN	0	obj
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	έλεγχοι	έλεγχος	NOUN	_	_
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	διασταύρωση	διασταύρωση	NOUN	0	nsubj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	αρμοδιότητα	αρμοδιότητα	NOUN	0	obl
+
+VID
+0	έλαβε	λαμβάνω	VERB	_	_
+1	γνώση	γνώση	NOUN	0	obj
+
+VID
+0	λάβει	λαμβάνω	VERB	_	_
+1	γνώση	γνώση	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	επίδραση	επίδραση	NOUN	0	obj
+
+VID
+0	ρίχνοντας	ρίχνω	VERB	_	_
+1	φως	φως	ADV	0	advmod
+
+LVC.full
+0	μελέτη	μελέτη	NOUN	1	nsubj
+1	γίνει	γίνομαι	VERB	_	_
+
+LVC.full
+0	ωφέλεια	ωφέλεια	NOUN	_	_
+1	έχει	έχω	VERB	_	_
+
+LVC.full
+0	διενέργεια	διενέργεια	ADJ	1	amod
+1	επενδύσεων	επένδυση	NOUN	_	_
+
+LVC.cause
+0	δίνουν	δίνω	VERB	_	_
+1	τη	ο	DET	2	det
+2	δυνατότητα	δυνατότητα	NOUN	0	obj
+
+LVC.full
+0	τάση	τάση	NOUN	_	_
+1	έχουν	έχω	VERB	_	_
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	δυνατότητες	δυνατότητης	NOUN	0	obj
+
+LVC.full
+0	αναλάβει	αναλαμβάνω	VERB	1	acl
+1	δράση	δράση	NOUN	_	_
+
+LVC.cause
+0	παράσχει	παρέχω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	_	_
+
+LVC.full
+0	κάνουμε	κάνω	VERB	_	_
+1	προσπάθεια	προσπάθεια	NOUN	0	obj
+
+LVC.full
+0	Σε	σε	ADP	1	case
+1	συνομιλίες	συνομιλία	NOUN	2	obl
+2	βρίσκεται	βρίσκω	VERB	_	_
+
+LVC.full
+0	παράσχει	παρέχω	VERB	_	_
+1	χρηματοδότηση	χρηματοδότηση	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	σχέση	σχέση	NOUN	0	obj
+
+VID
+0	ανοίξει	ανοίγω	VERB	_	_
+1	το	ο	DET	2	det
+2	δρόμο	δρόμος	NOUN	0	obj
+
+VID
+0	βγαίνει	βγαίνω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	σφυρί	σφυρί	VERB	0	ccomp
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	διάθεσή	διάθεση	NOUN	0	obl
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	ρύθμιση	ρύθμιση	NOUN	_	_
+
+LVC.full
+0	έρευνες	έρευνα	NOUN	_	_
+1	έγιναν	γίνομαι	VERB	0	acl:relcl
+
+LVC.full
+0	αλλαγές	αλλαγή	NOUN	_	_
+1	υλοποιηθούν	υλοποιώ	VERB	_	_
+
+LVC.full
+0	ασκούν	ασκώ	VERB	_	_
+1	κριτική	κριτική	NOUN	0	obj
+
+LVC.full
+0	έμφαση	έμφαση	NOUN	_	_
+1	δίνεται	δίνω	VERB	_	_
+
+VID
+0	θέτει	θέτω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	στόχαστρό	στόχαστρό	NOUN	0	obl
+
+VID
+0	πέσει	πώ	VERB	_	_
+1	σε	σε	ADP	_	_
+2	ξέρα	ξέρα	NOUN	_	_
+
+VID
+0	έρθουν	έρχομαι	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	NOUN	0	obl
+
+VID
+0	σύρεται	σύρω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	λάσπη	λάσπη	NOUN	0	obl
+
+VID
+0	το	ο	DET	1	det
+1	θερμόμετρο	θερμόμετρο	NOUN	2	nsubj
+2	χτυπάει	χτυπώ	VERB	_	_
+3	κόκκινο	κόκκινος	NOUN	2	obj
+
+VID
+0	χτυπάει	χτυπώ	VERB	_	_
+1	κόκκινο	κόκκινος	NOUN	0	obj
+
+VID
+0	έστρεψε	έστρεψε	VERB	_	_
+1	τα	ο	DET	2	det
+2	βέλη	βέλος	NOUN	0	obj
+3	της	μου	PRON	2	nmod
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	επικοινωνία	επικοινωνία	NOUN	_	_
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	σύγκρουση	σύγκρουση	NOUN	0	obj
+
+LVC.full
+0	συναλλαγή	συναλλαγή	NOUN	1	nsubj
+1	έγινε	γίνομαι	VERB	_	_
+
+LVC.full
+0	είχα	έχω	VERB	_	_
+1	ένοχη	ένοχη	NOUN	0	obj
+
+LVC.full
+0	έθεσε	θέτω	VERB	_	_
+1	ερώτημα	ερώτημα	NOUN	0	obj
+
+LVC.full
+0	συνάντηση	συνάντηση	NOUN	_	_
+1	είχε	έχω	VERB	_	_
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ομιλία	ομιλία	NOUN	0	obj
+
+LVC.full
+0	τεθούν	θέτω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	εφαρμογή	εφαρμογή	NOUN	0	obl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	απήχηση	απήχηση	NOUN	0	obj
+
+VID
+0	μπει	μπω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	τροχιά	τροχιά	NOUN	0	obl
+
+VID
+0	σηκώσει	σηκώνω	VERB	_	_
+1	σκόνη	σκόνη	NOUN	_	_
+
+VID
+0	βγει	βγαίνω	VERB	_	_
+1	λευκός	λευκός	ADJ	2	amod
+2	καπνός	καπνός	NOUN	0	nsubj
+
+LVC.full
+0	ληφθούν	λαμβάνω	VERB	_	_
+1	αποφάσεις	απόφαση	NOUN	0	nsubj
+
+VID
+0	τον	ο	DET	_	_
+1	πήχυ	πήχς	NOUN	_	_
+2	έθεσαν	έθεσαν	VERB	_	_
+
+VID
+0	έριξε	ρίχνω	VERB	_	_
+1	νερό	νερό	NOUN	0	obj
+2	στον	στου	ADP	3	case
+3	μύλο	μύλο	NOUN	0	obl
+
+VID
+0	κλέφτες	κλέφτης	NOUN	_	_
+1	φωνάζουν	φωνάζω	VERB	0	acl:relcl
+2	για	για	ADP	4	mark
+3	να	να	PART	4	aux
+4	φοβηθεί	φοβούμαι	VERB	1	advcl
+5	ο	ο	DET	6	det
+6	νοικοκύρης	νοικοκύρος	NOUN	4	nsubj
+
+LVC.full
+0	υπέβαλαν	υποβάλλω	VERB	_	_
+1	αίτηση	αίτηση	NOUN	0	nsubj
+
+LVC.full
+0	πάρει	παίρνω	VERB	_	_
+1	αναβολή	αναβολή	NOUN	0	obj
+
+LVC.full
+0	άσκησε	ασκώ	VERB	_	_
+1	παρέμβαση	παρέμβαση	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ανάπαυλα	ανάπαυλο	NOUN	0	obj
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	απώλειες	απώλεια	NOUN	0	obj
+
+LVC.full
+0	πραγματοποιεί	πραγματοποιώ	VERB	_	_
+1	απεργία	απεργία	NOUN	0	obj
+
+VID
+0	λύνουν	λύνω	VERB	_	_
+1	τα	ο	DET	2	det
+2	χέρια	χέρι	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	επεξεργασία	επεξεργασία	NOUN	_	_
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	παραγωγή	παραγωγη	NOUN	0	obj
+
+LVC.full
+0	περιοδεία	περιοδεία	NOUN	_	_
+1	πραγματοποιήσει	πραγματοποιώ	VERB	0	conj
+
+LVC.full
+0	πραγματοποιήσει	πραγματοποιώ	VERB	_	_
+1	ομιλία	ομιλία	NOUN	0	obj
+
+LVC.full
+0	ξανακάνει	ξανακάνω	VERB	_	_
+1	αυτοπροώθηση	αυτοπροώθηση	NOUN	0	obj
+
+VID
+0	στα	στου	ADP	1	case
+1	χέρια	χέρι	NOUN	_	_
+2	πιάστηκαν	πιάνω	VERB	1	acl:relcl
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	τον	ο	DET	2	det
+2	γύρο	γύρος	NOUN	0	obj
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	εκπτώσεις	έκπτωση	NOUN	0	obj
+
+LVC.full
+0	πήρε	παίρνω	VERB	_	_
+1	αποστάσεις	απόσταση	NOUN	0	obj
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	μνεία	μνεία	NOUN	0	obj
+
+LVC.full
+0	Απάντηση	απάντηση	NOUN	1	nsubj
+1	έδωσε	δίνω	VERB	_	_
+
+VID
+0	σανίδα	σανίδος	NOUN	2	obl
+1	σωτηρίας	σωτηρία	NOUN	0	nmod
+2	δίνουμε	δίνω	VERB	_	_
+
+VID
+0	κρατήσει	κρατήνω	VERB	_	_
+1	την	ο	DET	2	det
+2	καρέκλα	καρέκλο	NOUN	0	obj
+
+LVC.full
+0	κρατήσει	κρατήνω	VERB	_	_
+1	στάση	στάση	NOUN	0	obj
+
+VID
+0	κρατάμε	κρατώ	VERB	_	_
+1	χαμηλούς	χαμηλός	ADJ	2	amod
+2	τόνους	τόνος	NOUN	0	obj
+
+VID
+0	σανίδα	σανίδος	NOUN	2	nsubj
+1	σωτηρίας	σωτηρία	NOUN	0	nmod
+2	δίνουμε	δίνω	VERB	_	_
+
+VID
+0	σανίδα	σανίδα	NOUN	_	_
+1	δίνουμε	δίνω	VERB	_	_
+
+VID
+0	έμπαινε	μπαίνω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	τροχιά	τροχέα	NOUN	0	obl
+
+VID
+0	τέθηκαν	θέτω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	τροχιά	τροχιά	NOUN	0	obl
+
+LVC.full
+0	δόθηκε	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	προβάδισμα	προβάδισμα	NOUN	0	nsubj
+
+LVC.full
+0	χορήγησε	χορηγώ	VERB	_	_
+1	βραβείο	βραβείος	ADJ	_	_
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+LVC.full
+0	προξένησε	προξένησε	VERB	_	_
+1	εντύπωση	εντύπωση	NOUN	0	obj
+
+LVC.full
+0	δόθηκε	δίνω	VERB	_	_
+1	εντολή	εντολή	NOUN	0	obj
+
+LVC.cause
+0	έχοντας	έχω	VERB	_	_
+1	στήριξη	στήριξη	NOUN	_	_
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	αγώνα	αγώνας	NOUN	0	obj
+
+LVC.full
+0	εκτελεί	εκτελώ	VERB	_	_
+1	πειράματα	πείραμα	NOUN	0	obj
+
+LVC.full
+0	αμαρτίες	αμαρτία	NOUN	_	_
+1	διέπραττε	διέπραττε	VERB	_	_
+
+LVC.full
+0	ένιωθε	ένιωθε	PRON	1	nmod
+1	ζήλια	ζήλος	NOUN	_	_
+
+LVC.full
+0	ένιωθε	ένιωθε	PRON	_	_
+1	μνησικακία	μνησικακία	NOUN	_	_
+
+VID
+0	εκτέλεσε	εκτελώ	VERB	_	_
+1	χρέη	χρέος	ADJ	_	_
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	ως	ως	ADV	2	case
+2	αποτέλεσμα	αποτέλεσμα	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	αποτέλεσμα	αποτέλεσμα	NOUN	0	obj
+
+LVC.full
+0	σχέση	σχέση	NOUN	_	_
+1	είχαν	έχω	VERB	_	_
+
+VID
+0	αποδίδει	αποδίδω	VERB	_	_
+1	καρπούς	καρπός	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ανακαλύψεις	ανακαλύψη	NOUN	_	_
+
+LVC.full
+0	πειράματα	πείραμα	NOUN	_	_
+1	διεξήγαγε	διεξήγαγε	VERB	0	acl:relcl
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	ερέθισμα	ερέθισμα	NOUN	0	obj
+
+LVC.full
+0	δίνοντας	δίνω	VERB	_	_
+1	λύση	λύση	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	απήχηση	απήχηση	NOUN	_	_
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	λύσεις	λύση	NOUN	0	obj
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	διαχωρισμός	διαχωρισμός	NOUN	0	nsubj
+2	αντιπαράθεση	αντιπαράθεση	NOUN	1	conj
+
+LVC.full
+0	έθεσε	θέτω	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	αμφισβήτηση	αμφισβήτηση	NOUN	0	obl
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+LVC.full
+0	ήρθαν	έρχομαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	αντίφαση	αντίφαση	NOUN	0	obl
+
+VPC.full
+0	τάχτηκε	τάσσω	VERB	_	_
+1	υπέρ	υπέρ	ADP	_	_
+
+VID
+0	έπεσαν	έπεσαν	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χέρια	χέρι	NOUN	0	obl
+
+LVC.full
+0	έγινε	γίνομαι	VERB	_	_
+1	ταξίδι	ταξίδι	NOUN	0	nsubj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ταξίδια	ταξίδι	NOUN	0	obj
+
+LVC.full
+0	ξαναέκανε	ξαναέκανε	VERB	_	_
+1	ταξίδι	ταξίδι	NOUN	0	obj
+
+LVC.full
+0	πήρε	παίρνω	VERB	_	_
+1	πρωτοβουλία	πρωτοβουλία	NOUN	0	obj
+
+LVC.full
+0	ξαναέκανε	ξαναέκανε	VERB	_	_
+1	ταξίδι	ταξίδς	NOUN	0	obl
+
+LVC.full
+0	κάνουμε	κάνω	VERB	_	_
+1	μπάνιο	μπάνιο	NOUN	0	obj
+
+LVC.full
+0	πάρει	παίρνω	VERB	_	_
+1	όνομά	όνομα	NOUN	0	nsubj
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	επαναστάσεις	επανάσταση	NOUN	0	obj
+
+VID
+0	έπεσε	πέφτω	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χέρια	χέρι	NOUN	0	obl
+
+LVC.cause
+0	είχε	έχω	VERB	_	_
+1	εφαρμογή	εφαρμογή	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	συμμετοχή	συμμετοχή	NOUN	0	obj
+
+VID
+0	έφεραν	έφεραν	VERB	_	_
+1	βαρέως	βαρέως	ADV	0	advmod
+
+LVC.full
+0	Έγινε	γίνομαι	VERB	_	_
+1	υποτίμηση	υποτίμηση	NOUN	0	obj
+
+LVC.full
+0	έγινε	γίνομαι	VERB	_	_
+1	εξισλαμισμός	έξισλαμισμας	NOUN	0	nsubj
+
+LVC.full
+0	εξισλαμισμοί	εξισλαμισμός	NOUN	1	nsubj
+1	γίνονταν	γίνομαι	VERB	_	_
+
+LVC.full
+0	εξισλαμισμοί	εξισλαμισμός	NOUN	1	nsubj
+1	έγιναν	γίνομαι	VERB	_	_
+
+LVC.full
+0	γινόταν	γίνομαι	VERB	_	_
+1	εξισλαμισμός	έξισλαμισμας	NOUN	0	nsubj
+
+LVC.full
+0	υπέστησαν	υπέστησαν	VERB	_	_
+1	διώξεις	δίωξη	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	σύγκριση	σύγκριση	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	συνομιλίες	συνομιλία	NOUN	0	obj
+
+VID
+0	λαμβάνει	λαμβάνω	VERB	_	_
+1	γραμμή	γραμμή	NOUN	0	obj
+
+LVC.full
+0	ασκεί	ασκώ	VERB	_	_
+1	πίεση	πίεση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	ελιγμούς	ελιγμός	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	εμφάνιση	εμφάνιση	NOUN	_	_
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	εικασίες	εικασία	NOUN	0	obj
+
+LVC.full
+0	τέθηκαν	θέτω	VERB	_	_
+1	σε	σε	ADP	3	case
+2	χαρτογραφική	χαρτογραφικός	ADJ	3	amod
+3	βάση	βάση	NOUN	0	obl
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	αντίληψη	αντίληψη	NOUN	0	obj
+
+VID
+0	έχουν	έχω	VERB	_	_
+1	εικόνα	εικόνα	NOUN	0	obj
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	ως	ως	ADV	2	case
+2	αποτέλεσμα	αποτέλεσμα	NOUN	0	obl
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	αποτέλεσμα	αποτέλεσμα	NOUN	0	obl
+
+VID
+0	πήραν	πήραν	VERB	_	_
+1	τα	ο	DET	2	det
+2	όπλα	όπλος	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	ως	ως	ADV	2	case
+2	αποτέλεσμα	αποτέλεσμα	NOUN	0	obl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	αποτέλεσμα	αποτέλεσμα	NOUN	0	obl
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	σκοπό	σκοπός	NOUN	0	obj
+
+LVC.full
+0	παίρνει	παίρνω	VERB	_	_
+1	διαστάσεις	διάσταση	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	την	ο	DET	2	det
+2	εμφάνισή	εμφάνιση	NOUN	0	obj
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	εμφάνισή	εμφάνιση	NOUN	0	obj
+
+LVC.full
+0	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+1	εξέγερση	εξέγερση	NOUN	0	obj
+
+VID
+0	πνίγηκε	πνίγηκε	VERB	_	_
+1	στο	στου	ADP	2	case
+2	αίμα	αίμα	NOUN	0	obl
+
+VID
+0	έλαβε	λαμβάνω	VERB	_	_
+1	χώρα	χώρα	NOUN	0	obj
+
+LVC.full
+0	ώθηση	ώθηση	NOUN	1	nsubj
+1	δόθηκε	δίνω	VERB	_	_
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	μάχες	μάχη	NOUN	0	obl
+
+LVC.full
+0	μάχες	μάχη	NOUN	1	nsubj
+1	δόθηκαν	δόνω	VERB	_	_
+
+LVC.full
+0	έδωσαν	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	0	obj
+
+VID
+0	έλαβαν	έλαβαν	VERB	_	_
+1	χώρα	χώρα	NOUN	0	obj
+
+LVC.full
+0	προκάλεσε	προκαλώ	VERB	_	_
+1	καταστροφές	καταστροφή	NOUN	0	obj
+
+LVC.full
+0	προέβησαν	προέβησαν	VERB	_	_
+1	σε	σε	ADP	2	case
+2	λεηλασίες	λεηλασία	NOUN	0	obl
+
+LVC.full
+0	προέβησαν	προέβησαν	VERB	_	_
+1	σε	σε	ADP	_	_
+2	κλοπές	κλοπή	NOUN	_	_
+
+LVC.full
+0	βράβευση	βράβευση	NOUN	1	nsubj
+1	γίνεται	γίνομαι	VERB	_	_
+
+LVC.full
+0	λάβει	λαμβάνω	VERB	_	_
+1	φήμη	φήμη	NOUN	0	obj
+
+VID
+0	άδραξε	αδράζω	VERB	_	_
+1	την	ο	DET	2	det
+2	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+VID
+0	έπαιρναν	έπαιρνας	DET	1	det
+1	άφεση	άφεση	NOUN	_	_
+2	αμαρτιών	αμαρτίας	NOUN	1	nmod
+
+LVC.full
+0	έγιναν	γίνομαι	VERB	_	_
+1	λεηλασίες	λεηλασία	NOUN	_	_
+
+LVC.full
+0	έγιναν	γίνομαι	VERB	_	_
+1	σφαγές	σφαγή	NOUN	0	nsubj
+
+LVC.full
+0	οράματα	οράμα	NOUN	_	_
+1	είχε	έχω	VERB	0	acl:relcl
+
+LVC.full
+0	πήραν	πήραν	VERB	1	acl
+1	θάρρος	θάρρος	NOUN	_	_
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	διάκριση	διάκριση	NOUN	0	obj
+
+LVC.full
+0	σφαγές	σφαγή	NOUN	_	_
+1	κάνει	κάνω	VERB	0	acl:relcl
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	αγώνα	αγώνας	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	επιτυχία	επιτυχία	NOUN	0	nsubj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	υπό	υπό	ADP	3	case
+2	τον	ο	DET	3	det
+3	έλεγχο	έλεγχος	NOUN	0	obl
+4	της	ο	PRON	3	nmod
+
+LVC.full
+0	έχοντας	έχω	VERB	_	_
+1	εμπιστοσύνη	εμπιστοσύνη	NOUN	0	obj
+
+VID
+0	ανέβηκε	ανέβηκε	VERB	_	_
+1	στο	στου	ADP	2	case
+2	θρόνο	θρόνος	NOUN	0	obl
+
+LVC.full
+0	συμφωνία	συμφωνία	NOUN	_	_
+1	κάνει	κάνω	VERB	0	acl:relcl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	σκοπό	σκοπός	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	στόχο	στόχος	NOUN	_	_
+
+LVC.full
+0	τρέφει	τρέφω	VERB	_	_
+1	αισθήματα	αισθήμα	NOUN	0	obj
+
+LVC.full
+0	διατίθεντο	διατίθεντος	ADJ	1	amod
+1	εχθρικά	εχθρικός	NOUN	_	_
+
+LVC.full
+0	επίθεση	επίθεση	NOUN	_	_
+1	πραγματοποιηθεί	πραγματοποιώ	VERB	_	_
+
+VID
+0	έλαβαν	έλαβαν	VERB	_	_
+1	μέρος	μέρος	NOUN	_	_
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ντεμπούτο	ντεμπούτος	X	_	_
+
+LVC.full
+0	γκάλοπ	γκάλοπ	PROPN	_	_
+1	έκανε	κάνω	VERB	0	acl:relcl
+
+LVC.full
+0	δοθεί	δίνω	VERB	_	_
+1	έγγριση	έγγριση	NOUN	0	nsubj
+
+LVC.full
+0	βρέθηκε	βρίσκω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	ανάγκη	ανάγκη	NOUN	0	obl
+
+VID
+0	λήφθηκαν	λαμβάνω	VERB	_	_
+1	υπόψιν	υπόψιν	ADV	0	advmod
+
+VID
+0	είχε	έχω	VERB	_	_
+1	τον	ο	DET	3	det
+2	τελικό	τελικός	ADJ	3	amod
+3	λόγο	λόγος	NOUN	0	obj
+
+VID
+0	είχε	έχω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obj
+
+LVC.full
+0	έχοντας	έχω	VERB	_	_
+1	κέρδος	κέρδος	NOUN	0	obj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	βαθμολογία	βαθμολογία	NOUN	0	obj
+
+LVC.full
+0	προβολή	προβολή	NOUN	1	nsubj
+1	έγινε	γίνομαι	VERB	_	_
+
+VID
+0	βρίσκονται	βρίσκω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	θέση	θέση	NOUN	0	obl
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	φάρσες	φάρσα	NOUN	0	obj
+
+LVC.full
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	υπό	υπό	ADP	3	case
+2	την	ο	DET	3	det
+3	καθοδήγηση	καθοδήγηση	NOUN	0	obl
+
+LVC.full
+0	σημείωσε	σημειώνω	VERB	_	_
+1	επιτυχία	επιτυχία	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	συμμετοχή	συμμετοχή	NOUN	0	obj
+
+VPC.full
+0	έγραψε	έγραψε	VERB	_	_
+1	πίσω	πίνω	ADV	_	_
+
+LVC.full
+0	πάρει	παίρνω	VERB	_	_
+1	κατευθύνσεις	κατεύθυνση	NOUN	0	obj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	κατάρα	κατάρα	NOUN	0	nsubj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	ως	ως	ADV	2	case
+2	δώρο	δώρος	ADV	0	advmod
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	δώρο	δώρος	NOUN	0	obj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	ευχή	ευχή	NOUN	0	obj
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	λύση	λύση	NOUN	0	obj
+
+LVC.full
+0	ανατροφή	ανατροφή	NOUN	_	_
+1	δίνουν	δίνω	VERB	0	acl:relcl
+
+LVC.full
+0	δώσουν	δώζω	VERB	_	_
+1	βάση	βάση	NOUN	0	obj
+
+LVC.full
+0	δώσουν	δώζω	VERB	_	_
+1	έμφαση	έμφαση	NOUN	0	obj
+
+LVC.full
+0	δουλειά	δουλειά	NOUN	_	_
+1	γίνει	γίνομαι	VERB	0	acl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	αντιρρήσεις	αντίρρηση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	επιτυχία	επιτυχία	NOUN	0	xcomp
+
+LVC.full
+0	μεταγλώττιση	μεταγλώττιση	NOUN	1	nsubj
+1	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+
+LVC.cause
+0	έδωσε	δίνω	VERB	_	_
+1	ελευθερία	ελευθερία	NOUN	0	obl
+
+LVC.full
+0	αντίστασης	αντίσταση	NOUN	_	_
+1	κατέβαλαν	κατοβάλλω	VERB	_	_
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	το	ο	DET	2	det
+2	πλεονέκτημα	πλεονέκτημα	NOUN	0	obj
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	υπεροχή	υπεροχή	NOUN	0	obj
+
+LVC.full
+0	πραγματοποίησαν	πραγματοποιώ	VERB	_	_
+1	επιχειρήσεις	επιχείρηση	NOUN	0	obj
+
+LVC.full
+0	ασκούσε	ασκώ	VERB	_	_
+1	πίεση	πίεση	NOUN	0	obj
+
+LVC.full
+0	προτάσσουν	προτάσζω	VERB	_	_
+1	άμυνα	άμυνα	NOUN	0	obj
+
+LVC.full
+0	πραγματοποίησαν	πραγματοποιώ	VERB	_	_
+1	ρίψη	ρίψη	NOUN	0	obj
+
+VID
+0	λαμβάνουν	λαμβάνω	VERB	_	_
+1	χώρα	χώρα	NOUN	0	obj
+
+LVC.full
+0	φέρνει	φέρω	VERB	_	_
+1	αντίσταση	αντίσταση	NOUN	0	obj
+
+LVC.full
+0	εκτοξεύσεις	εκτοξεύση	NOUN	1	nsubj
+1	πραγματοποιούνται	πραγματοποιώ	VERB	_	_
+
+VID
+0	προσοχή	προσοχή	NOUN	1	nsubj
+1	στράφηκε	στράφηκε	VERB	_	_
+
+VID
+0	έβαλε	έβαλε	VERB	_	_
+1	στο	στου	ADP	2	case
+2	μονοπάτι	μονοπάτι	NOUN	_	_
+
+LVC.full
+0	μπήκε	μπαίνω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	τροχιά	τροχιά	NOUN	0	obl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	τον	ο	DET	2	det
+2	γύρο	γύρος	NOUN	0	obj
+
+VPC.full
+0	αποστολή	αποστολή	NOUN	1	nsubj
+1	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	εγκλήματα	έγκλημα	NOUN	_	_
+1	διέπραξαν	διέπραξαν	VERB	_	_
+
+VID
+0	έκαναν	έκανας	VERB	_	_
+1	τα	εγώ	DET	3	det
+2	στραβά	στραβώ	ADJ	3	amod
+3	μάτια	μάτια	NOUN	0	obj
+
+LVC.full
+0	εγκλήματα	έγκλημα	NOUN	_	_
+1	διαπράχθηκαν	διαπράχνω	VERB	0	acl:relcl
+
+LVC.full
+0	ασκεί	ασκώ	VERB	_	_
+1	διοίκηση	διοίκηση	NOUN	0	obj
+
+LVC.full
+0	παίρνοντας	παίρνω	VERB	_	_
+1	αποφάσεις	απόφαση	NOUN	0	obj
+
+LVC.full
+0	έκανα	έκανα	VERB	_	_
+1	δουλειά	δουλειά	NOUN	0	obj
+
+LVC.full
+0	έχω	έχω	VERB	_	_
+1	άποψη	άποψη	NOUN	0	obj
+
+LVC.full
+0	έχω	έχω	VERB	_	_
+1	δικαιώματα	δικαίωμα	NOUN	_	_
+
+VID
+0	βρίσκονται	βρίσκω	VERB	_	_
+1	στον	στου	ADP	2	case
+2	αέρα	αέρας	NOUN	0	obl
+
+VID
+0	παιχνίδι	παιχνίδι	NOUN	_	_
+1	έπαιξαν	παίχνω	VERB	0	acl:relcl
+2	στις	στου	ADP	3	case
+3	πλάτες	πλάτης	NOUN	1	obl
+4	τους	μου	PRON	3	nmod
+
+VID
+0	οι	ο	DET	1	det
+1	μάσκες	μάσκος	NOUN	2	nsubj
+2	έπεσαν	έπεσαν	VERB	_	_
+
+LVC.full
+0	έγινε	γίνομαι	VERB	_	_
+1	αναφορά	αναφορά	NOUN	0	nsubj
+
+VID
+0	γυρίσει	γυρίνω	VERB	_	_
+1	σελίδα	σελίδα	NOUN	0	obj
+
+LVC.full
+0	πραγματοποιηθούν	πραγματοποιώ	VERB	_	_
+1	συναντήσεις	συνάντηση	NOUN	0	obj
+
+LVC.full
+0	βρίσκονται	βρίσκω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	κίνδυνο	κίνδυνος	NOUN	0	obl
+
+LVC.full
+0	βάζουν	βάζω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	κίνδυνο	κίνδυνος	NOUN	0	obl
+
+LVC.full
+0	Εκανε	Εκανε	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obj
+
+LVC.cause
+0	υποστεί	υφίσταμαι	VERB	_	_
+1	πλήγμα	πλήγμα	NOUN	0	obj
+
+LVC.full
+0	έχω	έχω	VERB	_	_
+1	τύχη	τύχη	NOUN	0	obj
+
+VID
+0	λάβει	λαμβάνω	VERB	_	_
+1	μέτρα	μέτρο	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	xcomp
+
+LVC.cause
+0	βρίσκονται	βρίσκω	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	ομηρία	ομηρία	NOUN	0	obl
+
+LVC.full
+0	πραγματοποιεί	πραγματοποιώ	VERB	_	_
+1	επίσκεψη	επίσκεψη	NOUN	0	obj
+
+LVC.full
+0	Έχουμε	έχω	VERB	_	_
+1	λόγο	λόγος	NOUN	0	obl
+
+LVC.full
+0	ελήφθη	λαμβάνω	VERB	_	_
+1	απόφαση	απόφαση	NOUN	0	nsubj
+
+VID
+0	πέσει	πώ	VERB	_	_
+1	η	ο	DET	2	det
+2	αυλαία	αυλαία	NOUN	0	nsubj
+
+LVC.full
+0	εκδόσεις	εκδόση	NOUN	_	_
+1	κάνουν	κάνω	VERB	0	acl:relcl
+
+LVC.full
+0	διενεργούν	διενεργώ	VERB	_	_
+1	συναλλαγή	συναλλαγή	NOUN	0	obj
+
+VID
+0	κερδίζουν	κερδίζω	VERB	_	_
+1	έδαφος	έδαφος	NOUN	0	obj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	παραγγελίες	παραγγελία	NOUN	0	obj
+
+VID
+0	κρατάμε	κρατώ	VERB	_	_
+1	μικρό	μικρός	ADJ	2	amod
+2	καλάθι	καλάθι	NOUN	_	_
+
+VID
+0	διαρρήγνυαν	διαρρήγνυαν	VERB	_	_
+1	τα	ο	DET	2	det
+2	ιμάτιά	ιμάτιά	NOUN	0	obj
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	δίκιο	δίκιο	NOUN	0	obj
+
+VID
+0	φέρνει	φέρω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	τραπέζι	τραπέζι	VERB	0	advcl
+
+VPC.full
+0	ταχθεί	τακνύω	VERB	_	_
+1	κατά	κατά	ADP	_	_
+
+VPC.full
+0	ταχθεί	τακνύω	VERB	_	_
+1	υπέρ	υπέρ	ADP	_	_
+
+VID
+0	ανοίξει	ανοίγω	VERB	_	_
+1	τον	ο	DET	2	det
+2	δρόμο	δρόμος	NOUN	0	obj
+
+VID
+0	Η	ο	DET	2	det
+1	τελευταία	τελευταίος	ADJ	2	amod
+2	πράξη	πράξη	NOUN	5	nsubj
+3	του	ο	DET	4	det
+4	δράματος	δράμα	NOUN	2	nmod
+5	γραφτεί	γραφτώ	VERB	_	_
+
+VID
+0	δώσει	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	πράσινο	πράσινος	NOUN	0	obj
+3	φως	φως	ADV	_	_
+
+VID
+0	δοθεί	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	πράσινο	πράσινος	NOUN	0	obj
+3	φως	φως	ADV	2	advmod
+
+VID
+0	είναι	είμαι	AUX	3	cop
+1	προ	προ	ADP	3	case
+2	των	ο	DET	3	det
+3	πυλών	πυλή	NOUN	_	_
+
+LVC.full
+0	γίνεται	γίνομαι	VERB	_	_
+1	αναφορά	αναφορά	NOUN	0	nsubj
+
+VID
+0	λήφθηκαν	λαμβάνω	VERB	_	_
+1	υπόψην	υπόψην	ADV	0	advmod
+
+LVC.full
+0	προβαίνει	προβαίνω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	αλλαγή	αλλαγή	NOUN	0	obl
+
+VID
+0	ανοίγοντας	ανοίγω	VERB	_	_
+1	τον	ο	DET	2	det
+2	δρόμο	δρόμος	NOUN	0	obj
+
+VID
+0	τα	εγώ	PRON	1	obj
+1	καταφέρει	καταφέρω	VERB	_	_
+
+LVC.full
+0	εντολές	εντολή	NOUN	_	_
+1	δίνει	δίνω	VERB	0	acl:relcl
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	δίκιο	δίκιος	NOUN	0	obj
+
+LVC.cause
+0	υπέστησαν	υπέστησαν	VERB	_	_
+1	διώξεις	δίωξη	NOUN	0	nsubj
+
+LVC.cause
+0	τελούσε	τελώ	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	κατάληψη	κατάληψη	NOUN	0	obl
+
+LVC.full
+0	έδινε	δίνω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	0	obj
+
+VID
+0	σήκωσε	σήκωσε	VERB	_	_
+1	αυλαία	αυλαίος	ADJ	0	xcomp
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	προσπάθεια	προσπάθεια	NOUN	0	obj
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	στροφή	στροφή	NOUN	_	_
+
+VID
+0	παίρνει	παίρνω	VERB	_	_
+1	σβάρνα	σβάρνα	ADV	0	advmod
+
+LVC.full
+0	διακρίσεις	διακρίση	NOUN	1	obj
+1	πάρει	παίρνω	VERB	_	_
+
+LVC.cause
+0	διώξεις	δίωξη	NOUN	_	_
+1	υποστεί	υφίσταμαι	VERB	_	_
+
+VID
+0	Κάναμε	κάνω	VERB	_	_
+1	μαύρα	μαύρος	ADJ	2	amod
+2	μάτια	μάτι	NOUN	0	obj
+
+LVC.full
+0	προκάλεσε	προκαλώ	VERB	_	_
+1	αίσθηση	αίσθηση	NOUN	0	obj
+
+LVC.full
+0	πραγματοποιήσουν	πραγματοποιώ	VERB	_	_
+1	εμφάνιση	εμφάνιση	NOUN	0	obj
+
+LVC.full
+0	συναυλία	συναυλία	NOUN	1	nsubj
+1	δοθεί	δίνω	VERB	_	_
+
+LVC.full
+0	δίνουν	δίνω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	0	obj
+
+LVC.full
+0	επίσκεψης	επίσκεψη	NOUN	_	_
+1	πραγματοποιείται	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	αναφορές	αναφορά	NOUN	_	_
+
+VID
+0	την	ο	DET	1	det
+1	πάτησα	πάτησα	NOUN	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	εντύπωση	εντύπωση	NOUN	0	conj
+
+VID
+0	κάνουν	κάνω	VERB	_	_
+1	πιάτσα	πιάτσα	ADV	0	advmod
+
+LVC.full
+0	προέβη	προβαίνω	VERB	_	_
+1	σε	σε	ADP	2	case
+2	κριτική	κριτική	NOUN	0	obl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	συνομιλία	συνομιλία	NOUN	0	obj
+
+LVC.full
+0	Στην	στου	ADP	1	case
+1	αποκάλυψη	αποκάλυψη	NOUN	2	obl
+2	προέβη	προβαίνω	VERB	_	_
+
+VID
+0	Άφησε	αφήνω	VERB	_	_
+1	αιχμές	αιχμός	ADJ	0	xcomp
+
+VID
+0	ρίχνει	ρίχνω	VERB	_	_
+1	λάδι	λάδι	NOUN	0	obj
+2	στη	στου	ADP	3	case
+3	φωτιά	φωτιά	NOUN	0	obl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	υποδείξεις	υποδείξη	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	κριτική	κριτική	NOUN	0	obj
+
+LVC.full
+0	διαπράξουν	διαπράχνω	VERB	_	_
+1	προδοσία	προδοσία	NOUN	0	obj
+
+VID
+0	δεν	δεν	PART	1	advmod
+1	είχε	έχω	VERB	_	_
+2	ιδέα	ιδέα	NOUN	1	obj
+
+LVC.full
+0	Εκανα	Εκανος	NOUN	_	_
+1	επιλογή	επιλογή	NOUN	0	nmod
+
+LVC.full
+0	έθεσε	θέτω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	διάθεση	διάθεση	NOUN	0	obl
+
+VID
+0	έπαιξε	παίζω	VERB	_	_
+1	με	με	ADP	3	case
+2	τη	ο	DET	3	det
+3	φωτιά	φωτιά	NOUN	0	obl
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	προβάδισμα	προβάδισμα	NOUN	_	_
+
+VID
+0	Του	εγώ	PRON	1	obj
+1	πάρει	παίρνω	VERB	_	_
+2	τον	ο	DET	3	det
+3	αέρα	αέρας	NOUN	1	obl
+
+VID
+0	τινάζει	τινάζω	VERB	_	_
+1	την	ο	DET	2	det
+2	μπάνκα	μπάνκα	NOUN	0	obj
+3	στον	στου	ADP	4	case
+4	αέρα	αέρας	NOUN	2	nmod
+
+VID
+0	τινάζει	τινάζω	VERB	_	_
+1	στον	στου	ADP	2	case
+2	αέρα	αέρας	NOUN	_	_
+
+LVC.full
+0	Πράξη	πράξη	NOUN	1	nsubj
+1	έκανε	κάνω	VERB	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	δημοψήφισμα	δημοψήφισμα	NOUN	0	nsubj
+
+LVC.full
+0	μάχη	μάχη	NOUN	_	_
+1	έδωσε	δίνω	VERB	_	_
+
+VID
+0	έφυγε	φεύγω	VERB	_	_
+1	από	από	ADP	3	case
+2	τη	ο	DET	3	det
+3	ζωή	ζωή	NOUN	0	obl
+
+VID
+0	τα	εγώ	DET	1	det
+1	βρήκε	βρίσκω	VERB	_	_
+2	σκούρα	σκούρα	NOUN	1	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	προπόνηση	προπόνηση	NOUN	0	conj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	προσπάθεια	προσπάθεια	NOUN	_	_
+
+LVC.full
+0	πήρε	παίρνω	VERB	_	_
+1	ανάσα	ανάσα	NOUN	0	obj
+
+VID
+0	ανοίγει	ανοίγω	VERB	_	_
+1	η	ο	DET	2	det
+2	αυλαία	αυλαία	NOUN	_	_
+
+VID
+0	ρίξει	ρίχνω	VERB	_	_
+1	λάδι	λάδι	VERB	0	ccomp
+2	στη	στου	ADP	3	case
+3	φωτιά	φωτιά	NOUN	1	obl
+
+LVC.full
+0	πήραν	πήραν	VERB	_	_
+1	απόφαση	απόφαση	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	διάρκεια	διάρκεια	NOUN	0	obj
+
+VID
+0	πήγαν	πάγω	VERB	_	_
+1	περίπατο	περίπατος	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ρεκόρ	ρεκόρ	X	0	obj
+
+LVC.full
+0	έβαζε	έβαζε	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	πιθανότητες	πιθανότητα	NOUN	0	obj
+
+LVC.full
+0	Συνάντηση	συνάντηση	NOUN	_	_
+1	είχαν	έχω	VERB	0	acl
+
+LVC.cause
+0	προκάλεσε	προκαλώ	VERB	_	_
+1	θόρυβο	θόρυβος	NOUN	0	obj
+
+LVC.full
+0	ασκήσει	ασκώ	VERB	_	_
+1	αντιπολίτευση	αντιπολίτευση	NOUN	0	nsubj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	αντιπολίτευση	αντιπολίτευση	NOUN	0	obj
+
+VID
+0	έχουμε	έχω	VERB	_	_
+1	περιθώριο	περιθώριο	NOUN	0	nsubj
+
+VID
+0	βάζοντας	βάζο	VERB	_	_
+1	στο	στου	ADP	2	case
+2	τραπέζι	τραπέζι	NOUN	0	obl
+
+VID
+0	έβαλα	έβαλος	ADJ	1	amod
+1	πλάτη	πλάτος	NOUN	_	_
+
+LVC.full
+0	δηλώσεις	δήλωση	NOUN	_	_
+1	κάνει	κάνω	VERB	0	acl:relcl
+
+LVC.cause
+0	πάρει	παίρνω	VERB	_	_
+1	προαγωγή	προαγωγή	NOUN	0	obj
+
+VID
+0	ανέλαβε	αναλαμβάνω	VERB	_	_
+1	τα	ο	DET	2	det
+2	ηνία	ηνία	NOUN	0	nsubj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	πιθανότητες	πιθανότητα	NOUN	0	obj
+
+LVC.full
+0	δίνουν	δίνω	VERB	_	_
+1	σημασία	σημασία	NOUN	0	obj
+
+LVC.full
+0	δώσουν	δώζω	VERB	_	_
+1	δικαιώματα	δικαίωμα	NOUN	0	obj
+
+LVC.full
+0	εκτελούσε	εκτελώ	VERB	_	_
+1	πτήση	πτήση	NOUN	0	obj
+
+LVC.full
+0	αποφάσεις	απόφαση	NOUN	_	_
+1	ληφθεί	λαμβάνω	VERB	_	_
+
+LVC.full
+0	δόθηκε	δίνω	VERB	_	_
+1	αύξηση	αύξηση	NOUN	0	xcomp
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	επικοινωνία	επικοινωνία	NOUN	0	obj
+
+VID
+0	εξαπολύει	εξαπολύω	VERB	_	_
+1	πυρά	πυρ	NOUN	0	obj
+
+VID
+0	θολώσει	θολώνω	VERB	_	_
+1	τα	ο	DET	2	det
+2	νερά	νερό	NOUN	0	obj
+
+VID
+0	δεν	δεν	PART	1	advmod
+1	σηκώνουμε	σηκώνω	VERB	_	_
+2	μύγα	μύγα	NOUN	1	obj
+3	στο	στου	ADP	4	case
+4	σπαθί	σπαθί	NOUN	1	obl
+5	μας	μου	PRON	4	nmod
+
+LVC.full
+0	συνάντησή	συνάντηση	NOUN	_	_
+1	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	επαφές	επαφή	NOUN	0	obj
+
+LVC.full
+0	συνάντηση	συνάντηση	NOUN	1	nsubj
+1	πραγματοποιήθηκε	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	προανάκριση	προανάκριση	NOUN	_	_
+1	διενεργεί	διενεργώ	VERB	0	acl
+
+LVC.full
+0	θέσει	θέτω	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	κράτηση	κράτηση	NOUN	0	obl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	χατίρι	χατίρι	NOUN	0	obj
+
+VID
+0	λάβει	λαμβάνω	VERB	_	_
+1	χώρα	χώρα	NOUN	0	obj
+
+LVC.full
+0	πήρε	παίρνω	VERB	_	_
+1	διαστάσεις	διάσταση	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	εμπειρία	εμπειρία	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	απαιτήσεις	απαίτηση	NOUN	0	obj
+
+VID
+0	βρίσκονται	βρίσκω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	μικροσκόπιο	μικροσκόπιο	NOUN	0	obl
+
+VID
+0	ριχτεί	ριχτώ	VERB	_	_
+1	φως	φως	ADV	0	advmod
+
+VID
+0	βγει	βγαίνω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	NOUN	0	obl
+
+VID
+0	έχασε	χάνω	VERB	_	_
+1	τις	ο	DET	2	det
+2	αισθήσεις	αισθήση	NOUN	0	obj
+3	της	μου	PRON	2	nmod
+
+LVC.full
+0	προβώ	προβώ	VERB	_	_
+1	σε	σε	ADP	2	case
+2	δήλωση	δήλωση	NOUN	0	obl
+
+LVC.full
+0	έκανα	έκανα	NOUN	_	_
+1	όρκο	όρκο	NOUN	0	conj
+
+VID
+0	τεθεί	θέτω	VERB	_	_
+1	υπ'	υπό	NUM	0	nsubj
+2	όψιν	όψιν	ADP	_	_
+
+VID
+0	έφτασε	φτάνω	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χέρια	χέρι	NOUN	0	obl
+
+VID
+0	έπεσε	πέφτω	VERB	_	_
+1	σαν	σαν	ADV	2	advmod
+2	βόμβα	βόμβα	VERB	0	ccomp
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	ενδιαφέρον	ενδιαφέρον	SCONJ	_	_
+
+VID
+0	βάλει	βάζω	VERB	_	_
+1	φωτιά	φωτιά	NOUN	0	obj
+
+VID
+0	Στο	στου	ADP	1	case
+1	σφυρί	σφυρί	VERB	2	advcl
+2	βγαίνει	βγαίνω	VERB	_	_
+
+VID
+0	βγαίνει	βγαίνω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	σφυρί	σφυρί	VERB	0	obl
+
+VID
+0	οργιάζουν	οργιάζω	VERB	_	_
+1	οι	ο	DET	2	det
+2	φήμες	φήμη	NOUN	0	nsubj
+
+VID
+0	φέρει	φέρω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	NOUN	0	obl
+
+VID
+0	φέρει	φέρω	VERB	_	_
+1	τα	ο	DET	3	det
+2	πάνω	πάνω	ADV	3	advmod
+3	κάτω	κάτω	ADV	0	advmod
+
+VID
+0	Τη	ο	DET	1	det
+1	γη	γη	NOUN	7	obj
+2	κάτω	κάτω	ADV	1	advmod
+3	από	από	ADP	5	case
+4	τα	ο	DET	5	det
+5	πόδια	πόδι	NOUN	2	nmod
+6	της	μου	PRON	5	nmod
+7	χάσει	χάνω	VERB	_	_
+
+VID
+0	πέσει	πώ	VERB	_	_
+1	στα	στου	ADP	2	case
+2	σαγόνια	σαγόνος	NOUN	0	obl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	μάχη	μάχη	NOUN	0	obj
+
+VID
+0	άνοιξε	ανοίγω	VERB	_	_
+1	τον	ο	DET	2	det
+2	δρόμο	δρόμος	NOUN	0	obj
+
+VID
+0	ελήφθη	λαμβάνω	VERB	_	_
+1	υπ'	υπό	PART	0	advmod
+2	όψιν	όψιν	ADV	1	advmod
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	παρών	παρά	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	υποχρέωση	υποχρέωση	NOUN	0	nsubj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	δύναμη	δύναμη	NOUN	0	obj
+
+VID
+0	έπεφταν	έπεφταν	VERB	_	_
+1	βροχή	βροχή	NOUN	0	obj
+
+VID
+0	στεκόταν	στεκόταν	VERB	_	_
+1	στο	στου	ADP	2	case
+2	πλευρό	πλευρό	NOUN	0	obl
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	Είχα	έχω	VERB	_	_
+1	την	ο	DET	2	det
+2	τύχη	τύχη	NOUN	0	obj
+
+VID
+0	Σαν	σαν	SCONJ	1	mark
+1	βόμβα	βόμβα	VERB	_	_
+2	έπεσε	πέφτω	VERB	1	advcl
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+2	στη	στου	ADP	3	case
+3	ζωή	ζωή	NOUN	0	obl
+4	του	μου	PRON	3	nmod
+
+VID
+0	φύγει	φεύγω	VERB	_	_
+1	από	από	ADP	3	case
+2	τη	ο	DET	3	det
+3	ζωή	ζωή	NOUN	0	obl
+
+VID
+0	σημάνει	σημάνομαι	VERB	_	_
+1	συναγερμός	συναγερμός	NOUN	0	nsubj
+
+LVC.full
+0	απόφαση	απόφαση	NOUN	1	obl
+1	παίρνουν	παίρνω	VERB	_	_
+
+VID
+0	θέσει	θέτω	VERB	_	_
+1	προ	προ	ADP	3	case
+2	των	ο	DET	3	det
+3	ευθυνών	ευθύνη	NOUN	0	obl
+4	τους	μου	PRON	3	nmod
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	λάθος	λάθος	NOUN	0	nsubj
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	κλήση	κλήση	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	κουβέντα	κουβέντα	NOUN	0	obj
+
+LVC.full
+0	πάρει	παίρνω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	τηλέφωνο	τηλέφωνο	NOUN	0	obl
+
+LVC.full
+0	πάρει	παίρνω	VERB	_	_
+1	τηλέφωνο	τηλέφωνο	NOUN	0	obl
+
+VID
+0	Εχω	Εχω	VERB	_	_
+1	στην	στου	ADP	2	case
+2	πλάτη	πλάτος	NOUN	0	obl
+3	μου	μου	PRON	2	nmod
+
+VID
+0	ήρθε	έρχομαι	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	NOUN	0	obl
+
+VID
+0	φέρει	φέρω	VERB	_	_
+1	στον	στου	ADP	2	case
+2	κόσμο	κόσμος	NOUN	0	obl
+
+LVC.full
+0	έλθει	έλχομαι	VERB	_	_
+1	σε	σε	ADP	2	case
+2	επαφή	επαφή	NOUN	0	obl
+
+LVC.full
+0	δοθούν	δίνω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	δημοσιότητα	δημοσιότητα	NOUN	0	obl
+
+VID
+0	κόβει	κόβω	VERB	_	_
+1	την	ο	DET	2	det
+2	ανάσα	ανάσα	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	ικανότητα	ικανότητα	NOUN	0	obl
+
+VID
+0	παγώνει	παγώνω	VERB	_	_
+1	το	ο	DET	2	det
+2	αίμα	αίμα	NOUN	0	obj
+
+VID
+0	μην	μην	PART	1	advmod
+1	πιστεύεις	πιστεύη	NOUN	_	_
+2	στα	στου	ADP	3	case
+3	μάτια	μάτι	NOUN	1	nmod
+4	σου	σου	NOUN	3	nmod
+
+LVC.full
+0	παίρνουν	παίρνω	VERB	_	_
+1	θέση	θέση	NOUN	0	obj
+
+VID
+0	βρίσκεται	βρίσκω	VERB	_	_
+1	στα	στου	ADP	2	case
+2	χέρια	χέρι	NOUN	0	obl
+
+VID
+0	άφησε	αφήνω	VERB	_	_
+1	την	ο	DET	3	det
+2	τελευταία	τελευταίος	ADJ	3	amod
+3	πνοή	πνοή	NOUN	0	obj
+4	του	μου	PRON	3	nmod
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	ζωή	ζωή	NOUN	0	obj
+
+VID
+0	τινάξει	τινάσσω	VERB	_	_
+1	στον	στου	ADP	2	case
+2	αέρα	αέρας	NOUN	0	obl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	συνεύρεση	συνεύρεση	NOUN	0	obj
+
+VID
+0	Πάταγο	Πάταγο	ADV	1	advmod
+1	κάνει	κάνω	VERB	_	_
+
+LVC.full
+0	αναζητήσεις	αναζητήση	NOUN	_	_
+1	έκαναν	έκανας	VERB	0	acl:relcl
+
+LVC.full
+0	κατάταξη	κατάταξη	NOUN	1	nsubj
+1	έγινε	γίνομαι	VERB	_	_
+
+LVC.cause
+0	έχει	έχω	VERB	_	_
+1	εξήγησή	εξήγηση	NOUN	0	obj
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	επαφές	επαφή	NOUN	0	obj
+
+VID
+0	έφερε	φέρω	VERB	_	_
+1	στη	στου	ADP	_	_
+2	ζωή	ζωή	ADJ	_	_
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	παρών	παρά	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	πασαρέλα	πασαρέλα	ADV	0	advmod
+
+LVC.full
+0	εμφανίσεις	εμφάνιση	NOUN	1	nsubj
+1	κάνει	κάνω	VERB	_	_
+
+LVC.full
+0	δίνει	δίνω	VERB	1	acl
+1	συνεντεύξεις	συνεντεύξη	NOUN	_	_
+
+VID
+0	δίνει	δίνω	VERB	_	_
+1	λαβές	λαβή	NOUN	0	obj
+
+VID
+0	καεί	καώ	VERB	_	_
+1	το	ο	DET	2	det
+2	πελεκούδι	πελεκούδι	NOUN	0	nsubj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	αποκαλύψεις	αποκαλύψη	NOUN	0	obj
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	ταξίδι	ταξίδς	NOUN	0	obj
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	μπάνιο	μπάνιο	ADJ	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	έκκληση	έκκληση	NOUN	0	obj
+
+VID
+0	Επαιρνε	Επαιρνε	VERB	_	_
+1	φωτιά	φωτιά	NOUN	0	xcomp
+
+VID
+0	πήρε	παίρνω	VERB	_	_
+1	την	ο	DET	2	det
+2	κατιούσα	κατιούσα	NOUN	0	obj
+
+VID
+0	άφησε	αφήνω	VERB	_	_
+1	την	ο	DET	4	det
+2	τελευταία	τελευταίος	ADJ	4	amod
+3	του	ο	PRON	4	nmod
+4	πνοή	πνοή	NOUN	0	obj
+
+VID
+0	έφεραν	έφεραν	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	ADV	0	advmod
+
+LVC.full
+0	κάνουμε	κάνω	VERB	_	_
+1	μήνυση	μήνυση	NOUN	0	obj
+
+LVC.full
+0	διαπράξει	διαπράττω	VERB	_	_
+1	ληστείες	ληστεία	NOUN	0	obj
+
+VID
+0	έρχονται	έρχομαι	VERB	_	_
+1	στο	στου	ADP	2	case
+2	φως	φως	NOUN	0	obl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	ελιγμό	ελιγμός	ADJ	_	_
+
+LVC.full
+0	κατέληξαν	καταλήγω	VERB	_	_
+1	στο	στου	ADP	2	case
+2	συμπέρασμα	συμπέρασμα	NOUN	0	obl
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	εμφάνισή	εμφάνιση	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	επαφή	επαφή	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	αγώνα	αγώνας	NOUN	0	obj
+
+LVC.full
+0	βόλτες	βόλτης	NOUN	_	_
+1	κάνει	κάνω	VERB	0	acl:relcl
+
+LVC.cause
+0	έκανε	κάνω	VERB	_	_
+1	φυλακή	φυλακή	ADJ	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	παρουσία	παρουσία	NOUN	0	obj
+
+LVC.full
+0	παίρνουν	παίρνω	VERB	_	_
+1	μέρος	μέρος	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	παράπονα	παράπονο	NOUN	0	obj
+
+LVC.full
+0	κάνουμε	κάνω	VERB	_	_
+1	προσευχή	προσευχή	NOUN	0	obj
+
+LVC.full
+0	έρευνα	έρευνα	NOUN	_	_
+1	έκανε	κάνω	VERB	0	acl:relcl
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	έρευνα	έρευνα	NOUN	0	obj
+
+LVC.full
+0	κάνω	κάνω	VERB	_	_
+1	έρευνα	έρευνα	NOUN	0	obl
+
+VID
+0	έκαναν	έκανας	VERB	_	_
+1	το	ο	DET	2	det
+2	κομμάτι	κομμάτι	NOUN	_	_
+3	τους	εγώ	PRON	2	nmod
+
+LVC.full
+0	προσφυγές	προσφυγή	NOUN	_	_
+1	υποβάλει	υποβάλλω	VERB	_	_
+
+VID
+0	χορέψει	χορέφω	VERB	_	_
+1	τον	ο	DET	2	det
+2	χορό	χορό	NOUN	0	obj
+3	του	ο	DET	4	det
+4	Ησαΐα	Ησαΐα	NOUN	2	nmod
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	πράξεις	πράξη	NOUN	0	obj
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	καταγγελίες	καταγγελία	NOUN	0	obj
+
+LVC.full
+0	έκαναν	έκανας	VERB	_	_
+1	στάση	στάση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	κίνηση	κίνηση	NOUN	0	obj
+
+LVC.full
+0	δώσει	δίνω	VERB	_	_
+1	εξηγήσεις	εξηγήση	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	εξέλιξη	εξέλιξη	NOUN	0	obj
+
+VID
+0	βάλει	βάζω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+2	στη	στου	ADP	3	case
+3	ζωή	ζωή	NOUN	0	obl
+4	του	μου	PRON	3	nmod
+
+LVC.full
+0	Είχαμε	έχω	VERB	_	_
+1	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+LVC.full
+0	είχαμε	έχω	VERB	_	_
+1	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+LVC.full
+0	κάνουμε	κάνω	VERB	_	_
+1	εκδρομές	εκδρομή	NOUN	0	obj
+
+LVC.full
+0	ασκεί	ασκώ	VERB	_	_
+1	κριτική	κριτική	NOUN	0	obj
+
+VID
+0	λαμβάνει	λαμβάνω	VERB	_	_
+1	υπόψη	υπόψη	ADV	0	advmod
+
+VID
+0	κράτησε	κρατώ	VERB	_	_
+1	στάση	στάση	NOUN	0	obj
+
+VID
+0	είναι	είμαι	VERB	2	cop
+1	στο	στου	ADP	2	case
+2	χέρι	χέρι	NOUN	_	_
+
+VID
+0	δώσει	δίνω	VERB	_	_
+1	πάσο	πάσο	NOUN	0	obj
+
+LVC.full
+0	βρήκαν	βρίσκω	VERB	_	_
+1	απήχηση	απήχηση	NOUN	0	obj
+
+LVC.full
+0	Φουρτούνα	φουρτούνα	NOUN	1	xcomp
+1	έπιασε	πιάνω	VERB	_	_
+
+VID
+0	αποτείνουν	αποτείνω	VERB	_	_
+1	φόρο	φόρος	NOUN	0	obj
+2	τιμής	τιμή	NOUN	1	nmod
+
+VID
+0	γράψει	γράφω	VERB	_	_
+1	ιστορία	ιστορία	NOUN	_	_
+
+VID
+0	γράφουν	γράφω	VERB	_	_
+1	ιστορία	ιστορία	NOUN	0	obj
+
+LVC.full
+0	έγιναν	γίνομαι	VERB	_	_
+1	κρατήσεις	κράτηση	NOUN	0	nsubj
+
+VID
+0	κάνει	κάνω	VERB	_	_
+1	κωλοτούμπα	κωλοτούμπα	NOUN	0	obj
+
+LVC.full
+0	Κάνουμε	κάνω	VERB	_	_
+1	τον	ο	DET	2	det
+2	σταυρό	σταυρός	NOUN	0	obj
+3	μας	μου	PRON	2	nmod
+
+VID
+0	άναψε	ανάβω	VERB	_	_
+1	τη	ο	DET	2	det
+2	σπίθα	σπίθα	NOUN	0	obj
+
+VID
+0	βάλει	βάζω	VERB	_	_
+1	το	ο	DET	2	det
+2	χέρι	χέρι	NOUN	0	obj
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	αναδάσωση	αναδάσωση	NOUN	0	xcomp
+
+LVC.full
+0	έχουμε	έχω	VERB	_	_
+1	υπομονή	υπομονή	NOUN	0	obj
+
+LVC.full
+0	Εκανε	κάνω	VERB	_	_
+1	λάθος	λάθος	NOUN	0	obj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	γυρίσματα	γύρισμα	NOUN	0	nsubj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	λόγος	λόγος	NOUN	0	nsubj
+
+LVC.full
+0	γυρίσματα	γύρισμα	NOUN	_	_
+1	πραγματοποιούνται	πραγματοποιώ	VERB	_	_
+
+LVC.full
+0	άσκησαν	ασκώ	VERB	_	_
+1	επιρροή	επιρροή	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	χρήση	χρήση	NOUN	0	obj
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	εντύπωση	εντύπωση	NOUN	0	obj
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	πραγματικότητα	πραγματικότητα	NOUN	0	xcomp
+
+LVC.full
+0	έκανε	κάνω	VERB	_	_
+1	πρεμιέρα	πρεμιέρα	NOUN	0	obj
+
+LVC.full
+0	κάνω	κάνω	VERB	_	_
+1	λάθος	λάθος	NOUN	0	obj
+
+VID
+0	πάρει	παίρνω	VERB	_	_
+1	μια	ένας	DET	2	det
+2	γεύση	γεύση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	πρεμιέρα	πρεμιέρα	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	ευκαιρία	ευκαιρία	NOUN	0	obj
+
+VID
+0	Την	ο	DET	3	det
+1	τελευταία	τελευταίος	ADJ	3	amod
+2	του	μου	PRON	3	nmod
+3	πνοή	πνοή	NOUN	4	obj
+4	άφησε	αφήνω	VERB	_	_
+
+VID
+0	τρίξουν	τρίζω	VERB	_	_
+1	τα	ο	DET	2	det
+2	δόντια	δόντι	NOUN	0	obj
+
+VID
+0	έχει	έχω	VERB	_	_
+1	όνομα	όνομα	NOUN	0	obj
+2	και	και	CCONJ	3	cc
+3	υπογραφή	υπογραφή	NOUN	1	conj
+
+VID
+0	Μπάτε	μπαίνω	PROPN	1	nmod
+1	σκύλοι	σκύλος	NOUN	2	nsubj
+2	αλέστε	αλέθω	VERB	_	_
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	εντύπωση	εντύπωση	NOUN	0	obj
+
+VID
+0	είχα	έχω	VERB	_	_
+1	την	ο	DET	2	det
+2	εντύπωση	εντύπωση	NOUN	0	obj
+
+LVC.full
+0	παίρνοντας	παίρνω	VERB	_	_
+1	ρόλο	ρόλος	NOUN	0	obj
+
+VID
+0	έτριβαν	τρίβω	VERB	_	_
+1	τα	ο	DET	2	det
+2	χέρια	χέρι	NOUN	0	obj
+3	τους	μου	PRON	2	nmod
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	εκπτώσεις	έκπτωση	NOUN	0	obj
+
+LVC.full
+0	φασαρία	φασαρία	NOUN	1	obj
+1	κάνει	κάνω	VERB	_	_
+
+VID
+0	είχα	έχω	VERB	_	_
+1	πρεμούρα	πρεμούρα	NOUN	0	obj
+
+VID
+0	τρίτωσε	τριτώνω	VERB	_	_
+1	το	ο	DET	2	det
+2	κακό	κακός	ADJ	0	obj
+
+VID
+0	μου	εγώ	PRON	1	iobj
+1	ήρθε	έρχομαι	VERB	_	_
+2	κεραμίδα	κεραμίδα	NOUN	1	nsubj
+3	.	.	PUNCT	1	punct
+
+VID
+0	ενός	ένας	DET	2	det
+1	γαϊδάρου	γάιδαρος	NOUN	2	nmod
+2	άχυρα	άχυρο	NOUN	4	nsubj
+3	δεν	δεν	PART	4	advmod
+4	μπορούν	μπορώ	VERB	_	_
+5	να	να	PART	6	aux
+6	χωρίσουν	χωρίζω	VERB	4	ccomp
+
+LVC.cause
+0	Τρομάρα	τρομάρα	NOUN	1	nsubj
+1	πιάνει	πιάνω	VERB	_	_
+
+VID
+0	την	εγώ	PRON	1	obj
+1	παλεύουν	παλεύω	VERB	_	_
+
+VID
+0	όσα	όσος	PRON	2	obj
+1	δεν	δεν	PART	2	advmod
+2	φτάνει	φτάνω	VERB	_	_
+3	η	ο	DET	4	det
+4	αλεπού	αλεπού	NOUN	2	obj
+
+VID
+0	τα	εγώ	PRON	1	obj
+1	βάζει	βάζω	VERB	_	_
+
+LVC.full
+0	δίνονται	δίνω	VERB	_	_
+1	μάχες	μάχη	NOUN	0	nsubj
+
+LVC.full
+0	βάλει	βάζω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+VID
+0	χάσει	χάνω	VERB	_	_
+1	τη	ο	DET	2	det
+2	ζωή	ζωή	NOUN	0	obj
+3	τους	μου	PRON	2	nmod
+
+VID
+0	έκανε	κάνω	VERB	_	_
+1	κέφι	κέφι	NOUN	0	obj
+
+LVC.full
+0	έκαναν	κάνω	VERB	_	_
+1	καταλήψεις	κατάληψη	NOUN	0	obj
+
+VID
+0	τους	εγώ	PRON	1	obj
+1	παίρνει	παίρνω	VERB	_	_
+
+VID
+0	τα	εγώ	PRON	1	obj
+1	κατάφεραν	καταφέρνω	VERB	_	_
+
+LVC.full
+0	όνομα	όνομα	NOUN	1	obj
+1	δώσαμε	δίνω	VERB	_	_
+
+VID
+0	τσακίζει	τσακίζω	VERB	_	_
+1	τα	ο	DET	2	det
+2	νεύρα	νεύρο	NOUN	0	obj
+
+VID
+0	πάει	πηγαίνω	VERB	_	_
+1	χαμένη	χαμένος	VERB	0	xcomp
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	επαφή	επαφή	NOUN	0	obj
+
+LVC.full
+0	Διαστάσεις	διάσταση	NOUN	1	obj
+1	λάβει	λαμβάνω	VERB	_	_
+
+VID
+0	πάρει	παίρνω	VERB	_	_
+1	μέτρα	μέτρο	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+LVC.full
+0	εισαγωγή	εισαγωγή	NOUN	_	_
+1	γίνει	γίνομαι	VERB	_	_
+
+LVC.full
+0	εντύπωση	εντύπωση	NOUN	1	obj
+1	έκανε	κάνω	VERB	_	_
+
+LVC.full
+0	έδωσε	δίνω	VERB	_	_
+1	παραγγελία	παραγγελία	NOUN	0	obj
+
+LVC.full
+0	δηλώσεις	δήλωση	NOUN	1	nsubj
+1	έγιναν	γίνομαι	VERB	_	_
+
+LVC.full
+0	απόφαση	απόφαση	NOUN	1	nsubj
+1	ειλημμένη	ειλημμένος	ADJ	_	_
+
+VID
+0	πίνουν	πίνω	VERB	_	_
+1	νερό	νερό	NOUN	0	obj
+2	στο	στου	ADP	3	case
+3	όνομα	όνομα	NOUN	0	obl
+
+LVC.full
+0	τεθούν	θέτω	VERB	_	_
+1	όρια	όριο	NOUN	0	nsubj
+
+LVC.full
+0	απόφαση	απόφαση	NOUN	_	_
+1	λάβει	λαμβάνω	VERB	0	acl:relcl
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	συνέπειες	συνέπεια	NOUN	0	obj
+
+LVC.full
+0	παίξουν	παίζω	VERB	_	_
+1	ρόλο	ρόλος	NOUN	0	obj
+
+LVC.full
+0	δώσουν	δίνω	VERB	_	_
+1	συγκατάθεσή	συγκατάθεση	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	μειονεκτήματα	μειονέκτημα	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	συνείδηση	συνείδηση	NOUN	0	obj
+
+VID
+0	βρει	βρίσκω	VERB	_	_
+1	πρόσφορο	πρόσφορος	ADJ	2	amod
+2	έδαφος	έδαφος	NOUN	0	obj
+
+VID
+0	βρει	βρίσκω	VERB	_	_
+1	έδαφος	έδαφος	NOUN	0	obj
+
+LVC.full
+0	πήραν	παίρνω	VERB	_	_
+1	πρόκριση	πρόκριση	NOUN	0	obj
+
+LVC.cause
+0	δόθηκε	δίνω	VERB	_	_
+1	δυνατότητα	δυνατότητα	NOUN	0	obj
+
+LVC.full
+0	έγινε	γίνομαι	VERB	_	_
+1	αλλαγή	αλλαγή	NOUN	0	nsubj
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	ως	ως	ADV	2	case
+2	αποτέλεσμα	αποτέλεσμα	NOUN	0	xcomp
+
+LVC.full
+0	είχαν	έχω	VERB	_	_
+1	αποτέλεσμα	αποτέλεσμα	NOUN	0	xcomp
+
+LVC.full
+0	θέτω	θέτω	VERB	_	_
+1	ερώτημα	ερώτημα	NOUN	0	obj
+
+LVC.full
+0	έχει	έχω	VERB	_	_
+1	ανάγκη	ανάγκη	NOUN	0	xcomp
+
+VID
+0	βγήκε	βγαίνω	VERB	_	_
+1	στον	στου	ADP	2	case
+2	αέρα	αέρας	NOUN	0	obl
+
+VPC.full
+0	Πέσαμε	πέφτω	VERB	_	_
+1	έξω	έξω	ADV	0	advmod
+
+VID
+0	το	εγώ	PRON	1	obj
+1	παλέψουμε	παλεύω	VERB	_	_
+
+LVC.full
+0	έχουμε	έχω	VERB	_	_
+1	πίστη	πίστη	NOUN	0	obj
+
+LVC.full
+0	πήραμε	παίρνω	VERB	_	_
+1	ρίσκο	ρίσκο	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	σχέση	σχέση	NOUN	0	obj
+
+VID
+0	δίνοντας	δίνω	VERB	_	_
+1	σάρκα	σάρκα	NOUN	0	obj
+2	και	και	CCONJ	3	cc
+3	οστά	οστό	NOUN	1	conj
+
+LVC.full
+0	έκοβε	κόβω	VERB	_	_
+1	βόλτες	βόλτα	NOUN	0	obj
+
+LVC.full
+0	τεθεί	θέτω	VERB	_	_
+1	υπό	υπό	ADP	2	case
+2	παρακολούθηση	παρακολούθηση	NOUN	0	obl
+
+LVC.full
+0	έγκλημα	έγκλημα	NOUN	_	_
+1	διαπράχθηκε	διαπράττω	VERB	0	acl:relcl
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	διέγερση	διέγερση	NOUN	0	obj
+
+VID
+0	άφησε	αφήνω	VERB	_	_
+1	την	ο	DET	3	det
+2	τελευταία	τελευταίος	ADJ	3	amod
+3	πνοή	πνοή	NOUN	0	obj
+4	της	μου	PRON	3	nmod
+
+VID
+0	έπεσε	πέφτω	VERB	_	_
+1	για	για	ADP	2	case
+2	ύπνο	ύπνος	NOUN	0	obl
+
+VID
+0	έχασε	χάνω	VERB	_	_
+1	τα	ο	DET	2	det
+2	λογικά	λογικός	ADJ	0	obj
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	έγκλημα	έγκλημα	NOUN	0	obj
+
+LVC.full
+0	είχε	έχω	VERB	_	_
+1	κατάληξη	κατάληξη	NOUN	0	obj
+
+LVC.full
+0	διαπράξει	διαπράττω	VERB	_	_
+1	εγκλήματα	έγκλημα	NOUN	0	obj
+
+LVC.full
+0	έχουν	έχω	VERB	_	_
+1	επιδράσεις	επίδραση	NOUN	0	obj
+
+VID
+0	έγινε	γίνομαι	VERB	_	_
+1	καπνός	καπνός	NOUN	0	xcomp
+
+LVC.full
+0	αγαθοεργίες	αγαθοεργία	NOUN	_	_
+1	έκανε	κάνω	VERB	0	acl:relcl
+
+LVC.full
+0	έκαναν	κάνω	VERB	_	_
+1	παρέα	παρέα	NOUN	0	obj
+
+LVC.full
+0	κάναμε	κάνω	VERB	_	_
+1	καλαμπούρια	καλαμπούρι	NOUN	0	obj
+
+VPC.full
+0	αφήνοντας	αφήνω	VERB	_	_
+1	πίσω	πίσω	ADV	0	advmod
+
+LVC.full
+0	ήταν	είμαι	VERB	_	_
+1	στη	στου	ADP	2	case
+2	ζωή	ζωή	NOUN	0	obl
+
+VID
+0	βγάλει	βγάζω	VERB	_	_
+1	στη	στου	ADP	2	case
+2	φόρα	φόρα	NOUN	0	obl
+
+LVC.full
+0	κάνοντας	κάνω	VERB	_	_
+1	παρέα	παρέα	NOUN	0	obj
+
+LVC.full
+0	Είχε	έχω	VERB	_	_
+1	φοβίες	φοβία	NOUN	0	obj
+
+VID
+0	βγάλω	βγάζω	VERB	_	_
+1	λεφτά	λεφτά	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	δωρεά	δωρεά	NOUN	0	obj
+
+LVC.full
+0	μετακινήσεις	μετακίνηση	NOUN	_	_
+1	γίνονται	γίνομαι	VERB	0	acl:relcl
+
+VID
+0	σπάει	σπάω	VERB	_	_
+1	τη	ο	DET	2	det
+2	σιωπή	σιωπή	NOUN	0	obj
+
+LVC.full
+0	διακανονισμός	διακανονισμός	NOUN	1	nsubj
+1	έγινε	γίνομαι	VERB	_	_
+
+LVC.full
+0	γίνει	γίνομαι	VERB	_	_
+1	ταξίδια	ταξίδι	NOUN	0	nsubj
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	δώρα	δώρο	NOUN	0	obj
+
+LVC.full
+0	ψώνια	ψώνιο	NOUN	_	_
+1	κάνεις	κάνω	VERB	_	_
+
+LVC.full
+0	κάνουν	κάνω	VERB	_	_
+1	χατίρια	χατίρι	NOUN	0	obj
+
+VID
+0	βγάζει	βγάζω	VERB	_	_
+1	τα	ο	DET	2	det
+2	προς	προς	ADP	4	case
+3	το	ο	DET	4	det
+4	ζην	ζην	NOUN	0	obl
+
+LVC.full
+0	έχοντας	έχω	VERB	_	_
+1	στην	στου	ADP	2	case
+2	κατοχή	κατοχή	NOUN	0	obl
+3	του	μου	PRON	2	nmod
+
+VID
+0	κάνει	κάνω	VERB	_	_
+1	την	ο	DET	2	det
+2	τύχη	τύχη	NOUN	0	obj
+3	του	μου	PRON	2	nmod
+
+LVC.full
+0	άσκησε	ασκώ	VERB	1	amod
+1	πίεση	πίεση	NOUN	_	_
+
+LVC.full
+0	έθεσε	θέτω	VERB	_	_
+1	τέλος	τέλος	NOUN	0	obj
+
+LVC.full
+0	άσκησε	ασκώ	VERB	_	_
+1	πίεση	πίεση	NOUN	0	obj
+
+LVC.full
+0	γνωριμία	γνωριμία	NOUN	1	nsubj
+1	έγινε	γίνομαι	VERB	_	_
+
+LVC.full
+0	δίνει	δίνω	VERB	_	_
+1	το	ο	DET	2	det
+2	παρών	παρών	ADJ	0	obj
+
+LVC.full
+0	πήρε	παίρνω	VERB	_	_
+1	το	ο	DET	2	det
+2	όνομα	όνομα	NOUN	0	obj
+
+VID
+0	έφερε	φέρω	VERB	_	_
+1	στον	στου	ADP	2	case
+2	κόσμο	κόσμος	NOUN	0	obl:iobj
+
+VID
+0	πήρε	παίρνω	VERB	_	_
+1	χαμπάρι	χαμπάρι	NOUN	0	obj
+
+VID
+0	πάρουν	παίρνω	VERB	_	_
+1	είδηση	είδηση	NOUN	0	obj
+
+LVC.full
+0	κάνει	κάνω	VERB	_	_
+1	γάμο	γάμος	NOUN	0	obj
+
