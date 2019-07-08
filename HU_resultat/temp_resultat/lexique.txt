@@ -1,0 +1,5742 @@
+VPC.semi
+0	kivétellel	kivétel	N	_	_
+
+VPC.full
+0	bekezdésében	bekezdés	N	_	_
+
+VPC.full
+0	bekezdés	bekezdés	N	_	_
+
+LVC.full
+0	határozatot	határozat	N	1	OBJ
+1	hozzon	hoz	V	_	_
+
+VPC.full
+0	kizárás	kizárás	N	_	_
+
+LVC.full
+0	határozat	határozat	N	1	ATT
+1	meghozatalától	meghozatal	N	_	_
+
+VPC.full
+0	előfeltételét	előfeltétel	N	_	_
+
+VPC.full
+0	kizárását	kizárás	N	_	_
+
+VPC.full
+0	kizárásának	kizárás	N	_	_
+
+VPC.full
+0	előírja	előír	V	_	_
+
+VPC.full
+0	elszámolni	elszámol	V	_	_
+
+VPC.full
+0	fennálló	fennálló	A	_	_
+
+VPC.full
+0	beszámolója	beszámoló	N	_	_
+
+VPC.full
+0	feltételeiről	feltétel	N	_	_
+
+VPC.full
+0	átruházásával	átruházás	N	_	_
+
+VPC.semi
+0	hozzájárulásával	hozzájárulás	N	_	_
+
+VPC.full
+0	megfelelő	megfelelő	A	_	_
+
+VPC.full
+0	el	el	R	1	PREVERB
+1	számolni	számol	V	_	_
+
+VPC.full
+0	megfelelően	megfelelő	A	_	_
+
+VPC.full
+0	átruházás	átruházás	N	_	_
+
+VPC.full
+0	elszámolási	elszámolási	A	_	_
+
+VPC.full
+0	átruházással	átruházás	N	_	_
+
+VPC.full
+0	előírt	előírt	A	_	_
+
+VPC.full
+0	el	el	R	1	PREVERB
+1	számolnia	számol	V	_	_
+
+VPC.full
+0	elszámolásra	elszámolás	N	_	_
+
+VPC.semi
+0	fennmaradó	fennmaradó	A	_	_
+
+VPC.semi
+0	hozzájárulásuk	hozzájárulás	N	_	_
+
+VPC.full
+0	felszámolási	felszámolási	A	_	_
+
+VPC.full
+0	eljárásnak	eljárás	N	_	_
+
+VPC.full
+0	végelszámolási	végelszámolási	A	_	_
+
+VPC.full
+0	eljárás	eljárás	N	_	_
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	tüntetni	tüntet	V	_	_
+
+LVC.full
+0	részt	rész	N	1	OBJ
+1	vehetnek	vehet	V	_	_
+
+VPC.full
+0	feltételek	feltétel	N	_	_
+
+VPC.semi
+0	kivétel	kivétel	N	_	_
+
+VPC.full
+0	kizárásával	kizárás	N	_	_
+
+VPC.full
+0	létrehozása	létrehozás	N	_	_
+
+VPC.full
+0	előírásokat	előírás	N	_	_
+
+VPC.full
+0	sorolja	sorol	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	ad	ad	V	_	_
+1	szabályozást	szabályozás	N	0	OBJ
+
+VPC.semi
+0	hozzájárulás	hozzájárulás	N	_	_
+
+LVC.full
+0	figyelembe	figyelem	N	1	OBL
+1	venni	vesz	V	_	_
+
+VPC.semi
+0	hozzájárulása	hozzájárulás	N	_	_
+
+VPC.semi
+0	hozzájárulásként	hozzájárulás	N	_	_
+
+VPC.full
+0	ruházhat	ruházhat	V	_	_
+1	át	át	R	0	PREVERB
+
+VPC.full
+0	végrehajtás	végrehajtás	N	_	_
+
+LVC.full
+0	hozzájárulás	hozzájárulás	N	_	_
+1	megadták	megad	V	_	_
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	megadták	megad	V	_	_
+
+VPC.full
+0	meghatározása	meghatározás	N	_	_
+
+VPC.semi
+0	hozzájárulásnál	hozzájárulás	N	_	_
+
+LVC.full
+0	teljesített	teljesített	A	1	ATT
+1	hozzájárulásnál	hozzájárulás	N	_	_
+
+VPC.full
+0	feltételnek	feltétel	N	_	_
+
+VPC.full
+0	megfelel	megfelel	V	_	_
+
+VPC.semi
+0	hozzájárulását	hozzájárulás	N	_	_
+
+VPC.full
+0	egybevetésének	egybevetés	N	_	_
+
+LVC.cause
+0	jogaikat	jog	N	1	OBJ
+1	gyakorolhatják	gyakorolhat	V	_	_
+
+VPC.semi
+0	benyújtásáiga	benyújtásáiga	X	_	_
+
+LVC.cause
+0	rendelkezésére	rendelkezés	N	1	OBL
+1	bocsátották	bocsát	V	_	_
+
+VID
+0	kerülhet	kerülhet	V	_	_
+1	sor	sor	N	0	SUBJ
+
+VPC.full
+0	kitűnjön	kitűnik	V	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	döntés	döntés	N	_	_
+
+VPC.full
+0	kiállított	kiállított	A	_	_
+
+VPC.full
+0	elutasítását	elutasítás	N	_	_
+
+VPC.semi
+0	hozzájárulást	hozzájárulás	N	_	_
+
+LVC.full
+0	hozzájárulást	hozzájárulás	N	1	OBJ
+1	teljesítenek	teljesít	V	_	_
+
+VPC.full
+0	kijátszását	kijátszás	N	_	_
+
+VPC.full
+0	meghaladó	meghaladó	A	_	_
+
+VPC.full
+0	jártak	jár	V	_	_
+1	el	el	R	0	PREVERB
+
+LVC.cause
+0	okozott	okozott	A	1	ATT
+1	kárért	kár	N	_	_
+
+VPC.full
+0	megállapodás	megállapodás	N	_	_
+
+LVC.full
+0	árverést	árverés	N	1	OBJ
+1	tartani	tart	V	_	_
+
+VPC.full
+0	elszámolás	elszámolás	N	_	_
+
+VPC.semi
+0	hozzájárulással	hozzájárulás	N	_	_
+
+LVC.full
+0	késedelembe	késedelem	N	1	OBL
+1	eső	eső	A	_	_
+
+VPC.full
+0	jön	jön	V	_	_
+1	létre	létre	R	0	PREVERB
+
+VPC.full
+0	közreműködés	közreműködés	N	_	_
+
+VPC.full
+0	feltételeit	feltétel	N	_	_
+
+VPC.full
+0	átruházása	átruházás	N	_	_
+
+VPC.semi
+0	kivéve	kivéve	R	_	_
+
+VPC.full
+0	feltételekkel	feltétel	N	_	_
+
+VPC.full
+0	közreműködésben	közreműködés	N	_	_
+
+VPC.semi
+0	hozzájáruláson	hozzájárulás	N	_	_
+
+LVC.full
+0	szerződésről	szerződés	N	_	_
+1	kötnek	köt	V	_	_
+
+VPC.full
+0	elállás	elállás	N	_	_
+
+VPC.full
+0	feltételeinek	feltétel	N	_	_
+
+VPC.full
+0	megállapodására	megállapodás	N	_	_
+
+VPC.full
+0	írjon	ír	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.full
+0	feltételei	feltétel	N	_	_
+
+LVC.full
+0	kerülne	kerül	V	_	_
+1	veszélybe	veszély	N	0	OBL
+
+VPC.full
+0	eljárásra	eljárás	N	_	_
+
+VPC.full
+0	ruházhat	ruházhat	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	szerződés	szerződés	N	1	ATT
+1	megkötését	megkötés	N	_	_
+
+VPC.full
+0	meghaladhatja	meghaladhat	V	_	_
+
+VPC.full
+0	átruházni	átruház	V	_	_
+
+VPC.semi
+0	beolvad	beolvad	V	_	_
+
+LVC.cause
+0	gyakorolja	gyakorol	V	_	_
+1	jogokat	jog	N	0	OBJ
+
+VPC.full
+0	átruházási	átruházási	A	_	_
+
+VPC.full
+0	felmondása	felmondás	N	_	_
+
+VPC.full
+0	bekezdésére	bekezdés	N	_	_
+
+VPC.full
+0	átruházásra	átruházás	N	_	_
+
+VPC.full
+0	átruházását	átruházás	N	_	_
+
+VPC.full
+0	kizárni	kizár	V	_	_
+
+VPC.full
+0	feltételekhez	feltétel	N	_	_
+
+VPC.full
+0	átruházásnál	átruházás	N	_	_
+
+VPC.full
+0	átruházásnak	átruházás	N	_	_
+
+LVC.full
+0	áll	áll	V	_	_
+1	rendelkezésre	rendelkezés	N	0	OBL
+
+LVC.full
+0	nyilatkozattételre	nyilatkozattétel	N	_	_
+
+VPC.full
+0	felhívástól	felhívás	N	_	_
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlására	gyakorlás	N	_	_
+
+VPC.full
+0	végrehajtási	végrehajtási	A	_	_
+
+VPC.full
+0	végrehajtásról	végrehajtás	N	_	_
+
+VPC.full
+0	lemondani	lemond	V	_	_
+
+LVC.full
+0	szerződéskötéstől	szerződéskötés	N	_	_
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződés	szerződés	N	_	_
+
+VPC.full
+0	lemondás	lemondás	N	_	_
+
+VPC.full
+0	visszaélések	visszaélés	N	_	_
+
+LVC.full
+0	szerzett	szerez	V	_	_
+1	tudomást	tudomás	N	0	OBJ
+
+LVC.full
+0	beleegyezés	beleegyezés	N	1	ATT
+1	megadásának	megadás	N	_	_
+
+VPC.full
+0	feltételeket	feltétel	N	_	_
+
+LVC.full
+0	számot	szám	N	1	OBJ
+1	vetniük	vet	V	_	_
+
+VPC.full
+0	szállnak	száll	V	_	_
+1	át	át	R	0	PREVERB
+
+VPC.full
+0	átruházónak	átruházó	N	_	_
+
+LVC.full
+0	bejelentést	bejelentés	N	1	OBJ
+1	megtenni	megtesz	V	_	_
+
+VPC.full
+0	kiemeli	kiemel	V	_	_
+
+VPC.full
+0	átruházást	átruházás	N	_	_
+
+VPC.full
+0	bekezdésén	bekezdés	N	_	_
+
+VPC.full
+0	aláírása	aláírás	N	_	_
+
+VPC.full
+0	átszáll	átszáll	V	_	_
+
+VPC.full
+0	átszállást	átszállás	N	_	_
+
+VPC.full
+0	kizárhatja	kizárhat	V	_	_
+
+VPC.full
+0	száll	száll	V	_	_
+1	át	át	R	0	PREVERB
+
+VPC.full
+0	eljárással	eljárás	N	_	_
+
+VPC.full
+0	eljárni	eljár	V	_	_
+
+VPC.full
+0	el	el	R	1	PREVERB
+1	vethetik	vethet	V	_	_
+
+VPC.full
+0	elvetésével	elvetés	N	_	_
+
+VPC.full
+0	fennállása	fennállás	N	_	_
+
+LVC.full
+0	tarthat	tarthat	V	_	_
+1	igényt	igény	N	0	OBJ
+
+LVC.full
+0	teljesített	teljesített	A	1	ATT
+1	hozzájárulást	hozzájárulás	N	_	_
+
+VPC.full
+0	beszámoló	beszámoló	N	_	_
+
+VPC.full
+0	törzstőke-leszállítás	törzstőke-leszállítás	N	_	_
+
+VPC.full
+0	felhasználhatja	felhasználhat	V	_	_
+
+LVC.full
+0	teljesíthet	teljesíthet	V	_	_
+1	kifizetést	kifizetés	N	0	OBJ
+
+VPC.full
+0	ellátni	ellát	V	_	_
+
+VPC.full
+0	felmerülhet	felmerülhet	V	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	határozatával	határozat	N	_	_
+
+LVC.cause
+0	jogot	jog	N	1	OBJ
+1	gyakorolhat	gyakorolhat	V	_	_
+
+VPC.full
+0	előfeltétel	előfeltétel	N	_	_
+
+LVC.full
+0	rendelkezésre	rendelkezés	N	1	OBL
+1	áll	áll	V	_	_
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlását	gyakorlás	N	_	_
+
+VPC.full
+0	zárja	zár	V	_	_
+1	ki	ki	R	0	PREVERB
+
+VPC.full
+0	kizárása	kizárás	N	_	_
+
+VPC.full
+0	bekezdésben	bekezdés	N	_	_
+
+VPC.full
+0	tőkeleszállítás	tőkeleszállítás	N	_	_
+
+VPC.full
+0	haladhatják	haladhat	V	_	_
+1	meg	meg	R	0	PREVERB
+
+VPC.full
+0	átruházására	átruházás	N	_	_
+
+VPC.full
+0	átszállására	átszállás	N	_	_
+
+LVC.cause
+0	lehetőséget	lehetőség	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	felruházott	felruházott	A	_	_
+
+VPC.full
+0	kizárást	kizárás	N	_	_
+
+VPC.full
+0	kizárt	kizárt	A	_	_
+
+VPC.full
+0	közzétenni	közzétesz	V	_	_
+
+LVC.full
+0	árverésre	árverés	N	1	OBL
+1	kerülő	kerülő	A	_	_
+
+LVC.full
+0	árverésre	árverés	N	1	OBL
+1	kerül	kerül	V	_	_
+
+LVC.full
+0	részt	rész	N	1	OBJ
+1	vehet	vehet	V	_	_
+
+VPC.semi
+0	kivételével	kivétel	N	_	_
+
+VID
+0	kerüljön	kerül	V	_	_
+1	sor	sor	N	0	SUBJ
+
+LVC.full
+0	vehet	vehet	V	_	_
+1	részt	rész	N	0	OBJ
+
+LVC.cause
+0	jog	jog	N	_	_
+1	gyakorolhatnak	gyakorolhat	V	_	_
+
+VPC.full
+0	felhívására	felhívás	N	_	_
+
+VPC.full
+0	kizárta	kizár	V	_	_
+
+LVC.full
+0	Figyelembe	figyelem	N	1	OBL
+1	venni	vesz	V	_	_
+
+VPC.full
+0	felhasználására	felhasználás	N	_	_
+
+VPC.semi
+0	kivételes	kivételes	A	_	_
+
+VPC.semi
+0	eltekintve	eltekintve	R	_	_
+
+LVC.full
+0	döntéshozatalra	döntéshozatal	N	_	_
+
+VPC.full
+0	írja	ír	V	_	_
+1	elő	elő	R	0	PREVERB
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlása	gyakorlás	N	_	_
+
+LVC.full
+0	szerződés	szerződés	N	1	ATT
+1	megkötésének	megkötés	N	_	_
+
+VPC.full
+0	előírhat	előírhat	V	_	_
+
+VPC.full
+0	feltételként	feltétel	N	_	_
+
+VPC.full
+0	bevált	beválik	V	_	_
+
+VID
+0	kerül	kerül	V	_	_
+1	sor	sor	N	0	SUBJ
+
+VPC.full
+0	nyilvántartásából	nyilvántartás	N	_	_
+
+VPC.full
+0	kitűnik	kitűnik	V	_	_
+
+LVC.full
+0	intézkedések	intézkedés	N	1	ATT
+1	megtétele	megtétel	N	_	_
+
+VPC.full
+0	emel	emel	V	_	_
+1	ki	ki	R	0	PREVERB
+
+LVC.full
+0	határozatot	határozat	N	1	OBJ
+1	hozhat	hozhat	V	_	_
+
+VPC.full
+0	feltéve	feltéve	R	_	_
+
+VPC.full
+0	bekezdésének	bekezdés	N	_	_
+
+VPC.full
+0	felhasználásáról	felhasználás	N	_	_
+
+LVC.full
+0	hozandó	hozandó	A	1	ATT
+1	határozatokat	határozat	N	_	_
+
+LVC.full
+0	határozatot	határozat	N	_	_
+1	meghozottnak	meghozott	A	_	_
+
+LVC.full
+0	hozzák	hoz	V	_	_
+1	határozataikat	határozat	N	0	OBJ
+
+LVC.full
+0	rendelkezésre	rendelkezés	N	1	OBL
+1	álló	álló	A	_	_
+
+VPC.full
+0	lejártát	lejárta	N	_	_
+
+VPC.full
+0	írja	ír	V	_	_
+1	alá	alá	S	0	PREVERB
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	határozatokról	határozat	N	_	_
+
+VPC.full
+0	nyilvántartást	nyilvántartás	N	_	_
+
+LVC.full
+0	nyilvántartást	nyilvántartás	N	1	OBJ
+1	vezet	vezet	V	_	_
+
+LVC.full
+0	határozatokat	határozat	N	_	_
+1	meghozatala	meghozatal	N	_	_
+
+VPC.semi
+0	be	be	R	1	PREVERB
+1	vezetnie	vezet	V	_	_
+
+VPC.full
+0	aláírásával	aláírás	N	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	döntéseket	döntés	N	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	határozatokkal	határozat	N	_	_
+
+VPC.full
+0	nyilvántartás	nyilvántartás	N	_	_
+
+VPC.full
+0	látja	lát	V	_	_
+1	el	el	R	0	PREVERB
+
+VPC.full
+0	átruházásának	átruházás	N	_	_
+
+VPC.full
+0	kizárására	kizárás	N	_	_
+
+VPC.full
+0	átszállását	átszállás	N	_	_
+
+VPC.full
+0	üzletrész-átruházás	üzletrész-átruházás	N	_	_
+
+VPC.full
+0	félrevezető	félrevezető	A	_	_
+
+VPC.full
+0	meghaladóan	meghaladó	A	_	_
+
+VPC.full
+0	feltüntetni	feltüntet	V	_	_
+
+VPC.semi
+0	benyújtani	benyújt	V	_	_
+
+VPC.full
+0	bekezdésébe	bekezdés	N	_	_
+
+VPC.full
+0	lejárta	lejárta	N	_	_
+
+VPC.full
+0	felmondásra	felmondás	N	_	_
+
+VPC.full
+0	előírásoknak	előírás	N	_	_
+
+VPC.full
+0	felel	felel	V	_	_
+1	meg	meg	R	0	PREVERB
+
+VPC.full
+0	eljárási	eljárási	A	_	_
+
+VPC.full
+0	emeli	emel	V	_	_
+1	ki	ki	R	0	PREVERB
+
+VPC.full
+0	előírhatnak	előírhat	V	_	_
+
+LVC.full
+0	tehessen	tehet	V	_	_
+1	szert	szer	N	0	OBJ
+
+VID
+0	sor	sor	N	1	SUBJ
+1	kerülhet	kerülhet	V	_	_
+
+LVC.full
+0	szolgáltatások	szolgáltatás	N	1	ATT
+1	nyújtása	nyújtás	N	_	_
+
+LVC.cause
+0	jogukat	jog	N	1	OBJ
+1	gyakorolhatják	gyakorolhat	V	_	_
+
+VPC.full
+0	Fel	fel	R	1	PREVERB
+1	hívni	hív	V	_	_
+
+LVC.full
+0	rendelkezésükre	rendelkezés	N	1	OBL
+1	álló	álló	A	_	_
+
+LVC.full
+0	állnak	áll	V	_	_
+1	rendelkezésre	rendelkezés	N	0	OBL
+
+LVC.full
+0	nyilatkozattevő	nyilatkozattevő	N	_	_
+
+VPC.full
+0	írta	ír	V	_	_
+1	alá	alá	R	0	PREVERB
+
+VPC.full
+0	ki	ki	R	1	PREVERB
+1	térnie	tér	V	_	_
+
+VPC.full
+0	feltételeire	feltétel	N	_	_
+
+VPC.full
+0	feltételezve	feltételezve	R	_	_
+
+VPC.semi
+0	kívülálló(k)	kívülálló(k)	O	_	_
+
+VPC.full
+0	áll	áll	V	_	_
+1	fenn	fenn	R	0	PREVERB
+
+VPC.full
+0	létrejövő	létrejövő	A	_	_
+
+VPC.full
+0	előfeltételt	előfeltétel	N	_	_
+
+VPC.semi
+0	leszállítás	leszállítás	N	_	_
+
+VPC.semi
+0	leszállítását	leszállítás	N	_	_
+
+VPC.full
+0	törzstőke-leszállításának	törzstőke-leszállítás	N	_	_
+
+VPC.semi
+0	leszállításnak	leszállítás	N	_	_
+
+VPC.full
+0	törzstőke-leszállítása	törzstőke-leszállítás	N	_	_
+
+VPC.full
+0	bekezdését	bekezdés	N	_	_
+
+VPC.semi
+0	leszállítása	leszállítás	N	_	_
+
+LVC.full
+0	bejelentés	bejelentés	N	1	ATT
+1	megtételére	megtétel	N	_	_
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	hívni	hív	V	_	_
+
+VPC.semi
+0	leszállításához	leszállítás	N	_	_
+
+VPC.full
+0	járultak	járul	V	_	_
+1	hozzá	hozzá	R	0	PREVERB
+
+VPC.full
+0	le	le	R	1	PREVERB
+1	járt	járt	A	_	_
+
+LVC.full
+0	biztosítékot	biztosíték	N	1	OBJ
+1	nyújtani	nyújt	V	_	_
+
+VPC.full
+0	hozzá	hozzá	R	1	PREVERB
+1	járuló	járuló	A	_	_
+
+VPC.full
+0	kielégítése	kielégítés	N	_	_
+
+VPC.full
+0	végrehajthatja	végrehajthat	V	_	_
+
+VPC.full
+0	törzstőke-leszállítást	törzstőke-leszállítás	N	_	_
+
+VPC.full
+0	lejárttá	lejárt	A	_	_
+
+VPC.full
+0	lejárt	lejárt	A	_	_
+
+VPC.full
+0	végrehajtását	végrehajtás	N	_	_
+
+VPC.full
+0	esnek	esik	V	_	_
+1	el	el	R	0	PREVERB
+
+VPC.semi
+0	benyújtásával	benyújtás	N	_	_
+
+VPC.full
+0	végelszámolónak	végelszámoló	N	_	_
+
+VPC.full
+0	felszámolással	felszámolás	N	_	_
+
+VPC.full
+0	végelszámolással	végelszámolás	N	_	_
+
+LVC.full
+0	eljárás	eljárás	N	1	ATT
+1	lefolytatását	lefolytatás	N	_	_
+
+VPC.semi
+0	benyújtandó	benyújtandó	A	_	_
+
+VPC.full
+0	létrejöhet	létrejöhet	V	_	_
+
+LVC.cause
+0	rendelkezésére	rendelkezés	N	1	OBL
+1	bocsátani	bocsát	V	_	_
+
+LVC.full
+0	irányítást	irányítás	N	1	OBJ
+1	gyakorol	gyakorol	V	_	_
+
+VPC.full
+0	befolyás	befolyás	N	_	_
+
+VPC.semi
+0	Kivételt	kivétel	N	_	_
+
+LVC.full
+0	Kivételt	kivétel	N	1	OBJ
+1	képeznek	képez	V	_	_
+
+VPC.full
+0	előírás	előírás	N	_	_
+
+VPC.full
+0	fennállónak	fennálló	A	_	_
+
+VPC.full
+0	előírásnak	előírás	N	_	_
+
+LVC.full
+0	segítséget	segítség	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	bekezdése	bekezdés	N	_	_
+
+VPC.full
+0	meghatározásával	meghatározás	N	_	_
+
+VPC.full
+0	bekezdéssel	bekezdés	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozhatják	hozhat	V	_	_
+
+VPC.semi
+0	összefüggéséből	összefüggés	N	_	_
+
+VPC.full
+0	feltétlenül	feltétlenül	R	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatala	hozatal	N	_	_
+
+VPC.semi
+0	összefüggésben	összefüggés	N	_	_
+
+LVC.full
+0	határozatot	határozat	N	1	OBJ
+1	hoztak	hoz	V	_	_
+
+VPC.semi
+0	kivételi	kivételi	A	_	_
+
+VPC.full
+0	visszaélt	visszaél	V	_	_
+
+VPC.full
+0	visszaélés	visszaélés	N	_	_
+
+VPC.full
+0	fennáll	fennáll	V	_	_
+
+LVC.full
+0	fedezetelvonást	fedezetelvonás	N	1	OBJ
+1	követnek	követ	V	_	_
+
+VPC.full
+0	elutasítása	elutasítás	N	_	_
+
+VPC.full
+0	befolyáshoz	befolyás	N	_	_
+
+LVC.full
+0	felelősséget	felelősség	N	1	OBJ
+1	vállalhat	vállalhat	V	_	_
+
+LVC.full
+0	nyújtott	nyújtott	A	1	ATT
+1	hozzájárulást	hozzájárulás	N	_	_
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	venni	vesz	V	_	_
+
+VPC.full
+0	meg	meg	R	1	PREVERB
+1	felelnie	felel	V	_	_
+
+VPC.full
+0	előírására	előírás	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozataláról	hozatal	N	_	_
+
+VPC.full
+0	felszámolás	felszámolás	N	_	_
+
+VPC.full
+0	végelszámolás	végelszámolás	N	_	_
+
+VPC.full
+0	eljárásról	eljárás	N	_	_
+
+VPC.full
+0	végelszámolásról	végelszámolás	N	_	_
+
+VPC.full
+0	bekezdéséhez	bekezdés	N	_	_
+
+VPC.full
+0	eljárások	eljárás	N	_	_
+
+VPC.semi
+0	leszállításnál	leszállítás	N	_	_
+
+VPC.full
+0	haladhatja	haladhat	V	_	_
+1	meg	meg	R	0	PREVERB
+
+VPC.full
+0	haladja	halad	V	_	_
+1	meg	meg	R	0	PREVERB
+
+VPC.semi
+0	összefüggő	összefüggő	A	_	_
+
+VPC.full
+0	írt	ír	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.full
+0	összetételére	összetétel	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalára	hozatal	N	_	_
+
+LVC.full
+0	kerülnek	kerül	V	_	_
+1	hozatalra	hozatal	N	0	OBL
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalra	hozatal	N	_	_
+
+LVC.full
+0	kerülhetnek	kerülhet	V	_	_
+1	forgalomba	forgalom	N	2	OBL
+2	hozatalra	hozatal	N	0	OBL
+
+LVC.full
+0	kerülnek	kerül	V	_	_
+1	forgalomba	forgalom	N	0	OBL
+
+VPC.full
+0	meghatározásánál	meghatározás	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatali	hozatali	A	_	_
+
+VPC.semi
+0	összefügg	összefügg	V	_	_
+
+VPC.full
+0	előírásainak	előírás	N	_	_
+
+VPC.full
+0	bekezdésével	bekezdés	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatal	hozatal	N	_	_
+
+VPC.full
+0	előírásként	előírás	N	_	_
+
+LVC.full
+0	szándéknyilatkozatot	szándéknyilatkozat	N	1	OBJ
+1	tenniük	tesz	V	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	ATT
+1	hozatalnak	hozatal	N	_	_
+
+VPC.full
+0	előírásával	előírás	N	_	_
+
+LVC.full
+0	hatálybalépésével	hatálybalépés	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	ATT
+1	hozatala	hozatal	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalnak	hozatal	N	_	_
+
+LVC.full
+0	kerülhet	kerülhet	V	_	_
+1	forgalomba	forgalom	N	2	OBL
+2	hozatalra	hozatal	N	0	OBL
+
+LVC.full
+0	kerülhetnek	kerülhet	V	_	_
+1	forgalomba	forgalom	N	0	OBL
+
+VPC.full
+0	felhívást	felhívás	N	_	_
+
+LVC.cause
+0	hozhat	hozhat	V	_	_
+1	forgalomba	forgalom	N	0	OBL
+
+LVC.cause
+0	forgalomba	forgalom	N	_	_
+1	hozatalára	hozatal	N	_	_
+
+LVC.cause
+0	gyakorolható	gyakorolható	A	1	ATT
+1	jog	jog	N	_	_
+
+LVC.cause
+0	gyakorolhatja	gyakorolhat	V	_	_
+1	jogát	jog	N	0	OBJ
+
+VPC.full
+0	bevezetik	bevezet	V	_	_
+
+VPC.full
+0	eljárásnál	eljárás	N	_	_
+
+VPC.full
+0	bekezdésből	bekezdés	N	_	_
+
+VPC.full
+0	ellátására	ellátás	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalával	hozatal	N	_	_
+
+VPC.semi
+0	előállított	előállított	A	_	_
+
+LVC.full
+0	figyelembevételével	figyelembevétel	N	_	_
+
+VPC.full
+0	megfelelnek	megfelel	V	_	_
+
+VPC.full
+0	előírhatja	előírhat	V	_	_
+
+VPC.semi
+0	hozzájárulásból	hozzájárulás	N	_	_
+
+VPC.full
+0	előírások	előírás	N	_	_
+
+VPC.semi
+0	előállítani	előállít	V	_	_
+
+VPC.full
+0	előírásból	előírás	N	_	_
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlására	gyakorlás	N	_	_
+
+VPC.full
+0	átruházásánál	átruházás	N	_	_
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlásának	gyakorlás	N	_	_
+
+VPC.full
+0	feltételévé	feltétel	N	_	_
+
+VPC.full
+0	átruházható	átruházható	A	_	_
+
+LVC.full
+0	hatályba	hatály	N	1	OBL
+1	lépett	lépett	A	_	_
+
+LVC.cause
+0	gyakorolhatják	gyakorolhat	V	_	_
+1	jogaikat	jog	N	0	OBJ
+
+VPC.full
+0	átruházhatósága	átruházhatóság	N	_	_
+
+VPC.full
+0	írhatnak	írhat	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.full
+0	átruházhatóság	átruházhatóság	N	_	_
+
+VPC.semi
+0	előállítási	előállítási	A	_	_
+
+LVC.full
+0	magyarázatot	magyarázat	N	1	OBJ
+1	adott	ad	V	_	_
+
+VPC.full
+0	előírása	előírás	N	_	_
+
+LVC.cause
+0	ad	ad	V	_	_
+1	lehetőséget	lehetőség	N	0	OBJ
+
+VPC.full
+0	kizárná	kizár	V	_	_
+
+VPC.full
+0	átruházó	átruházó	A	_	_
+
+VPC.full
+0	átruházza	átruház	V	_	_
+
+VPC.full
+0	átruházó	átruházó	N	_	_
+
+LVC.full
+0	határozatot	határozat	N	1	OBJ
+1	hozott	hoz	V	_	_
+
+LVC.full
+0	hatálybalépése	hatálybalépés	N	_	_
+
+VPC.full
+0	átruházások	átruházás	N	_	_
+
+VPC.full
+0	bevezetését	bevezetés	N	_	_
+
+LVC.full
+0	kötött	kötött	A	_	_
+1	számlaszerződés	számlaszerződés	N	_	_
+
+VPC.full
+0	felmerült	felmerült	A	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	ítélettel	ítélet	N	_	_
+
+VPC.full
+0	feltüntetésével	feltüntetés	N	_	_
+
+LVC.full
+0	ad	ad	V	_	_
+1	megoldást	megoldás	N	0	OBJ
+
+LVC.full
+0	kerülhetnek	kerülhet	V	_	_
+1	kibocsátásra	kibocsátás	N	0	OBL
+
+VPC.full
+0	meghatározás	meghatározás	N	_	_
+
+VPC.full
+0	sorolta	sorol	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	bevezette	bevezet	V	_	_
+
+VPC.full
+0	bevezetése	bevezetés	N	_	_
+
+LVC.full
+0	felosztásra	felosztás	N	1	OBL
+1	kerülő	kerülő	A	_	_
+
+LVC.full
+0	kerül	kerül	V	_	_
+1	megállapításra	megállapítás	N	0	OBL
+
+LVC.full
+0	szavazatelsőbbséget	szavazatelsőbbség	N	1	OBJ
+1	adó	adó	A	_	_
+
+VPC.full
+0	ír	ír	V	_	_
+1	elő	elő	R	0	PREVERB
+
+LVC.full
+0	utalás	utalás	N	1	SUBJ
+1	történt	történik	V	_	_
+
+VPC.semi
+0	összefüggően	összefüggő	A	_	_
+
+VPC.full
+0	kizárja	kizár	V	_	_
+
+VID
+0	került	kerül	V	_	_
+1	sor	sor	N	0	SUBJ
+
+LVC.full
+0	kifizetésre	kifizetés	N	1	OBL
+1	került	kerül	V	_	_
+
+LVC.full
+0	igénybevételére	igénybevétel	N	_	_
+
+LVC.full
+0	okot	ok	N	1	OBJ
+1	adó	adó	A	_	_
+
+LVC.full
+0	osztalékelsőbbséget	osztalékelsőbbség	N	1	OBJ
+1	adó	adó	A	_	_
+
+LVC.cause
+0	jogokat	jog	N	1	OBJ
+1	gyakorolhatják	gyakorolhat	V	_	_
+
+VPC.full
+0	előírásai	előírás	N	_	_
+
+VPC.full
+0	előírásából	előírás	N	_	_
+
+LVC.full
+0	gyakorolható	gyakorolható	A	1	ATT
+1	vétójog	vétójog	N	_	_
+
+LVC.full
+0	vétójogát	vétójog	N	1	OBJ
+1	gyakorolhatja	gyakorolhat	V	_	_
+
+VPC.full
+0	bekezdéseként	bekezdés	N	_	_
+
+VPC.full
+0	támasztja	támaszt	V	_	_
+1	alá	alá	R	0	PREVERB
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozni	hoz	V	_	_
+
+LVC.full
+0	hozataláról	hozatal	N	_	_
+1	határozathoz	határozat	N	_	_
+
+LVC.full
+0	szabályozást	szabályozás	N	1	OBJ
+1	adott	ad	V	_	_
+
+LVC.cause
+0	gyakorolni	gyakorol	V	_	_
+1	jogokat	jog	N	0	OBJ
+
+LVC.full
+0	osztalékelsőbbséget	osztalékelsőbbség	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	bekezdéseiben	bekezdés	N	_	_
+
+VPC.full
+0	belátásuktól	belátás	N	_	_
+
+VPC.semi
+0	leszállításával	leszállítás	N	_	_
+
+VPC.full
+0	feltüntetett	feltüntetett	A	_	_
+
+VPC.full
+0	fennállnak	fennáll	V	_	_
+
+VPC.full
+0	bekezdésekben	bekezdés	N	_	_
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlásának	gyakorlás	N	_	_
+
+VPC.full
+0	felfüggesztése	felfüggesztés	N	_	_
+
+VPC.full
+0	jár	jár	V	_	_
+1	el	el	R	0	PREVERB
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozott	hozott	A	_	_
+
+VPC.full
+0	meghatározását	meghatározás	N	_	_
+
+LVC.full
+0	nyújthat	nyújthat	V	_	_
+1	kölcsönt	kölcsön	N	0	OBJ
+
+VPC.semi
+0	hozzájárulásra	hozzájárulás	N	_	_
+
+LVC.full
+0	szabályokat	szabály	N	1	OBJ
+1	hozott	hoz	V	_	_
+
+VPC.full
+0	Bevezette	bevezet	V	_	_
+
+VPC.full
+0	felfüggesztését	felfüggesztés	N	_	_
+
+VPC.full
+0	előírásait	előírás	N	_	_
+
+VPC.full
+0	bekezdéséből	bekezdés	N	_	_
+
+VPC.semi
+0	kivételt	kivétel	N	_	_
+
+LVC.full
+0	kivételt	kivétel	N	1	OBJ
+1	jelenthet	jelenthet	V	_	_
+
+LVC.cause
+0	gyakorolhat	gyakorolhat	V	_	_
+1	jogot	jog	N	0	OBJ
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	függeszteni	függeszt	V	_	_
+
+VPC.semi
+0	leszállításra	leszállítás	N	_	_
+
+VPC.full
+0	átruházáshoz	átruházás	N	_	_
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	adjon	ad	V	_	_
+
+LVC.full
+0	teljesített	teljesített	A	1	ATT
+1	hozzájárulásról	hozzájárulás	N	_	_
+
+VPC.semi
+0	hozzájárulásról	hozzájárulás	N	_	_
+
+VPC.full
+0	ki	ki	R	1	PREVERB
+1	derülni	derül	V	_	_
+
+LVC.full
+0	teljesített	teljesített	A	_	_
+1	hozzájárulás	hozzájárulás	N	_	_
+
+LVC.full
+0	teljesített	teljesített	A	1	ATT
+1	hozzájárulás	hozzájárulás	N	_	_
+
+LVC.cause
+0	jogait	jog	N	1	OBJ
+1	gyakorolja	gyakorol	V	_	_
+
+VPC.full
+0	fel	fel	R	_	_
+1	tüntetni	tüntet	V	_	_
+
+VPC.semi
+0	hozzájárulásából	hozzájárulás	N	_	_
+
+LVC.full
+0	változásokat	változás	N	1	OBJ
+1	hozott	hoz	V	_	_
+
+VPC.semi
+0	előállításra	előállítás	N	_	_
+
+LVC.cause
+0	jogait	jog	N	1	OBJ
+1	gyakorolhatja	gyakorolhat	V	_	_
+
+VPC.full
+0	bevezetésével	bevezetés	N	_	_
+
+VPC.full
+0	feltétellel	feltétel	N	_	_
+
+VPC.full
+0	ruházza	ruház	V	_	_
+1	át	át	R	0	PREVERB
+
+VPC.full
+0	merülhet	merülhet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	átruházóval	átruházó	N	_	_
+
+VPC.semi
+0	benyújtására	benyújtás	N	_	_
+
+VPC.semi
+0	előállításakor	előállítás	N	_	_
+
+VPC.semi
+0	előállítását	előállítás	N	_	_
+
+VPC.full
+0	feltételeknek	feltétel	N	_	_
+
+VPC.semi
+0	be	be	R	1	PREVERB
+1	nyújtott	nyújtott	A	_	_
+
+VPC.semi
+0	előállítás	előállítás	N	_	_
+
+VPC.semi
+0	előállítása	előállítás	N	_	_
+
+VPC.semi
+0	előállításának	előállítás	N	_	_
+
+VPC.semi
+0	előállítására	előállítás	N	_	_
+
+VPC.full
+0	állítják	állít	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.full
+0	állítsák	állít	V	_	_
+1	elő	elő	R	0	PREVERB
+
+LVC.full
+0	döntéshozatal	döntéshozatal	N	_	_
+
+VPC.semi
+0	előállítható	előállítható	A	_	_
+
+VPC.semi
+0	előállításáról	előállítás	N	_	_
+
+VPC.full
+0	aláírását	aláírás	N	_	_
+
+VPC.full
+0	írja	ír	V	_	_
+1	alá	alá	R	0	PREVERB
+
+VPC.full
+0	Fel	fel	R	1	PREVERB
+1	tüntetni	tüntet	V	_	_
+
+VPC.full
+0	eljárást	eljárás	N	_	_
+
+VPC.full
+0	ki	ki	R	1	PREVERB
+1	állítani	állít	V	_	_
+
+LVC.cause
+0	nyilvánosságra	nyilvánosság	N	1	OBL
+1	hozta	hoz	V	_	_
+
+VPC.full
+0	eljárását	eljárás	N	_	_
+
+LVC.full
+0	döntést	döntés	N	1	OBJ
+1	hozhatja	hozhat	V	_	_
+
+LVC.full
+0	eljárást	eljárás	N	1	OBJ
+1	lefolytatniuk	lefolytat	V	_	_
+
+LVC.full
+0	döntés	döntés	N	1	ATT
+1	meghozatala	meghozatal	N	_	_
+
+VPC.full
+0	közzétennie	közzétesz	V	_	_
+
+LVC.full
+0	számlaszerződést	számlaszerződés	N	1	OBJ
+1	kötöttek	köt	V	_	_
+
+LVC.full
+0	tesznek	tesz	V	_	_
+1	eleget	eleget	R	0	OBJ
+
+VPC.semi
+0	benyújtás	benyújtás	N	_	_
+
+LVC.full
+0	ellenbizonyítással	ellenbizonyítás	N	1	OBL
+1	éljen	él	V	_	_
+
+VPC.full
+0	megfeleljen	megfelel	V	_	_
+
+VPC.full
+0	kiadni	kiad	V	_	_
+
+VPC.full
+0	felszámolót	felszámoló	A	_	_
+
+VPC.full
+0	végelszámolót	végelszámoló	N	_	_
+
+VPC.full
+0	előírást	előírás	N	_	_
+
+LVC.full
+0	jóváírásra	jóváírás	N	1	OBL
+1	kerüljön	kerül	V	_	_
+
+VPC.full
+0	előírásoknál	előírás	N	_	_
+
+VPC.full
+0	előírásáról	előírás	N	_	_
+
+VPC.full
+0	kikötött	kikötött	A	_	_
+
+VPC.full
+0	feltüntetik	feltüntet	V	_	_
+
+VPC.full
+0	feltüntetését	feltüntetés	N	_	_
+
+VPC.full
+0	meghatározásból	meghatározás	N	_	_
+
+VPC.full
+0	jönnek	jön	V	_	_
+1	létre	létre	R	0	PREVERB
+
+VPC.semi
+0	vezette	vezet	V	_	_
+1	be	be	R	0	PREVERB
+
+VPC.full
+0	feltüntetési	feltüntetési	A	_	_
+
+LVC.full
+0	ad	ad	V	_	_
+1	útbaigazítást	útbaigazítás	N	0	OBJ
+
+LVC.full
+0	megrendelést	megrendelés	N	1	OBJ
+1	adhat	adhat	V	_	_
+
+VPC.full
+0	előírásaitól	előírás	N	_	_
+
+VPC.full
+0	aláírás	aláírás	N	_	_
+
+VPC.semi
+0	előállítandó	előállítandó	A	_	_
+
+VPC.semi
+0	előállításához	előállítás	N	_	_
+
+VPC.full
+0	feltételekről	feltétel	N	_	_
+
+VPC.full
+0	hoz	hoz	V	_	_
+1	létre	létre	R	0	PREVERB
+
+VPC.full
+0	vetette	vet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	szabályozást	szabályozás	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	előírva	előírva	R	_	_
+
+VPC.full
+0	megállapodhatnak	megállapodhat	V	_	_
+
+LVC.cause
+0	joggyakorlást	joggyakorlás	N	_	_
+
+VPC.full
+0	átruházásához	átruházás	N	_	_
+
+VPC.full
+0	felmerülő	felmerülő	A	_	_
+
+VPC.full
+0	végre	végre	R	1	PREVERB
+1	hajtani	hajt	V	_	_
+
+VPC.full
+0	végre	végre	R	1	PREVERB
+1	hajtania	hajt	V	_	_
+
+VPC.full
+0	nyilvántartására	nyilvántartás	N	_	_
+
+VPC.full
+0	bevezetni	bevezet	V	_	_
+
+VPC.semi
+0	Kivéve	kivéve	R	_	_
+
+VPC.semi
+0	be	be	R	1	PREVERB
+1	vezetni	vezet	V	_	_
+
+VPC.full
+0	előírtak	előírt	N	_	_
+
+VPC.full
+0	bevezetést	bevezetés	N	_	_
+
+LVC.full
+0	tehet	tehet	V	_	_
+1	indítványt	indítvány	N	0	OBJ
+
+LVC.cause
+0	gyakorolhatja	gyakorolhat	V	_	_
+1	jogait	jog	N	0	OBJ
+
+VPC.full
+0	bevezetésnek	bevezetés	N	_	_
+
+VPC.full
+0	nyilvántartásként	nyilvántartás	N	_	_
+
+VPC.full
+0	végrehajtásáról	végrehajtás	N	_	_
+
+LVC.full
+0	közzétételt	közzététel	N	1	OBJ
+1	tenni	tesz	V	_	_
+
+LVC.full
+0	megbízást	megbízás	N	1	OBJ
+1	adó	adó	A	_	_
+
+VPC.full
+0	bevezetésük	bevezetés	N	_	_
+
+LVC.full
+0	adhat	adhat	V	_	_
+1	megbízást	megbízás	N	0	OBJ
+
+LVC.cause
+0	információt	információ	N	1	OBJ
+1	adni	ad	V	_	_
+
+VPC.full
+0	bevezetéséről	bevezetés	N	_	_
+
+VPC.full
+0	megállapodást	megállapodás	N	_	_
+
+LVC.full
+0	megállapodást	megállapodás	N	1	OBJ
+1	kössenek	köt	V	_	_
+
+LVC.cause
+0	gyakorolják	gyakorol	V	_	_
+1	jogokat	jog	N	0	OBJ
+
+LVC.cause
+0	joggyakorlás	joggyakorlás	N	_	_
+
+VPC.full
+0	bevezetés	bevezetés	N	_	_
+
+VPC.full
+0	átruházásokra	átruházás	N	_	_
+
+LVC.full
+0	gyakorolható	gyakorolható	A	1	ATT
+1	jogosítványnak	jogosítvány	N	_	_
+
+LVC.full
+0	letétbe	letét	N	1	OBL
+1	helyezett	helyezett	A	_	_
+
+LVC.cause
+0	joggyakorláshoz	joggyakorlás	N	_	_
+
+VPC.full
+0	bevezetésnél	bevezetés	N	_	_
+
+LVC.full
+0	vehet	vehet	V	_	_
+1	igénybe	igény	N	0	OBL
+
+VPC.full
+0	közreműködőt	közreműködő	N	_	_
+
+LVC.full
+0	tevékenységének	tevékenység	N	1	ATT
+1	végzése	végzés	N	_	_
+
+VPC.full
+0	Eljárása	eljárás	N	_	_
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	tüntetnie	tüntet	V	_	_
+
+LVC.cause
+0	joggyakorlásra	joggyakorlás	N	_	_
+
+VPC.full
+0	bevezetője	bevezető	N	_	_
+
+VPC.semi
+0	vezetik	vezet	V	_	_
+1	be	be	R	0	PREVERB
+
+VPC.full
+0	merültek	merül	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.cause
+0	lehetőségként	lehetőség	N	1	OBL
+1	adnak	ad	V	_	_
+
+LVC.full
+0	adnak	ad	V	_	_
+1	módot	mód	N	0	OBJ
+
+VPC.full
+0	előírnak	előír	V	_	_
+
+VPC.full
+0	betekintési	betekintési	A	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozhat	hozhat	V	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalát	hozatal	N	_	_
+
+VPC.semi
+0	be	be	R	1	PREVERB
+1	tartani	tart	V	_	_
+
+LVC.full
+0	igénybe	igény	N	1	OBL
+1	venni	vesz	V	_	_
+
+VPC.full
+0	felügyelet	felügyelet	N	_	_
+
+LVC.full
+0	foglalt	foglal	V	_	_
+1	állást	állás	N	0	OBJ
+
+VPC.full
+0	feltételes	feltételes	A	_	_
+
+VPC.full
+0	kikötésére	kikötés	N	_	_
+
+LVC.full
+0	figyelembe	figyelem	N	1	OBL
+1	véve	véve	R	_	_
+
+VPC.full
+0	kitűnnek	kitűnik	V	_	_
+
+VPC.full
+0	feltüntetése	feltüntetés	N	_	_
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	köt	köt	V	_	_
+
+LVC.full
+0	tesz	tesz	V	_	_
+1	eleget	eleget	R	0	OBJ
+
+VPC.full
+0	írhatja	írhat	V	_	_
+1	elő	elő	R	0	PREVERB
+
+LVC.full
+0	beleegyezés	beleegyezés	N	_	_
+1	megadása	megadás	N	_	_
+
+LVC.full
+0	szerződés	szerződés	N	_	_
+1	megkötésének	megkötés	N	_	_
+
+VPC.full
+0	létrejön	létrejön	V	_	_
+
+LVC.full
+0	beleegyezését	beleegyezés	N	1	OBJ
+1	megadja	megad	V	_	_
+
+LVC.full
+0	szabtak	szab	V	_	_
+1	határidőt	határidő	N	0	OBJ
+
+LVC.full
+0	szerződéskötés	szerződéskötés	N	_	_
+
+VPC.full
+0	fennállott	fennállott	A	_	_
+
+VPC.full
+0	összetételének	összetétel	N	_	_
+
+VPC.full
+0	teheti	tehet	V	_	_
+1	ki	ki	R	0	PREVERB
+
+LVC.full
+0	vállalnak	vállal	V	_	_
+1	kötelezettséget	kötelezettség	N	0	OBJ
+
+VPC.full
+0	egybeesik	egybeesik	V	_	_
+
+VPC.full
+0	ellátott	ellátott	A	_	_
+
+VPC.full
+0	alá	alá	R	1	PREVERB
+1	írnia	ír	V	_	_
+
+VPC.full
+0	tünteti	tüntet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	vállal	vállal	V	_	_
+1	kötelezettséget	kötelezettség	N	0	OBJ
+
+LVC.full
+0	kerülnek	kerül	V	_	_
+1	kibocsátásra	kibocsátás	N	0	OBL
+
+LVC.full
+0	eligazítást	eligazítás	N	1	OBJ
+1	adjon	ad	V	_	_
+
+VPC.full
+0	előírjon	előír	V	_	_
+
+LVC.full
+0	kiadásra	kiadás	N	1	OBL
+1	kerülő	kerülő	A	_	_
+
+VPC.semi
+0	kizárják	kizár	V	_	_
+
+LVC.cause
+0	hozzák	hoz	V	_	_
+1	forgalomba	forgalom	N	0	OBL
+
+VPC.semi
+0	benyújtását	benyújtás	N	_	_
+
+VPC.full
+0	végrehajtott	végrehajtott	A	_	_
+
+LVC.full
+0	kerülnek	kerül	V	_	_
+1	forgalomba	forgalom	N	2	OBL
+2	hozatalra	hozatal	N	0	OBL
+
+VPC.full
+0	tér	tér	V	_	_
+1	ki	ki	R	0	PREVERB
+
+LVC.full
+0	eleget	elég	N	1	OBJ
+1	tettek	tesz	V	_	_
+
+VPC.full
+0	feltétel	feltétel	N	_	_
+
+LVC.full
+0	igénybe	igény	N	1	OBL
+1	vennie	vesz	V	_	_
+
+VPC.full
+0	Felügyelettel	felügyelet	N	_	_
+
+VPC.full
+0	meghaladja	meghalad	V	_	_
+
+VPC.semi
+0	alátámasztott	alátámasztott	A	_	_
+
+LVC.full
+0	értékelést	értékelés	N	1	OBJ
+1	adjon	ad	V	_	_
+
+VPC.semi
+0	rámutatott	rámutat	V	_	_
+
+LVC.full
+0	tartani	tart	V	_	_
+1	közgyűlést	közgyűlés	N	0	OBJ
+
+LVC.full
+0	választ	válasz	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	ki	ki	R	1	PREVERB
+1	derülnie	derül	V	_	_
+
+LVC.full
+0	ad	ad	V	_	_
+1	útmutatatást	útmutatatást	X	0	OBJ
+
+LVC.full
+0	kötelezettséget	kötelezettség	N	1	OBJ
+1	vállaljanak	vállal	V	_	_
+
+VPC.full
+0	elállhat	elállhat	V	_	_
+
+VPC.full
+0	befolyásolja	befolyásol	V	_	_
+
+VPC.full
+0	közreműködő	közreműködő	A	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalban	hozatal	N	_	_
+
+VPC.full
+0	előírtaktól	előírt	A	_	_
+
+LVC.full
+0	határozatokat	határozat	N	1	OBJ
+1	hozza	hoz	V	_	_
+
+LVC.full
+0	Határozathozatal	határozathozatal	N	_	_
+
+VPC.full
+0	feltételezi	feltételez	V	_	_
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlásától	gyakorlás	N	_	_
+
+VPC.semi
+0	leszállításának	leszállítás	N	_	_
+
+VPC.semi
+0	benyújtásáig	benyújtás	N	_	_
+
+VPC.full
+0	meghatározásakor	meghatározás	N	_	_
+
+LVC.full
+0	tudomást	tudomás	N	1	OBJ
+1	szerezhessenek	szerezhet	V	_	_
+
+LVC.full
+0	történt	történik	V	_	_
+1	rendelkezés	rendelkezés	N	0	SUBJ
+
+VPC.full
+0	meghatározásáról	meghatározás	N	_	_
+
+VPC.full
+0	feltétele	feltétel	N	_	_
+
+LVC.cause
+0	jogukat	jog	N	1	OBJ
+1	gyakorolni	gyakorol	V	_	_
+
+VPC.full
+0	mutatott	mutat	V	_	_
+1	rá	rá	R	0	PREVERB
+
+LVC.full
+0	eleget	elég	N	1	OBJ
+1	tenni	tesz	V	_	_
+
+VPC.full
+0	feltételeivel	feltétel	N	_	_
+
+VPC.full
+0	feltételét	feltétel	N	_	_
+
+VID
+0	sor	sor	N	1	SUBJ
+1	kerül	kerül	V	_	_
+
+VPC.full
+0	megállapodhat	megállapodhat	V	_	_
+
+LVC.cause
+0	jogokat	jog	N	1	OBJ
+1	gyakorolja	gyakorol	V	_	_
+
+VPC.full
+0	eljáró	eljáró	A	_	_
+
+LVC.cause
+0	jogot	jog	N	1	OBJ
+1	gyakorolhatja	gyakorolhat	V	_	_
+
+LVC.cause
+0	jogokat	jog	N	1	OBJ
+1	gyakorolhatja	gyakorolhat	V	_	_
+
+VPC.full
+0	felfüggesztett	felfüggesztett	A	_	_
+
+LVC.full
+0	kötelezettségét	kötelezettség	N	1	OBJ
+1	vállalja	vállal	V	_	_
+
+LVC.full
+0	késedelembe	késedelem	N	1	OBL
+1	esett	esett	A	_	_
+
+VPC.semi
+0	leszállítja	leszállít	V	_	_
+
+LVC.full
+0	hozzájárulását	hozzájárulás	N	1	OBJ
+1	teljesíti	teljesít	V	_	_
+
+VPC.full
+0	eljárnia	eljár	V	_	_
+
+VPC.full
+0	felhívását	felhívás	N	_	_
+
+VPC.full
+0	felhívás	felhívás	N	_	_
+
+LVC.full
+0	tesz	tesz	V	_	_
+1	eleget	elég	N	0	OBJ
+
+LVC.full
+0	alkalmazásra	alkalmazás	N	1	OBL
+1	kerül	kerül	V	_	_
+
+VPC.full
+0	felhívásában	felhívás	N	_	_
+
+VPC.full
+0	felhívásnak	felhívás	N	_	_
+
+VPC.semi
+0	le	le	R	1	PREVERB
+1	szállítani	szállít	V	_	_
+
+VPC.full
+0	leszűrhetőnek	leszűrhető	A	_	_
+
+LVC.full
+0	teljesített	teljesített	A	1	ATT
+1	hozzájárulásra	hozzájárulás	N	_	_
+
+VPC.full
+0	bevezető	bevezető	A	_	_
+
+LVC.full
+0	teljesített	teljesített	A	1	ATT
+1	hozzájárulások	hozzájárulás	N	_	_
+
+VPC.semi
+0	hozzájárulások	hozzájárulás	N	_	_
+
+LVC.full
+0	történik	történik	V	_	_
+1	kifizetés	kifizetés	N	0	SUBJ
+
+VPC.full
+0	létrejöttéhez	létrejötte	N	_	_
+
+VPC.semi
+0	hozzájárulására	hozzájárulás	N	_	_
+
+VPC.full
+0	vagyonátruházási	vagyonátruházási	A	_	_
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződésekre	szerződés	N	_	_
+
+LVC.full
+0	köthet	köthet	V	_	_
+1	szerződést	szerződés	N	0	OBJ
+
+VPC.full
+0	beszámolóról	beszámoló	N	_	_
+
+VPC.full
+0	feltételével	feltétel	N	_	_
+
+LVC.cause
+0	gyakorolható	gyakorolható	A	1	ATT
+1	jogokat	jog	N	_	_
+
+LVC.cause
+0	nyilvánosságra	nyilvánosság	N	1	OBL
+1	hozza	hoz	V	_	_
+
+VPC.semi
+0	kivételekkel	kivétel	N	_	_
+
+LVC.cause
+0	jogát	jog	N	1	OBJ
+1	gyakorolhatja	gyakorolhat	V	_	_
+
+LVC.full
+0	hozzájárulását	hozzájárulás	N	1	OBJ
+1	teljesítette	teljesít	V	_	_
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	merülhet	merülhet	V	_	_
+
+VPC.semi
+0	benyújtásából	benyújtás	N	_	_
+
+VPC.full
+0	ruházhatja	ruházhat	V	_	_
+1	át	át	R	0	PREVERB
+
+LVC.full
+0	eljárást	eljárás	N	1	OBJ
+1	folytatni	folytat	V	_	_
+
+VPC.full
+0	le	le	R	1	PREVERB
+1	folytatni	folytat	V	_	_
+
+VPC.full
+0	felügyelettől	felügyelet	N	_	_
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	megadja	megad	V	_	_
+
+VPC.semi
+0	benyújtásra	benyújtás	N	_	_
+
+VPC.semi
+0	nyújtják	nyújt	V	_	_
+1	be	be	R	0	PREVERB
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	kötött	köt	V	_	_
+
+VPC.semi
+0	benyújtással	benyújtás	N	_	_
+
+VPC.semi
+0	nyújtotta	nyújt	V	_	_
+1	be	be	R	0	PREVERB
+
+LVC.full
+0	határozat	határozat	N	1	ATT
+1	hozatalát	hozatal	N	_	_
+
+LVC.full
+0	kapott	kapott	A	1	ATT
+1	ajánlat	ajánlat	N	_	_
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlásához	gyakorlás	N	_	_
+
+LVC.full
+0	határozathozatalra	határozathozatal	N	_	_
+
+LVC.full
+0	hozzanak	hoz	V	_	_
+1	határozatot	határozat	N	0	OBJ
+
+LVC.full
+0	határozatot	határozat	N	1	OBJ
+1	hozni	hoz	V	_	_
+
+LVC.full
+0	közgyűlést	közgyűlés	N	1	OBJ
+1	tartani	tart	V	_	_
+
+VPC.full
+0	előírásaira	előírás	N	_	_
+
+VPC.semi
+0	eltekinteni	eltekint	V	_	_
+
+LVC.full
+0	határozatokat	határozat	N	1	OBJ
+1	hozott	hoz	V	_	_
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlása	gyakorlás	N	_	_
+
+LVC.full
+0	tárgyalásra	tárgyalás	N	1	OBL
+1	kerülő	kerülő	A	_	_
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlás	gyakorlás	N	_	_
+
+VPC.semi
+0	be	be	R	1	PREVERB
+1	nyújtani	nyújt	V	_	_
+
+VPC.full
+0	felfüggesztik	felfüggeszt	V	_	_
+
+VPC.full
+0	felfüggeszteni	felfüggeszt	V	_	_
+
+LVC.full
+0	hozhat	hozhat	V	_	_
+1	határozatot	határozat	N	0	OBJ
+
+LVC.full
+0	határozathozatal	határozathozatal	N	_	_
+
+LVC.full
+0	határozathozatalt	határozathozatal	N	_	_
+
+LVC.full
+0	határozatait	határozat	N	1	OBJ
+1	hozza	hoz	V	_	_
+
+LVC.full
+0	figyelembevenni	figyelembevenni	X	_	_
+
+LVC.full
+0	hozandó	hozandó	A	1	ATT
+1	határozatoknál	határozat	N	_	_
+
+LVC.full
+0	határozat	határozat	N	1	ATT
+1	meghozatalát	meghozatal	N	_	_
+
+VPC.full
+0	feltételekre	feltétel	N	_	_
+
+LVC.full
+0	határozat	határozat	N	1	ATT
+1	meghozatalához	meghozatal	N	_	_
+
+LVC.full
+0	folytatott	folytat	V	_	_
+1	eljárást	eljárás	N	0	OBJ
+
+VPC.full
+0	aláírások	aláírás	N	_	_
+
+VPC.full
+0	eljárva	eljárva	R	_	_
+
+LVC.cause
+0	jogai	jog	N	1	ATT
+1	gyakorlásának	gyakorlás	N	_	_
+
+LVC.full
+0	kivételt	kivétel	N	1	OBJ
+1	képez	képez	V	_	_
+
+VPC.full
+0	láthatja	láthat	V	_	_
+1	el	el	R	0	PREVERB
+
+LVC.full
+0	vesznek	vesz	V	_	_
+1	részt	rész	N	0	OBJ
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	törv.	törv.	N	_	_
+
+LVC.full
+0	hozott	hozott	A	_	_
+1	határozatában	határozat	N	_	_
+
+VPC.full
+0	Eljárásukért	eljárás	N	_	_
+
+VPC.full
+0	ellátásával	ellátás	N	_	_
+
+VPC.full
+0	létre	létre	R	1	PREVERB
+1	jött	jön	V	_	_
+
+VPC.full
+0	lemondással	lemondás	N	_	_
+
+VPC.full
+0	lejártával	lejárta	N	_	_
+
+VPC.full
+0	lemondást	lemondás	N	_	_
+
+VPC.semi
+0	leszállításáról	leszállítás	N	_	_
+
+VPC.semi
+0	leszállítására	leszállítás	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	ATT
+1	hozatalával	hozatal	N	_	_
+
+VPC.full
+0	hajtják	hajt	V	_	_
+1	végre	végre	R	0	PREVERB
+
+VPC.full
+0	feltételesen	feltételes	A	_	_
+
+LVC.full
+0	megtartásra	megtartás	N	1	OBL
+1	kerülő	kerülő	A	_	_
+
+VPC.full
+0	eljáráshoz	eljárás	N	_	_
+
+LVC.full
+0	hozzájárulást	hozzájárulás	N	1	OBJ
+1	megadnia	megad	V	_	_
+
+VPC.full
+0	kizárásra	kizárás	N	_	_
+
+LVC.full
+0	adott	ad	V	_	_
+1	alkalmat	alkalom	N	0	OBJ
+
+LVC.full
+0	tett	tett	A	1	ATT
+1	szándéknyilatkozatra	szándéknyilatkozat	N	_	_
+
+VPC.semi
+0	benyújtást	benyújtás	N	_	_
+
+VPC.full
+0	felügyeletnek	felügyelet	N	_	_
+
+LVC.full
+0	folytatni	folytat	V	_	_
+1	eljárást	eljárás	N	0	OBJ
+
+LVC.full
+0	kibocsátásra	kibocsátás	N	1	OBL
+1	kerülő	kerülő	A	_	_
+
+LVC.full
+0	vállaltak	vállal	V	_	_
+1	kötelezettséget	kötelezettség	N	0	OBJ
+
+VPC.full
+0	feltételezetten	feltételezett	A	_	_
+
+VPC.full
+0	felfüggesztő	felfüggesztő	A	_	_
+
+VPC.full
+0	beszámolót	beszámoló	N	_	_
+
+VPC.full
+0	lemond	lemond	V	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	határozatában	határozat	N	_	_
+
+VPC.full
+0	végrehajtásának	végrehajtás	N	_	_
+
+VPC.full
+0	felhívással	felhívás	N	_	_
+
+VPC.full
+0	közzéteszi	közzétesz	V	_	_
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	hívnia	hív	V	_	_
+
+LVC.full
+0	szándéknyilatkozatot	szándéknyilatkozat	N	1	OBJ
+1	tenni	tesz	V	_	_
+
+VPC.full
+0	egybeesnie	egybeesik	V	_	_
+
+LVC.full
+0	kerül	kerül	V	_	_
+1	kibocsátásra	kibocsátás	N	0	OBL
+
+VPC.semi
+0	leszállítani	leszállít	V	_	_
+
+VPC.full
+0	felhívásra	felhívás	N	_	_
+
+VPC.semi
+0	hozzájáruláshoz	hozzájárulás	N	_	_
+
+VPC.full
+0	összetételében	összetétel	N	_	_
+
+VPC.semi
+0	leszállításról	leszállítás	N	_	_
+
+VPC.full
+0	többletfeltételeket	többletfeltétel	N	_	_
+
+VPC.full
+0	állít	állít	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	végrehajtására	végrehajtás	N	_	_
+
+LVC.full
+0	kerülnek	kerül	V	_	_
+1	kiadásra	kiadás	N	0	OBL
+
+VPC.full
+0	felhívásban	felhívás	N	_	_
+
+VPC.full
+0	állít	állít	V	_	_
+1	ki	ki	R	0	PREVERB
+
+LVC.full
+0	vezet	vezet	V	_	_
+1	eredményre	eredmény	N	0	OBL
+
+VPC.full
+0	közzétette	közzétesz	V	_	_
+
+LVC.full
+0	biztosítékot	biztosíték	N	1	OBJ
+1	nyújtott	nyújt	V	_	_
+
+VPC.full
+0	felügyeletet	felügyelet	N	_	_
+
+LVC.full
+0	felügyeletet	felügyelet	N	1	OBJ
+1	gyakorol	gyakorol	V	_	_
+
+VPC.full
+0	végrehajtása	végrehajtás	N	_	_
+
+LVC.full
+0	benyújtásra	benyújtás	N	1	OBL
+1	kerül	kerül	V	_	_
+
+LVC.full
+0	vezetett	vezet	V	_	_
+1	eredményre	eredmény	N	0	OBL
+
+LVC.full
+0	Kifizetéseket	kifizetés	N	1	OBJ
+1	eszközölni	eszközöl	V	_	_
+
+VPC.full
+0	végelszámoló	végelszámoló	N	_	_
+
+VPC.semi
+0	fennmaradt	fennmaradt	A	_	_
+
+LVC.full
+0	teljesített	teljesített	A	_	_
+1	hozzájárulások	hozzájárulás	N	_	_
+
+VPC.full
+0	felszámoló	felszámoló	A	_	_
+
+VPC.full
+0	felhívásával	felhívás	N	_	_
+
+VPC.full
+0	létrejött	létrejött	A	_	_
+
+LVC.full
+0	utasítást	utasítás	N	1	OBJ
+1	adhat	adhat	V	_	_
+
+VPC.full
+0	ellát	ellát	V	_	_
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	köthet	köthet	V	_	_
+
+LVC.full
+0	számításba	számítás	N	1	OBL
+1	venni	vesz	V	_	_
+
+VPC.full
+0	létrejöttével	létrejötte	N	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	végezhet	végezhet	V	_	_
+
+LVC.full
+0	megkülönböztetésre	megkülönböztetés	N	1	OBL
+1	kerüljön	kerül	V	_	_
+
+LVC.full
+0	kifejezést	kifejezés	N	1	OBL
+1	juttatva	juttatva	R	_	_
+
+VPC.full
+0	kielégítését	kielégítés	N	_	_
+
+VID
+0	helytállni	helytáll	V	_	_
+
+LVC.cause
+0	jog	jog	N	_	_
+1	gyakorlásának	gyakorlás	N	_	_
+
+LVC.cause
+0	adta	adta	A	1	ATT
+1	lehetőségekkel	lehetőség	N	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	folytatni	folytat	V	_	_
+
+VPC.full
+0	előírni	előír	V	_	_
+
+LVC.full
+0	hatálybalépését	hatálybalépés	N	_	_
+
+LVC.full
+0	folytatható	folytatható	A	1	ATT
+1	tevékenységekről	tevékenység	N	_	_
+
+LVC.full
+0	állást	állás	N	1	OBJ
+1	foglalnia	foglal	V	_	_
+
+VPC.full
+0	elszámolásról	elszámolás	N	_	_
+
+LVC.full
+0	hozzájárulást	hozzájárulás	N	1	OBJ
+1	teljesíteniük	teljesít	V	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	folytat	folytat	V	_	_
+
+LVC.cause
+0	rendelkezésre	rendelkezés	N	1	OBL
+1	bocsátani	bocsát	V	_	_
+
+LVC.cause
+0	bocsátják	bocsát	V	_	_
+1	rendelkezésre	rendelkezés	N	0	OBL
+
+VPC.full
+0	megállapodásra	megállapodás	N	_	_
+
+VPC.full
+0	megállapodásának	megállapodás	N	_	_
+
+VPC.full
+0	kikötésre	kikötés	N	_	_
+
+LVC.full
+0	nyújtott	nyújtott	A	1	ATT
+1	szolgáltatások	szolgáltatás	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	tevékenység	tevékenység	N	_	_
+
+VPC.full
+0	felhasználása	felhasználás	N	_	_
+
+LVC.full
+0	igénybevételének	igénybevétel	N	_	_
+
+LVC.cause
+0	gyakorolják	gyakorol	V	_	_
+1	jogaikat	jog	N	0	OBJ
+
+LVC.full
+0	tart	tart	V	_	_
+1	ülést	ülés	N	0	OBJ
+
+LVC.full
+0	határozathozatallal	határozathozatal	N	_	_
+
+VPC.full
+0	előír	előír	V	_	_
+
+VPC.semi
+0	hozzájárulnak	hozzájárul	V	_	_
+
+LVC.full
+0	határozathozatalnak	határozathozatal	N	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	folytatnak	folytat	V	_	_
+
+LVC.full
+0	határozatok	határozat	N	1	ATT
+1	hozatala	hozatal	N	_	_
+
+LVC.full
+0	határozathozatalhoz	határozathozatal	N	_	_
+
+VPC.semi
+0	beolvadás	beolvadás	N	_	_
+
+VPC.full
+0	írhat	írhat	V	_	_
+1	elő	elő	R	0	PREVERB
+
+LVC.full
+0	tevékenység	tevékenység	N	1	ATT
+1	végzésére	végzés	N	_	_
+
+LVC.full
+0	ülés	ülés	N	1	ATT
+1	tartása	tartás	N	_	_
+
+LVC.full
+0	hozza	hoz	V	_	_
+1	határozatait	határozat	N	0	OBJ
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlását	gyakorlás	N	_	_
+
+LVC.cause
+0	jogkört	jogkör	N	1	OBJ
+1	gyakorolja	gyakorol	V	_	_
+
+LVC.cause
+0	jogosítványokat	jogosítvány	N	1	OBJ
+1	gyakorolhatja	gyakorolhat	V	_	_
+
+VPC.full
+0	lemondása	lemondás	N	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	határozat	határozat	N	_	_
+
+LVC.full
+0	részt	rész	N	1	OBJ
+1	vesz	vesz	V	_	_
+
+VPC.full
+0	kizárással	kizárás	N	_	_
+
+VPC.full
+0	végelszámolást	végelszámolás	N	_	_
+
+LVC.full
+0	végelszámolást	végelszámolás	N	1	OBJ
+1	lefolytatni	lefolytat	V	_	_
+
+VPC.full
+0	végelszámolásra	végelszámolás	N	_	_
+
+VPC.semi
+0	benyújtania	benyújt	V	_	_
+
+VPC.semi
+0	befolyást	befolyás	N	_	_
+
+LVC.full
+0	döntést	döntés	N	1	OBJ
+1	hozó	hozó	A	_	_
+
+VPC.full
+0	nyilvántartásba	nyilvántartás	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vett	vett	A	_	_
+
+VPC.full
+0	kiemelte	kiemel	V	_	_
+
+VPC.semi
+0	befolyással	befolyás	N	_	_
+
+LVC.cause
+0	gyakorolható	gyakorolható	A	1	ATT
+1	jogon	jog	N	_	_
+
+LVC.cause
+0	jogon	jog	N	_	_
+1	gyakorolja	gyakorol	V	_	_
+
+LVC.full
+0	gyakorolja	gyakorol	V	_	_
+1	befolyását	befolyás	N	0	OBJ
+
+VPC.semi
+0	befolyását	befolyás	N	_	_
+
+VPC.full
+0	esik	esik	V	_	_
+1	egybe	egybe	R	0	PREVERB
+
+LVC.full
+0	következtetést	következtetés	N	1	OBJ
+1	levonni	levon	V	_	_
+
+VPC.full
+0	létrejötte	létrejötte	N	_	_
+
+VPC.semi
+0	befolyásnak	befolyás	N	_	_
+
+VPC.full
+0	felszámolása	felszámolás	N	_	_
+
+VPC.full
+0	kielégítésére	kielégítés	N	_	_
+
+LVC.full
+0	nyújt	nyújt	V	_	_
+1	fedezetet	fedezet	N	0	OBJ
+
+LVC.cause
+0	jogosultság	jogosultság	N	1	ATT
+1	gyakorlásával	gyakorlás	N	_	_
+
+VPC.full
+0	létrejöttét	létrejötte	N	_	_
+
+LVC.cause
+0	gyakorolhatja	gyakorolhat	V	_	_
+1	jogot	jog	N	0	OBJ
+
+VPC.full
+0	feltételeként	feltétel	N	_	_
+
+VPC.full
+0	bekezdésénél	bekezdés	N	_	_
+
+VPC.semi
+0	befolyások	befolyás	N	_	_
+
+LVC.full
+0	gyakorolni	gyakorol	V	_	_
+1	befolyást	befolyás	N	0	OBJ
+
+VPC.full
+0	felszámolásánál	felszámolás	N	_	_
+
+LVC.full
+0	tett	tesz	V	_	_
+1	eleget	elég	N	0	OBJ
+
+LVC.full
+0	befolyást	befolyás	N	1	OBJ
+1	gyakorolni	gyakorol	V	_	_
+
+VPC.semi
+0	befolyásáról	befolyás	N	_	_
+
+VPC.full
+0	előírásoktól	előírás	N	_	_
+
+LVC.full
+0	tesz	tesz	V	_	_
+1	különbséget	különbség	N	0	OBJ
+
+VPC.full
+0	bekezdésnél	bekezdés	N	_	_
+
+VPC.semi
+0	befolyása	befolyás	N	_	_
+
+LVC.full
+0	üzletpolitikát	üzletpolitika	N	1	OBJ
+1	folytat	folytat	V	_	_
+
+VPC.semi
+0	benyújtott	benyújtott	A	_	_
+
+LVC.full
+0	lép	lép	V	_	_
+1	hatályba	hatály	N	0	OBL
+
+LVC.full
+0	lépett	lép	V	_	_
+1	életbe	élet	N	0	OBL
+
+VPC.full
+0	ki	ki	R	1	PREVERB
+1	emelni	emel	V	_	_
+
+VPC.full
+0	eljárásáról	eljárás	N	_	_
+
+LVC.full
+0	hatálybalépésekor	hatálybalépés	N	_	_
+
+VPC.full
+0	megfelelniük	megfelel	V	_	_
+
+LVC.full
+0	jelenthetnek	jelenthet	V	_	_
+1	kivételt	kivétel	N	0	OBJ
+
+VPC.full
+0	bekezdéseire	bekezdés	N	_	_
+
+VPC.full
+0	előírásaihoz	előírás	N	_	_
+
+LVC.full
+0	összhangba	összhang	N	1	OBL
+1	hozva	hozva	R	_	_
+
+LVC.full
+0	életbe	élet	N	1	OBL
+1	lépő	lépő	A	_	_
+
+LVC.full
+0	életbe	élet	N	1	OBL
+1	léptette	léptet	V	_	_
+
+VPC.semi
+0	kivételek	kivétel	N	_	_
+
+VPC.full
+0	járhatnak	járhat	V	_	_
+1	el	el	R	0	PREVERB
+
+VPC.full
+0	előírásokhoz	előírás	N	_	_
+
+LVC.full
+0	hatálybalépésétől	hatálybalépés	N	_	_
+
+LVC.full
+0	útmutatást	útmutatás	N	1	OBJ
+1	adnia	ad	V	_	_
+
+VPC.full
+0	előírásokkal	előírás	N	_	_
+
+VPC.full
+0	lejártáig	lejárta	N	_	_
+
+VPC.full
+0	ellátását	ellátás	N	_	_
+
+LVC.full
+0	hatálybalépéséig	hatálybalépés	N	_	_
+
+VPC.full
+0	kizárhatta	kizárhat	V	_	_
+
+VPC.semi
+0	benyújtásának	benyújtás	N	_	_
+
+VPC.full
+0	fejezhetik	fejezhet	V	_	_
+1	be	be	R	0	PREVERB
+
+VPC.full
+0	fejezheti	fejezhet	V	_	_
+1	be	be	R	0	PREVERB
+
+LVC.full
+0	ad	ad	V	_	_
+1	haladékot	haladék	N	0	OBJ
+
+LVC.full
+0	összhangba	összhang	N	1	OBL
+1	hozniuk	hoz	V	_	_
+
+LVC.full
+0	igénybevétel	igénybevétel	N	_	_
+
+LVC.full
+0	felmentést	felmentés	N	1	OBJ
+1	adott	ad	V	_	_
+
+VPC.full
+0	alá	alá	S	1	MODE
+1	estek	esik	V	_	_
+
+LVC.full
+0	iránymutatást	iránymutatás	N	1	OBJ
+1	adott	ad	V	_	_
+
+LVC.full
+0	történik	történik	V	_	_
+1	utalás	utalás	N	0	SUBJ
+
+LVC.full
+0	alkalmazásra	alkalmazás	N	1	OBL
+1	kerülnek	kerül	V	_	_
+
+LVC.full
+0	kerülnek	kerül	V	_	_
+1	alkalmazásra	alkalmazás	N	0	OBL
+
+LVC.full
+0	kerül	kerül	V	_	_
+1	meghatározásra	meghatározás	N	0	OBL
+
+VPC.full
+0	meghatározásra	meghatározás	N	_	_
+
+VPC.semi
+0	összefüggésekre	összefüggés	N	_	_
+
+VPC.full
+0	feltétlenül	feltétlen	A	_	_
+
+VPC.full
+0	bekezdéseinek	bekezdés	N	_	_
+
+VPC.full
+0	meghatározásait	meghatározás	N	_	_
+
+LVC.full
+0	hozzák	hoz	V	_	_
+1	összhangba	összhang	N	0	OBL
+
+VPC.full
+0	előírásaival	előírás	N	_	_
+
+VPC.full
+0	bekezdései	bekezdés	N	_	_
+
+VPC.full
+0	létrejöttéről	létrejötte	N	_	_
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	sorolni	sorol	V	_	_
+
+VPC.semi
+0	függ	függ	V	_	_
+1	össze	össze	R	0	PREVERB
+
+VPC.full
+0	kielégítéséért	kielégítés	N	_	_
+
+VPC.semi
+0	beolvadásnál	beolvadás	N	_	_
+
+VPC.semi
+0	Összeolvadásnál	összeolvadás	N	_	_
+
+VPC.full
+0	ki	ki	R	1	PREVERB
+1	zárni	zár	V	_	_
+
+LVC.full
+0	szabályt	szabály	N	1	OBJ
+1	adta	ad	V	_	_
+
+LVC.full
+0	lépett	lép	V	_	_
+1	hatályba	hatály	N	0	OBL
+
+LVC.full
+0	hatályba	hatály	N	1	ATT
+1	lépett	lépett	A	_	_
+
+LVC.full
+0	hatálybalépésig	hatálybalépés	N	_	_
+
+LVC.full
+0	tevékenység	tevékenység	N	1	ATT
+1	folytatására	folytatás	N	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	folytathatnak	folytathat	V	_	_
+
+VPC.full
+0	írta	ír	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.full
+0	elszámolásnak	elszámolás	N	_	_
+
+VPC.semi
+0	benyújtja	benyújt	V	_	_
+
+VPC.full
+0	bekezdéseit	bekezdés	N	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	folytasson	folytat	V	_	_
+
+LVC.full
+0	végezhetik	végezhet	V	_	_
+1	tevékenységet	tevékenység	N	0	OBJ
+
+VPC.semi
+0	kiemelve	kiemelve	R	_	_
+
+VPC.full
+0	megalkotása	megalkotás	N	_	_
+
+VPC.full
+0	Felszámolási	felszámolási	A	_	_
+
+VPC.full
+0	eljárása	eljárás	N	_	_
+
+VPC.full
+0	Előírva	előírva	R	_	_
+
+VPC.full
+0	előterjeszteni	előterjeszt	V	_	_
+
+LVC.full
+0	üzletpolitikát	üzletpolitika	N	1	OBJ
+1	folytatott	folytat	V	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalának	hozatal	N	_	_
+
+VPC.full
+0	előírással	előírás	N	_	_
+
+LVC.full
+0	összhangba	összhang	N	1	OBL
+1	hozni	hoz	V	_	_
+
+LVC.full
+0	hozta	hoz	V	_	_
+1	összhangba	összhang	N	0	OBL
+
+VPC.full
+0	előírásban	előírás	N	_	_
+
+VPC.full
+0	végelszámolására	végelszámolás	N	_	_
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	adja	ad	V	_	_
+
+VPC.full
+0	létrehozására	létrehozás	N	_	_
+
+LVC.full
+0	jelenthet	jelenthet	V	_	_
+1	kivételt	kivétel	N	0	OBJ
+
+LVC.full
+0	változást	változás	N	1	OBJ
+1	hozott	hoz	V	_	_
+
+VPC.full
+0	előírásához	előírás	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalnál	hozatal	N	_	_
+
+VPC.full
+0	bevezetésétől	bevezetés	N	_	_
+
+VPC.full
+0	Felügyelet	Felügyelet	N	_	_
+
+LVC.full
+0	részt	rész	N	1	OBJ
+1	venni	vesz	V	_	_
+
+LVC.full
+0	tett	tett	A	1	ATT
+1	szándéknyilatkozat	szándéknyilatkozat	N	_	_
+
+VPC.full
+0	Felügyeletnek	Felügyelet	N	_	_
+
+LVC.full
+0	megtették	megtesz	V	_	_
+1	szándéknyilatkozatokat	szándéknyilatkozat	N	0	OBJ
+
+LVC.full
+0	kerültek	kerül	V	_	_
+1	megalkotásra	megalkotás	N	0	OBL
+
+VPC.full
+0	megalkotásra	megalkotás	N	_	_
+
+LVC.full
+0	ajánlatot	ajánlat	N	1	OBJ
+1	tenni	tesz	V	_	_
+
+VPC.full
+0	elutasításáról	elutasítás	N	_	_
+
+LVC.cause
+0	nyilvánosságra	nyilvánosság	N	1	OBL
+1	hoznia	hoz	V	_	_
+
+LVC.full
+0	tudomásul	tudomás	N	1	OBL
+1	vette	vesz	V	_	_
+
+VPC.full
+0	át	át	R	1	PREVERB
+1	ruházni	ruház	V	_	_
+
+LVC.full
+0	tett	tett	A	1	ATT
+1	nyilatkozatok	nyilatkozat	N	_	_
+
+VPC.full
+0	Elállási	elállási	A	_	_
+
+VPC.full
+0	Felügyeletnél	Felügyelet	N	_	_
+
+VPC.full
+0	feltétlen	feltétlen	A	_	_
+
+VPC.full
+0	feltételt	feltétel	N	_	_
+
+VPC.full
+0	bekezdésre	bekezdés	N	_	_
+
+VPC.full
+0	hívta	hív	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	meghaladottakká	meghaladott	A	_	_
+
+LVC.full
+0	tájékoztatást	tájékoztatás	N	1	OBJ
+1	adni	ad	V	_	_
+
+LVC.full
+0	tesznek	tesz	V	_	_
+1	eleget	elég	N	0	OBJ
+
+LVC.full
+0	definíciót	definíció	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.semi
+0	összefüggésbe	összefüggés	N	_	_
+
+LVC.full
+0	összefüggésbe	összefüggés	N	1	OBL
+1	hozható	hozható	A	_	_
+
+VPC.full
+0	vetne	vet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	szakvéleményt	szakvélemény	N	1	APPEND
+1	ad	ad	V	_	_
+
+VPC.full
+0	felhasználó	felhasználó	N	_	_
+
+VPC.full
+0	létrehozhatnak	létrehozhat	V	_	_
+
+VPC.full
+0	felhasználásra	felhasználás	N	_	_
+
+VPC.full
+0	felhasználási	felhasználási	A	_	_
+
+VPC.semi
+0	hozzájárult	hozzájárul	V	_	_
+
+VPC.full
+0	lejárt	lejár	V	_	_
+
+VPC.full
+0	derül	derül	V	_	_
+1	ki	ki	R	0	PREVERB
+
+LVC.full
+0	végzett	végzett	A	_	_
+1	tevékenység	tevékenység	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	intézkedésekre	intézkedés	N	_	_
+
+VPC.full
+0	bekezdések	bekezdés	N	_	_
+
+LVC.full
+0	nyújt	nyújt	V	_	_
+1	védelmet	védelem	N	0	OBJ
+
+VPC.full
+0	feltételeznek	feltételez	V	_	_
+
+VPC.semi
+0	kiveszi	kivesz	V	_	_
+
+VPC.semi
+0	kivételekre	kivétel	N	_	_
+
+VPC.full
+0	kitüntetett	kitüntetett	A	_	_
+
+VPC.full
+0	Megállapodás	Megállapodás	N	_	_
+
+VPC.semi
+0	előállítóinak	előállító	N	_	_
+
+LVC.cause
+0	hoztak	hoz	V	_	_
+1	nyilvánosságra	nyilvánosság	N	0	OBL
+
+VPC.full
+0	bemutatása	bemutatás	N	_	_
+
+LVC.cause
+0	nyilvánosságra	nyilvánosság	N	1	OBL
+1	hozott	hozott	A	_	_
+
+LVC.full
+0	elsőbbséget	elsőbbség	N	1	OBJ
+1	élvez	élvez	V	_	_
+
+VPC.full
+0	térünk	tér	V	_	_
+1	ki	ki	R	0	PREVERB
+
+LVC.full
+0	ad	ad	V	_	_
+1	eligazítást	eligazítás	N	0	OBJ
+
+VPC.full
+0	megalkotását	megalkotás	N	_	_
+
+LVC.full
+0	határt	határ	N	1	OBJ
+1	szab	szab	V	_	_
+
+VPC.full
+0	elállási	elállási	A	_	_
+
+VPC.semi
+0	rámutat	rámutat	V	_	_
+
+LVC.cause
+0	lehetőséget	lehetőség	N	1	OBJ
+1	adott	ad	V	_	_
+
+VPC.full
+0	állhat	állhat	V	_	_
+1	el	el	R	0	PREVERB
+
+VPC.full
+0	elszámolására	elszámolás	N	_	_
+
+VPC.semi
+0	kivesz	kivesz	V	_	_
+
+VPC.full
+0	felhasználásoknál	felhasználás	N	_	_
+
+VPC.full
+0	létrehozóját	létrehozó	A	_	_
+
+VPC.full
+0	megalkotásától	megalkotás	N	_	_
+
+VPC.full
+0	feltüntetésének	feltüntetés	N	_	_
+
+VPC.semi
+0	előállítóinál	előállító	N	_	_
+
+VPC.full
+0	létrehozásukat	létrehozás	N	_	_
+
+VPC.full
+0	vet	vet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	tehet	tehet	V	_	_
+1	jognyilatkozatokat	jognyilatkozat	N	0	OBJ
+
+LVC.full
+0	nyújt	nyújt	V	_	_
+1	szakvéleményt	szakvélemény	N	0	OBJ
+
+LVC.full
+0	hasonlóságot	hasonlóság	N	1	OBJ
+1	mutatnak	mutat	V	_	_
+
+VPC.full
+0	zárta	zár	V	_	_
+1	ki	ki	R	0	PREVERB
+
+VPC.full
+0	felhasználásához	felhasználás	N	_	_
+
+VPC.full
+0	kiemeljük	kiemel	V	_	_
+
+LVC.full
+0	igényt	igény	N	1	OBJ
+1	támaszthatnak	támaszthat	V	_	_
+
+LVC.full
+0	eljárás	eljárás	N	1	ATT
+1	lefolytatására	lefolytatás	N	_	_
+
+VPC.full
+0	létrehozásának	létrehozás	N	_	_
+
+VPC.full
+0	felhasználók	felhasználó	N	_	_
+
+VPC.full
+0	felléphetnek	felléphet	V	_	_
+
+VPC.full
+0	léphet	léphet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	létrehozott	létrehozott	A	_	_
+
+VPC.full
+0	létrehozták	létrehoz	V	_	_
+
+VPC.full
+0	létrehozását	létrehozás	N	_	_
+
+VPC.full
+0	Felmerülhet	felmerülhet	V	_	_
+
+LVC.full
+0	megadni	megad	V	_	_
+1	választ	válasz	N	0	OBJ
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződésekben	szerződés	N	_	_
+
+VPC.full
+0	felhasználását	felhasználás	N	_	_
+
+VPC.full
+0	létrehozójának	létrehozó	N	_	_
+
+VPC.full
+0	fellépéséig	fellépés	N	_	_
+
+LVC.cause
+0	hozta	hoz	V	_	_
+1	nyilvánosságra	nyilvánosság	N	0	OBL
+
+LVC.cause
+0	hozták	hoz	V	_	_
+1	nyilvánosságra	nyilvánosság	N	0	OBL
+
+LVC.cause
+0	nyilvánosságra	nyilvánosság	N	1	OBL
+1	hozó	hozó	A	_	_
+
+LVC.full
+0	tett	tett	A	1	ATT
+1	jognyilatkozatok	jognyilatkozat	N	_	_
+
+VPC.full
+0	fellép	fellép	V	_	_
+
+VPC.full
+0	átruházhatóságát	átruházhatóság	N	_	_
+
+VPC.full
+0	felhasználás	felhasználás	N	_	_
+
+VPC.full
+0	átruházhatatlansága	átruházhatatlanság	N	_	_
+
+VPC.full
+0	felléphet	felléphet	V	_	_
+
+VPC.full
+0	mondhat	mondhat	V	_	_
+1	le	le	R	0	PREVERB
+
+VPC.full
+0	átruházhatóságának	átruházhatóság	N	_	_
+
+LVC.cause
+0	jogának	jog	N	1	ATT
+1	gyakorlását	gyakorlás	N	_	_
+
+LVC.cause
+0	jogainak	jog	N	1	ATT
+1	gyakorlása	gyakorlás	N	_	_
+
+VPC.full
+0	ruházza	ruház	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	átszállásának	átszállás	N	_	_
+
+VPC.full
+0	kikötése	kikötés	N	_	_
+
+VPC.full
+0	átszállása	átszállás	N	_	_
+
+VPC.full
+0	megalkotásával	megalkotás	N	_	_
+
+VPC.full
+0	felhasználást	felhasználás	N	_	_
+
+LVC.full
+0	nyilvánosságra	nyilvánosság	N	1	OBL
+1	került	került	A	_	_
+
+LVC.cause
+0	hozhatja	hozhat	V	_	_
+1	nyilvánosságra	nyilvánosság	N	0	OBL
+
+VPC.semi
+0	hozzájárulásnak	hozzájárulás	N	_	_
+
+LVC.cause
+0	jogot	jog	N	1	OBJ
+1	gyakorolja	gyakorol	V	_	_
+
+VPC.full
+0	felhasználói	felhasználói	A	_	_
+
+LVC.full
+0	tájékoztatást	tájékoztatás	N	1	OBJ
+1	adjon	ad	V	_	_
+
+VPC.full
+0	kikötés	kikötés	N	_	_
+
+LVC.full
+0	szerződés	szerződés	N	1	ATT
+1	megkötésekor	megkötés	N	_	_
+
+LVC.full
+0	tehet	tehet	V	_	_
+1	nyilatkozatot	nyilatkozat	N	0	OBJ
+
+VPC.semi
+0	hozzájárulásához	hozzájárulás	N	_	_
+
+LVC.full
+0	nyilatkozatot	nyilatkozat	N	1	OBJ
+1	tett	tesz	V	_	_
+
+LVC.full
+0	létjogosultságát	létjogosultság	N	1	OBJ
+1	adja	ad	V	_	_
+
+VPC.full
+0	felhasználáshoz	felhasználás	N	_	_
+
+VPC.full
+0	átruházott	átruházott	A	_	_
+
+VPC.full
+0	felhasználásban	felhasználás	N	_	_
+
+VPC.full
+0	felhasználásának	felhasználás	N	_	_
+
+LVC.full
+0	adott	adott	A	1	ATT
+1	engedélyét	engedély	N	_	_
+
+VPC.full
+0	előkészületeket	előkészület	N	_	_
+
+LVC.full
+0	előkészületeket	előkészület	N	1	OBJ
+1	tett	tesz	V	_	_
+
+LVC.full
+0	adott	adott	A	1	ATT
+1	engedélye	engedély	N	_	_
+
+LVC.full
+0	nyilatkozat	nyilatkozat	N	1	ATT
+1	megtételéig	megtétel	N	_	_
+
+LVC.full
+0	tett	tesz	V	_	_
+1	előkészületeket	előkészület	N	0	OBJ
+
+LVC.full
+0	nyilatkozatát	nyilatkozat	N	1	OBJ
+1	megtenni	megtesz	V	_	_
+
+LVC.full
+0	tett	tett	A	1	ATT
+1	elkészültekre	elkészültekre	Z	_	_
+
+LVC.full
+0	nyilatkozattételt	nyilatkozattétel	N	_	_
+
+VPC.full
+0	felhasználónak	felhasználó	N	_	_
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlásában	gyakorlás	N	_	_
+
+VPC.full
+0	feltüntessék	feltüntet	V	_	_
+
+VPC.full
+0	feltüntetéséhez	feltüntetés	N	_	_
+
+VPC.full
+0	felhasználásakor	felhasználás	N	_	_
+
+VPC.full
+0	tekinthet	tekinthet	V	_	_
+1	el	el	R	0	PREVERB
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	tüntetve	tüntetve	R	_	_
+
+LVC.full
+0	igényeket	igény	N	1	OBJ
+1	támaszthatja	támaszthat	V	_	_
+
+VPC.full
+0	használják	használ	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	folytatóknál	folytató	A	_	_
+
+VPC.semi
+0	hozzájárulásának	hozzájárulás	N	_	_
+
+VPC.full
+0	emelte	emel	V	_	_
+1	ki	ki	R	0	PREVERB
+
+VPC.full
+0	felhasználások	felhasználás	N	_	_
+
+LVC.full
+0	vonja	von	V	_	_
+1	kétségbe	kétség	N	0	OBL
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételi	vételi	A	_	_
+
+LVC.full
+0	eljárás	eljárás	N	1	ATT
+1	lefolytatásától	lefolytatás	N	_	_
+
+VPC.semi
+0	összefüggés	összefüggés	N	_	_
+
+VPC.full
+0	fennállását	fennállás	N	_	_
+
+LVC.full
+0	igényt	igény	N	1	OBJ
+1	támaszt	támaszt	V	_	_
+
+VPC.full
+0	felhasználásból	felhasználás	N	_	_
+
+VPC.full
+0	lemondana	lemond	V	_	_
+
+LVC.full
+0	hozzájárulást	hozzájárulás	N	_	_
+1	ad	ad	V	_	_
+
+VPC.full
+0	végrehajtsa	végrehajt	V	_	_
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződések	szerződés	N	_	_
+
+VPC.full
+0	járul	járul	V	_	_
+1	hozzá	hozzá	R	0	PREVERB
+
+VPC.full
+0	Fellépés	fellépés	N	_	_
+
+VPC.full
+0	fellépési	fellépési	A	_	_
+
+VPC.full
+0	felhasználót	felhasználó	N	_	_
+
+LVC.full
+0	felhatalmazást	felhatalmazás	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.semi
+0	Kivételesen	kivételes	A	_	_
+
+LVC.full
+0	kivételt	kivétel	N	1	OBJ
+1	jelentenek	jelent	V	_	_
+
+VPC.full
+0	felhasználóra	felhasználó	N	_	_
+
+VPC.full
+0	megállapodáshoz	megállapodás	N	_	_
+
+VPC.full
+0	előadás	előadás	N	_	_
+
+VPC.semi
+0	kivételesen	kivételes	A	_	_
+
+VPC.full
+0	vetnek	vet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	tüntetik	tüntet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	adott	adott	A	1	ATT
+1	engedély	engedély	N	_	_
+
+LVC.full
+0	téve	téve	R	_	_
+1	említést	említés	N	0	OBJ
+
+VPC.full
+0	le	le	R	1	PREVERB
+1	mondaniuk	mond	V	_	_
+
+LVC.full
+0	bevételt	bevétel	N	1	OBJ
+1	realizál	realizál	V	_	_
+
+VPC.full
+0	feltételezésből	feltételezés	N	_	_
+
+VPC.full
+0	elszámolható	elszámolható	A	_	_
+
+VPC.full
+0	meghatározásáig	meghatározás	N	_	_
+
+VPC.semi
+0	előállító	előállító	N	_	_
+
+VPC.full
+0	felhasználóval	felhasználó	N	_	_
+
+LVC.full
+0	nyilatkozatot	nyilatkozat	N	1	OBJ
+1	tenni	tesz	V	_	_
+
+VPC.full
+0	felhasználásáért	felhasználás	N	_	_
+
+VPC.full
+0	lemondásra	lemondás	N	_	_
+
+VPC.full
+0	felhasználással	felhasználás	N	_	_
+
+LVC.full
+0	forgalomba	forgalom	N	1	OBL
+1	kerültek	kerül	V	_	_
+
+LVC.full
+0	eladásra	eladás	N	1	OBL
+1	kerültek	kerül	V	_	_
+
+VPC.full
+0	előkészületet	előkészület	N	_	_
+
+LVC.full
+0	előkészületet	előkészület	N	1	OBJ
+1	tett	tesz	V	_	_
+
+VPC.full
+0	továbbközvetítése	továbbközvetítés	N	_	_
+
+VPC.full
+0	Felhasználásnak	felhasználás	N	_	_
+
+VID
+0	teret	tér	N	1	OBJ
+1	nyernek	nyer	V	_	_
+
+VPC.full
+0	továbbközvetítésének	továbbközvetítés	N	_	_
+
+VPC.full
+0	felhasználásként	felhasználás	N	_	_
+
+VPC.full
+0	átvitelét	átvitel	N	_	_
+
+VPC.full
+0	továbbközvetítésre	továbbközvetítés	N	_	_
+
+VPC.full
+0	továbbközvetítés	továbbközvetítés	N	_	_
+
+LVC.cause
+0	gyakorolja	gyakorol	V	_	_
+1	jogát	jog	N	0	OBJ
+
+VPC.full
+0	felhasználásokat	felhasználás	N	_	_
+
+LVC.cause
+0	ad	ad	V	_	_
+1	jogot	jog	N	0	OBJ
+
+VPC.semi
+0	előállíttatását	előállíttatás	N	_	_
+
+VPC.full
+0	felhasználásnak	felhasználás	N	_	_
+
+LVC.full
+0	beemelés	beemelés	N	1	SUBJ
+1	történt	történik	V	_	_
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	ad	ad	V	_	_
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	adott	ad	V	_	_
+
+VPC.full
+0	létrehozója	létrehozó	A	_	_
+
+LVC.full
+0	eligazítást	eligazítás	N	1	OBJ
+1	adja	ad	V	_	_
+
+LVC.full
+0	megkötött	megkötött	A	1	ATT
+1	szerződések	szerződés	N	_	_
+
+VPC.semi
+0	előállítóit	előállító	N	_	_
+
+VPC.semi
+0	előállítók	előállító	N	_	_
+
+VPC.full
+0	ellátja	ellát	V	_	_
+
+VPC.full
+0	ellátják	ellát	V	_	_
+
+LVC.full
+0	állt	áll	V	_	_
+1	rendelkezésre	rendelkezés	N	0	OBL
+
+VPC.full
+0	mondhatnak	mondhat	V	_	_
+1	le	le	R	0	PREVERB
+
+VPC.full
+0	kielégítést	kielégítés	N	_	_
+
+LVC.full
+0	kielégítést	kielégítés	N	1	OBJ
+1	nyer	nyer	V	_	_
+
+VPC.full
+0	kiemelt	kiemelt	A	_	_
+
+LVC.full
+0	kezelését	kezelés	N	1	OBJ
+1	végző	végző	A	_	_
+
+LVC.full
+0	eredményre	eredmény	N	1	OBL
+1	jutott	jut	V	_	_
+
+VPC.full
+0	felhasználásokhoz	felhasználás	N	_	_
+
+VPC.full
+0	felhasználókra	felhasználó	N	_	_
+
+VPC.full
+0	eljárásban	eljárás	N	_	_
+
+VPC.full
+0	előadásának	előadás	N	_	_
+
+LVC.full
+0	került	kerül	V	_	_
+1	szabályozásra	szabályozás	N	0	OBL
+
+VPC.full
+0	felhasználóival	felhasználó	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatallal	hozatal	N	_	_
+
+VPC.semi
+0	létrejött	létrejön	V	_	_
+
+VPC.full
+0	kikötéseket	kikötés	N	_	_
+
+VPC.full
+0	fellépésekre	fellépés	N	_	_
+
+VPC.full
+0	megállapodásokat	megállapodás	N	_	_
+
+LVC.full
+0	megállapodásokat	megállapodás	N	1	OBJ
+1	kötnek	köt	V	_	_
+
+VPC.full
+0	meghatározására	meghatározás	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hoznia	hoz	V	_	_
+
+LVC.full
+0	adott	ad	V	_	_
+1	engedélyt	engedély	N	0	OBJ
+
+LVC.cause
+0	lehetőséget	lehetőség	N	1	OBJ
+1	nyújtanak	nyújt	V	_	_
+
+VPC.full
+0	felhasználásukra	felhasználás	N	_	_
+
+VPC.full
+0	alá	alá	S	1	MODE
+1	esnek	esik	V	_	_
+
+VPC.semi
+0	fennmarad	fennmarad	V	_	_
+
+LVC.cause
+0	ad	ad	V	_	_
+1	jogokat	jog	N	0	OBJ
+
+VPC.full
+0	hajtson	hajt	V	_	_
+1	végre	végre	R	0	PREVERB
+
+LVC.full
+0	kötött	kötött	A	_	_
+1	szerződésben	szerződés	N	_	_
+
+LVC.full
+0	adjon	ad	V	_	_
+1	engedélyt	engedély	N	0	OBJ
+
+VPC.full
+0	felhasználása	felhasználása	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozza	hoz	V	_	_
+
+VPC.semi
+0	előállítójára	előállító	N	_	_
+
+VPC.semi
+0	előállítójától	előállító	N	_	_
+
+VPC.full
+0	létrehozó	létrehozó	A	_	_
+
+VPC.full
+0	átruházásakor	átruházás	N	_	_
+
+VPC.full
+0	átruházhatják	átruházhat	V	_	_
+
+VPC.semi
+0	előállítónál	előállító	N	_	_
+
+VPC.full
+0	előadást	előadás	N	_	_
+
+VPC.full
+0	közreműködőkkel	közreműködő	N	_	_
+
+LVC.full
+0	korlátot	korlát	N	1	OBJ
+1	szab	szab	V	_	_
+
+LVC.full
+0	Különbséget	különbség	N	1	OBJ
+1	tennünk	tesz	V	_	_
+
+VPC.full
+0	előadása	előadás	N	_	_
+
+VPC.full
+0	előadások	előadás	N	_	_
+
+VPC.full
+0	előadáshoz	előadás	N	_	_
+
+LVC.cause
+0	adott	ad	V	_	_
+1	lehetőséget	lehetőség	N	0	OBJ
+
+LVC.full
+0	folytatta	folytat	V	_	_
+1	jogkezelést	jogkezelés	N	0	OBJ
+
+VPC.full
+0	ellátó	ellátó	A	_	_
+
+LVC.full
+0	szolgáltatást	szolgáltatás	N	1	OBJ
+1	nyújtó	nyújtó	A	_	_
+
+VPC.full
+0	előadásai	előadás	N	_	_
+
+VPC.full
+0	előadásonként	előadás	N	_	_
+
+VPC.full
+0	felhasznált	felhasznált	A	_	_
+
+LVC.full
+0	döntéshozó	döntéshozó	A	_	_
+
+LVC.full
+0	figyelembe	figyelem	N	1	OBL
+1	vevő	vevő	A	_	_
+
+VPC.full
+0	átvitel	átvitel	N	_	_
+
+VPC.full
+0	előadástól	előadás	N	_	_
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	megállapodás	megállapodás	N	_	_
+
+LVC.full
+0	szerez	szerez	V	_	_
+1	tudomást	tudomás	N	0	OBJ
+
+VPC.full
+0	felhasználásról	felhasználás	N	_	_
+
+LVC.cause
+0	jogkört	jogkör	N	1	OBJ
+1	gyakorol	gyakorol	V	_	_
+
+VPC.full
+0	felhasználásnál	felhasználás	N	_	_
+
+VID
+0	nyert	nyer	V	_	_
+1	teret	tér	N	0	OBJ
+
+LVC.full
+0	szerződés	szerződés	N	1	ATT
+1	megkötésénél	megkötés	N	_	_
+
+VPC.full
+0	felhasználásért	felhasználás	N	_	_
+
+LVC.full
+0	felhasználást	felhasználás	N	1	OBJ
+1	végezhesse	végezhet	V	_	_
+
+VPC.full
+0	felhasználásokra	felhasználás	N	_	_
+
+VPC.full
+0	átvitelre	átvitel	N	_	_
+
+VPC.full
+0	átvitelt	átvitel	N	_	_
+
+LVC.full
+0	átvitelt	átvitel	N	1	OBJ
+1	végzők	végző	N	_	_
+
+LVC.full
+0	átvitelt	átvitel	N	1	OBJ
+1	végző	végző	A	_	_
+
+LVC.cause
+0	gyakorolható	gyakorolható	A	1	ATT
+1	jogok	jog	N	_	_
+
+LVC.full
+0	értelmezését	értelmezés	N	1	OBJ
+1	adja	ad	V	_	_
+
+VPC.full
+0	átvitelének	átvitel	N	_	_
+
+LVC.full
+0	tesznek	tesz	V	_	_
+1	kivételt	kivétel	N	0	OBJ
+
+LVC.full
+0	felhasználást	felhasználás	N	1	OBJ
+1	végez	végez	V	_	_
+
+LVC.full
+0	adnak	ad	V	_	_
+1	engedélyt	engedély	N	0	OBJ
+
+VPC.full
+0	jöttek	jön	V	_	_
+1	létre	létre	R	0	PREVERB
+
+LVC.full
+0	kerül	kerül	V	_	_
+1	közzétételre	közzététel	N	0	OBL
+
+VPC.full
+0	továbbközvetítéséért	továbbközvetítés	N	_	_
+
+VPC.full
+0	megállapodással	megállapodás	N	_	_
+
+LVC.cause
+0	jogainak	jog	N	1	ATT
+1	gyakorlását	gyakorlás	N	_	_
+
+VPC.full
+0	átszállnak	átszáll	V	_	_
+
+VPC.semi
+0	benyújthatja	benyújthat	V	_	_
+
+VPC.full
+0	átruházhatja	átruházhat	V	_	_
+
+VPC.full
+0	átruházásból	átruházás	N	_	_
+
+LVC.cause
+0	jogainak	jog	N	1	ATT
+1	gyakorlásába	gyakorlás	N	_	_
+
+LVC.full
+0	írásba	írás	N	1	OBL
+1	foglalni	foglal	V	_	_
+
+LVC.full
+0	szabja	szab	V	_	_
+1	korlátot	korlát	N	0	OBJ
+
+LVC.full
+0	szolgáltatások	szolgáltatás	N	1	ATT
+1	nyújtásának	nyújtás	N	_	_
+
+VPC.semi
+0	kivételnek	kivétel	N	_	_
+
+VPC.full
+0	meghatározásához	meghatározás	N	_	_
+
+VPC.semi
+0	bemutatás	bemutatás	N	_	_
+
+VPC.semi
+0	bemutatást	bemutatás	N	_	_
+
+LVC.cause
+0	hozzák	hoz	V	_	_
+1	nyilvánosságra	nyilvánosság	N	0	OBL
+
+LVC.cause
+0	nyilvánosságra	nyilvánosság	N	1	OBL
+1	hoz	hoz	V	_	_
+
+VPC.full
+0	megfelelt	megfelel	V	_	_
+
+LVC.full
+0	nyilvénosségra	nyilvénosségra	X	1	OBL
+1	hozott	hozott	A	_	_
+
+VPC.semi
+0	kivételek	kivételek	N	_	_
+
+VPC.semi
+0	kivételeket	kivétel	N	_	_
+
+VPC.full
+0	felhasználásával	felhasználás	N	_	_
+
+LVC.full
+0	mérlegét	mérleg	N	1	OBJ
+1	adják	ad	V	_	_
+
+VPC.full
+0	bekezdéseket	bekezdés	N	_	_
+
+LVC.full
+0	hangsúlyt	hangsúly	N	1	OBJ
+1	fektet	fektet	V	_	_
+
+VPC.semi
+0	kivételektől	kivétel	N	_	_
+
+LVC.full
+0	folytatják	folytat	V	_	_
+1	tevékenységet	tevékenység	N	0	OBJ
+
+VPC.full
+0	tüntethet	tüntethet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	tartott	tartott	A	_	_
+1	előadások	előadás	N	_	_
+
+VPC.full
+0	felhasználhatott	felhasználhat	V	_	_
+
+VPC.semi
+0	kivette	kivesz	V	_	_
+
+VPC.full
+0	kitétel	kitétel	N	_	_
+
+VPC.full
+0	visszaélésre	visszaélés	N	_	_
+
+VPC.full
+0	felhasználóknak	felhasználó	N	_	_
+
+LVC.full
+0	felmentést	felmentés	N	1	OBJ
+1	adni	ad	V	_	_
+
+VPC.semi
+0	bemutathatnak	bemutathat	V	_	_
+
+VPC.semi
+0	bemutatásának	bemutatás	N	_	_
+
+VPC.semi
+0	bemutatásáról	bemutatás	N	_	_
+
+LVC.full
+0	tudomást	tudomás	N	1	OBJ
+1	szerezzen	szerez	V	_	_
+
+VPC.full
+0	felhasználássá	felhasználás	N	_	_
+
+VPC.full
+0	ál	ál	Z	_	_
+1	fenn	fenn	R	0	PREVERB
+
+LVC.full
+0	tartott	tartott	A	1	ATT
+1	összejövetelen	összejövetel	N	_	_
+
+VPC.full
+0	összejövetelen	összejövetel	N	_	_
+
+VPC.full
+0	előadását	előadás	N	_	_
+
+VPC.full
+0	előadásnak	előadás	N	_	_
+
+VPC.full
+0	előadáson	előadás	N	_	_
+
+VPC.full
+0	fellépéssel	fellépés	N	_	_
+
+LVC.full
+0	kerülhet	kerülhet	V	_	_
+1	szóba	szó	N	0	OBL
+
+VPC.full
+0	közreműködők	közreműködő	N	_	_
+
+VPC.full
+0	összejövetelt	összejövetel	N	_	_
+
+VPC.full
+0	összejövetelnek	összejövetel	N	_	_
+
+VPC.full
+0	felhasználni	felhasznál	V	_	_
+
+LVC.full
+0	haszonkölcsönbe	haszonkölcsön	N	1	OBL
+1	adhatják	adhat	V	_	_
+
+VPC.full
+0	vette	vesz	V	_	_
+1	ki	ki	R	0	PREVERB
+
+LVC.full
+0	adhatják	adhat	V	_	_
+1	haszonkölcsönbe	haszonkölcsön	N	0	OBL
+
+VID
+0	kaptak	kap	V	_	_
+1	helyet	hely	N	0	OBJ
+
+VPC.full
+0	Felhasználási	felhasználási	A	_	_
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	kötnie	köt	V	_	_
+
+VPC.semi
+0	hozzájárul	hozzájárul	V	_	_
+
+VPC.full
+0	létrejöhessen	létrejöhet	V	_	_
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	adhat	adhat	V	_	_
+
+VPC.full
+0	kikötötték	kiköt	V	_	_
+
+VPC.full
+0	használhatja	használhat	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	ruházta	ruház	V	_	_
+1	át	át	R	0	PREVERB
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződéseknél	szerződés	N	_	_
+
+LVC.full
+0	piacra	piac	N	1	OBL
+1	kerül	kerül	V	_	_
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlásánál	gyakorlás	N	_	_
+
+LVC.cause
+0	jogokat	jog	N	1	OBJ
+1	gyakorolhassa	gyakorolhat	V	_	_
+
+VPC.full
+0	felmondására	felmondás	N	_	_
+
+LVC.full
+0	engedélyt	engedély	N	_	_
+1	adott	adott	A	_	_
+
+LVC.full
+0	szerződés	szerződés	N	1	ATT
+1	megkötése	megkötés	N	_	_
+
+LVC.full
+0	befolyásolja	befolyásol	V	_	_
+1	szerződést	szerződés	N	0	OBJ
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződést	szerződés	N	_	_
+
+VPC.full
+0	kikötést	kikötés	N	_	_
+
+LVC.full
+0	áll	áll	V	_	_
+1	rendelkezéssel	rendelkezés	N	_	_
+
+VPC.full
+0	felmondási	felmondási	A	_	_
+
+VPC.full
+0	előíró	előíró	A	_	_
+
+VPC.full
+0	megalkotására	megalkotás	N	_	_
+
+LVC.full
+0	szerződéskötéskor	szerződéskötés	N	_	_
+
+VPC.full
+0	bekezdésnek	bekezdés	N	_	_
+
+VPC.semi
+0	Kivételek	kivétel	N	_	_
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződésnél	szerződés	N	_	_
+
+VPC.full
+0	jöhet	jöhet	V	_	_
+1	létre	létre	R	0	PREVERB
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	jogügyletekre	jogügylet	N	_	_
+
+LVC.full
+0	szerződéskötésnél	szerződéskötés	N	_	_
+
+LVC.full
+0	adhat	adhat	V	_	_
+1	engedélyt	engedély	N	0	OBJ
+
+VPC.full
+0	felhasználhassa	felhasználhat	V	_	_
+
+LVC.cause
+0	jogot	jog	N	1	OBJ
+1	gyakorolni	gyakorol	V	_	_
+
+VPC.full
+0	felhasználó	felhasználó	A	_	_
+
+LVC.full
+0	ad	ad	V	_	_
+1	engedélyt	engedély	N	0	OBJ
+
+LVC.full
+0	Kivételt	kivétel	N	1	OBJ
+1	képez	képez	V	_	_
+
+VPC.full
+0	meg	meg	R	_	_
+1	felel	felel	V	_	_
+
+VPC.full
+0	ruház	ruház	V	_	_
+1	át	át	R	0	PREVERB
+
+VPC.semi
+0	kivételeknek	kivétel	N	_	_
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződésben	szerződés	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozhatja	hozhat	V	_	_
+
+LVC.full
+0	szerződéskötést	szerződéskötés	N	_	_
+
+VPC.full
+0	bekezdésétől	bekezdés	N	_	_
+
+LVC.full
+0	kerül	kerül	V	_	_
+1	alkalmazásra	alkalmazás	N	0	OBL
+
+LVC.full
+0	hangsúlyt	hangsúly	N	1	OBJ
+1	kap	kap	V	_	_
+
+LVC.full
+0	eredményre	eredmény	N	1	OBL
+1	vezet	vezet	V	_	_
+
+VPC.full
+0	végrehajthassa	végrehajthat	V	_	_
+
+VPC.full
+0	felmondhatja	felmondhat	V	_	_
+
+VPC.full
+0	felmondást	felmondás	N	_	_
+
+VPC.full
+0	visszaélésekre	visszaélés	N	_	_
+
+LVC.full
+0	köt	köt	V	_	_
+1	szerződést	szerződés	N	0	OBJ
+
+VPC.full
+0	fel	fel	R	1	PREVERB
+1	használja	használ	V	_	_
+
+LVC.full
+0	szerződés	szerződés	N	1	ATT
+1	megkötésétől	megkötés	N	_	_
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	kötötték	köt	V	_	_
+
+LVC.full
+0	határidőt	határidő	N	1	OBJ
+1	szabott	szab	V	_	_
+
+VPC.full
+0	felmondás	felmondás	N	_	_
+
+VPC.full
+0	Felmondás	felmondás	N	_	_
+
+VPC.full
+0	Felmondási	felmondási	A	_	_
+
+LVC.cause
+0	joggyakorlásról	joggyakorlás	N	_	_
+
+LVC.cause
+0	jogát	jog	N	1	OBJ
+1	gyakorolni	gyakorol	V	_	_
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	kötik	köt	V	_	_
+
+LVC.full
+0	megalkotásra	megalkotás	N	1	OBL
+1	kerülő	kerülő	A	_	_
+
+LVC.full
+0	kötnek	köt	V	_	_
+1	szerződést	szerződés	N	0	OBJ
+
+LVC.full
+0	következtetésre	következtetés	N	1	OBL
+1	jutni	jut	V	_	_
+
+LVC.full
+0	tett	tett	A	1	ATT
+1	előkészületekre	előkészület	N	_	_
+
+VPC.full
+0	előkészületekre	előkészület	N	_	_
+
+VPC.full
+0	felmondását	felmondás	N	_	_
+
+VPC.full
+0	hozzá	hozzá	R	1	PREVERB
+1	járulni	járul	V	_	_
+
+VPC.full
+0	feltételhez	feltétel	N	_	_
+
+VPC.full
+0	beálltával	beállta	N	_	_
+
+VPC.full
+0	el	el	R	1	PREVERB
+1	tekinteni	tekint	V	_	_
+
+VPC.full
+0	megfelelőek	megfelelő	A	_	_
+
+VPC.full
+0	meghaladta	meghalad	V	_	_
+
+VPC.semi
+0	alátámasztja	alátámaszt	V	_	_
+
+VPC.full
+0	fehasználóval	fehasználóval	X	_	_
+
+LVC.cause
+0	jogosultságának	jogosultság	N	1	ATT
+1	gyakorlására	gyakorlás	N	_	_
+
+VPC.full
+0	hozta	hoz	V	_	_
+1	létre	létre	R	0	PREVERB
+
+VPC.full
+0	fennmaradnak	fennmarad	V	_	_
+
+VPC.full
+0	felhasználva	felhasználva	R	_	_
+
+VPC.full
+0	"felhasználásának"	"felhasználásának"	N	_	_
+
+LVC.cause
+0	jogokat	jog	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	felhasználójának	felhasználó	N	_	_
+
+LVC.full
+0	került	kerül	V	_	_
+1	meghatározásra	meghatározás	N	0	OBL
+
+LVC.full
+0	adott	adott	A	1	ATT
+1	paranccsal	parancs	N	_	_
+
+VPC.full
+0	felhasználásuk	felhasználás	N	_	_
+
+LVC.full
+0	szerepet	szerep	N	1	OBJ
+1	játszanak	játszik	V	_	_
+
+VPC.full
+0	létrehozásukhoz	létrehozás	N	_	_
+
+VPC.semi
+0	bevezeti	bevezet	V	_	_
+
+VPC.full
+0	átruházta	átruház	V	_	_
+
+VPC.full
+0	átruházások	átruházások	Z	_	_
+
+LVC.full
+0	rendelkezésére	rendelkezés	N	1	OBL
+1	álló	álló	A	_	_
+
+LVC.full
+0	adott	ad	V	_	_
+1	jelleget	jelleg	N	0	OBJ
+
+LVC.full
+0	igényt	igény	N	1	OBJ
+1	tarthat	tarthat	V	_	_
+
+VPC.full
+0	feltételein	feltétel	N	_	_
+
+LVC.full
+0	kerültek	kerül	V	_	_
+1	megfogalmazásra	megfogalmazás	N	0	OBL
+
+VPC.full
+0	felhasználói	felhasználó	N	_	_
+
+VPC.full
+0	átruházhatók	átruházható	A	_	_
+
+VPC.full
+0	létrejötténél	létrejötte	N	_	_
+
+VPC.full
+0	megállapodásától	megállapodás	N	_	_
+
+LVC.full
+0	jut	jut	V	_	_
+1	szerephez	szerep	N	0	OBL
+
+VPC.full
+0	közreműködését	közreműködés	N	_	_
+
+VPC.semi
+0	hozzájárultak	hozzájárul	V	_	_
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlásában	gyakorlás	N	_	_
+
+VPC.semi
+0	előállítót	előállító	N	_	_
+
+LVC.full
+0	tarthatna	tarthat	V	_	_
+1	igényt	igény	N	0	OBJ
+
+VPC.semi
+0	előállítója	előállító	N	_	_
+
+VPC.semi
+0	előállítójának	előállító	N	_	_
+
+VPC.semi
+0	előállítónak	előállító	N	_	_
+
+VPC.full
+0	írnak	ír	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.semi
+0	előállítói	előállítói	A	_	_
+
+VPC.semi
+0	előállítótól	előállító	N	_	_
+
+LVC.full
+0	adhat	adhat	V	_	_
+1	garanciát	garancia	N	0	OBJ
+
+LVC.full
+0	hiteleket	hitel	N	1	OBJ
+1	nyújt	nyújt	V	_	_
+
+LVC.full
+0	garanciát	garancia	N	1	OBJ
+1	kap	kap	V	_	_
+
+LVC.full
+0	fedezetéül	fedezet	N	1	OBL
+1	szolgál	szolgál	V	_	_
+
+VPC.full
+0	engedi	enged	V	_	_
+1	át	át	R	0	PREVERB
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlásakor	gyakorlás	N	_	_
+
+LVC.cause
+0	jogát	jog	N	1	OBJ
+1	gyakorolják	gyakorol	V	_	_
+
+LVC.full
+0	tiszteletben	tisztelet	N	1	OBL
+1	tartsák	tart	V	_	_
+
+VPC.full
+0	felhasználási	felhasználási	Z	_	_
+
+VPC.full
+0	fellépéstől	fellépés	N	_	_
+
+VPC.semi
+0	előállítóra	előállító	N	_	_
+
+VPC.full
+0	átruházásáról	átruházás	N	_	_
+
+VPC.semi
+0	előállítóval	előállító	N	_	_
+
+LVC.cause
+0	Joggyakorlás	joggyakorlás	N	_	_
+
+VPC.full
+0	közreműködésével	közreműködés	N	_	_
+
+VPC.full
+0	aláírásra	aláírás	N	_	_
+
+LVC.full
+0	aláírásra	aláírás	N	1	OBL
+1	kerültek	kerül	V	_	_
+
+LVC.cause
+0	jogokat	jog	N	1	OBJ
+1	gyakorolhassák	gyakorolhat	V	_	_
+
+VPC.full
+0	beszámolási	beszámolási	A	_	_
+
+VPC.full
+0	vett	vesz	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	áll	áll	V	_	_
+1	rendelkezésére	rendelkezés	N	0	OBL
+
+LVC.full
+0	határidőt	határidő	N	1	OBJ
+1	szabnia	szab	V	_	_
+
+LVC.full
+0	nyilatkozatot	nyilatkozat	N	1	OBJ
+1	megtennie	megtesz	V	_	_
+
+VPC.full
+0	megállapodása	megállapodás	N	_	_
+
+LVC.cause
+0	jogának	jog	N	1	ATT
+1	gyakorlása	gyakorlás	N	_	_
+
+VPC.full
+0	hozzon	hoz	V	_	_
+1	létre	létre	R	0	PREVERB
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	kötnek	köt	V	_	_
+
+VPC.full
+0	feltételez	feltételez	V	_	_
+
+VPC.full
+0	mondott	mond	V	_	_
+1	le	le	R	0	PREVERB
+
+LVC.full
+0	előszerződést	előszerződés	N	1	OBJ
+1	kössön	köt	V	_	_
+
+VPC.full
+0	lemondania	lemond	V	_	_
+
+VPC.semi
+0	bemutatását	bemutatás	N	_	_
+
+VID
+0	helyet	hely	N	1	OBJ
+1	kapott	kap	V	_	_
+
+VPC.full
+0	felhasználóivá	felhasználó	N	_	_
+
+VPC.full
+0	előlépett	előlépett	A	_	_
+
+LVC.full
+0	tiszteletben	tisztelet	N	1	OBL
+1	tartja	tart	V	_	_
+
+VPC.semi
+0	befolyástól	befolyás	N	_	_
+
+LVC.full
+0	hoznak	hoz	V	_	_
+1	döntést	döntés	N	0	OBJ
+
+VPC.full
+0	megállapodások	megállapodás	N	_	_
+
+LVC.full
+0	előrelépést	előrelépés	N	1	OBJ
+1	mutatott	mutat	V	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	határozata	határozat	N	_	_
+
+VPC.full
+0	feltüntették	feltüntet	V	_	_
+
+LVC.full
+0	végzik	végez	V	_	_
+1	tevékenységüket	tevékenység	N	0	OBJ
+
+LVC.full
+0	vehetik	vehet	V	_	_
+1	igénybe	igény	N	0	OBL
+
+VPC.full
+0	fellépni	fellép	V	_	_
+
+VPC.full
+0	meghatározásaként	meghatározás	N	_	_
+
+LVC.full
+0	osztályozást	osztályozás	N	1	OBJ
+1	adhatjuk	adhat	V	_	_
+
+LVC.full
+0	figyelembe	figyelem	N	1	OBL
+1	vegyék."(Dr.	vegyék."(Dr.	X	_	_
+
+LVC.full
+0	eligazítást	eligazítás	N	1	OBJ
+1	nyújt	nyújt	V	_	_
+
+VPC.full
+0	tüntessék	tüntet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	feltüntetésére	feltüntetés	N	_	_
+
+VPC.full
+0	feltüntetés	feltüntetés	N	_	_
+
+VPC.full
+0	Előírja	előír	V	_	_
+
+VPC.full
+0	előadás	előadás	Z	_	_
+
+LVC.cause
+0	joga	jog	N	1	ATT
+1	gyakorlása	gyakorlás	N	_	_
+
+VPC.full
+0	Felmerül	felmerül	V	_	_
+
+VPC.full
+0	visszaélést	visszaélés	N	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	folytató	folytató	A	_	_
+
+LVC.full
+0	kezelését	kezelés	N	1	ATT
+1	végző	végző	A	_	_
+
+LVC.full
+0	vette	vesz	V	_	_
+1	nyilvántartásba	nyilvántartás	N	0	OBL
+
+VPC.full
+0	létrehozásával	létrehozás	N	_	_
+
+VPC.full
+0	behajtása	behajtás	N	_	_
+
+LVC.full
+0	mutat	mutat	V	_	_
+1	hasonlóságot	hasonlóság	N	0	OBJ
+
+VPC.full
+0	tüntették	tüntet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	vetett	vetett	A	1	ATT
+1	bizalmát	bizalom	N	_	_
+
+VPC.full
+0	használja	használ	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.semi
+0	Alátámasztani	alátámaszt	V	_	_
+
+LVC.cause
+0	jogok	jog	N	1	ATT
+1	gyakorlásához	gyakorlás	N	_	_
+
+LVC.full
+0	valósítanak	valósít	V	_	_
+1	visszaélést	visszaélés	N	0	OBJ
+
+VPC.full
+0	Visszaélés	visszaélés	N	_	_
+
+VPC.full
+0	közzétennék	közzétesz	V	_	_
+
+LVC.full
+0	veszik	vesz	V	_	_
+1	tudomásul	tudomás	N	0	OBL
+
+VPC.full
+0	felhozni	felhoz	V	_	_
+
+LVC.cause
+0	jogainak	jog	N	1	ATT
+1	gyakorlásában	gyakorlás	N	_	_
+
+VPC.full
+0	visszaélésnek	visszaélés	N	_	_
+
+LVC.full
+0	következtetéseket	következtetés	N	1	OBJ
+1	levonni	levon	V	_	_
+
+VPC.full
+0	előadásokról	előadás	N	_	_
+
+LVC.full
+0	alkalmazásra	alkalmazás	N	1	OBL
+1	kerüljenek	kerül	V	_	_
+
+VPC.full
+0	előadásokhoz	előadás	N	_	_
+
+LVC.full
+0	kivételt	kivétel	N	1	OBJ
+1	adott	ad	V	_	_
+
+VPC.semi
+0	fennmaradt	fennmarad	V	_	_
+
+LVC.full
+0	került	kerül	V	_	_
+1	átvételre	átvétel	N	0	OBL
+
+LVC.full
+0	engedélyt	engedély	N	1	OBJ
+1	adta	ad	V	_	_
+
+LVC.full
+0	testet	test	N	1	OBL
+1	öltő	öltő	A	_	_
+
+LVC.full
+0	kerül	kerül	V	_	_
+1	kimondásra	kimondás	N	0	OBL
+
+LVC.full
+0	kivételt	kivétel	N	1	OBJ
+1	tesz	tesz	V	_	_
+
+VPC.full
+0	előkészületek	előkészület	N	_	_
+
+VPC.full
+0	felhasználásokért	felhasználás	N	_	_
+
+LVC.full
+0	jogkezelését	jogkezelés	N	1	OBJ
+1	végző	végző	A	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételéről	vétel	N	_	_
+
+VPC.full
+0	felhasználásoknak	felhasználás	N	_	_
+
+VPC.full
+0	lejártának	lejárta	N	_	_
+
+VPC.full
+0	léphetnek	léphet	V	_	_
+1	fel	fel	R	0	PREVERB
+
+VPC.full
+0	feltüntetésre	feltüntetés	N	_	_
+
+VPC.full
+0	meghatározást	meghatározás	N	_	_
+
+LVC.full
+0	igénybe	igény	N	1	OBL
+1	vételét	vétel	N	_	_
+
+VPC.full
+0	visszaélésből	visszaélés	N	_	_
+
+VPC.full
+0	bemutatásáig	bemutatás	N	_	_
+
+VPC.semi
+0	előállítóját	előállító	N	_	_
+
+LVC.full
+0	tarthatnak	tarthat	V	_	_
+1	igényt	igény	N	0	OBJ
+
+VPC.full
+0	megállapodásuk	megállapodás	N	_	_
+
+LVC.cause
+0	jogoknak	jog	N	1	ATT
+1	gyakorlását	gyakorlás	N	_	_
+
+LVC.full
+0	adják	ad	V	_	_
+1	hozzájárulásukat	hozzájárulás	N	0	OBJ
+
+VPC.semi
+0	hozzájárulásukat	hozzájárulás	N	_	_
+
+VPC.semi
+0	állhat	állhat	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.full
+0	névfeltüntetési	névfeltüntetési	A	_	_
+
+LVC.full
+0	támasztható	támasztható	A	1	ATT
+1	igények	igény	N	_	_
+
+VPC.full
+0	felhasználásai	felhasználás	N	_	_
+
+VPC.full
+0	bemutatni	bemutat	V	_	_
+
+VPC.full
+0	áll	áll	V	_	_
+1	elő	elő	R	0	PREVERB
+
+VPC.semi
+0	kivétele	kivétel	N	_	_
+
+VPC.full
+0	továbbközvetítéssel	továbbközvetítés	N	_	_
+
+VID
+0	kapott	kap	V	_	_
+1	helyet	hely	N	0	OBJ
+
+VPC.semi
+0	előállítónak	előállítónak	Z	_	_
+
+LVC.cause
+0	gyakorolhassa	gyakorolhat	V	_	_
+1	jogát	jog	N	0	OBJ
+
+LVC.cause
+0	jogát	jog	N	1	OBJ
+1	adja	ad	V	_	_
+
+VPC.full
+0	továbbközvetítését	továbbközvetítés	N	_	_
+
+LVC.full
+0	támaszthat	támaszthat	V	_	_
+1	igényt	igény	N	0	OBJ
+
+VPC.full
+0	fennállhat	fennállhat	V	_	_
+
+VPC.full
+0	bemutatásától	bemutatás	N	_	_
+
+LVC.cause
+0	jogainak	jog	N	1	ATT
+1	gyakorlásánál	gyakorlás	N	_	_
+
+LVC.full
+0	szerepet	szerep	N	1	OBJ
+1	játszik	játszik	V	_	_
+
+VPC.full
+0	járt	jár	V	_	_
+1	le	le	R	0	PREVERB
+
+VPC.full
+0	előadásokat	előadás	N	_	_
+
+LVC.cause
+0	hozták	hoz	V	_	_
+1	forgalomba	forgalom	N	0	OBL
+
+LVC.full
+0	profitot	profit	N	1	OBJ
+1	realizálhattak	realizálhat	V	_	_
+
+LVC.full
+0	tartott	tartott	A	1	ATT
+1	előadások	előadás	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	cselekmények	cselekmény	N	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozták	hoz	V	_	_
+
+LVC.full
+0	előadást	előadás	N	1	OBJ
+1	tartották	tart	V	_	_
+
+LVC.cause
+0	forgalomba	forgalom	N	1	OBL
+1	hozatalt	hozatal	N	_	_
+
+LVC.cause
+0	gyakorolható	gyakorolható	A	_	_
+1	jogok	jog	N	_	_
+
+LVC.full
+0	szerződés	szerződés	N	1	ATT
+1	megkötéséhez	megkötés	N	_	_
+
+LVC.full
+0	díjszabását	díjszabás	N	1	OBJ
+1	alkalmaznia	alkalmaz	V	_	_
+
+VPC.full
+0	felhasználókkal	felhasználó	N	_	_
+
+VPC.full
+0	nyilvántartása	nyilvántartás	N	_	_
+
+LVC.full
+0	tevékenység	tevékenység	N	1	ATT
+1	folytatásának	folytatás	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vétel	vétel	N	_	_
+
+LVC.full
+0	ellenőrzést	ellenőrzés	N	1	OBJ
+1	gyakorolhat	gyakorolhat	V	_	_
+
+LVC.full
+0	végez	végez	V	_	_
+1	jogkezelést	jogkezelés	N	0	OBJ
+
+LVC.full
+0	eljárást	eljárás	N	1	OBJ
+1	lefolytatni	lefolytat	V	_	_
+
+LVC.full
+0	kezelését	kezelés	N	1	OBJ
+1	végezheti	végezhet	V	_	_
+
+VPC.full
+0	létre	létre	R	_	_
+1	hozni	hoz	V	_	_
+
+VPC.full
+0	létrejöhetnek	létrejöhet	V	_	_
+
+VPC.full
+0	nyilvántartásban	nyilvántartás	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	tevékenységnek	tevékenység	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	tevékenységre	tevékenység	N	_	_
+
+VPC.full
+0	nyilvántartásának	nyilvántartás	N	_	_
+
+LVC.full
+0	végez	végez	V	_	_
+1	jogdíj-érvényesítést	jogdíj-érvényesítés	N	0	OBJ
+
+LVC.full
+0	megállapodást	megállapodás	N	1	OBJ
+1	kötött	köt	V	_	_
+
+LVC.full
+0	jogkezelést	jogkezelés	N	1	OBJ
+1	végző	végző	A	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	tevékenységgel	tevékenység	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételkor	vétel	N	_	_
+
+VPC.full
+0	nyilvántartását	nyilvántartás	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételének	vétel	N	_	_
+
+VPC.full
+0	Megfelelő	megfelelő	A	_	_
+
+LVC.full
+0	szabályt	szabály	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	meg	meg	R	_	_
+1	felelnie	felel	V	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételt	vétel	N	_	_
+
+VPC.full
+0	állítanak	állít	V	_	_
+1	ki	ki	R	0	PREVERB
+
+VPC.full
+0	nyilvántartásába	nyilvántartás	N	_	_
+
+LVC.full
+0	nyilvántartásába	nyilvántartás	N	1	OBL
+1	felveszi	felvesz	V	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételét	vétel	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	venni	vesz	V	_	_
+
+VPC.full
+0	nyilvántartásból	nyilvántartás	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételhez	vétel	N	_	_
+
+LVC.full
+0	nyilvántartást	nyilvántartás	N	1	OBJ
+1	végző	végző	A	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	veszi	vesz	V	_	_
+
+LVC.full
+0	vesznek	vesz	V	_	_
+1	nyilvántartásba	nyilvántartás	N	0	OBL
+
+VPC.full
+0	létrehozni	létrehoz	V	_	_
+
+VPC.full
+0	látná	lát	V	_	_
+1	el	el	R	0	PREVERB
+
+LVC.full
+0	végezhetik	végezhet	V	_	_
+1	tevékenységüket	tevékenység	N	0	OBJ
+
+LVC.full
+0	állnak	áll	V	_	_
+1	kapcsolatban	kapcsolat	N	0	OBL
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	tevékenységekről	tevékenység	N	_	_
+
+LVC.full
+0	vezetett	vezetett	A	1	ATT
+1	nyilvántartás	nyilvántartás	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vételről	vétel	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	tevékenységet	tevékenység	N	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	ATT
+1	vételért	vétel	N	_	_
+
+VPC.semi
+0	benyújtásakor	benyújtás	N	_	_
+
+LVC.full
+0	rangot	rang	N	1	OBJ
+1	adni	ad	V	_	_
+
+LVC.full
+0	nyilvántartásba	nyilvántartás	N	1	OBL
+1	vette	vesz	V	_	_
+
+LVC.full
+0	vették	vesz	V	_	_
+1	nyilvántartásba	nyilvántartás	N	0	OBL
+
+VPC.full
+0	felhasználókhoz	felhasználó	N	_	_
+
+LVC.full
+0	szerződést	szerződés	N	1	OBJ
+1	kössön	köt	V	_	_
+
+LVC.cause
+0	jogot	jog	N	1	OBJ
+1	adjon	ad	V	_	_
+
+VPC.full
+0	felhasználóktól	felhasználó	N	_	_
+
+VPC.full
+0	továbbközvetítést	továbbközvetítés	N	_	_
+
+LVC.full
+0	továbbközvetítést	továbbközvetítés	N	1	OBJ
+1	végző	végző	A	_	_
+
+LVC.full
+0	átalányszerződéseket	átalányszerződés	N	1	OBJ
+1	kössön	köt	V	_	_
+
+LVC.full
+0	kötnek	köt	V	_	_
+1	keret-szerződéseket	keret-szerződéseket	X	0	OBJ
+
+VPC.full
+0	visszaéléseket	visszaélés	N	_	_
+
+LVC.full
+0	tájékoztatást	tájékoztatás	N	1	OBJ
+1	ad	ad	V	_	_
+
+VPC.full
+0	állítja	állít	V	_	_
+1	fel	fel	R	0	PREVERB
+
+LVC.full
+0	szolgáltatásokat	szolgáltatás	N	1	OBJ
+1	végezhet	végezhet	V	_	_
+
+VPC.full
+0	mutat	mutat	V	_	_
+1	rá	rá	R	0	PREVERB
+
+VPC.full
+0	nyilvántartásában	nyilvántartás	N	_	_
+
+LVC.cause
+0	rendelkezésre	rendelkezés	N	1	OBL
+1	bocsássa	bocsát	V	_	_
+
+VPC.full
+0	előadásnál	előadás	N	_	_
+
+LVC.full
+0	gyakorolt	gyakorolt	A	1	ATT
+1	felügyelet	felügyelet	N	_	_
+
+VPC.full
+0	ellátásához	ellátás	N	_	_
+
+VPC.full
+0	beszámolóját	beszámoló	N	_	_
+
+LVC.full
+0	kötött	kötött	A	1	ATT
+1	szerződéseit	szerződés	N	_	_
+
+VPC.full
+0	felügyeletének	felügyelet	N	_	_
+
+LVC.full
+0	gyakorolják	gyakorol	V	_	_
+1	felügyeletet	felügyelet	N	0	OBJ
+
+LVC.full
+0	nyilvántartását	nyilvántartás	N	1	OBJ
+1	végző	végző	A	_	_
+
+LVC.full
+0	tevékenységet	tevékenység	N	1	OBJ
+1	végez	végez	V	_	_
+
+VPC.full
+0	felügyeletét	felügyelet	N	_	_
+
+VPC.full
+0	felügyelete	felügyelet	N	_	_
+
+LVC.full
+0	meghozott	meghozott	A	1	ATT
+1	intézkedések	intézkedés	N	_	_
+
+LVC.full
+0	támasztható	támasztható	A	1	ATT
+1	igény	igény	N	_	_
+
+LVC.full
+0	nyújt	nyújt	V	_	_
+1	segítséget	segítség	N	0	OBJ
+
+VPC.full
+0	járt	jár	V	_	_
+1	el	el	R	0	PREVERB
+
+VPC.semi
+0	előállításával	előállítás	N	_	_
+
+LVC.full
+0	meghozott	meghozott	A	1	ATT
+1	szakvéleménye	szakvélemény	N	_	_
+
+VPC.full
+0	jött	jön	V	_	_
+1	létre	létre	R	0	PREVERB
+
+LVC.full
+0	igénybe	igény	N	1	OBL
+1	vehető	vehető	A	_	_
+
+VPC.full
+0	bemutatására	bemutatás	N	_	_
+
+LVC.full
+0	szolgáltatások	szolgáltatás	N	1	ATT
+1	nyújtását	nyújtás	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	APPEND
+1	cselekmények	cselekmény	N	_	_
+
+VPC.full
+0	fellépjen	fellép	V	_	_
+
+LVC.full
+0	tegye	tesz	V	_	_
+1	intézkedéseket	intézkedés	N	0	OBJ
+
+VPC.full
+0	fellépjenek	fellép	V	_	_
+
+LVC.full
+0	intézkedések	intézkedés	N	1	ATT
+1	megtételére	megtétel	N	_	_
+
+LVC.full
+0	kerül	kerül	V	_	_
+1	felhasználásra	felhasználás	N	0	OBL
+
+VPC.full
+0	felhasználhat	felhasználhat	V	_	_
+
+VPC.full
+0	számol	számol	V	_	_
+1	be	be	R	0	PREVERB
+
+LVC.full
+0	eleget	elég	N	1	OBJ
+1	téve	téve	R	_	_
+
+VPC.semi
+0	Fennmaradó	fennmaradó	A	_	_
+
+LVC.full
+0	adhat	adhat	V	_	_
+1	szakvéleményt	szakvélemény	N	0	OBJ
+
+LVC.cause
+0	jog	jog	N	1	ATT
+1	gyakorlásával	gyakorlás	N	_	_
+
+VPC.full
+0	felállításáról	felállítás	N	_	_
+
+LVC.full
+0	véleményt	vélemény	N	1	OBJ
+1	adni	ad	V	_	_
+
+LVC.full
+0	határozat	határozat	N	1	ATT
+1	hozatalához	hozatal	N	_	_
+
+LVC.full
+0	esküt	eskü	N	1	OBJ
+1	tett	tett	A	_	_
+
+VPC.full
+0	látta	lát	V	_	_
+1	el	el	R	0	PREVERB
+
+VPC.full
+0	továbbközvetítéshez	továbbközvetítés	N	_	_
+
+LVC.full
+0	hoz	hoz	V	_	_
+1	határozatot	határozat	N	0	OBJ
+
+LVC.cause
+0	adni	ad	V	_	_
+1	lehetőséget	lehetőség	N	0	OBJ
+
+LVC.full
+0	eljárásban	eljárás	N	_	_
+1	lefolytatására	lefolytatás	N	_	_
+
+LVC.full
+0	figyelembe	figyelem	N	1	OBL
+1	veszi	vesz	V	_	_
+
+LVC.full
+0	tett	tett	A	1	ATT
+1	bejelentés	bejelentés	N	_	_
+
+LVC.full
+0	megkötött	megkötött	A	1	ATT
+1	szerződésekre	szerződés	N	_	_
+
+VPC.full
+0	eljárásokban	eljárás	N	_	_
+
+LVC.full
+0	figyelembe	figyelem	N	1	OBL
+1	vételét	vétel	N	_	_
+
+VPC.full
+0	lejárat	lejárat	N	_	_
+
+LVC.cause
+0	jogosultságok	jogosultság	N	1	ATT
+1	gyakorlásának	gyakorlás	N	_	_
+
+LVC.full
+0	felhasználást	felhasználás	N	1	OBJ
+1	folytató	folytató	A	_	_
+
+LVC.full
+0	folytatott	folytatott	A	1	ATT
+1	felhasználás	felhasználás	N	_	_
+
+LVC.full
+0	előkészületeket	előkészület	N	1	OBJ
+1	tettek	tesz	V	_	_
+
+VPC.full
+0	előkészületnek	előkészület	N	_	_
+
+LVC.full
+0	végzett	végzett	A	1	ATT
+1	átdolgozást	átdolgozás	N	_	_
+
+LVC.cause
+0	joga	jog	N	1	ATT
+1	gyakorlásának	gyakorlás	N	_	_
+
+VPC.full
+0	felhasználóinak	felhasználó	N	_	_
+
+LVC.full
+0	felhatalmazást	felhatalmazás	N	1	OBJ
+1	adni	ad	V	_	_
+
+LVC.full
+0	eleget	elég	N	1	OBJ
+1	tesz	tesz	V	_	_
+
+LVC.full
+0	segítséget	segítség	N	1	OBJ
+1	nyújthatnak	nyújthat	V	_	_
+
+LVC.full
+0	hozott	hozott	A	1	ATT
+1	határozatok	határozat	N	_	_
+
+VPC.full
+0	eljárásokat	eljárás	N	_	_
+
+VPC.full
+0	végrehajtó	végrehajtó	N	_	_
+
+VPC.full
+0	végrehajtást	végrehajtás	N	_	_
+
+VPC.full
+0	végrehajtható	végrehajtható	A	_	_
+
+VPC.full
+0	végrehajtónak	végrehajtó	N	_	_
+
+VPC.full
+0	végrehajtói	végrehajtói	A	_	_
+
+VPC.full
+0	végrehajthatóságát	végrehajthatóság	N	_	_
+
+VPC.full
+0	végrehajtónál	végrehajtó	N	_	_
+
+VPC.full
+0	feloldása	feloldás	N	_	_
+
