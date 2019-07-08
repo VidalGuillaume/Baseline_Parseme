@@ -1,0 +1,1123 @@
+LVC.full
+0	pateikti	pateikti	VERB	_	_
+1	kaltinimai	kaltinimas	NOUN	_	_
+
+LVC.full
+0	pareiškimo	pareiškimas	NOUN	_	_
+1	nepadarė	nepadaryti	VERB	_	_
+
+LVC.full
+0	patyrė	patirti	VERB	_	_
+1	nesėkmę	nesėkmė	NOUN	_	_
+
+LVC.cause
+0	grėsmę	grėsmė	NOUN	_	_
+1	kėlė	kelti	VERB	_	_
+
+VID
+0	gula	gulti	VERB	_	_
+1	ant	ant	ADP	_	_
+2	pečių	petys	NOUN	_	_
+
+LVC.full
+0	priėmė	priimti	VERB	_	_
+1	nutarimą	nutarimas	NOUN	_	_
+
+LVC.full
+0	Išvadas	išvada	NOUN	_	_
+1	daryti	daryti	VERB	_	_
+
+VID
+0	kristi	kristi	VERB	_	_
+1	ant	ant	ADP	_	_
+2	pečių	petys	NOUN	_	_
+
+LVC.cause
+0	daryti	daryti	VERB	_	_
+1	įtaką	įtaka	NOUN	_	_
+
+LVC.full
+0	priimtų	priimti	VERB	_	_
+1	sprendimą	sprendimas	NOUN	_	_
+
+VID
+0	siunčia	siųsti	VERB	_	_
+1	signalą	signalas	NOUN	_	_
+
+VID
+0	nueis	nueiti	VERB	_	_
+1	keliu	kelias	NOUN	_	_
+
+LVC.full
+0	turime	turėti	VERB	_	_
+1	ambiciją	ambicija	NOUN	_	_
+
+LVC.full
+0	turės	turėti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+LVC.full
+0	laiką	laikas	NOUN	_	_
+1	leidus	leisti	VERB	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	poreikių	poreikis	NOUN	_	_
+
+VID
+0	prikėlęs	prikelti	VERB	_	_
+1	iš	iš	ADP	_	_
+2	pelenų	pelenai	NOUN	_	_
+
+VID
+0	žodį	žodis	NOUN	_	_
+1	tarė	tarti	VERB	_	_
+
+LVC.full
+0	padarė	padaryti	VERB	_	_
+1	išvadą	išvada	NOUN	_	_
+
+VID
+0	pastato	pastatas	NOUN	_	_
+1	laiptu	laiptas	NOUN	_	_
+2	aukščiau	aukščiau	ADP	_	_
+
+VID
+0	traukia	traukti	VERB	_	_
+1	tarsi	tarsi	ADV	_	_
+2	magnetas	magnetas	NOUN	_	_
+
+VID
+0	neriasi	nertis	VERB	_	_
+1	iš	iš	ADP	_	_
+2	kailio	kailis	NOUN	_	_
+
+LVC.full
+0	atlikta	atlikti	VERB	_	_
+1	tyrimų	tyrimas	NOUN	_	_
+
+VID
+0	įsmeigus	įsmeigti	VERB	_	_
+1	akis	akis	NOUN	_	_
+
+VID
+0	sėkmė	sėkmė	NOUN	_	_
+1	lydėjo	lydėti	VERB	_	_
+
+VID
+0	atiduoti	atiduoti	VERB	_	_
+1	duoklę	duoklė	NOUN	_	_
+
+LVC.full
+0	padaryta	padaryti	VERB	_	_
+1	klaidų	klaida	NOUN	_	_
+
+VID
+0	mundurą	munduras	NOUN	_	_
+1	nusiplauti	nusiplauti	VERB	_	_
+
+VID
+0	turės	turėti	VERB	_	_
+1	dėmę	dėmė	NOUN	_	_
+
+LVC.full
+0	galimybių	galimybė	NOUN	_	_
+1	turi	turėti	VERB	_	_
+
+VID
+0	pakišti	pakišti	VERB	_	_
+1	koją	koja	NOUN	_	_
+
+VID
+0	ištrauktų	ištraukti	VERB	_	_
+1	kortą	korta	NOUN	_	_
+
+VID
+0	paliko	palikti	VERB	_	_
+1	ant	ant	ADP	_	_
+2	ledo	ledas	NOUN	_	_
+
+LVC.full
+0	atlikusioms	atlikti	VERB	_	_
+1	tarnybą	tarnyba	NOUN	_	_
+
+LVC.full
+0	imtis	imtis	VERB	_	_
+1	atsakomybės	atsakomybė	NOUN	_	_
+
+LVC.full
+0	įtakos	įtaka	NOUN	_	_
+1	neturės	neturėti	VERB	_	_
+
+LVC.full
+0	įtakos	įtaka	NOUN	_	_
+1	neturi	neturėti	VERB	_	_
+
+LVC.full
+0	nesprogs	nesprogti	VERB	_	_
+1	muilo	muilas	NOUN	_	_
+2	burbulas	burbulas	NOUN	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	galimybių	galimybė	NOUN	_	_
+
+LVC.full
+0	vykdyti	vykdyti	VERB	_	_
+1	skrydžius	skrydis	NOUN	_	_
+
+LVC.full
+0	keliamas	kelti	VERB	_	_
+1	klausimas	klausimas	NOUN	_	_
+
+LVC.full
+0	įvykdytos	įvykdyti	VERB	_	_
+1	atakos	ataka	NOUN	_	_
+
+LVC.full
+0	ataka	ataka	NOUN	_	_
+1	įvykdyta	įvykdyti	VERB	_	_
+
+LVC.full
+0	įvykdė	įvykdyti	VERB	_	_
+1	ataką	ataka	NOUN	_	_
+
+LVC.full
+0	įvykdytas	įvykdyti	VERB	_	_
+1	išpuolis	išpuolis	NOUN	_	_
+
+LVC.cause
+0	kelia	kelti	VERB	_	_
+1	grėsmę	grėsmė	NOUN	_	_
+
+LVC.full
+0	laiką	laikas	NOUN	_	_
+1	leisdavo	leisti	VERB	_	_
+
+LVC.full
+0	kratos	krata	NOUN	_	_
+1	atliktos	atlikti	VERB	_	_
+
+LVC.full
+0	veiksmai	veiksmas	NOUN	_	_
+1	atlikti	atlikti	VERB	_	_
+
+LVC.full
+0	atliekant	atlikti	VERB	_	_
+1	kratas	krata	NOUN	_	_
+
+LVC.full
+0	atliko	atlikti	VERB	_	_
+1	veiksmus	veiksmas	NOUN	_	_
+
+LVC.full
+0	atliekant	atlikti	VERB	_	_
+1	tyrimą	tyrimas	NOUN	_	_
+
+LVC.cause
+0	daryti	daryti	VERB	_	_
+1	poveikį	poveikis	NOUN	_	_
+
+LVC.full
+0	pateikė	pateikti	VERB	_	_
+1	įtarimus	įtarimas	NOUN	_	_
+
+LVC.full
+0	pateikti	pateikti	VERB	_	_
+1	įtarimus	įtarimas	NOUN	_	_
+
+LVC.full
+0	duoti	duoti	VERB	_	_
+1	parodymus	parodymas	NOUN	_	_
+
+VID
+0	Laikykite	laikyti	VERB	_	_
+1	sukryžiuotus	sukryžiuoti	VERB	_	_
+2	pirštus	pirštas	NOUN	_	_
+
+VID
+0	meilė	meilė	NOUN	_	_
+1	neturi	neturėti	VERB	_	_
+2	ribų	riba	NOUN	_	_
+
+LVC.full
+0	paslaugas	paslauga	NOUN	_	_
+1	teiksiančių	teikti	VERB	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	poveikį	poveikis	NOUN	_	_
+
+LVC.full
+0	atliekami	atlikti	VERB	_	_
+1	tyrimai	tyrimas	NOUN	_	_
+
+VID
+0	suakmenėjęs	suakmenėti	VERB	_	_
+1	iš	iš	ADP	_	_
+2	siaubo	siaubas	NOUN	_	_
+
+VID
+0	atsisuka	atsisukti	VERB	_	_
+1	prieš	prieš	ADP	_	_
+2	juos	jis	PRON	_	_
+3	pačius	pats	PRON	_	_
+
+VID
+0	duris	durys	NOUN	_	_
+1	atvers	atverti	VERB	_	_
+
+VID
+0	liks	likti	VERB	_	_
+1	už	už	ADP	_	_
+2	durų	durys	NOUN	_	_
+
+VID
+0	laukia	laukti	VERB	_	_
+1	aušros	aušra	NOUN	_	_
+
+VID
+0	vietos	vieta	NOUN	_	_
+1	ras	rasti	VERB	_	_
+
+LVC.full
+0	Nesėkmę	nesėkmė	NOUN	_	_
+1	patyrė	patirti	VERB	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+LVC.full
+0	vykdančiuose	vykdyti	VERB	_	_
+1	skrydžius	skrydis	NOUN	_	_
+
+LVC.full
+0	padarė	padaryti	VERB	_	_
+1	pažangą	pažanga	NOUN	_	_
+
+LVC.full
+0	pažanga	pažanga	NOUN	_	_
+1	padaryta	padaryti	VERB	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	reikšmę	reikšmė	NOUN	_	_
+
+LVC.full
+0	vykdomi	vykdyti	VERB	_	_
+1	skrydžiai	skrydis	NOUN	_	_
+
+LVC.full
+0	įtakos	įtaka	NOUN	_	_
+1	turėjo	turėti	VERB	_	_
+
+LVC.full
+0	nesiimti	nesiimti	VERB	_	_
+1	priemonių	priemonė	NOUN	_	_
+
+VID
+0	sušvirkštė	sušvirkšti	VERB	_	_
+1	injekcijas	injekcija	NOUN	_	_
+
+VID
+0	trinti	trinti	VERB	_	_
+1	suolą	suolas	NOUN	_	_
+
+VID
+0	Ribas	riba	NOUN	_	_
+1	trinanti	trinti	VERB	_	_
+
+VID
+0	dingsta	dingti	VERB	_	_
+1	nuo	nuo	ADP	_	_
+2	žemės	žemė	NOUN	_	_
+3	paviršiaus	paviršius	NOUN	_	_
+
+LVC.full
+0	pateikė	pateikti	VERB	_	_
+1	skundą	skundas	NOUN	_	_
+
+LVC.full
+0	priėmėme	priimti	VERB	_	_
+1	sprendimą	sprendimas	NOUN	_	_
+
+LVC.full
+0	priemones	priemonė	NOUN	_	_
+1	priims	priimti	VERB	_	_
+
+VID
+0	garbės	garbė	NOUN	_	_
+1	nedaro	nedaryti	VERB	_	_
+
+LVC.full
+0	priims	priimti	VERB	_	_
+1	sprendimą	sprendimas	NOUN	_	_
+
+LVC.full
+0	sprendimų	sprendimas	NOUN	_	_
+1	priimti	priimti	VERB	_	_
+
+VID
+0	buriama	burti	VERB	_	_
+1	vandeny	vanduo	NOUN	_	_
+2	šakėmis	šakė	NOUN	_	_
+
+LVC.cause
+0	padaryti	padaryti	VERB	_	_
+1	poveikį	poveikis	NOUN	_	_
+
+LVC.full
+0	atliko	atlikti	VERB	_	_
+1	kratas	krata	NOUN	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	įtaką	įtaka	NOUN	_	_
+
+LVC.full
+0	atlieka	atlikti	VERB	_	_
+1	tyrimą	tyrimas	NOUN	_	_
+
+LVC.full
+0	pateikė	pateikti	VERB	_	_
+1	pasiūlymą	pasiūlymas	NOUN	_	_
+
+LVC.full
+0	Sprendimui	sprendimas	NOUN	_	_
+1	priimti	priimti	VERB	_	_
+
+VID
+0	vairą	vairas	NOUN	_	_
+1	pasuko	pasukti	VERB	_	_
+
+LVC.full
+0	įvykdyti	įvykdyti	VERB	_	_
+1	perversmą	perversmas	NOUN	_	_
+
+LVC.full
+0	vykdyti	vykdyti	VERB	_	_
+1	teisingumą	teisingumas	NOUN	_	_
+
+LVC.full
+0	turinčių	turėti	VERB	_	_
+1	ambicijų	ambicija	NOUN	_	_
+
+LVC.full
+0	sprendimą	sprendimas	NOUN	_	_
+1	priimti	priimti	VERB	_	_
+
+LVC.full
+0	atlikus	atlikti	VERB	_	_
+1	darbus	darbas	NOUN	_	_
+
+LVC.full
+0	Atlikti	atlikti	VERB	_	_
+1	vertinimą	vertinimas	NOUN	_	_
+
+LVC.full
+0	darbus	darbas	NOUN	_	_
+1	atlikti	atlikti	VERB	_	_
+
+LVC.full
+0	imant	imti	VERB	_	_
+1	paskolą	paskola	NOUN	_	_
+
+VID
+0	kelią	kelias	NOUN	_	_
+1	skynėsi	skintis	VERB	_	_
+
+LVC.full
+0	sprendimai	sprendimas	NOUN	_	_
+1	priimami	priimti	VERB	_	_
+
+LVC.full
+0	pralaimėjimą	pralaimėjimas	NOUN	_	_
+1	patyrė	patirti	VERB	_	_
+
+VID
+0	neprasprūsta	neprasprūsti	VERB	_	_
+1	pro	pro	ADP	_	_
+2	akis	akis	NOUN	_	_
+
+LVC.full
+0	padariusiems	padaryti	VERB	_	_
+1	pažeidimą	pažeidimas	NOUN	_	_
+
+LVC.full
+0	reikšmę	reikšmė	NOUN	_	_
+1	turinčiam	turėti	VERB	_	_
+
+VID
+0	vaidindavo	vaidinti	VERB	_	_
+1	vaidmenį	vaidmuo	NOUN	_	_
+
+VID
+0	užgniaužti	užgniaužti	VERB	_	_
+1	kvapą	kvapas	NOUN	_	_
+
+LVC.full
+0	pranašumą	pranašumas	NOUN	_	_
+1	atiduoda	atiduoti	VERB	_	_
+
+LVC.full
+0	pranašumą	pranašumas	NOUN	_	_
+1	atiduoti	atiduoti	VERB	_	_
+
+VID
+0	įjungta	įjungti	VERB	_	_
+1	atbulinė	atbulinis	ADJ	_	_
+2	pavara	pavara	NOUN	_	_
+
+VID
+0	numoja	numoti	VERB	_	_
+1	ranka	ranka	NOUN	_	_
+
+LVC.full
+0	sprendimus	sprendimas	NOUN	_	_
+1	priimančiais	priimti	VERB	_	_
+
+LVC.full
+0	pėdomis	pėda	NOUN	_	_
+1	žengti	žengti	VERB	_	_
+
+VID
+0	pabruko	pabrukti	VERB	_	_
+1	uodegą	uodega	NOUN	_	_
+
+LVC.full
+0	vykdė	vykdyti	VERB	_	_
+1	kampaniją	kampanija	NOUN	_	_
+
+LVC.full
+0	vykdyti	vykdyti	VERB	_	_
+1	įsipareigojimą	įsipareigojimas	NOUN	_	_
+
+LVC.full
+0	Atsakomybę	atsakomybė	NOUN	_	_
+1	prisiėmė	prisiimti	VERB	_	_
+
+VID
+0	pakelti	pakelti	VERB	_	_
+1	kartelę	kartelė	NOUN	_	_
+
+LVC.full
+0	atgauti	atgauti	VERB	_	_
+1	reputaciją	reputacija	NOUN	_	_
+
+LVC.full
+0	vykdydami	vykdyti	VERB	_	_
+1	veiklą	veikla	NOUN	_	_
+
+LVC.full
+0	sprendimas	sprendimas	NOUN	_	_
+1	priimtas	priimti	VERB	_	_
+
+VID
+0	čiuožia	čiuožti	VERB	_	_
+1	žemyn	žemai	ADV	_	_
+
+LVC.full
+0	suteikiantis	suteikti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+VID
+0	suderinti	suderinti	VERB	_	_
+1	kampus	kampas	NOUN	_	_
+
+VID
+0	atėjo	ateiti	VERB	_	_
+1	sunkūs	sunkus	ADJ	_	_
+2	laikai	laikas	NOUN	_	_
+
+VID
+0	užgniaužusi	užgniaužti	VERB	_	_
+1	kvapą	kvapas	NOUN	_	_
+
+LVC.full
+0	sudaryti	sudaryti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+LVC.full
+0	suteikti	suteikti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+LVC.full
+0	vykdo	vykdyti	VERB	_	_
+1	veiklą	veikla	NOUN	_	_
+
+VID
+0	juda	judėti	VERB	_	_
+1	į	į	ADP	_	_
+2	priekį	priekis	NOUN	_	_
+
+LVC.full
+0	Kratos	krata	NOUN	_	_
+1	atliktos	atlikti	VERB	_	_
+
+LVC.full
+0	nesiėmė	nesiimti	VERB	_	_
+1	veiksmų	veiksmas	NOUN	_	_
+
+LVC.full
+0	patyrė	patirti	VERB	_	_
+1	nuostolių	nuostolis	NOUN	_	_
+
+LVC.full
+0	vykdomą	vykdyti	VERB	_	_
+1	veiklą	veikla	NOUN	_	_
+
+LVC.full
+0	nevykdė	nevykdyti	VERB	_	_
+1	įsipareigojimo	įsipareigojimas	NOUN	_	_
+
+LVC.full
+0	atliktas	atlikti	VERB	_	_
+1	pratimas	pratimas	NOUN	_	_
+
+LVC.full
+0	priėmę	priimti	VERB	_	_
+1	pataisą	pataisa	NOUN	_	_
+
+VID
+0	į	į	ADP	_	_
+1	šoną	šonas	NOUN	_	_
+2	nustūmė	nustumti	VERB	_	_
+
+VID
+0	žemai	žemai	ADV	_	_
+1	nusilenkė	nusilenkti	VERB	_	_
+
+VID
+0	iš	iš	ADP	_	_
+1	kelio	kelias	NOUN	_	_
+2	šlavusios	šluoti	VERB	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	galimybes	galimybė	NOUN	_	_
+
+LVC.full
+0	padariau	padaryti	VERB	_	_
+1	klaidų	klaida	NOUN	_	_
+
+VID
+0	subyrėjo	subyrėti	VERB	_	_
+1	lyg	lyg	SCONJ	_	_
+2	smėlio	smėlis	NOUN	_	_
+3	bokštai	bokštas	NOUN	_	_
+
+LVC.full
+0	atlikti	atlikti	VERB	_	_
+1	patikrinimo	patikrinimas	NOUN	_	_
+
+LVC.full
+0	atlikti	atlikti	VERB	_	_
+1	patikrinimą	patikrinimas	NOUN	_	_
+
+LVC.full
+0	atliko	atlikti	VERB	_	_
+1	patikrinimą	patikrinimas	NOUN	_	_
+
+LVC.full
+0	vykdant	vykdyti	VERB	_	_
+1	darbus	darbas	NOUN	_	_
+
+LVC.full
+0	priimtas	priimti	VERB	_	_
+1	nutarimas	nutarimas	NOUN	_	_
+
+VID
+0	kirto	kirsti	VERB	_	_
+1	atgal	atgal	ADV	_	_
+
+LVC.full
+0	išvadas	išvada	NOUN	_	_
+1	daro	daryti	VERB	_	_
+
+LVC.full
+0	nesiimdamas	nesiimti	VERB	_	_
+1	priemonių	priemonė	NOUN	_	_
+
+LVC.full
+0	skrydžiai	skrydis	NOUN	_	_
+1	vykdyti	vykdyti	VERB	_	_
+
+LVC.full
+0	suteiks	suteikti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+LVC.full
+0	Skrydžiai	skrydis	NOUN	_	_
+1	vykdomi	vykdyti	VERB	_	_
+
+LVC.full
+0	Skrydžius	skrydis	NOUN	_	_
+1	vykdys	vykdyti	VERB	_	_
+
+LVC.full
+0	įvykdo	įvykdyti	VERB	_	_
+1	skrydžių	skrydis	NOUN	_	_
+
+LVC.full
+0	suteikianti	suteikti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+VID
+0	sėkmės	sėkmė	NOUN	_	_
+1	lydimas	lydėti	VERB	_	_
+
+LVC.full
+0	atliekamas	atlikti	VERB	_	_
+1	tyrimas	tyrimas	NOUN	_	_
+
+VID
+0	atidaviau	atiduoti	VERB	_	_
+1	į	į	ADP	_	_
+2	geras	geras	ADJ	_	_
+3	rankas	ranka	NOUN	_	_
+
+VID
+0	grąžina	grąžinti	VERB	_	_
+1	skolą	skola	NOUN	_	_
+
+VID
+0	skolą	skola	NOUN	_	_
+1	atidaviau	atiduoti	VERB	_	_
+
+VID
+0	į	į	ADP	_	_
+1	kovas	kova	NOUN	_	_
+2	stos	stoti	VERB	_	_
+
+VID
+0	į	į	ADP	_	_
+1	kovą	kova	NOUN	_	_
+2	stos	stoti	VERB	_	_
+
+VID
+0	keliai	kelias	NOUN	_	_
+1	susikirstų	susikirsti	VERB	_	_
+
+LVC.full
+0	Įvykdžius	įvykdyti	VERB	_	_
+1	ataką	ataka	NOUN	_	_
+
+LVC.full
+0	dedantys	dėti	VERB	_	_
+1	pastangas	pastanga	NOUN	_	_
+
+VID
+0	liežuviu	liežuvis	NOUN	_	_
+1	malti	malti	VERB	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	prasmę	prasmė	NOUN	_	_
+
+VID
+0	keliai	kelias	NOUN	_	_
+1	linko	linkti	VERB	_	_
+
+VID
+0	stojo	stoti	VERB	_	_
+1	į	į	ADP	_	_
+2	savo	savęs	PRON	_	_
+3	vietas	vieta	NOUN	_	_
+
+VID
+0	išvertė	išversti	VERB	_	_
+1	iš	iš	ADP	_	_
+2	koto	kotas	NOUN	_	_
+
+VID
+0	kilnojo	kilnoti	VERB	_	_
+1	stogą	stogas	NOUN	_	_
+
+LVC.cause
+0	keliantis	kelti	VERB	_	_
+1	grėsmę	grėsmė	NOUN	_	_
+
+VID
+0	duris	durys	NOUN	_	_
+1	atvėrė	atverti	VERB	_	_
+
+VID
+0	atvėrė	atverti	VERB	_	_
+1	duris	durys	NOUN	_	_
+
+LVC.full
+0	pateikiau	pateikti	VERB	_	_
+1	skundą	skundas	NOUN	_	_
+
+LVC.full
+0	atliktume	atlikti	VERB	_	_
+1	tyrimą	tyrimas	NOUN	_	_
+
+VID
+0	užsidėti	užsidėti	VERB	_	_
+1	kaukę	kaukė	NOUN	_	_
+
+VID
+0	žengiau	žengti	VERB	_	_
+1	žingsnį	žingsnis	NOUN	_	_
+
+VID
+0	būti	būti	VERB	_	_
+1	„	„	PUNCT	_	_
+2	čia	čia	ADV	_	_
+3	ir	ir	CCONJ	_	_
+4	dabar	dabar	ADV	_	_
+5	“	“	PUNCT	_	_
+
+LVC.full
+0	atlikti	atlikti	VERB	_	_
+1	darbus	darbas	NOUN	_	_
+
+VID
+0	keliai	kelias	NOUN	_	_
+1	išsiskyrė	išsiskirti	VERB	_	_
+
+VID
+0	Rankų	ranka	NOUN	_	_
+1	nenuleidau	nenuleisti	VERB	_	_
+
+VID
+0	atiduoti	atiduoti	VERB	_	_
+1	skolas	skola	NOUN	_	_
+
+VID
+0	turėtų	turėti	VERB	_	_
+1	gražią	gražus	ADJ	_	_
+2	ateitį	ateitis	NOUN	_	_
+
+VID
+0	nenuleidžia	nenuleisti	VERB	_	_
+1	rankų	ranka	NOUN	_	_
+
+VID
+0	gero	geras	ADJ	_	_
+1	nelauk	nelaukti	VERB	_	_
+
+VID
+0	į	į	ADP	_	_
+1	galvą	galva	NOUN	_	_
+2	įkalta	įkalti	VERB	_	_
+
+VID
+0	stumiame	stumti	VERB	_	_
+1	į	į	ADP	_	_
+2	kampą	kampas	NOUN	_	_
+
+LVC.full
+0	atliko	atlikti	VERB	_	_
+1	tyrimą	tyrimas	NOUN	_	_
+
+LVC.full
+0	vykdė	vykdyti	VERB	_	_
+1	įsipareigojimus	įsipareigojimas	NOUN	_	_
+
+LVC.full
+0	darė	daryti	VERB	_	_
+1	užuominas	užuomina	NOUN	_	_
+
+VID
+0	taurė	taurė	NOUN	_	_
+1	perpildyta	perpildyti	VERB	_	_
+
+VID
+0	audrą	audra	NOUN	_	_
+1	sukėlė	sukelti	VERB	_	_
+
+VID
+0	peržengė	peržengti	VERB	_	_
+1	ribą	riba	NOUN	_	_
+
+VID
+0	kreivai	kreivai	ADV	_	_
+1	žiūri	žiūrėti	VERB	_	_
+
+VID
+0	perlenks	perlenkti	VERB	_	_
+1	lazdą	lazda	NOUN	_	_
+
+LVC.full
+0	neturi	neturėti	VERB	_	_
+1	įtakos	įtaka	NOUN	_	_
+
+LVC.full
+0	darbai	darbas	NOUN	_	_
+1	atlikti	atlikti	VERB	_	_
+
+VID
+0	rasti	rasti	VERB	_	_
+1	bendrą	bendras	ADJ	_	_
+2	kalbą	kalba	NOUN	_	_
+
+VID
+0	kaip	kaip	SCONJ	_	_
+1	ant	ant	ADP	_	_
+2	mielių	mielės	NOUN	_	_
+3	augantį	augti	VERB	_	_
+
+VID
+0	sprogus	sprogus	ADJ	_	_
+1	burbulams	burbulas	NOUN	_	_
+
+VID
+0	įsitikino	įsitikinti	VERB	_	_
+1	savo	savęs	PRON	_	_
+2	kailiu	kailis	NOUN	_	_
+
+LVC.full
+0	neatlikta	neatlikti	VERB	_	_
+1	apžiūra	apžiūra	NOUN	_	_
+
+VID
+0	akis	akis	NOUN	_	_
+1	paganyti	paganyti	VERB	_	_
+
+LVC.full
+0	leido	leisti	VERB	_	_
+1	laiką	laikas	NOUN	_	_
+
+LVC.full
+0	įvykdė	įvykdyti	VERB	_	_
+1	skrydį	skrydis	NOUN	_	_
+
+LVC.full
+0	turime	turėti	VERB	_	_
+1	pranašumą	pranašumas	NOUN	_	_
+
+LVC.full
+0	darome	daryti	VERB	_	_
+1	prielaidą	prielaida	NOUN	_	_
+
+LVC.full
+0	Tyrimą	tyrimas	NOUN	_	_
+1	atliekanti	atlikti	VERB	_	_
+
+LVC.full
+0	turėti	turėti	VERB	_	_
+1	įtakos	įtaka	NOUN	_	_
+
+LVC.full
+0	pateikę	pateikti	VERB	_	_
+1	pasiūlymus	pasiūlymas	NOUN	_	_
+
+VID
+0	imti	imti	VERB	_	_
+1	į	į	ADP	_	_
+2	rankas	ranka	NOUN	_	_
+
+VID
+0	koją	koja	NOUN	_	_
+1	kišo	kišti	VERB	_	_
+
+VID
+0	širdį	širdis	NOUN	_	_
+1	skauda	skaudėti	VERB	_	_
+
+VID
+0	slenkstį	slenkstis	NOUN	_	_
+1	mynė	minti	VERB	_	_
+
+LVC.full
+0	priimti	priimti	VERB	_	_
+1	sprendimo	sprendimas	NOUN	_	_
+
+LVC.full
+0	atlikti	atlikti	VERB	_	_
+1	veiksmų	veiksmas	NOUN	_	_
+
+LVC.full
+0	prašymą	prašymas	NOUN	_	_
+1	pateikė	pateikti	VERB	_	_
+
+LVC.full
+0	priėmė	priimti	VERB	_	_
+1	sprendimą	sprendimas	NOUN	_	_
+
+VID
+0	taškas	taškas	NOUN	_	_
+1	nepadėtas	nepadėti	VERB	_	_
+
+LVC.full
+0	ekspertizę	ekspertizė	NOUN	_	_
+1	atlikę	atlikti	VERB	_	_
+
+LVC.full
+0	suteikti	suteikti	VERB	_	_
+1	paramą	parama	NOUN	_	_
+
+VID
+0	atranda	atrasti	VERB	_	_
+1	kelią	kelias	NOUN	_	_
+
+LVC.cause
+0	darančių	daryti	VERB	_	_
+1	įtaką	įtaka	NOUN	_	_
+
+LVC.full
+0	įtakos	įtaka	NOUN	_	_
+1	turi	turėti	VERB	_	_
+
+VID
+0	sukėlė	sukelti	VERB	_	_
+1	triukšmą	triukšmas	NOUN	_	_
+
+LVC.full
+0	tyrimą	tyrimas	NOUN	_	_
+1	atliekantys	atlikti	VERB	_	_
+
+LVC.full
+0	atliko	atlikti	VERB	_	_
+1	kratų	krata	NOUN	_	_
+
+LVC.full
+0	įtarimai	įtarimas	NOUN	_	_
+1	pareikšti	pareikšti	VERB	_	_
+
+LVC.full
+0	daryti	daryti	VERB	_	_
+1	išvadą	išvada	NOUN	_	_
+
+LVC.full
+0	padarytas	padaryti	VERB	_	_
+1	nusikaltimas	nusikaltimas	NOUN	_	_
+
+LVC.cause
+0	darė	daryti	VERB	_	_
+1	įtaką	įtaka	NOUN	_	_
+
+LVC.full
+0	veiksmai	veiksmas	NOUN	_	_
+1	atliekami	atlikti	VERB	_	_
+
+LVC.full
+0	laiko	laikas	NOUN	_	_
+1	leido	leisti	VERB	_	_
+
+VID
+0	pakelti	pakelti	VERB	_	_
+1	ranką	ranka	NOUN	_	_
+
+LVC.full
+0	imti	imti	VERB	_	_
+1	paskolas	paskola	NOUN	_	_
+
+VID
+0	atimanti	atimti	VERB	_	_
+1	žadą	žadas	NOUN	_	_
+
+VID
+0	užgniaužia	užgniaužti	VERB	_	_
+1	kvapą	kvapas	NOUN	_	_
+
+LVC.full
+0	imtis	imtis	VERB	_	_
+1	veiksmų	veiksmas	NOUN	_	_
+
+LVC.full
+0	darantis	daryti	VERB	_	_
+1	spaudimą	spaudimas	NOUN	_	_
+
+VID
+0	deda	dėti	VERB	_	_
+1	paskutinius	paskutinis	ADJ	_	_
+2	štrichus	štrichas	NOUN	_	_
+
+LVC.full
+0	teikia	teikti	VERB	_	_
+1	konsultacijas	konsultacija	NOUN	_	_
+
+LVC.full
+0	paslaugas	paslauga	NOUN	_	_
+1	teikiančias	teikti	VERB	_	_
+
+VID
+0	užkirto	užkirsti	VERB	_	_
+1	kelią	kelias	NOUN	_	_
+
+LVC.full
+0	atlikusi	atlikti	VERB	_	_
+1	patikrinimą	patikrinimas	NOUN	_	_
+
+LVC.full
+0	imtasi	imtis	VERB	_	_
+1	priemonių	priemonė	NOUN	_	_
+
+LVC.full
+0	priėmęs	priimti	VERB	_	_
+1	sprendimą	sprendimas	NOUN	_	_
+
+LVC.full
+0	suteikė	suteikti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+LVC.full
+0	turėti	turėti	VERB	_	_
+1	galimybę	galimybė	NOUN	_	_
+
+VID
+0	liejo	lieti	VERB	_	_
+1	prakaitą	prakaitas	NOUN	_	_
+
+LVC.full
+0	kėlė	kelti	VERB	_	_
+1	prielaidas	prielaida	NOUN	_	_
+
+LVC.full
+0	turi	turėti	VERB	_	_
+1	įtakos	įtaka	NOUN	_	_
+
+LVC.full
+0	kelti	kelti	VERB	_	_
+1	klausimą	klausimas	NOUN	_	_
+
+LVC.full
+0	pasirodymą	pasirodymas	NOUN	_	_
+1	surengė	surengti	VERB	_	_
+
+LVC.full
+0	įveda	įvesti	VERB	_	_
+1	apribojimus	apribojimas	NOUN	_	_
+
+LVC.full
+0	dedamos	dėti	VERB	_	_
+1	pastangos	pastanga	NOUN	_	_
+
+LVC.full
+0	imtis	imtis	VERB	_	_
+1	priemonių	priemonė	NOUN	_	_
+
+VID
+0	savo	savęs	PRON	_	_
+1	kailiu	kailis	NOUN	_	_
+2	įsitikinti	įsitikinti	VERB	_	_
+
+LVC.full
+0	teikdamas	teikti	VERB	_	_
+1	paslaugas	paslauga	NOUN	_	_
+
+LVC.full
+0	teikiantį	teikti	VERB	_	_
+1	paslaugas	paslauga	NOUN	_	_
+
+LVC.full
+0	teikia	teikti	VERB	_	_
+1	paslaugas	paslauga	NOUN	_	_
+
+VID
+0	nesileido	nesileisti	VERB	_	_
+1	į	į	ADP	_	_
+2	kalbas	kalba	NOUN	_	_
+
+LVC.full
+0	teikiamas	teikti	VERB	_	_
+1	paslaugas	paslauga	NOUN	_	_
+
+LVC.full
+0	nesėkmę	nesėkmė	NOUN	_	_
+1	patyrė	patirti	VERB	_	_
+
