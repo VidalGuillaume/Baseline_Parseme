@@ -1,0 +1,41 @@
+form_lemma_upostag
+69
+## Global evaluation
+* MWE-based: P=216/368=0.5870 R=216/500=0.4320 F=0.4977
+* Tok-based: P=470/743=0.6326 R=470/1010=0.4653 F=0.5362
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=7/368=2%
+* LVC.cause: MWE-based: P=4/7=0.5714 R=4/14=0.2857 F=0.3810
+* LVC.cause: Tok-based: P=8/14=0.5714 R=8/28=0.2857 F=0.3810
+* LVC.full: MWE-proportion: gold=382/500=76% pred=301/368=82%
+* LVC.full: MWE-based: P=175/301=0.5814 R=175/382=0.4581 F=0.5124
+* LVC.full: Tok-based: P=377/605=0.6231 R=377/766=0.4922 F=0.5500
+* VID: MWE-proportion: gold=104/500=21% pred=62/368=17%
+* VID: MWE-based: P=33/62=0.5323 R=33/104=0.3173 F=0.3976
+* VID: Tok-based: P=75/128=0.5859 R=75/216=0.3472 F=0.4360
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=207/368=56%
+* Continuous: MWE-based: P=181/207=0.8744 R=181/403=0.4491 F=0.5934
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=161/368=44%
+* Discontinuous: MWE-based: P=35/161=0.2174 R=35/97=0.3608 F=0.2713
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=368/368=100%
+* Multi-token: MWE-based: P=216/368=0.5870 R=216/500=0.4320 F=0.4977
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/368=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=368/368=100%
+* Seen-in-train: MWE-based: P=216/368=0.5870 R=216/414=0.5217 F=0.5524
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/368=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=164/368=45%
+* Variant-of-train: MWE-based: P=35/164=0.2134 R=35/210=0.1667 F=0.1872
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=204/368=55%
+* Identical-to-train: MWE-based: P=181/204=0.8873 R=181/204=0.8873 F=0.8873
+

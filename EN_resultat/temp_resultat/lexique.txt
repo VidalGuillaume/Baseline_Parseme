@@ -1,0 +1,1142 @@
+VID
+0	take	take	VERB	_	_
+1	it	it	PRON	0	obj
+
+LVC.full
+0	make	make	VERB	_	_
+1	mistake	mistake	NOUN	0	obj
+
+VPC.full
+0	revved	rev	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VPC.semi
+0	wake	wake	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VID
+0	hand	hand	VERB	_	_
+1	it	it	PRON	0	obj
+2	to	to	ADP	3	case
+3	them	they	PRON	0	obl
+
+VPC.full
+0	Watch	watch	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+VPC.full
+0	clicked	click	VERB	_	_
+1	on	on	ADP	0	compound:prt
+
+LVC.full
+0	warning	warning	NOUN	_	_
+1	given	give	VERB	0	acl:relcl
+
+LVC.full
+0	do	do	VERB	_	_
+1	ironing	iron	VERB	0	xcomp
+
+VID
+0	take	take	VERB	_	_
+1	seriously	serious	ADV	0	advmod
+
+VPC.full
+0	turned	turn	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VPC.full
+0	wheeled	wheel	VERB	_	_
+1	around	around	ADV	0	advmod
+
+VPC.full
+0	turned	turn	VERB	_	_
+1	on	on	ADV	0	advmod
+
+LVC.full
+0	have	have	VERB	_	_
+1	breakfast	breakfast	NOUN	0	obj
+
+LVC.full
+0	gave	give	VERB	_	_
+1	squeal	squeal	NOUN	0	obj
+
+VID
+0	bear	bear	VERB	_	_
+1	in	in	ADP	2	case
+2	mind	mind	NOUN	0	obl
+
+LVC.full
+0	feel	feel	VERB	_	_
+1	sick	sick	ADJ	0	xcomp
+
+LVC.full
+0	conducting	conduct	VERB	_	_
+1	raids	raid	NOUN	0	obj
+
+VPC.semi
+0	made	make	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VPC.full
+0	set	set	VERB	_	_
+1	off	off	ADV	0	compound:prt
+
+LVC.full
+0	gave	give	VERB	_	_
+1	tap	tap	NOUN	0	obj
+
+VID
+0	made	make	VERB	_	_
+1	it	it	PRON	0	obj
+
+VID
+0	make	make	VERB	_	_
+1	sure	sure	ADJ	0	xcomp
+
+LVC.full
+0	made	make	VERB	_	_
+1	a	a	DET	2	det
+2	tour	tour	NOUN	0	obj
+
+LVC.full
+0	had	have	VERB	_	_
+1	plan	plan	NOUN	0	obj
+
+VPC.full
+0	show	show	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VID
+0	come	come	VERB	_	_
+1	of	of	ADP	2	case
+2	it	it	PRON	0	obl
+
+LVC.full
+0	gave	give	VERB	_	_
+1	shrug	shrug	NOUN	0	obj
+
+LVC.full
+0	do	do	VERB	_	_
+1	harm	harm	NOUN	0	obj
+
+VPC.full
+0	polishing	polish	VERB	_	_
+1	off	off	ADV	0	compound:prt
+
+LVC.full
+0	made	make	VERB	_	_
+1	effort	effort	NOUN	0	obj
+
+VID
+0	has	have	VERB	_	_
+1	to	to	PART	2	mark
+2	do	do	VERB	0	xcomp
+3	with	with	ADP	_	_
+
+VPC.full
+0	goes	go	VERB	_	_
+1	on	on	ADV	0	compound:prt
+
+VID
+0	take	take	VERB	_	_
+1	place	place	NOUN	0	obj
+
+LVC.full
+0	makes	make	VERB	_	_
+1	appearance	appearance	NOUN	0	obj
+
+VPC.full
+0	getting	get	VERB	_	_
+1	at	at	ADP	_	_
+
+VID
+0	talk	talk	VERB	_	_
+1	circles	circle	NOUN	0	obj
+2	around	around	ADP	_	_
+
+VPC.full
+0	give	give	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+LVC.full
+0	take	take	VERB	_	_
+1	look	look	NOUN	0	obj
+
+IAV
+0	consists	consist	VERB	_	_
+1	of	of	ADP	_	_
+
+IAV
+0	based	base	VERB	_	_
+1	on	on	ADP	_	_
+
+IAV
+0	referred	refer	VERB	_	_
+1	to	to	ADP	0	obl
+
+VID
+0	drop-down	drop-down	ADJ	_	_
+
+VPC.full
+0	watch	watch	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+VPC.full
+0	get	get	VERB	_	_
+1	off	off	ADV	0	compound:prt
+
+VPC.full
+0	picked	pick	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VID
+0	have	have	VERB	_	_
+1	to	to	PART	2	mark
+2	show	show	VERB	0	xcomp
+3	for	for	ADP	4	case
+4	it	it	PRON	2	obl
+
+VPC.semi
+0	copy	copy	VERB	_	_
+1	out	out	ADV	0	advmod
+
+VID
+0	break	break	VERB	_	_
+1	free	free	ADJ	0	xcomp
+
+VPC.full
+0	cut	cut	VERB	_	_
+1	off	off	ADV	0	compound:prt
+
+VPC.full
+0	going	go	VERB	_	_
+1	on	on	ADV	0	compound:prt
+
+VID
+0	let	let	VERB	_	_
+1	alone	alone	ADJ	0	xcomp
+
+IAV
+0	refers	refer	VERB	_	_
+1	to	to	ADP	_	_
+
+VID
+0	had	have	VERB	_	_
+1	a	a	DET	2	det
+2	mind	mind	NOUN	0	obj
+3	to	to	PART	_	_
+
+LVC.full
+0	made	make	VERB	_	_
+1	attempt	attempt	NOUN	0	obj
+
+LVC.full
+0	felt	feel	VERB	_	_
+1	need	need	NOUN	0	obj
+
+LVC.full
+0	made	make	VERB	_	_
+1	jab	jab	NOUN	0	obj
+
+VID
+0	What	what	PRON	1	obj
+1	became	become	VERB	_	_
+2	of	of	ADP	_	_
+
+LVC.full
+0	work	work	NOUN	1	nsubj:pass
+1	done	do	VERB	_	_
+
+VPC.full
+0	giving	give	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VPC.full
+0	went	go	VERB	_	_
+1	on	on	ADV	0	compound:prt
+
+VPC.full
+0	cleared	clear	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+VPC.full
+0	looking	look	VERB	_	_
+1	after	after	ADP	0	compound:prt
+
+LVC.full
+0	got	get	VERB	_	_
+1	fever	fever	NOUN	0	obj
+
+LVC.full
+0	made	make	VERB	_	_
+1	speech	speech	NOUN	0	obj
+
+IAV
+0	came	come	VERB	_	_
+1	upon	upon	ADP	_	_
+
+VPC.semi
+0	voted	vote	VERB	_	_
+1	down	down	ADV	0	compound:prt
+
+VPC.full
+0	turns	turn	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+LVC.full
+0	maintain	maintain	VERB	_	_
+1	hygiene	hygiene	NOUN	_	_
+
+LVC.full
+0	vote	vote	NOUN	1	nsubj:pass
+1	taken	take	VERB	_	_
+
+VPC.full
+0	set	set	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+LVC.full
+0	job	job	NOUN	1	nsubj:pass
+1	done	do	VERB	_	_
+
+LVC.full
+0	take	take	VERB	_	_
+1	note	note	NOUN	0	obj
+
+VID
+0	fall	fall	VERB	_	_
+1	by	by	ADP	3	case
+2	the	the	DET	3	det
+3	wayside	wayside	NOUN	0	obl
+
+LVC.full
+0	reach	reach	VERB	_	_
+1	decisions	decision	NOUN	0	obj
+
+LVC.full
+0	take	take	VERB	_	_
+1	action	action	NOUN	0	obj
+
+VID
+0	goes	go	VERB	_	_
+1	to	to	PART	2	mark
+2	show	show	VERB	0	xcomp
+
+LVC.full
+0	take	take	VERB	_	_
+1	view	view	NOUN	0	obj
+
+LVC.full
+0	experience	experience	VERB	_	_
+1	problems	problem	NOUN	0	obj
+
+VID
+0	go	go	VERB	_	_
+1	hand	hand	ADV	0	advmod
+2	in	in	ADP	1	fixed
+3	hand	hand	NOUN	1	fixed
+
+LVC.full
+0	effects	effect	NOUN	_	_
+1	have	have	VERB	0	acl:relcl
+
+LVC.full
+0	make	make	VERB	_	_
+1	decisions	decision	NOUN	0	obj
+
+VPC.full
+0	carried	carry	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+VPC.full
+0	come	come	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+LVC.full
+0	made	make	VERB	_	_
+1	grimace	grimace	NOUN	0	obj
+
+VPC.semi
+0	try	try	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+VPC.full
+0	looking	look	VERB	_	_
+1	after	after	ADV	0	compound:prt
+
+VPC.semi
+0	take	take	VERB	_	_
+1	over	over	ADV	0	compound:prt
+
+VID
+0	turning	turn	VERB	_	_
+1	the	the	DET	2	det
+2	tables	table	NOUN	0	obj
+
+LVC.full
+0	light	light	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+LVC.full
+0	have	have	VERB	_	_
+1	need	need	NOUN	0	obj
+
+LVC.full
+0	cropped	crop	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VPC.full
+0	laid	lay	VERB	_	_
+1	out	out	ADV	_	_
+
+VPC.full
+0	broken	break	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+VPC.semi
+0	feed	feed	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VPC.full
+0	go	go	VERB	_	_
+1	off	off	ADV	0	compound:prt
+
+VPC.full
+0	brought	bring	VERB	_	_
+1	up	up	ADV	0	compound:prt
+
+VPC.full
+0	come	come	VERB	_	_
+1	out	out	ADV	0	compound:prt
+
+VID
+0	let	let	VERB	_	_
+1	alone	alone	ADV	0	fixed
+
+LVC.full
+0	make	make	VERB	_	_
+1	deal	deal	NOUN	0	obj
+
+LVC.full
+0	put	put	VERB	_	_
+1	on	on	ADP	2	case
+2	smile	smile	NOUN	0	obl
+
+IAV
+0	turn	turn	VERB	_	_
+1	into	into	ADP	_	_
+
+VID
+0	Leave	leave	VERB	_	_
+1	alone	alone	ADJ	0	xcomp
+
+VID
+0	get	get	VERB	_	_
+1	in	in	ADP	2	case
+2	touch	touch	NOUN	0	obl
+
+VPC.full
+0	get	get	VERB	_	_
+1	together	together	ADV	0	advmod
+
+VPC.full
+0	take	take	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	find	find	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VID
+0	make	make	VERB	_	_
+1	matters	matter	NOUN	0	obj
+
+LVC.full
+0	take	take	VERB	_	_
+1	care	care	NOUN	0	obj
+
+LVC.full
+0	Have	have	VERB	_	_
+1	great	great	ADJ	2	amod
+2	weekend	weekend	NOUN	0	obj
+
+LVC.full
+0	give	give	VERB	_	_
+1	call	call	NOUN	0	obj
+
+VPC.full
+0	Turn	turn	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.full
+0	have	have	VERB	_	_
+1	fun	fun	NOUN	0	obj
+
+VPC.semi
+0	storing	store	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.full
+0	Take	take	VERB	_	_
+1	care	care	NOUN	0	obj
+
+VID
+0	gave	give	VERB	_	_
+1	birth	birth	NOUN	0	obj
+
+VPC.full
+0	look	look	VERB	_	_
+1	forward	forward	ADV	0	advmod
+
+VPC.semi
+0	pass	pass	VERB	_	_
+1	along	along	ADV	0	advmod
+
+VPC.full
+0	marked	mark	VERB	_	_
+1	up	up	ADP	0	compound
+
+LVC.full
+0	had	have	VERB	_	_
+1	chance	chance	NOUN	0	obj
+
+LVC.full
+0	get	get	VERB	_	_
+1	chance	chance	NOUN	0	obj
+
+LVC.full
+0	make	make	VERB	_	_
+1	adjustment	adjustment	NOUN	0	obj
+
+IAV
+0	got	get	VERB	_	_
+1	of	of	ADP	_	_
+
+VPC.full
+0	work	work	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+LVC.full
+0	make	make	VERB	_	_
+1	adjustments	adjustment	NOUN	0	obj
+
+VPC.full
+0	going	go	VERB	_	_
+1	forward	forward	ADV	0	advmod
+
+VPC.full
+0	messed	mess	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.cause
+0	causing	cause	VERB	_	_
+1	issue	issue	NOUN	0	obj
+
+VPC.full
+0	get	get	VERB	_	_
+1	back	back	ADV	0	advmod
+
+VPC.full
+0	going	go	VERB	_	_
+1	forward	forward	ADV	0	compound
+
+VPC.full
+0	gearing	gear	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	go	go	VERB	_	_
+1	ahead	ahead	ADV	0	advmod
+
+VPC.full
+0	hook	hook	VERB	_	_
+1	in	in	ADP	0	compound:prt
+
+VPC.full
+0	kick	kick	VERB	_	_
+1	back	back	ADV	0	advmod
+
+VID
+0	split	split	VERB	_	_
+1	and	and	CCONJ	2	cc
+2	cover	cover	VERB	0	conj
+
+VPC.full
+0	fill	fill	VERB	_	_
+1	in	in	ADP	0	compound:prt
+
+VPC.semi
+0	hear	hear	VERB	_	_
+1	back	back	ADV	0	advmod
+
+VPC.full
+0	keep	keep	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	dial	dial	VERB	_	_
+1	in	in	ADP	0	compound:prt
+
+VPC.full
+0	lay	lay	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	set	set	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	pick	pick	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VID
+0	file	file	VERB	_	_
+1	suit	suit	NOUN	0	obj
+
+VPC.full
+0	follow	follow	VERB	_	_
+1	through	through	ADP	0	compound:prt
+
+VPC.full
+0	setting	set	VERB	_	_
+1	forth	forth	ADV	0	advmod
+
+VPC.full
+0	passed	pass	VERB	_	_
+1	along	along	ADV	0	advmod
+
+VPC.full
+0	pulling	pull	VERB	_	_
+1	together	together	ADV	0	advmod
+
+LVC.full
+0	meet	meet	VERB	_	_
+1	needs	need	NOUN	0	obj
+
+VPC.full
+0	take	take	VERB	_	_
+1	on	on	ADP	0	compound:prt
+
+VPC.semi
+0	kills	kill	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+VID
+0	monkey	monkey	NOUN	1	nsubj
+1	see	see	VERB	_	_
+
+VID
+0	monkey	monkey	NOUN	1	nsubj
+1	do	do	VERB	_	_
+
+VPC.full
+0	grow	grow	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	fuck	fuck	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.full
+0	take	take	VERB	_	_
+1	responsibility	responsibility	NOUN	0	obj
+
+VPC.full
+0	fucked	fuck	VERB	_	_
+1	up	up	ADP	0	compound
+
+LVC.full
+0	doing	do	VERB	_	_
+1	drugs	drug	NOUN	0	obj
+
+VPC.full
+0	pawn	pawn	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+LVC.full
+0	made	make	VERB	_	_
+1	choice	choice	NOUN	0	obj
+
+VPC.full
+0	drag	drag	VERB	_	_
+1	down	down	ADP	0	compound:prt
+
+LVC.cause
+0	give	give	VERB	_	_
+1	right	right	NOUN	0	obj
+
+IAV
+0	get	get	VERB	_	_
+1	out	out	ADP	_	_
+2	of	of	SCONJ	_	_
+
+VPC.full
+0	stamped	stamp	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	woke	wake	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	come	come	VERB	_	_
+1	forward	forward	ADV	0	advmod
+
+VPC.full
+0	brings	bring	VERB	_	_
+1	down	down	ADV	0	advmod
+
+LVC.cause
+0	create	create	VERB	_	_
+1	climate	climate	NOUN	0	obj
+
+LVC.full
+0	progress	progress	NOUN	_	_
+1	make	make	VERB	0	acl:relcl
+
+VID
+0	force	force	VERB	_	_
+1	our	we	PRON	2	nmod:poss
+2	hand	hand	NOUN	0	obj
+
+VID
+0	crash	crash	VERB	_	_
+1	and	and	CCONJ	2	cc
+2	burn	burn	VERB	0	conj
+
+VID
+0	go	go	VERB	_	_
+1	down	down	ADV	0	advmod
+2	kicking	kick	VERB	0	advcl
+3	and	and	CCONJ	4	cc
+4	screaming	scream	VERB	2	conj
+
+VPC.full
+0	print	print	VERB	_	_
+1	out	out	ADV	0	advmod
+
+VPC.full
+0	Fill	fill	VERB	_	_
+1	in	in	ADP	0	compound:prt
+
+VPC.full
+0	blew	blow	VERB	_	_
+1	down	down	ADP	0	compound:prt
+
+VPC.semi
+0	ate	eat	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VID
+0	dusted	dust	VERB	_	_
+1	their	they	PRON	2	nmod:poss
+2	hands	hand	NOUN	0	obj
+
+VPC.full
+0	wrote	write	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+VPC.full
+0	bringing	bring	VERB	_	_
+1	back	back	ADV	0	advmod
+
+LVC.full
+0	given	give	VERB	_	_
+1	credence	credence	NOUN	0	obj
+
+LVC.full
+0	research	research	NOUN	_	_
+1	conducted	conduct	VERB	0	acl
+
+VID
+0	smacks	smack	VERB	_	_
+1	of	of	ADP	_	_
+
+LVC.cause
+0	triggered	trigger	VERB	_	_
+1	cascade	cascade	NOUN	0	obj
+
+LVC.full
+0	making	make	VERB	_	_
+1	generalizations	generalization	NOUN	0	obj
+
+VPC.full
+0	turns	turn	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	showing	show	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.semi
+0	cloud	cloud	VERB	_	_
+1	over	over	ADV	0	advmod
+
+VPC.full
+0	get	get	VERB	_	_
+1	off	off	ADP	_	_
+
+VPC.full
+0	Put	put	VERB	_	_
+1	on	on	ADP	0	compound:prt
+
+LVC.full
+0	makes	make	VERB	_	_
+1	trot	trot	NOUN	2	compound
+2	step	step	NOUN	0	obj
+
+VPC.full
+0	figure	figure	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+LVC.full
+0	do	do	VERB	_	_
+1	special	special	ADJ	2	amod
+2	effects	effect	NOUN	_	_
+
+LVC.full
+0	Take	take	VERB	_	_
+1	photo	photo	NOUN	0	obj
+
+LVC.full
+0	get	get	VERB	1	aux
+1	rid	rid	ADJ	_	_
+
+VPC.full
+0	show	show	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	check	check	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	tested	test	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+LVC.full
+0	have	have	VERB	_	_
+1	problem	problem	NOUN	0	obj
+
+VPC.full
+0	stress	stress	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	going	go	VERB	_	_
+1	on	on	ADP	0	compound:prt
+
+VPC.full
+0	helps	help	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	puff	puff	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	scare	scare	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+VPC.full
+0	get	get	VERB	_	_
+1	over	over	ADV	0	xcomp
+
+IAV
+0	cut	cut	VERB	_	_
+1	of	of	ADP	0	compound:prt
+
+VID
+0	got	get	VERB	_	_
+1	lucky	lucky	ADJ	0	obj
+
+VPC.full
+0	sort	sort	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VID
+0	cast	cast	VERB	_	_
+1	in	in	ADP	2	case
+2	steel	steel	NOUN	0	obl
+
+VPC.full
+0	got	get	VERB	_	_
+1	around	around	ADV	0	advmod
+
+VPC.full
+0	stuck	stick	VERB	_	_
+1	up	up	ADP	0	advmod
+
+VID
+0	came	come	VERB	_	_
+1	into	into	ADP	2	case
+2	currency	currency	NOUN	0	obl
+
+VID
+0	come	come	VERB	_	_
+1	into	into	ADP	3	case
+2	full	full	ADJ	3	amod
+3	swing	swing	NOUN	0	obl
+
+VPC.full
+0	calling	call	VERB	_	_
+1	in	in	ADV	0	advmod
+
+VID
+0	double	double	ADV	1	advmod
+1	check	check	VERB	_	_
+
+LVC.full
+0	took	take	VERB	_	_
+1	photos	photo	NOUN	0	obj
+
+VPC.full
+0	turned	turn	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	cutting	cut	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+LVC.full
+0	pay	pay	VERB	_	_
+1	attention	attention	NOUN	0	obj
+
+VPC.semi
+0	blurring	blur	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	go	go	VERB	_	_
+1	off	off	ADP	_	_
+
+VPC.full
+0	backed	back	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+VPC.full
+0	fighting	fight	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+VPC.full
+0	calm	calm	VERB	_	_
+1	down	down	ADP	0	compound:prt
+
+VID
+0	put	put	VERB	_	_
+1	her	she	PRON	0	obj
+2	in	in	ADP	4	case
+3	her	she	PRON	4	nmod:poss
+4	place	place	NOUN	0	obl
+
+VPC.full
+0	set	set	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VID
+0	keep	keep	VERB	_	_
+1	an	a	DET	2	det
+2	eye	eye	NOUN	0	obj
+3	on	on	ADP	4	case
+4	them	they	PRON	2	nmod
+
+VPC.full
+0	stand	stand	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.full
+0	take	take	VERB	_	_
+1	sanctuary	sanctuary	ADJ	0	obj
+
+VPC.full
+0	clean	clean	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	building	build	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	lights	light	NOUN	1	nsubj
+1	up	up	VERB	_	_
+
+VPC.full
+0	ended	end	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.full
+0	do	do	VERB	_	_
+1	tricks	trick	NOUN	0	obj
+
+VPC.full
+0	turned	turn	VERB	_	_
+1	on	on	ADP	0	compound:prt
+
+VID
+0	not	not	ADV	_	_
+1	to	to	PART	0	fixed
+2	mention	mention	VERB	0	fixed
+
+VID
+0	double	double	ADJ	1	advmod
+1	dipping	dip	VERB	_	_
+
+VPC.full
+0	move	move	VERB	_	_
+1	on	on	ADP	0	compound:prt
+
+LVC.full
+0	have	have	VERB	_	_
+1	concerns	concern	NOUN	0	obj
+
+VPC.full
+0	pointed	point	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	follow	follow	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	fucked	fuck	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	checking	check	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VID
+0	had	have	VERB	_	_
+1	in	in	ADP	2	case
+2	mind	mind	NOUN	0	obl
+
+VID
+0	let	let	VERB	_	_
+1	know	know	VERB	0	xcomp
+
+VPC.full
+0	wrap	wrap	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VID
+0	have	have	VERB	_	_
+1	green	green	ADJ	2	amod
+2	light	light	NOUN	0	obj
+
+VPC.full
+0	presentation	presentation	NOUN	_	_
+1	gave	give	VERB	0	acl:relcl
+
+LVC.full
+0	have	have	VERB	_	_
+1	problems	problem	NOUN	0	obj
+
+LVC.cause
+0	left	leave	VERB	_	_
+1	message	message	NOUN	0	obj
+
+VPC.full
+0	picking	pick	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	taking	take	VERB	_	_
+1	over	over	ADP	0	compound:prt
+
+VID
+0	Let	let	VERB	_	_
+1	know	know	VERB	0	xcomp
+
+VPC.semi
+0	call	call	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.full
+0	make	make	VERB	_	_
+1	donation	donation	NOUN	0	obj
+
+LVC.full
+0	decisions	decision	NOUN	_	_
+1	made	make	VERB	0	acl
+
+IAV
+0	account	account	VERB	_	_
+1	for	for	ADP	_	_
+
+VID
+0	Fast	fast	ADV	1	advmod
+1	forward	forward	VERB	_	_
+
+VPC.full
+0	coming	come	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.cause
+0	brought	bring	VERB	_	_
+1	conflict	conflict	NOUN	0	obl
+
+VPC.full
+0	brush	brush	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+LVC.full
+0	played	play	VERB	_	_
+1	part	part	NOUN	0	obj
+
+VPC.full
+0	taking	take	VERB	_	_
+1	on	on	ADP	0	compound:prt
+
+LVC.full
+0	take	take	VERB	_	_
+1	provisions	provision	NOUN	_	_
+
+VPC.semi
+0	clean	clean	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.semi
+0	started	start	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	blast	blast	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	getting	get	VERB	_	_
+1	out	out	ADP	0	compound:prt
+
+VPC.full
+0	came	come	VERB	_	_
+1	forward	forward	ADV	0	advmod
+
+VPC.semi
+0	dressing	dress	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.semi
+0	lighting	light	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+VPC.full
+0	write	write	VERB	_	_
+1	off	off	ADP	0	compound:prt
+
+VPC.full
+0	turning	turn	VERB	_	_
+1	up	up	ADP	0	compound:prt
+
+LVC.full
+0	grants	grant	VERB	_	_
+1	access	access	NOUN	0	obj
+
+VID
+0	build	build	VERB	_	_
+1	a	a	DET	2	det
+2	bridge	bridge	NOUN	0	obj
+
+IAV
+0	allowed	allow	VERB	_	_
+1	for	for	ADP	_	_
+

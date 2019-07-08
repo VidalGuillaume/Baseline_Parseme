@@ -1,0 +1,7804 @@
+lemma_upostag_deprel_order
+
+VID
+0	eskua	esku	IZE	1	ncobj
+1	luzatuta	luzatu	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	dela	izan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	direla	izan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	dezuten	dezut	ADJ	0	ncmod
+
+VID
+0	eduki	eduki	ADI	_	_
+1	kontutan	kontu	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.full
+0	dutela	*edun	ADL	_	_
+1	nahi	nahi	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	duela	ukan	ADT	0	auxmod
+
+LVC.full
+0	arraultza	arrautza	IZE	1	ncmod
+1	jartzea	jarri	ADI	_	_
+
+VID
+0	bost	bost	DET	1	detmod
+1	ajola	axola	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	duzu	ukan	ADT	_	_
+
+LVC.full
+0	ahaleginak	ahalegin	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	duenean	ukan	ADT	_	_
+
+LVC.full
+0	akordioak	akordio	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	akordioetara	akordio	IZE	1	ncmod
+1	iristeko	iritsi	ADI	_	_
+
+LVC.full
+0	kabreoa	kabreo	ADJ	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+VID
+0	popatik	popa	IZE	1	ncmod
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	duzuenarekin	ukan	ADT	_	_
+
+VID
+0	nago	egon	ADT	_	_
+1	ados	ados	ADB	_	_
+
+LVC.full
+0	espero	espero	IZE	1	ncobj
+1	dugunean	ukan	ADT	_	_
+
+VID
+0	eskutik	esku	IZE	1	ncmod
+1	zoazte	joan	ADT	_	_
+
+LVC.full
+0	eman	eman	ADI	_	_
+1	azalpenak	azalpen	IZE	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncmod
+1	zutena	ukan	ADT	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	ncmod
+1	duen	ukan	ADT	_	_
+
+LVC.full
+0	konponbide	konponbide	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	borondate	borondate	IZE	1	ncobj
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	huts	huts	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.cause
+0	jarri	jarri	ADI	1	cmod
+1	martxan	martxa	IZE	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	ncpred
+1	dugun	ukan	ADT	_	_
+
+VID
+0	aurrera	aurreratu	ADI	_	_
+1	egin	egin	ADI	0	galdemod
+
+LVC.full
+0	du	ukan	ADT	1	auxmod
+1	balio	*edun	ADI	_	_
+
+LVC.full
+0	konpromisoak	konpromiso	IZE	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+VID
+0	aurrera	aurre	IZE	1	ncmod
+1	egin	egin	ADI	_	_
+
+VID
+0	ateak	ate	IZE	1	ncobj
+1	zabaltzeko	zabaldu	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncmod
+1	izan	izan	ADI	_	_
+
+VID
+0	joango	joan	ADI	1	cmod
+1	atzetik	atze	IZE	_	_
+
+LVC.full
+0	ibilbide	ibilbide	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	dutenak	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	izaten	izan	ADI	_	_
+
+VID
+0	eman	eman	ADI	_	_
+1	argitara	argi	ADJ	0	ncmod
+
+LVC.cause
+0	berri	berri	IZE	1	ncobj
+1	ematea	eman	ADI	_	_
+
+LVC.cause
+0	berri	berri	IZE	_	_
+1	ematea	eman	ADI	_	_
+
+LVC.cause
+0	berri	berri	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.cause
+0	ematen	eman	ADI	_	_
+1	eskumenak	eskuma	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	duenean	ukan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	izango	izan	ADI	_	_
+
+LVC.cause
+0	emanda	eman	ADI	_	_
+1	eskuordetzeak	eskuordetu	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncobj
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	esku	esku	IZE	_	_
+1	utzi	utzi	ADI	_	_
+
+LVC.full
+0	hartuko	hartu	ADI	1	cmod
+1	erabakien	erabaki	IZE	_	_
+
+LVC.cause
+0	emandako	eman	ADI	1	xmod
+1	eskumenen	eskuma	IZE	_	_
+
+LVC.full
+0	hartutako	hartu	ADI	1	xmod
+1	erabakiak	erabaki	IZE	_	_
+
+LVC.full
+0	erabakiak	erabaki	IZE	1	ncsubj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	erabaki	erabaki	ADI	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	erabilera	erabilera	IZE	_	_
+1	eginez	egin	ADI	_	_
+
+VID
+0	argitara	argi	ADJ	_	_
+1	ematea	eman	ADI	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncpred
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	esku	esku	IZE	1	ncobj
+1	utzi	utzi	ADI	_	_
+
+LVC.cause
+0	ematen	eman	ADI	_	_
+1	eskumenez	eskuma	ADJ	_	_
+
+LVC.full
+0	aholkuak	aholku	IZE	1	ncobj
+1	emateagatik	eman	ADI	_	_
+
+LVC.full
+0	uko	uko	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	argitara	argi	ADJ	1	ncmod
+1	emana	eman	ADI	_	_
+
+LVC.full
+0	alegaziorik	alegazio	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	argitara	argi	ADJ	1	ncmod
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	alegazioak	alegazio	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	eginiko	egin	ADI	1	xmod
+1	eskaria	eskari	IZE	_	_
+
+LVC.cause
+0	berri	berri	ADJ	1	ncobj
+1	ematea	eman	ADI	_	_
+
+LVC.full
+0	eskaera	eskaera	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+VID
+0	ados	ados	ADB	1	ncpred
+1	dagoela	egon	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	duela	ukan	ADT	_	_
+
+LVC.full
+0	uste	uste	IZE	1	ncobj
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	bada	bada	LOT	_	_
+
+VID
+0	ados	ados	ADB	1	ncmod
+1	daudela	egon	ADT	_	_
+
+LVC.full
+0	inbertsio	inbertsio	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	inbertsio	inbertsio	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncpred
+1	izateko	izan	ADI	_	_
+
+LVC.cause
+0	sarrera	sarrera	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	eginiko	egin	ADI	1	xmod
+1	proposamena	proposamen	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	duen	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	haos
+1	duela	ukan	ADT	_	_
+
+LVC.full
+0	erantzunik	erantzun	ADI	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	uste	uste	IZE	1	ncobj
+1	duelako	ukan	ADT	_	_
+
+LVC.full
+0	Galderak	galdera	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	agindurik	agindu	ADI	1	xmod
+1	eman	eman	ADI	_	_
+
+VID
+0	hartzen	hartu	ADI	_	_
+1	parte	parte	IZE	0	ncobj
+
+LVC.full
+0	egindako	egin	ADI	1	xmod
+1	apustuari	apustu	IZE	_	_
+
+LVC.full
+0	Ibilbide	ibilbide	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	duen	*edun	ADL	_	_
+1	eraginaren	eragin	IZE	_	_
+
+LVC.full
+0	ikerketak	ikerketa	IZE	1	ncobj
+1	egiteaz	egin	ADI	_	_
+
+VID
+0	hartzen	hartu	ADI	_	_
+1	parte	parte	IZE	_	_
+
+VID
+0	hartu	hartu	ADI	_	_
+1	parte	parte	IZE	0	ncobj
+
+LVC.full
+0	ematen	eman	ADI	_	_
+1	zerbitzua	zerbitzu	IZE	0	ncobj
+
+LVC.full
+0	bizi	bizi	ADJ	1	ncpred
+1	diren	izan	ADT	_	_
+
+LVC.full
+0	egiten	egin	ADI	1	cmod
+1	ibilbideak	ibilbide	IZE	_	_
+
+VID
+0	bat	bat	DET	_	_
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	zen	izan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xcomp_obj
+1	badu	ukan	ADI	_	_
+
+VID
+0	maila	maila	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	Gidaketa	gidaketa	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	da	izan	ADT	_	_
+
+VID
+0	abian	abian	ADB	1	ncmod
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	espero	espero	IZE	1	ncpred
+1	zena	izan	ADT	_	_
+
+LVC.full
+0	atseden	atseden	ADI	_	_
+1	hartzeko	hartu	ADI	0	xmod
+
+LVC.full
+0	du	*edun	ADL	_	_
+1	behar	behar	IZE	_	_
+
+LVC.full
+0	ematen	eman	ADI	1	cmod
+1	lehentasuna	lehentasun	IZE	_	_
+
+LVC.full
+0	estrategiak	estrategia	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	lehentasuna	lehentasun	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncobj
+1	dituela	ukan	ADT	_	_
+
+LVC.full
+0	izan	izan	ADI	1	menos
+1	behar	behar	IZE	_	_
+
+LVC.full
+0	aurkezpena	aurkezpen	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	dira	izan	ADT	_	_
+
+LVC.full
+0	eztabaida	eztabaida	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+VID
+0	hartuko	hartu	ADI	_	_
+1	parte	parte	IZE	0	ncobj
+
+LVC.full
+0	izan	izan	ADI	_	_
+1	eragina	eragin	IZE	_	_
+
+LVC.full
+0	eman	eman	ADI	_	_
+1	irtenbidea	irtenbide	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	diete	ukan	ADT	_	_
+
+LVC.full
+0	hartzen	hartu	ADI	1	cmod
+1	erabakiek	erabaki	IZE	_	_
+
+VID
+0	hartu	hartu	ADI	_	_
+1	kontuan	kontu	IZE	_	_
+
+LVC.full
+0	egiten	egin	ADI	1	cmod
+1	inbertsioa	inbertsio	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncmod
+1	bada	izan	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	1	xpred
+1	da	izan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	ematen	eman	ADI	_	_
+1	xedapenak	xedapen	IZE	0	ncsubj
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	dituzten	ukan	ADT	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncobj
+1	duena	ukan	ADT	_	_
+
+LVC.full
+0	likidazioa	likidazio	IZE	_	_
+1	egingo	egin	ADI	_	_
+
+LVC.cause
+0	emango	eman	ADI	_	_
+1	berri	berri	IZE	0	ncobj
+
+LVC.cause
+0	berri	berri	IZE	1	ncobj
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	egindako	egin	ADI	1	xmod
+1	eragiketekin	eragiketa	IZE	_	_
+
+LVC.full
+0	egiaztapenak	egiaztapen	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	izapidetzea	izapidetu	ADI	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	erabakirik	erabaki	ADI	1	ncobj
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	duena	ukan	ADT	_	_
+
+LVC.full
+0	Eskaera	eskaera	IZE	1	ncmod
+1	egindako	egin	ADI	_	_
+
+LVC.full
+0	Jaia	jai	IZE	1	ncsubj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	berri	berri	IZE	1	ncobj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	hutsik	huts	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.cause
+0	izan	izan	ADI	_	_
+1	berri	berri	IZE	0	ncmod
+
+LVC.full
+0	bazeukan	eduki	PRT	1	ncmod
+1	gogoa	gogo	IZE	_	_
+
+LVC.full
+0	geldialdia	geldialdi	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	nuen	ukan	ADT	1	cmod
+1	espero	espero	IZE	_	_
+
+LVC.full
+0	berri	berri	IZE	1	ncobj
+1	izatea	izan	ADI	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	espero	espero	IZE	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.cause
+0	tankera	tankera	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	egin	egin	ADI	_	_
+1	ekitaldi	ekitaldi	IZE	_	_
+
+LVC.full
+0	dantza	dantza	IZE	_	_
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	erakustaldiak	erakustaldi	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	itxura	itxura	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	falta	falta	IZE	1	haos
+1	du	ukan	ADT	_	_
+
+VID
+0	bat	bat	DET	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	da	izan	ADT	_	_
+
+LVC.full
+0	maite	maite	ADJ	1	ncpred
+1	dituzte	ukan	ADT	_	_
+
+VID
+0	gora	gora	ADJ	1	ncmod
+1	egin	egin	ADI	_	_
+
+VID
+0	hanka	hanka	IZE	1	ncmod
+1	sartzeko	sartu	ADI	_	_
+
+LVC.full
+0	barre	barre	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	berba	berba	IZE	1	ncmod
+1	egitea	egin	ADI	_	_
+
+VID
+0	aurrerapausoak	aurrerapauso	IZE	1	ncobj
+1	emanez	eman	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	xmod
+1	zuten	ukan	ADT	_	_
+
+LVC.full
+0	lapurreta	lapurreta	IZE	1	ncmod
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	deialdia	deialdi	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	dituenaren	ukan	ADT	_	_
+
+VID
+0	eskura	esku	IZE	1	ncmod
+1	egongo	egon	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncmod
+1	hartzeko	hartu	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncpred
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncmod
+1	duten	ukan	ADT	_	_
+
+VID
+0	parte	parte	IZE	1	ncmod
+1	hartzea	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	duten	ukan	ADT	_	_
+
+VID
+0	Parte	parte	IZE	1	ncmod
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncmod
+1	duen	ukan	ADT	_	_
+
+LVC.full
+0	egindako	egin	ADI	1	xmod
+1	ikastaroen	ikastaro	IZE	_	_
+
+VID
+0	kontutan	kontu	IZE	1	ncmod
+1	hartzea	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncmod
+1	diren	izan	ADT	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	xmod
+1	izango	izan	ADI	_	_
+
+LVC.cause
+0	sarrera	sarrera	IZE	1	ncmod
+1	emandako	eman	ADI	_	_
+
+VID
+0	emango	eman	ADI	_	_
+1	argitara	argi	ADJ	0	ncmod
+
+LVC.full
+0	ebazpen	ebazpen	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncpred
+1	dela	izan	ADT	_	_
+
+LVC.full
+0	azterketarik	azterketa	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	izendapena	izendapen	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+VID
+0	alde	alde	IZE	2	ncmod
+1	batera	bat	DET	0	detmod
+2	utzi	utzi	ADI	_	_
+
+LVC.full
+0	proposamena	proposamen	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	kontratua	kontratu	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+LVC.cause
+0	ahalmena	ahalmen	IZE	1	ncobj
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	erabakiak	erabaki	IZE	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+LVC.cause
+0	amaiera	amaiera	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	interesa	interes	IZE	1	ncobj
+1	duenak	*edun	ADL	_	_
+
+LVC.full
+0	lanak	lan	IZE	_	_
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	azterketak	azterketa	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	egindako	egin	ADI	1	xmod
+1	galderei	galdera	IZE	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncsubj
+1	izango	izan	ADI	_	_
+
+VID
+0	kontutan	kontu	IZE	1	ncmod
+1	izanik	izan	ADI	_	_
+
+LVC.full
+0	elkarrizketa	elkarrizketa	IZE	1	ncmod
+1	egingo	egin	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncpred
+1	hartuko	hartu	ADI	_	_
+
+LVC.full
+0	iskripzioa	iskripzioa	BST	1	lot
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	egin	egin	ADI	_	_
+1	lanan	lanan	ADJ	_	_
+
+LVC.full
+0	lanak	lan	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	ahotan	ahotan	ADB	1	ncmod
+1	dabilen	ibili	ADT	_	_
+
+VID
+0	aurre	aurre	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	lana	lan	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	baduelako	ukan	PRT	1	auxmod
+1	eragina	eragin	ADI	_	_
+
+VID
+0	esku	esku	IZE	1	ncmod
+1	bota	bota	ADI	_	_
+
+VID
+0	aurka	aurka	IZE	1	ncmod
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	definizioa	definizio	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	egindako	egin	ADI	1	xmod
+1	azterketaren	azterketa	IZE	_	_
+
+LVC.full
+0	beharra	behar	IZE	1	xcomp_subj
+1	dagoela	egon	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	den	izan	ADT	_	_
+
+VID
+0	lotuta	lotu	ADI	1	xpred
+1	dago	egon	ADT	_	_
+
+LVC.cause
+0	irtenbidea	irtenbide	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncsubj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	ncmod
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	erlazioak	erlazio	IZE	1	ncobj
+1	edukitzera	eduki	ADI	_	_
+
+VID
+0	beste	beste	DET	1	detmod
+1	leku	leku	IZE	3	ncmod
+2	batera	bat	DET	1	detmod
+3	begiratzen	begiratu	ADI	_	_
+
+VID
+0	beste	beste	DET	1	detmod
+1	aldera	alde	IZE	3	ncmod
+2	begira	begira	ADB	3	ncmod
+3	gelditzen	gelditu	ADI	_	_
+
+LVC.full
+0	porrot	porrot	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+VID
+0	esku	esku	IZE	_	_
+1	geratzen	geratu	ADI	_	_
+
+VID
+0	esku	esku	IZE	1	ncmod
+1	geratzen	geratu	ADI	_	_
+
+LVC.full
+0	Erantzukizuna	erantzukizun	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	beharra	behar	IZE	1	ncobj
+1	dago	egon	ADT	_	_
+
+LVC.full
+0	dugula	*edun	ADL	_	_
+1	behar	behar	IZE	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	dena	izan	ADT	_	_
+
+VID
+0	gauza	gauza	IZE	1	ncpred
+1	izan	izan	ADI	_	_
+
+VID
+0	gai	gai	ADJ	1	ncpred
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	baliabiderik	baliabide	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	beharra	behar	IZE	1	xcomp_subj
+1	dago	egon	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	zaie	izan	ADT	_	_
+
+VID
+0	leku	leku	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncsubj
+1	egiten	egin	ADI	_	_
+
+LVC.cause
+0	garrantzi	garrantzi	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.cause
+0	errua	erru	IZE	1	ncobj
+1	botatzeak	bota	ADI	_	_
+
+LVC.full
+0	epairik	epai	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	ditugu	ukan	ADT	_	_
+
+LVC.cause
+0	praktikan	praktika	IZE	1	ncmod
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	dugu	ukan	ADT	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	haos
+1	egin	egin	ADI	_	_
+
+VID
+0	neurriak	neurri	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+VID
+0	aurre	aurre	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+VID
+0	esku	esku	IZE	1	ncmod
+1	artean	arte	IZE	2	ncmod
+2	zuten	ukan	ADT	_	_
+
+LVC.cause
+0	jarri	jarri	ADI	_	_
+1	martxan	martxa	IZE	0	ncmod
+
+LVC.full
+0	harremanetan	harreman	IZE	1	ncmod
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	hartutako	hartu	ADI	1	xmod
+1	irizpideekin	irizpide	IZE	_	_
+
+LVC.full
+0	galdeketa	galdeketa	IZE	1	ncobj
+1	pasa	pasatu	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xcomp_subj
+1	dela	izan	ADT	_	_
+
+LVC.full
+0	egiten	egin	ADI	_	_
+1	lanaz	lan	IZE	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	diren	izan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	diren	izan	ADT	_	_
+
+LVC.full
+0	baloraziorik	balorazio	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.cause
+0	garrantzia	garrantzi	IZE	1	ncobj
+1	emanez	eman	ADI	_	_
+
+LVC.full
+0	Espero	espero	IZE	1	ncsubj
+1	duen	ukan	ADT	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	dela	izan	ADT	_	_
+
+LVC.cause
+0	egin	egin	ADI	_	_
+1	minik	min	IZE	0	ncobj
+
+LVC.full
+0	baduzue	*edun	ADI	_	_
+1	nahi	nahi	IZE	_	_
+
+LVC.full
+0	ezin	ezin	IZE	_	_
+1	duela	ukan	ADT	0	auxmod
+
+LVC.full
+0	hitz	hitz	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	zaiela	izan	ADT	_	_
+
+LVC.full
+0	jarraipena	jarraipen	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	aholkuak	aholku	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	Galdeketa	galdeketa	IZE	1	ncmod
+1	egin	egin	ADI	_	_
+
+VID
+0	esku	esku	IZE	1	ncmod
+1	hartzen	hartz	IZE	_	_
+
+VID
+0	esku	esku	IZE	1	ncmod
+1	hartzen	hartu	ADI	_	_
+
+VID
+0	du	*edun	ADL	1	auxmod
+1	esan	esan	ADI	_	_
+2	nahi	nahi	IZE	_	_
+
+LVC.full
+0	du	*edun	ADL	_	_
+1	nahi	nahi	IZE	_	_
+
+LVC.cause
+0	ziurtasuna	ziurtasun	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	zorte	zorte	IZE	1	ncmod
+1	dutela	*edun	ADL	_	_
+
+LVC.cause
+0	garrantzia	garrantzi	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	jarraipena	jarraipen	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	hartu-eman	hartu-eman	IZE	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.full
+0	Egindako	egin	ADI	1	xmod
+1	lanaren	lan	IZE	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncobj
+1	eginez	egin	ADI	_	_
+
+LVC.full
+0	komentarioak	komentario	IZE	1	ncsubj
+1	egiten	egin	ADI	_	_
+
+VID
+0	esku	esku	IZE	1	ncmod
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	beharra	behar	IZE	1	ncsubj
+1	dagoela	egon	ADT	_	_
+
+LVC.full
+0	duela	*edun	ADL	_	_
+1	behar	behar	IZE	_	_
+
+VID
+0	daude	egon	ADT	_	_
+1	ados	ados	ADB	0	ncmod
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	dituzte	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	direla	izan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	zaio	izan	ADT	0	auxmod
+
+VID
+0	eskuetan	esku	IZE	1	ncmod
+1	dagoena	egon	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	dutela	ukan	ADT	_	_
+
+LVC.full
+0	beharra	behar	IZE	1	xcomp_obj
+1	dagoela	egon	ADT	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	haos
+1	egiten	egin	ADI	_	_
+
+VID
+0	legea	lege	IZE	1	ncobj
+1	hautsi	hautsi	ADI	_	_
+
+LVC.full
+0	dute	ukan	ADT	_	_
+1	nahi	nahi	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	zaie	izan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.cause
+0	beldurra	beldur	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	gehiegikeria	gehiegikeria	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	dira	izan	ADT	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	bada	bada	LOT	_	_
+
+LVC.full
+0	ari	aritu	ADI	1	haos
+1	direnean	izan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncmod
+1	duzu	ukan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	dela	izan	ADT	_	_
+
+LVC.full
+0	Hitz	hitz	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	gara	izan	ADT	0	auxmod
+
+LVC.full
+0	beharra	behar	IZE	1	ncobj
+1	daukagu	eduki	ADT	_	_
+
+LVC.full
+0	uste	uste	IZE	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	gara	izan	ADT	_	_
+
+LVC.full
+0	uste	uste	IZE	1	ncmod
+1	dut	ukan	ADT	_	_
+
+VID
+0	muturrera	mutur	IZE	1	ncmod
+1	eramandako	eraman	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xcomp_obj
+1	duela	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xcomp_obj
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	ahal	ahal	IZE	_	_
+1	den	izan	ADT	0	auxmod
+
+VID
+0	alboan	albo	IZE	1	ncmod
+1	uzten	utzi	ADI	_	_
+
+LVC.cause
+0	ematen	eman	ADI	_	_
+1	garrantzia	garrantzi	IZE	0	ncobj
+
+VID
+0	duela	ukan	ADT	_	_
+1	lekurik	leku	IZE	0	ncobj
+
+VID
+0	aintzat	aintzat	ADB	1	ncmod
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	uste	uste	IZE	1	ncobj
+1	dut	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncmod
+1	izaten	izan	ADI	_	_
+
+LVC.full
+0	beharra	behar	IZE	1	ncobj
+1	daukate	eduki	ADT	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	ncobj
+1	duenak	ukan	ADT	_	_
+
+VID
+0	pisu	pisu	ADJ	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.full
+0	hartzen	hartu	ADI	1	cmod
+1	formazioak	formazio	IZE	_	_
+
+LVC.full
+0	eragin	eragin	IZE	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.full
+0	kontrola	kontrol	IZE	1	ncobj
+1	ezartzera	ezarri	ADI	_	_
+
+LVC.full
+0	ikasgaia	ikasgai	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	lana	lan	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	duela	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	duen	ukan	ADT	_	_
+
+VID
+0	ados	ados	ADB	1	ncmod
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	kezka	kezka	IZE	1	ncobj
+1	daukate	eduki	ADT	_	_
+
+LVC.full
+0	daukate	eduki	ADT	_	_
+1	gogoa	gogo	IZE	_	_
+
+VID
+0	eskuetan	esku	IZE	1	ncmod
+1	uzten	utzi	ADI	_	_
+
+VID
+0	Ados	ados	ADB	1	ncmod
+1	zaudete	egon	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	ditu	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	duena	ukan	ADT	_	_
+
+LVC.cause
+0	segurtasuna	segurtasun	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	ahalegina	ahalegin	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	dela	izan	ADT	0	auxmod
+
+LVC.full
+0	behar	behar	ADJ	1	ncpred
+1	da	izan	ADT	_	_
+
+VID
+0	ados	ados	ADB	1	ncmod
+1	bagaude	egon	ADI	_	_
+
+LVC.full
+0	ihes	ihes	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	,	,	PUNT	_	_
+1	ihes	ihes	IZE	2	ncobj
+2	egin	egin	ADI	_	_
+
+LVC.full
+0	nahiago	nahiago	HAOS	_	_
+1	dute	ukan	ADT	_	_
+
+VID
+0	parte	parte	IZE	1	ncpred
+1	hartzea	hartu	ADI	_	_
+
+LVC.full
+0	ditugu	*edun	ADL	_	_
+1	behar	behar	IZE	_	_
+
+VID
+0	faltan	falta	IZE	1	ncmod
+1	bota	bota	ADI	_	_
+
+LVC.full
+0	eragin	eragin	ADI	_	_
+1	duelarik	*edun	ADL	0	auxmod
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	du	ukan	ADT	0	auxmod
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	da	izan	ADT	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	ncmod
+1	duten	ukan	ADT	_	_
+
+LVC.full
+0	lehentasuna	lehentasun	IZE	1	ncobj
+1	emanez	eman	ADI	_	_
+
+VID
+0	pausoak	pauso	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+VID
+0	bidea	bide	IZE	1	ncobj
+1	eginean	egin	ADI	_	_
+
+LVC.full
+0	egindako	egin	ADI	1	xmod
+1	erasoen	eraso	IZE	_	_
+
+LVC.full
+0	behar	behar	ADJ	1	ncpred
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	diot	*io	ADT	_	_
+
+VID
+0	argi	argi	ADB	1	ncmod
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	arriskuan	arrisku	IZE	1	ncmod
+1	dagoela	egon	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	badu	ukan	ADI	_	_
+
+VID
+0	oinarri	oinarri	IZE	_	_
+1	dituen	ukan	ADT	_	_
+
+VID
+0	urrats	urrats	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	proposamenak	proposamen	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	deia	dei	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	lan	lan	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	dugula	ukan	ADT	1	cmod
+1	behar	behar	IZE	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	hartzen	hartu	ADI	_	_
+
+VID
+0	bidea	bide	IZE	1	ncobj
+1	eginez	egin	ADI	_	_
+
+LVC.full
+0	eragina	eragin	ADI	1	xpred
+1	izan	izan	ADI	_	_
+
+VID
+0	gogora	gogo	IZE	1	ncmod
+1	ekarri	ekarri	ADI	_	_
+
+LVC.full
+0	eskubidea	eskubide	IZE	1	ncobj
+1	dute	ukan	ADT	_	_
+
+VID
+0	pauso	pauso	IZE	1	ncobj
+1	emanez	eman	ADI	_	_
+
+LVC.full
+0	eskubidea	eskubide	IZE	1	ncobj
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	dugu	ukan	ADT	_	_
+
+VID
+0	zerbitzura	zerbitzu	IZE	_	_
+1	dago	egon	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncmod
+1	ditugu	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	diegu	ukan	ADT	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncmod
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	dugun	ukan	ADT	1	cmod
+1	beldurra	beldur	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	luke	ukan	ADT	_	_
+
+LVC.full
+0	kalte	kalte	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	izan	izan	ADI	_	_
+
+VID
+0	amore	amore	IZE	1	ncmod
+1	ematea	eman	ADI	_	_
+
+VID
+0	aurrean	aurre	IZE	1	ncmod
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	lanak	lan	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncpred
+1	hartzekoa	hartu	ADI	_	_
+
+LVC.full
+0	du	ukan	ADT	_	_
+1	behar	behar	IZE	_	_
+
+VID
+0	onena	on	ADJ	_	_
+1	emateko	eman	ADI	_	_
+
+LVC.cause
+0	erritmo	erritmo	IZE	_	_
+1	jarri	jarri	ADI	_	_
+
+LVC.cause
+0	min	min	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	dela	izan	ADT	0	auxmod
+
+LVC.cause
+0	emango	eman	ADI	_	_
+1	amaiera	amaiera	IZE	_	_
+
+VID
+0	gai	gaitu	ADI	1	ncsubj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	martxan	martxa	IZE	1	ncmod
+1	jarri	jarri	ADI	_	_
+
+VID
+0	bertan	bertan	ADB	2	ncmod
+1	behera	behe	IZE	2	ncmod
+2	geratuko	geratu	ADI	_	_
+
+LVC.full
+0	lan	lan	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	buelta	buelta	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	egindako	egin	ADI	1	xmod
+1	lanari	lan	IZE	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncpred
+1	izan	izan	ADI	_	_
+
+LVC.cause
+0	euria	euri	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	gai	gai	ADJ	1	ncpred
+1	ziren	izan	ADT	_	_
+
+LVC.full
+0	bira	izan	ADT	1	ncobj
+1	emanez	eman	ADI	_	_
+
+LVC.full
+0	egin	egin	ADI	_	_
+1	aurkezpenak	aurkezpen	IZE	0	ncobj
+
+LVC.cause
+0	haize	haize	IZE	1	ncsubj
+1	altxatu	altxatu	ADI	_	_
+
+LVC.cause
+0	Trumoi	trumoi	IZE	1	ncobj
+1	jo	jo	ADI	_	_
+
+LVC.cause
+0	bota	bota	ADI	_	_
+1	behera	behe	IZE	0	ncmod
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	Ahal	ahal	IZE	1	ncobj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	korri	korritu	ADI	_	_
+1	egin	egin	ADI	0	galdemod
+
+VID
+0	blai	blai	ADB	1	ncmod
+1	eginda	egin	ADI	_	_
+
+LVC.cause
+0	egin	egin	ADI	_	_
+1	euria	euri	IZE	0	ncobj
+
+LVC.cause
+0	egin	egin	ADI	_	_
+1	euriak	euri	IZE	0	ncsubj
+
+LVC.full
+0	ahalegina	ahalegin	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	egin	egin	ADI	_	_
+1	agerpena	agerpen	IZE	0	ncobj
+
+VID
+0	parte	parte	IZE	1	ncmod
+1	hartuko	hartu	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	dut	ukan	ADT	_	_
+
+VID
+0	distira	distira	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	egin	egin	ADI	_	_
+1	dantza	dantza	IZE	0	ncobj
+
+LVC.full
+0	nahiago	nahi	IZE	1	ncobj
+1	baitugu	ukan	ADI	_	_
+
+LVC.full
+0	harrera	harrera	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	agerraldi	agerraldi	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncobj
+1	hartuko	hartu	ADI	_	_
+
+LVC.full
+0	aurkezpena	aurkezpen	IZE	1	ncsubj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	aurkezpen	aurkezpen	IZE	1	ncmod
+1	egingo	egin	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncmod
+1	hartu	hartu	ADI	_	_
+
+VID
+0	izena	izen	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncpred
+1	hartzeko	hartu	ADI	_	_
+
+LVC.full
+0	eman	eman	ADI	_	_
+1	baietza	baietz	IZE	0	ncobj
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	zuen	ukan	ADT	_	_
+
+VID
+0	agurrik	agur	IZE	1	ncobj
+1	esan	esan	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	duenari	ukan	ADT	_	_
+
+VID
+0	fruituak	fruitu	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	ahal	ahal	IZE	_	_
+1	dugu	ukan	ADT	0	auxmod
+
+LVC.full
+0	merezi	merezi	IZE	1	ncobj
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	da	izan	ADL	_	_
+1	behar	behar	IZE	_	_
+
+LVC.full
+0	apustua	apustu	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	aurkezpena	aurkezpen	IZE	1	ncsubj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	deia	dei	IZE	1	ncobj
+1	luzatzen	luzatu	ADI	_	_
+
+VID
+0	bat	bat	DET	_	_
+1	egiten	egin	ADI	_	_
+
+LVC.cause
+0	behar	behar	IZE	_	_
+1	dugula	ukan	ADT	0	auxmod
+
+LVC.cause
+0	uste	uste	IZE	_	_
+1	duzuen	ukan	ADT	_	_
+
+VID
+0	Izena	izen	IZE	1	ncobj
+1	emoteko	eman	ADI	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	hartzea	hartu	ADI	_	_
+
+VID
+0	agerian	ageri	ADJ	1	ncmod
+1	utzi	utzi	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	xcomp_obj
+1	du	ukan	ADT	_	_
+
+VID
+0	hartu	hartu	ADI	1	cmod
+1	neurri	neurri	IZE	_	_
+
+VID
+0	bidean	bide	IZE	1	ncmod
+1	daude	egon	ADT	_	_
+
+VID
+0	eman	eman	ADI	_	_
+1	pauso	pauso	IZE	_	_
+
+LVC.full
+0	greba	greba	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	ematen	eman	ADI	1	cmod
+1	urratsak	urrats	IZE	_	_
+
+VID
+0	du	*edun	ADL	1	ccomp_obj
+1	esan	esan	ADI	_	_
+2	nahi	nahi	IZE	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	atsegin	atsegin	ADI	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	espero	espero	IZE	1	ncobj
+1	zuen	ukan	ADT	_	_
+
+LVC.full
+0	topo	topo	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	dei	dei	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	1	xmod
+1	zuen	ukan	ADT	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncobj
+1	zuen	ukan	ADT	_	_
+
+VID
+0	bideari	bide	IZE	1	nczobj
+1	lotu	lotu	ADI	_	_
+
+VID
+0	albora	albo	IZE	1	ncmod
+1	eginik	egin	ADI	_	_
+
+VID
+0	aditzera	aditu	ADI	1	xmod
+1	eman	eman	ADI	_	_
+
+VID
+0	aurpegira	aurpegi	IZE	1	ncmod
+1	bota	bota	ADI	_	_
+
+VID
+0	kontutan	kontu	IZE	1	ncmod
+1	hartzeko	hartu	ADI	_	_
+
+LVC.full
+0	ihes	ihes	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+2	,	,	PUNT	1	PUNC
+
+LVC.full
+0	eman	eman	ADI	_	_
+1	agindua	agindu	IZE	0	ncobj
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	zuen	ukan	ADT	_	_
+
+VID
+0	begiz	begi	IZE	1	ncmod
+1	jotzean	jo	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	zen	izan	ADT	_	_
+
+VID
+0	begiz	begi	IZE	1	ncmod
+1	jo	jo	ADI	_	_
+
+VID
+0	bat	bat	DET	1	ncsubj
+1	etorri	etorri	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	zuten	ukan	ADT	_	_
+
+LVC.full
+0	zutela	*edun	ADL	_	_
+1	behar	behar	IZE	_	_
+
+LVC.full
+0	ahaleginik	ahalegin	IZE	1	ncobj
+1	egiteke	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	balio	*edun	ADI	_	_
+1	zutela	ukan	ADT	0	auxmod
+
+VID
+0	alde	alde	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	keinua	keinu	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	trabak	traba	IZE	1	ncsubj
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	traturen	tratu	IZE	1	ncobj
+1	egitera	egin	ADI	_	_
+
+LVC.full
+0	diosalak	diosal	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	alde	alde	IZE	1	ncmod
+1	egitean	egin	ADI	_	_
+
+VID
+0	zarraizkio	jarraiki	ADT	_	_
+1	bideari	bide	IZE	0	nczobj
+
+LVC.full
+0	berririk	berri	IZE	1	ncobj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	hutsik	huts	ADJ	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	zuen	ukan	ADT	0	auxmod
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	duenean	ukan	ADT	_	_
+
+LVC.cause
+0	amaiera	amaiera	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	badu	*edun	ADI	_	_
+
+VID
+0	alde	alde	IZE	1	ncmod
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	baitzuen	ukan	ADI	_	_
+
+LVC.full
+0	barre	barre	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	zuen	*edun	ADL	_	_
+
+LVC.full
+0	zizkioten	ukan	ADT	_	_
+1	behar	behar	IZE	_	_
+
+LVC.full
+0	falta	falta	IZE	1	ncobj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	aginduak	agindu	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+VID
+0	alde	alde	IZE	1	ncmod
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	eman	eman	ADI	_	_
+1	baimena	baimen	IZE	0	ncobj
+
+LVC.full
+0	zirkinik	zirkin	IZE	_	_
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	zutela	ukan	ADT	_	_
+
+LVC.full
+0	eskerrak	esker	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	lan	lan	IZE	1	ncobj
+1	eginez	egin	ADI	_	_
+
+LVC.full
+0	dei	deitu	ADI	1	xmod
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xcomp_obj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	ezin	ezindu	ADI	_	_
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncpred
+1	zutena	ukan	ADT	_	_
+
+VID
+0	hitza	hitz	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	uko	uko	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncmod
+1	zuten	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	dut	ukan	ADT	0	auxmod
+
+LVC.full
+0	baditu	*edun	ADI	_	_
+1	nahi	nahi	IZE	_	_
+
+VID
+0	utz	utzi	ADI	_	_
+1	alde	alde	IZE	0	ncobj
+2	batera	bat	DET	1	detmod
+
+LVC.full
+0	oihu	oihu	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	zen	izan	ADT	0	auxmod
+
+LVC.full
+0	bira	izan	ADT	1	auxmod
+1	egin	egin	ADI	_	_
+
+VID
+0	bidea	bide	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	1	xpred
+1	ziren	izan	ADT	_	_
+
+LVC.full
+0	musu	musu	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	berririk	berri	IZE	1	ncobj
+1	zuten	ukan	ADT	_	_
+
+VID
+0	gauza	gauza	IZE	1	ncsubj
+1	zen	izan	ADT	_	_
+
+LVC.full
+0	arnasa	arnasa	IZE	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+VID
+0	tu	tu	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	traturik	tratu	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+VID
+0	alde	alde	IZE	1	ncmod
+1	egitera	egin	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncobj
+1	izan	izan	ADI	_	_
+
+LVC.cause
+0	polemika	polemika	IZE	1	ncobj
+1	piztu	piztu	ADI	_	_
+
+VID
+0	ituna	itun	IZE	1	ncobj
+1	hautsi	hautsi	ADI	_	_
+
+LVC.cause
+0	izan	izan	ADI	_	_
+1	berri	berri	IZE	0	ncpred
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	zituela	ukan	ADT	_	_
+
+VID
+0	abian	abian	ADB	1	ncobj
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	akusazioak	akusazio	IZE	1	ncobj
+1	botatzen	bota	ADI	_	_
+
+VID
+0	aurrera	aurre	IZE	1	ncmod
+1	eginen	egin	ADI	_	_
+
+LVC.full
+0	mehatxu	mehatxu	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	aurrera	aurre	IZE	1	ncmod
+1	atera	atera	ADI	_	_
+
+LVC.cause
+0	martxan	martxa	IZE	1	ncmod
+1	dugu	ukan	ADT	_	_
+
+LVC.full
+0	balio	*io	ADI	_	_
+1	duela	*edun	ADL	0	auxmod
+
+LVC.full
+0	jaramonik	jaramon	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.cause
+0	eman	eman	ADI	_	_
+1	boterea	botere	IZE	0	ncobj
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	duten	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	lituzketen	ukan	ADT	_	_
+
+LVC.full
+0	barre	barre	IZE	1	ncobj
+1	eginez	egin	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncmod
+1	hartzen	hartu	ADI	_	_
+
+VID
+0	sudur	sudur	IZE	1	ncmod
+1	puntan	punta	IZE	2	ncmod
+2	jartzen	jarri	ADI	_	_
+
+LVC.full
+0	etekinak	etekin	IZE	1	ncsubj
+1	ateratzen	atera	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	zenuenean	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	zenuenean	ukan	ADT	_	_
+
+VID
+0	aurka	aurka	IZE	1	ncmod
+1	egin	egin	ADI	_	_
+
+VID
+0	atera	atera	ADI	_	_
+1	aurrera	aurre	IZE	0	ncmod
+
+LVC.full
+0	dut	ukan	ADT	_	_
+1	nahi	nahi	IZE	0	ncobj
+
+LVC.full
+0	kritika	kritika	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	dut	ukan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	dituzte	ukan	ADT	_	_
+
+LVC.full
+0	dut	*edun	ADL	_	_
+1	nahi	nahi	IZE	_	_
+
+VID
+0	lau	lau	DET	1	detmod
+1	hitz	hitz	IZE	2	ncsubj
+2	esan	esan	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	nituzke	ukan	ADT	_	_
+
+LVC.full
+0	baiezko	baiezko	ADJ	_	_
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	nuen	ukan	ADT	_	_
+
+LVC.full
+0	botoa	boto	IZE	1	ncobj
+1	eman	eman	IZE	_	_
+
+VID
+0	kontuak	kontu	IZE	_	_
+1	aterako	ate	IZE	_	_
+
+VID
+0	zeudelako	egon	ADT	_	_
+1	ados	ados	ADB	0	ncmod
+
+VID
+0	parte	parte	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	zutela	ukan	ADT	_	_
+
+LVC.full
+0	Eskerrak	esker	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	xmod
+1	dut	ukan	ADT	_	_
+
+LVC.full
+0	irakurketa	irakurketa	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	duenak	ukan	ADT	0	auxmod
+
+VID
+0	bertan	bertan	ADB	_	_
+1	behera	behe	IZE	2	ncmod
+2	uztearen	utzi	ADI	_	_
+
+LVC.full
+0	erantzuna	erantzun	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	menpe	menpe	IZE	1	ncobj
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	ziren	izan	ADT	_	_
+
+LVC.full
+0	deia	dei	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	ahal	ahal	PRT	1	ncmod
+1	izatea	izan	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncobj
+1	zuen	ukan	ADT	_	_
+
+LVC.full
+0	beherakada	beherakada	IZE	1	ncobj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	erabakia	erabaki	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	tiro	tiro	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	eragina	eragin	ADI	1	xmod
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	aldaketa	aldaketa	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	itxura	itxura	IZE	1	ncmod
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	egingo	egin	ADI	_	_
+1	hitz	hitz	IZE	0	ncobj
+
+LVC.full
+0	itxura	itxura	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+VID
+0	kolorea	kolore	IZE	_	_
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	agindua	agindu	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	zuten	ukan	ADT	1	cmod
+1	nahi	nahi	IZE	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	izatearen	izan	ADI	_	_
+
+LVC.full
+0	informazioa	informazio	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	ihes	ihes	IZE	1	ncmod
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	ncpred
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	duguna	ukan	ADT	_	_
+
+VID
+0	alde	alde	IZE	2	ncmod
+1	batera	bat	DET	0	detmod
+2	utzita	utzi	ADI	_	_
+
+LVC.full
+0	ezin	ezindu	ADI	_	_
+1	daiteke	*edin	ADL	0	auxmod
+
+LVC.full
+0	nahi	nahi	IZE	1	ncsubj
+1	denean	izan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	den	izan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncobj
+1	ditu	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	zaion	izan	ADT	0	auxmod
+
+LVC.full
+0	ezin	ezin	IZE	1	ncpred
+1	dira	izan	ADT	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncpred
+1	du	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	zaion	izan	ADT	_	_
+
+LVC.full
+0	Biderkaketa	biderkatu	ADI	1	ncobj
+1	eginez	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	den	izan	ADT	0	auxmod
+
+LVC.full
+0	egin	egin	ADI	_	_
+1	ahalegin	ahalegin	IZE	0	ncobj
+
+VID
+0	kontutan	kontu	IZE	1	ncmod
+1	harturik	hartu	ADI	_	_
+
+LVC.full
+0	behar	behar	ADJ	1	ncpred
+1	denean	izan	ADT	_	_
+
+LVC.full
+0	Lehia	lehia	IZE	1	ncmod
+1	egiteko	egin	ADI	_	_
+
+VID
+0	izena	izen	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncobj
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	zaitugu	ukan	ADT	_	_
+
+VID
+0	jarri	jarri	ADI	_	_
+1	abian	abian	ADB	_	_
+
+VID
+0	neurriak	neurri	IZE	1	ncobj
+1	hartzea	hartu	ADI	_	_
+
+VID
+0	parte	parte	IZE	_	_
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	duenak	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	dira	izan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	ditu	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	denez	izan	ADT	_	_
+
+LVC.full
+0	ahal	ahal	IZE	1	ncmod
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	uste	uste	IZE	1	ncmod
+1	dute	ukan	ADT	_	_
+
+VID
+0	gai	gai	ADJ	1	ncpred
+1	baita	izan	ADI	_	_
+
+LVC.full
+0	behar	behar	ADJ	1	ncobj
+1	dute	ukan	ADT	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncmod
+1	duen	ukan	ADT	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncpred
+1	ditu	ukan	ADT	_	_
+
+VID
+0	alde	alde	IZE	2	ncmod
+1	batera	bat	DET	0	detmod
+2	uzten	utzi	ADI	_	_
+
+LVC.full
+0	ahal	ahal	IZE	_	_
+1	zaion	izan	ADT	_	_
+
+VID
+0	bere	bera	DET	1	ncmod
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	txango	txango	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.cause
+0	hasiera	hasiera	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+VID
+0	esku	esku	IZE	1	ncmod
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	egingo	egin	ADI	_	_
+1	lan	lan	IZE	0	ncobj
+
+LVC.full
+0	lan	lan	IZE	1	ncobj
+1	eginda	egin	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncsubj
+1	izango	izan	ADI	_	_
+
+VID
+0	ados	ados	ADB	1	ncmod
+1	jartzea	jarri	ADI	_	_
+
+LVC.full
+0	premia	premia	IZE	1	ncobj
+1	duenean	ukan	ADT	_	_
+
+LVC.full
+0	Ahal	ahal	IZE	1	ncpred
+1	delarik	izan	ADT	_	_
+
+LVC.full
+0	eman	eman	ADI	_	_
+1	ekarpena	ekarpen	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncmod
+1	duen	ukan	ADT	_	_
+
+LVC.full
+0	lan	lan	IZE	1	ncmod
+1	egindako	egin	ADI	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	harturik	hartu	ADI	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	hartuko	hartu	ADI	_	_
+
+VID
+0	Ados	ados	ADB	1	ncmod
+1	jarri	jarri	ADI	_	_
+
+LVC.full
+0	Oporrak	opor	IZE	_	_
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	hartu	hartu	ADI	_	_
+1	oporrak	opor	IZE	_	_
+
+LVC.full
+0	ahal	ahal	PRT	1	ncmod
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	Oporrak	opor	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+VID
+0	ados	ados	ADB	1	ncmod
+1	jarririk	jarri	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	1	galdemod
+1	zen	izan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	zaizkio	izan	ADT	0	auxmod
+
+LVC.full
+0	baimena	baimen	IZE	1	ncobj
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	gora	gora	ADB	1	ncmod
+1	eginez	egin	ADI	_	_
+
+LVC.full
+0	baimenak	baimen	IZE	1	ncsubj
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	azterketak	azterketa	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	baimenak	baimen	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	hartuta	hartu	ADI	_	_
+
+LVC.full
+0	baimen	baimen	IZE	1	ncobj
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	baimena	baimen	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	eskaria	eskari	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	hartutako	hartu	ADI	1	xmod
+1	akordio	akordio	IZE	_	_
+
+LVC.full
+0	baimen	baimen	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	Baimen	baimen	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+VID
+0	bidea	bide	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.cause
+0	eman	eman	ADI	_	_
+1	berri	berri	IZE	_	_
+
+LVC.full
+0	egingo	egin	ADI	_	_
+1	azterketa	azterketa	IZE	0	ncmod
+
+LVC.full
+0	lan	lan	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	Nahi	nahi	IZE	1	ncmod
+1	duen	ukan	ADT	_	_
+
+LVC.full
+0	atseden	atseden	ADI	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	dutenean	ukan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	_	_
+1	dute	ukan	ADT	_	_
+
+VID
+0	hartuko	hartu	ADI	_	_
+1	kontuan	kontu	IZE	0	ncmod
+
+LVC.full
+0	nahi	nahi	IZE	1	ncmod
+1	izanez	izan	ADI	_	_
+
+LVC.full
+0	harrera	harrera	IZE	_	_
+1	emana	eman	ADI	_	_
+
+LVC.full
+0	erantzukizuna	erantzukizun	IZE	1	ncobj
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	zituzten	ukan	ADT	_	_
+
+LVC.full
+0	doiketa	doiketa	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+VID
+0	Kontuan	kontu	IZE	1	ncmod
+1	hartuko	hartu	ADI	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncpred
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncmod
+1	diren	izan	ADT	_	_
+
+LVC.full
+0	Laguntza	laguntza	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	hartu	hartu	ADI	_	_
+1	erabakia	erabaki	IZE	_	_
+
+LVC.full
+0	hartutako	hartu	ADI	1	xmod
+1	akordioak	akordio	IZE	_	_
+
+LVC.full
+0	eragina	eragin	ADI	1	ncobj
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	erabakirik	erabaki	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	Ordezkapenak	ordezkapen	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	botoa	boto	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	deialdia	deialdi	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.cause
+0	amaiera	amaiera	IZE	1	ncmod
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	prestakuntza	prestakuntza	IZE	1	ncobj
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	balio	balio	IZE	1	ncpred
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	barne	barne	IZE	1	ncmod
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	diren	izan	ADT	_	_
+
+LVC.full
+0	behar	behar	ADJ	1	ncpred
+1	dituzten	ukan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	badira	izan	PRT	0	ncmod
+
+LVC.full
+0	ahal	ahal	IZE	_	_
+1	zaizkien	izan	ADT	0	auxmod
+
+LVC.full
+0	behar	behar	ADJ	_	_
+1	dituzten	ukan	ADT	0	auxmod
+
+LVC.full
+0	ahal	ahal	IZE	1	ncmod
+1	zaiz	zai	IZE	_	_
+
+LVC.full
+0	behar	behar	ADJ	1	ncobj
+1	dituzten	ukan	ADT	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	dutelako	ukan	ADT	_	_
+
+LVC.full
+0	oporrak	opor	IZE	1	ncobj
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	oporrak	opor	IZE	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+LVC.full
+0	oporrak	opor	IZE	_	_
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	dituen	ukan	ADT	_	_
+
+LVC.full
+0	oporrak	opor	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	dituen	ukan	ADT	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncmod
+1	izango	izan	ADI	_	_
+
+LVC.cause
+0	alta	alta	LOT	1	ncobj
+1	eman	eman	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	duenean	ukan	ADT	0	auxmod
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	den	izan	ADT	0	auxmod
+
+LVC.full
+0	baja	baja	IZE	1	ncmod
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	baimen	baimen	IZE	_	_
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	hartu	hartu	ADI	_	_
+1	baimenak	baimen	IZE	_	_
+
+LVC.full
+0	ematen	eman	ADI	1	cmod
+1	tratu	tratu	IZE	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	denean	izan	ADT	_	_
+
+LVC.full
+0	Baimen	baimen	IZE	1	ncsubj
+1	hartuko	hartu	ADI	_	_
+
+LVC.cause
+0	eskubidea	eskubide	IZE	1	ncobj
+1	emango	eman	ADI	_	_
+
+LVC.full
+0	eszedentzia	eszedentzia	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	1	xpred
+1	den	izan	ADT	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	direnean	izan	ADT	_	_
+
+LVC.full
+0	konpromisoa	konpromiso	IZE	1	ncobj
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	erretiro	erretiro	IZE	1	ncobj
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	Erretiro	erretiro	IZE	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+LVC.full
+0	erretiroa	erretiro	IZE	1	ncobj
+1	hartzeko	hartu	ADI	_	_
+
+LVC.full
+0	azterketa	azterketa	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	proba	proba	IZE	1	ncsubj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	Azterketa	azterketa	IZE	1	ncsubj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	azterketa	azterketa	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	azterketa	azterketa	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+VID
+0	hartzen	hartu	ADI	1	cmod
+1	neurriak	neurri	IZE	_	_
+
+VID
+0	aintzat	aintzat	ADB	1	ncmod
+1	hartuta	hartu	ADI	_	_
+
+LVC.full
+0	bilerak	bilera	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	falta	falta	IZE	1	ncpred
+1	dela	izan	ADT	_	_
+
+LVC.full
+0	konpromisoa	konpromiso	IZE	1	ncobj
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	ezin	ezin	IZE	1	ncmod
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	ahalegina	ahalegin	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+LVC.full
+0	igoerak	igoera	IZE	1	ncobj
+1	egingo	egin	ADI	_	_
+
+VID
+0	parte	parte	IZE	1	ncpred
+1	hartzerik	hartu	ADI	_	_
+
+LVC.full
+0	balorazioa	balorazio	IZE	1	ncobj
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	duten	ukan	ADT	_	_
+
+LVC.full
+0	hausnarketa	hausnarketa	IZE	1	ncmod
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	dio	*io	ADT	_	_
+
+VID
+0	oinarri	oinarri	IZE	1	ncpred
+1	hartuta	hartu	ADI	_	_
+
+VID
+0	trenza	trenz	ADJ	1	ncpred
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	eginiko	egin	ADI	1	xmod
+1	aportazioa	aportazio	IZE	_	_
+
+VID
+0	bertan	bertan	ADB	2	ncmod
+1	behera	behe	IZE	2	ncmod
+2	utzi	utzi	ADI	_	_
+
+LVC.full
+0	garapen	garapen	IZE	1	ncobj
+1	izan	izan	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	diren	izan	ADT	0	auxmod
+
+LVC.cause
+0	balio	balio	IZE	1	ncobj
+1	emanez	eman	ADI	_	_
+
+LVC.full
+0	apustua	apustu	IZE	1	ncobj
+1	egiterakoan	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	da	izan	ADT	0	auxmod
+
+LVC.cause
+0	indarrean	indar	IZE	1	ncmod
+1	jartzeak	jarri	ADI	_	_
+
+LVC.full
+0	eragin	eragin	ADI	_	_
+1	izan	izan	IZE	0	auxmod
+
+LVC.cause
+0	zerbitzura	zerbitzu	IZE	1	ncmod
+1	egon	egon	ADI	_	_
+
+LVC.full
+0	presio	presio	IZE	_	_
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	ari	aritu	ADI	_	_
+1	dira	izan	ADT	0	auxmod
+
+LVC.cause
+0	sarrera	sarrera	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	uko	uko	IZE	1	ncmod
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	indarra	indar	IZE	1	ncobj
+1	hartzen	hartu	ADI	_	_
+
+LVC.full
+0	baimena	baimen	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.cause
+0	aginpidea	aginpide	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	izan	izan	ADI	_	_
+1	partaidetza	partaidetza	IZE	0	ncpred
+
+LVC.full
+0	jaramon	jaramon	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.cause
+0	Erraztasunak	erraztasun	IZE	1	ncmod
+1	ematea	eman	ADI	_	_
+
+LVC.full
+0	administrazioa	administrazio	IZE	_	_
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	inbertsioa	inbertsio	IZE	_	_
+1	egiten	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncpred
+1	duten	ukan	ADT	_	_
+
+LVC.full
+0	lan	lan	IZE	1	ncmod
+1	egiteak	egin	ADI	_	_
+
+LVC.full
+0	eskaerak	eskaera	IZE	_	_
+1	egiteko	egin	ADI	_	_
+
+VID
+0	zezenari	zezen	IZE	2	nczobj
+1	adarretatik	adar	IZE	2	ncmod
+2	heltzea	heldu	ADI	_	_
+
+VID
+0	gaia	gai	IZE	1	ncpred
+1	da	izan	ADT	_	_
+
+LVC.full
+0	Lan	lan	IZE	1	ncmod
+1	egitearren	egin	ADI	_	_
+
+VID
+0	daude	egon	ADT	_	_
+1	abian	abian	ADB	_	_
+
+VID
+0	aurre	aurre	IZE	1	ncobj
+1	egin	egin	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	baditu	ukan	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncobj
+1	badute	ukan	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncpred
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncobj
+1	izango	izan	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	xmod
+1	izango	izan	ADI	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	izanik	izan	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	_	_
+1	diren	izan	ADT	0	auxmod
+
+VID
+0	bidea	bide	IZE	1	ncobj
+1	ematen	eman	ADI	_	_
+
+LVC.full
+0	zor	zor	IZE	1	ncpred
+1	zaizkienak	izan	ADT	_	_
+
+LVC.cause
+0	amaiera	amaiera	IZE	1	ncmod
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	hitz	hitz	IZE	1	ncobj
+1	egitean	egin	ADI	_	_
+
+VID
+0	kontuan	kontu	IZE	1	ncmod
+1	hartuz	hartu	ADI	_	_
+
+LVC.full
+0	Behar	behar	IZE	1	ncmod
+1	diren	izan	ADT	_	_
+
+LVC.full
+0	ahaleginak	ahalegin	IZE	1	ncobj
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	egiteko	egin	ADI	_	_
+1	hitzen	hitz	IZE	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	da	izan	ADT	_	_
+
+VID
+0	aintzat	aintzat	ADB	1	ncmod
+1	hartzearen	hartu	ADI	_	_
+
+VID
+0	aintzat	aintzat	ADB	1	ncmod
+1	hartzea	hartu	ADI	_	_
+
+LVC.full
+0	egiten	egin	ADI	1	cmod
+1	ekarpena	ekarpen	IZE	_	_
+
+LVC.full
+0	Hitz	hitz	IZE	1	ncobj
+1	egiten	egin	ADI	_	_
+
+VID
+0	aurrera	aurre	IZE	1	ncmod
+1	egiteko	egin	ADI	_	_
+
+LVC.full
+0	ahaleginak	ahalegin	IZE	1	ncobj
+1	eginez	egin	ADI	_	_
+
+VID
+0	Kontuan	kontu	IZE	1	ncmod
+1	izan	izan	ADI	_	_
+
+VID
+0	bat	bat	DET	1	ncobj
+1	etorriz	etorri	ADI	_	_
+
+VID
+0	aintzat	aintzat	ADB	1	ncmod
+1	hartu	hartu	ADI	_	_
+
+LVC.full
+0	premia	premia	IZE	1	ncobj
+1	dituztenak	ukan	ADT	_	_
+
+VID
+0	bidea	bide	IZE	1	ncobj
+1	emanen	eman	ADI	_	_
+
+LVC.full
+0	du	ukan	ADT	_	_
+1	nahi	nahi	IZE	_	_
+
+LVC.full
+0	lehentasuna	lehentasun	IZE	1	ncobj
+1	eman	eman	ADI	_	_
+
+VID
+0	jokoan	joko	IZE	1	ncmod
+1	jartzen	jarri	ADI	_	_
+
+LVC.full
+0	behar	behar	IZE	1	ncmod
+1	baitituzte	ukan	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	1	ncmod
+1	baitira	izan	ADI	_	_
+
+LVC.full
+0	jarrera	jarrera	IZE	1	ncobj
+1	hartuz	hartu	ADI	_	_
+
+LVC.full
+0	jarraipena	jarraipen	IZE	1	ncobj
+1	emanen	eman	ADI	_	_
+
+LVC.full
+0	nahi	nahi	IZE	_	_
+1	duen	ukan	ADT	_	_
+
+VID
+0	parte	parte	IZE	1	ncobj
+1	hartzea	hartu	ADI	_	_
+
+LVC.cause
+0	hasiera	hasiera	IZE	_	_
+1	emateko	eman	ADI	_	_
+
+LVC.cause
+0	amaiera	amaiera	IZE	_	_
+1	emateko	eman	ADI	_	_
+
+LVC.cause
+0	hasiera	hasiera	IZE	1	ncobj
+1	emateko	eman	ADI	_	_
+
+LVC.full
+0	Ondorioak	ondorio	IZE	1	ncobj
+1	ateratzea	atera	ADI	_	_
+
+LVC.full
+0	galderak	galdera	IZE	1	ncobj
+1	eginez	egin	ADI	_	_
+
+VID
+0	esku	esku	IZE	1	ncobj
+1	hartzea	hartu	ADI	_	_
+
+LVC.full
+0	aurkezpen	aurkezpen	IZE	_	_
+1	egitea	egin	ADI	_	_
+
+LVC.full
+0	salaketa	salaketa	NOUN	1	dobj
+1	ezarri	ezarri	VERB	_	_
+
+LVC.full
+0	arazorik	arazo	NOUN	1	dobj
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	duela	ukan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	_	_
+1	duela	*edun	AUX	0	aux
+
+LVC.cause
+0	aditzerat	adi+tze	NOUN	1	advcl
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	indarrean	indarrean	ADV	1	advmod
+1	zegoenean	egon	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	emandako	eman	VERB	1	advcl
+1	prentsaurrekoan	prentsaurreko	NOUN	_	_
+
+LVC.full
+0	keinuak	keinu	NOUN	1	dobj
+1	eginez	egin	VERB	_	_
+
+LVC.cause
+0	epaiketa	epaiketa	NOUN	_	_
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	dauka	eduki	VERB	_	_
+1	arrisku	arrisku	NOUN	0	dobj
+
+LVC.full
+0	mintzo	mintzo	NOUN	_	_
+1	dira	izan	VERB	0	aux
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	duten	ukan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	dira	izan	VERB	_	_
+
+LVC.full
+0	jarduera	jarduera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Hauteskundeak	hauteskunde	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	golak	gola	NOUN	1	dobj
+1	sartzen	sartu	VERB	_	_
+
+VID
+0	Bidea	bide	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	jokoa	joko	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	menpean	menpe	NOUN	1	nmod
+1	hartuko	hartu	VERB	_	_
+
+LVC.full
+0	Uste	uste	NOUN	1	compound
+1	dut	ukan	VERB	_	_
+
+LVC.full
+0	frogak	froga	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	inbertsioak	inbertsio	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	lekua	leku	NOUN	1	dobj
+1	hartuko	hartu	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	den	izan	VERB	_	_
+
+VID
+0	burua	buru	NOUN	1	compound
+1	galdu	galdu	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	adierazpenetan	adierazpen	NOUN	_	_
+
+LVC.full
+0	bermaketa	bermatu	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dutela	ukan	VERB	_	_
+
+VID
+0	gainera	gainera	ADV	1	advmod
+1	etorri	etorri	VERB	_	_
+
+LVC.full
+0	beldurra	beldur	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	hartu	hartu	VERB	_	_
+1	jarrera	jarrera	NOUN	0	dobj
+
+VID
+0	kinka	kinka	NOUN	2	nmod
+1	larrian	larri	ADJ	0	amod
+2	dago	egon	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	duela	ukan	VERB	_	_
+
+LVC.full
+0	erabakiak	erabaki	NOUN	1	dobj
+1	hartzen	hartu	VERB	_	_
+
+LVC.full
+0	beharra	behar	NOUN	1	dobj
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	Istripua	istripu	NOUN	1	nsubj
+1	izan	izan	VERB	_	_
+
+VID
+0	bidean	bide	NOUN	1	nmod
+1	da	izan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	duen	ukan	VERB	_	_
+
+VID
+0	itzalik	itzal	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+VID
+0	behera	behe	NOUN	1	nmod
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Sendotasuna	sendotasun	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	harremanetan	harreman	NOUN	1	nmod
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	ihes	ihes	NOUN	1	compound
+1	eginda	egin	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	irakurketa	irakurketa	NOUN	_	_
+
+LVC.full
+0	erabakia	erabaki	NOUN	1	dobj
+1	hartzen	hartu	VERB	_	_
+
+LVC.full
+0	bilera	bilera	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	gomendioa	gomendio	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	_	_
+1	dituzte	*edun	AUX	0	aux
+
+LVC.full
+0	ahal	ahal	NOUN	1	compound
+1	izateko	izan	VERB	_	_
+
+LVC.full
+0	dut	ukan	VERB	1	cop
+1	gustuko	gustuko	ADJ	_	_
+
+VID
+0	abian	abian	ADV	1	advmod
+1	jarrita	jarri	VERB	_	_
+
+LVC.full
+0	espero	espero	NOUN	1	compound
+1	dut	ukan	VERB	_	_
+
+VID
+0	guztia	guzti	DET	1	dobj
+1	ematea	eman	VERB	_	_
+
+LVC.full
+0	Behaketa	behaketa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	atera	atera	VERB	1	acl
+1	ondorioak	ondorio	NOUN	_	_
+
+LVC.full
+0	keinua	keinu	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	keinua	keinu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Gogo	gogo	NOUN	_	_
+1	daukat	eduki	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	badut	ukan	VERB	_	_
+
+LVC.cause
+0	eman	eman	VERB	_	_
+1	pena	pena	NOUN	0	dobj
+
+LVC.full
+0	erantzuna	erantzun	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	eztanda	eztanda	NOUN	1	compound
+1	egindako	egin	VERB	_	_
+
+VID
+0	alde	alde	INTJ	_	_
+1	batera	bat	NUM	0	dep
+2	utzita	utzi	VERB	0	dep
+
+LVC.full
+0	maite	maite	NOUN	_	_
+1	ditugu	ukan	VERB	0	cop
+
+LVC.full
+0	ninan	ukan	VERB	_	_
+1	beldurrik	beldur	NOUN	0	dobj
+
+LVC.full
+0	aldaketak	aldaketa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	proposamena	proposamen	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	da	izan	VERB	_	_
+
+VID
+0	jarri	jarri	VERB	_	_
+1	arrastoan	arrasto	NOUN	_	_
+
+LVC.full
+0	errieta	errieta	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	ostikadatxoa	ostikadatxo	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	entsegu	entsegu	NOUN	1	dobj
+1	eginda	egin	VERB	_	_
+
+LVC.full
+0	mintzo	mintzo	NOUN	_	_
+1	zen	izan	VERB	_	_
+
+LVC.full
+0	hauteskundeak	hauteskunde	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dira	izan	VERB	_	_
+
+LVC.full
+0	su	su	NOUN	1	compound
+1	hartzerik	hartu	VERB	_	_
+
+VID
+0	aurrea	aurre	NOUN	1	compound
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	eginiko	egin	VERB	_	_
+1	harrerarekin	harrera	NOUN	_	_
+
+LVC.full
+0	hartutako	hartu	VERB	1	advcl
+1	erabakia	erabaki	NOUN	_	_
+
+LVC.full
+0	urratsak	urrats	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	eragina	eragin	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	beldurra	beldur	NOUN	1	dobj
+1	baitio	ukan	VERB	_	_
+
+LVC.full
+0	gol	gol	NOUN	1	dobj
+1	sartuko	sartu	VERB	_	_
+
+LVC.full
+0	erantzukizunik	erantzukizun	NOUN	1	dobj
+1	duela	ukan	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	bisita	bisita	NOUN	_	_
+
+LVC.full
+0	planak	plan	NOUN	_	_
+1	eginez	egin	VERB	_	_
+
+VID
+0	begi	begi	NOUN	2	nmod
+1	onez	on	ADJ	0	amod
+2	ikusi	ikusi	VERB	_	_
+
+VID
+0	kanpoan	kanpo	NOUN	1	nmod
+1	geratu	geratu	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	kanpaina	kanpaina	NOUN	1	dobj
+1	egitera	egin	VERB	_	_
+
+VID
+0	atzera	atzera	ADV	1	advmod
+1	botatzea	bota	VERB	_	_
+
+LVC.full
+0	babesa	babes	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.full
+0	izandako	izan	VERB	1	advcl
+1	eragin	eragin	NOUN	_	_
+
+VID
+0	gora	gora	ADV	1	advmod
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	uste	uste	NOUN	1	compound
+1	dut	ukan	VERB	_	_
+
+LVC.full
+0	baietza	baietz	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	uste	uste	NOUN	_	_
+1	dut	*edun	AUX	0	aux
+
+LVC.full
+0	botoa	boto	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	ahalegina	ahalegin	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	frogak	froga	NOUN	0	dobj
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	duen	ukan	VERB	_	_
+
+LVC.full
+0	irudia	irudi	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	da	izan	VERB	_	_
+
+LVC.full
+0	min	min	NOUN	1	compound
+1	hartuta	hartu	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	_	_
+1	nezake	*ezan	AUX	0	aux
+
+VID
+0	prest	prest	ADV	1	advmod
+1	egoteko	egon	VERB	_	_
+
+LVC.full
+0	saioa	saio	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	litzateke	izan	VERB	_	_
+
+LVC.full
+0	bilera	bilera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	atean	ate	NOUN	1	nmod
+1	geratu	geratu	VERB	_	_
+
+VID
+0	luzatu	luzatu	VERB	_	_
+1	eskua	esku	NOUN	0	dobj
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	indarrean	indarrean	ADV	1	advmod
+1	jartzea	jarri	VERB	_	_
+
+LVC.full
+0	itzuli	itzuli	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	gogoan	gogo	NOUN	1	compound
+1	dauka	eduki	VERB	_	_
+
+LVC.full
+0	lanak	lan	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+VID
+0	ardatz	ardatz	NOUN	1	xcomp
+1	harturik	hartu	VERB	_	_
+
+LVC.full
+0	Ahal	ahal	NOUN	_	_
+1	badugu	ukan	VERB	0	aux
+
+LVC.cause
+0	ezusteko	ezusteko	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dut	ukan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	ditu	ukan	VERB	_	_
+
+LVC.full
+0	iruzurra	iruzur	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	prest	prest	ADV	1	advmod
+1	egotea	egon	VERB	_	_
+
+LVC.full
+0	prentsaurrekoa	prentsaurreko	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	aukeraketa	aukeraketa	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	ahal	ahal	NOUN	1	compound
+1	izanen	izan	VERB	_	_
+
+LVC.full
+0	kontrolpean	kontrolpe	NOUN	_	_
+1	izango	izan	VERB	0	cop
+
+LVC.full
+0	atseden	atseden	NOUN	1	compound
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dugu	ukan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	gara	izan	VERB	_	_
+
+LVC.full
+0	eztanda	eztanda	NOUN	1	compound
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	presioa	presio	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	direla	izan	VERB	_	_
+
+LVC.full
+0	Ihes	ihes	NOUN	1	compound
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	lana	lan	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	erabakia	erabaki	NOUN	1	dobj
+1	har-tzeko	hartu	VERB	_	_
+
+LVC.full
+0	uste	uste	NOUN	1	compound
+1	du	ukan	VERB	_	_
+
+VID
+0	zubiak	zubi	NOUN	1	dobj
+1	eraikitzen	eraiki	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	baitzuen	ukan	VERB	_	_
+
+VID
+0	bidea	bide	NOUN	1	dobj
+1	argitu	argitu	VERB	_	_
+
+LVC.full
+0	uste	uste	NOUN	_	_
+1	dute	*edun	AUX	0	aux
+
+VID
+0	jokoan	joko	NOUN	1	nmod
+1	zeuden	egon	VERB	_	_
+
+LVC.full
+0	bueltatxo	bueltA+txo	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	_	_
+1	dugun	ukan	VERB	0	conj
+
+LVC.full
+0	maite	maite	ADJ	1	compound
+1	dugun	ukan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	zirela	izan	VERB	_	_
+
+VID
+0	abian	abian	ADV	1	advmod
+1	jarri	jarri	VERB	_	_
+
+LVC.cause
+0	konfiantza	konfiantza	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	asmoa	asmo	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	zuen	ukan	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	hilketak	hilketa	NOUN	_	_
+
+LVC.full
+0	baimena	baimen	NOUN	1	compound
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	zaio	izan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	ziren	izan	VERB	_	_
+
+LVC.full
+0	kasu	kasu	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	egiten	egin	VERB	_	_
+1	diosalaren	diosal	NOUN	_	_
+
+VID
+0	ageri	ageri	ADJ	1	compound
+1	zen	izan	VERB	_	_
+
+VID
+0	bertan	bertan	ADV	1	compound
+1	behera	behe	NOUN	2	nmod
+2	gelditu	gelditu	VERB	_	_
+
+LVC.full
+0	kontzentrazioei	kontzentrazio	NOUN	_	_
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	zuen	ukan	VERB	1	acl
+1	eraginagatik	eragin	NOUN	_	_
+
+VID
+0	gorantz	gorantz	ADV	1	advmod
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	dela	izan	VERB	_	_
+
+LVC.full
+0	kurtso	kurtso	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	aurrera	aurrera	ADV	1	advmod
+1	jarraitzen	jarraitu	VERB	_	_
+
+LVC.full
+0	itzuri	itzuri	VERB	1	dobj
+1	eginez	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	izatea	izan	VERB	_	_
+
+LVC.full
+0	zartako	zartako	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	lana	lan	NOUN	_	_
+1	egina	egin	VERB	_	_
+
+VID
+0	aurrean	aurre	NOUN	1	nmod
+1	dago	egon	VERB	_	_
+
+LVC.full
+0	ditu	ukan	VERB	1	cop
+1	gustuko	gustu	NOUN	_	_
+
+LVC.full
+0	espero	espero	NOUN	1	compound
+1	du	ukan	VERB	_	_
+
+VID
+0	parte	parte	NOUN	1	xcomp
+1	hartzea	hartu	VERB	_	_
+
+LVC.full
+0	hartzea	hartu	VERB	_	_
+1	ardura	ardura	NOUN	0	conj
+
+VID
+0	atzera	atze	NOUN	1	nmod
+1	botatzerik	bota	VERB	_	_
+
+LVC.cause
+0	emango	eman	VERB	_	_
+1	distira	distira	NOUN	0	dobj
+
+VID
+0	bertan	bertan	ADV	1	compound
+1	behera	behe	NOUN	2	nmod
+2	utzi	utzi	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	aukeraketa	aukeraketa	NOUN	0	dobj
+
+VID
+0	dena	dena	DET	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	aldaketak	aldaketa	NOUN	_	_
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	aldaketak	aldaketa	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	asmorik	asmo	NOUN	1	dobj
+1	dute	ukan	VERB	_	_
+
+VID
+0	leku	leku	NOUN	1	dobj
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	batzar	batzar	NOUN	1	nsubj
+1	egingo	egin	VERB	_	_
+
+VID
+0	kalera	kale	NOUN	1	nmod
+1	ateratzen	atera	VERB	_	_
+
+LVC.full
+0	atseden	atseden	NOUN	1	compound
+1	hartu	hartu	VERB	_	_
+
+VID
+0	kontutan	kontu	NOUN	1	compound
+1	hartzen	hartu	VERB	_	_
+
+LVC.full
+0	galdeketaren	galdeketa	NOUN	1	nmod
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	interes	interes	NOUN	1	dobj
+1	daukagu	eduki	VERB	_	_
+
+VID
+0	erdibidean	erdibide	NOUN	1	nmod
+1	gelditu	gelditu	VERB	_	_
+
+LVC.full
+0	lan	lan	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	eskaria	eskari	NOUN	_	_
+
+VID
+0	eman	eman	VERB	_	_
+1	nota	nota	NOUN	0	dobj
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	saioan	saio	NOUN	_	_
+
+VID
+0	lan	lan	NOUN	1	dobj
+1	ukanen	ukan	VERB	_	_
+
+VID
+0	Berritu	berritu	VERB	_	_
+1	ala	ala	CONJ	0	cc
+2	hil	hil	VERB	0	conj
+
+LVC.full
+0	jarritako	jarri	VERB	1	advcl
+1	salaketa	salaketa	NOUN	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	atentatu	atentatu	NOUN	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	omenaldiarekin	omenaldi	NOUN	_	_
+
+LVC.cause
+0	aukerarik	aukera	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	izan	izan	VERB	1	cop
+1	arnasa	arnasa	NOUN	_	_
+
+LVC.full
+0	aldaketa	aldaketa	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	eragin	eragin	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	ebakuntza	ebakuntza	NOUN	0	dobj
+
+LVC.full
+0	zuten	ukan	VERB	_	_
+1	asmorik	asmo	NOUN	0	dobj
+
+LVC.full
+0	ebakuntza	ebakuntza	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	aldea	alde	NOUN	1	dobj
+1	atera	atera	VERB	_	_
+
+LVC.full
+0	da	izan	VERB	1	cop
+1	nagusi	nagusi	ADJ	_	_
+
+LVC.full
+0	lan	lan	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	botoak	boto	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	merezi	merezi	NOUN	1	compound
+1	badu	ukan	VERB	_	_
+
+LVC.full
+0	eman	eman	VERB	1	acl
+1	itzulia	itzuli	NOUN	_	_
+
+VID
+0	prest	prest	ADV	_	_
+1	dagoela	egon	VERB	0	advcl
+
+VID
+0	alde	alde	NOUN	_	_
+1	izango	izan	VERB	0	cop
+
+LVC.full
+0	uste	uste	NOUN	1	compound
+1	baitut	ukan	VERB	_	_
+
+LVC.full
+0	biltzarra	biltzar	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	zarete	izan	VERB	_	_
+
+VID
+0	arnasik	arnas	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	eskerrak	esker	NOUN	1	compound
+1	eman	eman	VERB	_	_
+
+VID
+0	ados	ados	ADV	1	advmod
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	aldaketarik	aldaketa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	alde	alde	NOUN	1	dobj
+1	ateratzen	atera	VERB	_	_
+
+LVC.full
+0	erantzuna	erantzun	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.full
+0	harreman	harreman	NOUN	1	dobj
+1	dituzte	ukan	VERB	_	_
+
+VID
+0	lotuta	lotu	VERB	1	xcomp
+1	daude	egon	VERB	_	_
+
+LVC.full
+0	jokoa	joko	NOUN	1	dobj
+1	egiteak	egin	VERB	_	_
+
+LVC.full
+0	golik	gol	NOUN	1	dobj
+1	sartuko	sartu	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	bilera	bilera	NOUN	0	dobj
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	bada	izan	VERB	_	_
+
+LVC.full
+0	ahal	ahal	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+LVC.cause
+0	garrantzi	garrantzi	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	lana	lan	NOUN	_	_
+
+VID
+0	aintzat	aintzat	ADV	1	advmod
+1	har	hartu	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	zuen	ukan	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	bailuen	ukan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	_	_
+1	bailuen	ukan	VERB	0	conj
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	lanarekin	lan	NOUN	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	baita	izan	VERB	_	_
+
+LVC.full
+0	proba	proba	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	gogo	gogo	NOUN	1	dobj
+1	dugu	ukan	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	lanaren	lan	NOUN	_	_
+
+LVC.full
+0	ezina	ezin	NOUN	_	_
+1	da	izan	VERB	0	cop
+
+LVC.full
+0	kritika	kritika	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	galdera	galdera	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.cause
+0	kolokan	kolokan	ADV	1	advmod
+1	jarriko	jarri	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	tantoak	tanto	NOUN	_	_
+
+VID
+0	moduan	modu	NOUN	1	nmod
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	gola	gol	NOUN	1	dobj
+1	sartu	sartu	VERB	_	_
+
+LVC.cause
+0	amaiera	amaiera	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	irtenbide	irtenbide	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.cause
+0	amnistia	amnistia	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.full
+0	eskaera	eskaera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	dugu	ukan	VERB	_	_
+
+LVC.full
+0	Sustoak	susto	NOUN	1	dobj
+1	hartutakoa	hartu	VERB	_	_
+
+LVC.full
+0	mintzo	mintzo	NOUN	_	_
+1	zitzaigun	izan	VERB	0	aux
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dio	ukan	VERB	_	_
+
+LVC.full
+0	itxura	itxura	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	gorantz	gorantz	ADV	1	advmod
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	garenez	izan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	izaten	izan	VERB	_	_
+
+VID
+0	behera	behe	NOUN	1	nmod
+1	botatzen	botatu	VERB	_	_
+
+LVC.full
+0	hitza	hitz	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	bihotzekoa	bihotzeko	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	prest	prest	ADV	1	advmod
+1	dagoela	egon	VERB	_	_
+
+VID
+0	Bistan	bista	NOUN	1	compound
+1	da	izan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	genituen	ukan	VERB	_	_
+
+VID
+0	abian	abian	ADV	1	advmod
+1	da	izan	VERB	_	_
+
+LVC.full
+0	ari	aritu	VERB	_	_
+1	gara	izan	AUX	0	aux
+
+LVC.full
+0	galdera	galdera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	neurririk	neurri	NOUN	1	dobj
+1	hartzen	hartu	VERB	_	_
+
+LVC.full
+0	uko	uko	NOUN	1	compound
+1	egin	egin	VERB	_	_
+
+VID
+0	lekua	leku	NOUN	1	dobj
+1	betetzeko	bete	VERB	_	_
+
+LVC.full
+0	ekimena	ekimen	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dutenean	ukan	VERB	_	_
+
+LVC.full
+0	zarata	zarata	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	botoa	boto	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+VID
+0	prest	prest	ADV	1	advmod
+1	egon	egon	VERB	_	_
+
+LVC.full
+0	eman	eman	VERB	_	_
+1	botoa	boto	NOUN	0	dobj
+
+LVC.full
+0	erasoak	eraso	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	Txapela	txapel	NOUN	1	dobj
+1	janzteko	jantzi	VERB	_	_
+
+VID
+0	ageri	ageri	ADJ	1	compound
+1	dira	izan	VERB	_	_
+
+LVC.full
+0	hitzarmenik	hitzarmen	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	uste	uste	NOUN	1	compound
+1	genuen	ukan	VERB	_	_
+
+LVC.full
+0	kontaktu	kontaktu	NOUN	1	dobj
+1	egitekoan	egin	VERB	_	_
+
+VID
+0	lekua	leku	NOUN	1	dobj
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	kolpea	kolpe	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	denean	izan	VERB	_	_
+
+LVC.full
+0	kolpea	kolpe	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+VID
+0	zinemara	zinema	NOUN	1	nmod
+1	eraman	eraman	VERB	_	_
+
+VID
+0	oinarri	oinarri	NOUN	1	xcomp
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	merezi	merezi	NOUN	1	compound
+1	baitzuen	ukan	VERB	_	_
+
+VID
+0	Atzean	atze	NOUN	1	nmod
+1	utzi	utzi	VERB	_	_
+
+LVC.full
+0	izan	izan	VERB	_	_
+1	dudarik	duda	NOUN	0	dobj
+
+VID
+0	sutan	sutan	ADV	1	advmod
+1	jarri	jarri	VERB	_	_
+
+VID
+0	ordua	ordu	NOUN	1	nsubj
+1	heldu	heldu	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	debuta	debut	NOUN	0	dobj
+
+LVC.full
+0	uko	uko	NOUN	1	compound
+1	egitera	egin	VERB	_	_
+
+VID
+0	da	izan	VERB	_	_
+1	nagusi	nagusi	ADJ	_	_
+
+VID
+0	denbora	denbora	NOUN	1	dobj
+1	puskatu	puskatu	VERB	_	_
+
+VID
+0	ametsa	amets	NOUN	2	dobj
+1	egia	egia	NOUN	2	xcomp
+2	bihurtzeko	bihurtu	VERB	_	_
+
+VID
+0	aurrea	aurre	NOUN	1	compound
+1	hartuta	hartu	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	direla	izan	VERB	_	_
+
+VID
+0	esan	esan	VERB	2	xcomp
+1	nahi	nahi	NOUN	2	compound
+2	du	ukan	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	apustuak	apustu	NOUN	_	_
+
+VID
+0	irabazi	irabazi	VERB	_	_
+1	txapela	txapel	NOUN	0	dobj
+
+LVC.full
+0	ezin	ezindu	VERB	_	_
+1	zuen	*edun	AUX	0	aux
+
+LVC.full
+0	lorik	lo	NOUN	1	compound
+1	egin	egin	VERB	_	_
+
+VID
+0	bistan	bista	NOUN	1	compound
+1	da	izan	VERB	_	_
+
+LVC.full
+0	eman	eman	VERB	_	_
+1	laguntza	laguntza	NOUN	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dituzte	ukan	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	ahaleginak	ahalegin	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	ditugu	ukan	VERB	_	_
+
+LVC.full
+0	Ondorio	ondorio	NOUN	1	nsubj
+1	atera	atera	VERB	_	_
+
+LVC.full
+0	harremanetan	harreman	NOUN	1	nmod
+1	zegoen	egon	VERB	_	_
+
+LVC.full
+0	lanuztea	lanuzte	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	zaizkio	izan	VERB	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	compound
+1	direnean	izan	VERB	_	_
+
+LVC.full
+0	saio	saio	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.cause
+0	garrantzi	garrantzi	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	ADJ	_	_
+1	dela	izan	AUX	0	aux
+
+VID
+0	atzera	atzera	ADV	1	advmod
+1	bota	bota	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dugu	ukan	VERB	_	_
+
+LVC.full
+0	aritzen	aritu	VERB	_	_
+1	zela	izan	AUX	0	aux
+
+LVC.cause
+0	Bereizkeria	bereizkeria	NOUN	1	nsubj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	izandako	izan	VERB	1	advcl
+1	istripu	istripu	NOUN	_	_
+
+LVC.full
+0	zeukan	eduki	VERB	_	_
+1	interesik	interes	NOUN	0	dobj
+
+LVC.full
+0	beharko	behar_izan	VERB	_	_
+1	luke	*edun	AUX	0	aux
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	badu	ukan	VERB	_	_
+
+LVC.cause
+0	eman	eman	VERB	_	_
+1	hasiera	hasiera	NOUN	0	dobj
+
+LVC.full
+0	harritzekorik	harritu	VERB	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	izan	izan	VERB	1	cop
+1	nagusi	nagusi	NOUN	_	_
+
+VID
+0	Kontuan	kontu	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	beharko	behar_izan	VERB	_	_
+1	ditu	*edun	AUX	0	aux
+
+LVC.full
+0	eginiko	egin	VERB	1	advcl
+1	deian	dei	NOUN	_	_
+
+LVC.full
+0	erreformak	erreforma	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	alde	alde	NOUN	1	nmod
+1	izan	izan	VERB	_	_
+
+VID
+0	bidea	bide	NOUN	1	dobj
+1	ireki	ireki	VERB	_	_
+
+LVC.full
+0	ondoriorik	ondorio	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	topo	topo	NOUN	1	compound
+1	egiten	egin	VERB	_	_
+
+VID
+0	neurtuko	neurtu	VERB	_	_
+1	indarrak	indar	NOUN	0	dobj
+
+LVC.full
+0	saio	saio	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	lana	lan	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	konfiantza	konfiantza	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	Ezin	ezindu	VERB	_	_
+1	dut	*edun	AUX	0	aux
+
+LVC.full
+0	oztopo	oztopo	NOUN	1	dobj
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	iniziatiba	iniziatiba	NOUN	1	dobj
+1	hartzen	hartu	VERB	_	_
+
+VID
+0	izan	izan	VERB	1	cop
+1	gauza	gauza	NOUN	_	_
+
+LVC.full
+0	beharra	behar	NOUN	1	dobj
+1	dago	egon	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	zunan	ukan	VERB	_	_
+
+VID
+0	soberan	sobera	ADJ	1	nmod
+1	zegoen	egon	VERB	_	_
+
+LVC.full
+0	egingo	egin	VERB	1	acl
+1	hauteskundeak	hauteskunde	NOUN	_	_
+
+LVC.full
+0	eragina	eragin	NOUN	1	dobj
+1	izaten	izan	VERB	_	_
+
+VID
+0	jartzeko	jarri	VERB	_	_
+1	indarra	indar	NOUN	0	dobj
+
+VID
+0	aurre	aurre	NOUN	1	compound
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	bizibidea	bizibide	NOUN	0	dobj
+
+LVC.full
+0	eginen	egin	VERB	_	_
+1	harrera	harrera	NOUN	0	dobj
+
+LVC.full
+0	egingo	egin	VERB	1	acl
+1	bozketan	bozketa	NOUN	_	_
+
+VID
+0	biderik	bide	NOUN	1	compound
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	bileran	bilera	NOUN	_	_
+
+LVC.cause
+0	izango	izan	VERB	_	_
+1	berri	berri	ADJ	_	_
+
+LVC.full
+0	espero	espero	NOUN	1	compound
+1	da	izan	VERB	_	_
+
+LVC.full
+0	beharko	behar_izan	VERB	_	_
+1	du	*edun	AUX	0	aux
+
+LVC.full
+0	zor	zor	NOUN	1	compound
+1	dio	ukan	VERB	_	_
+
+LVC.full
+0	bozketa	bozketa	NOUN	1	nsubj
+1	egin	egin	VERB	_	_
+
+VID
+0	abian	abian	ADV	1	advmod
+1	jarriko	jarri	VERB	_	_
+
+LVC.full
+0	itxura	itxura	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+VID
+0	kontutan	kontu	NOUN	1	nmod
+1	izanik	izan	VERB	_	_
+
+LVC.full
+0	beharra	behar	NOUN	1	dobj
+1	izanez	izan	VERB	_	_
+
+VID
+0	aurre	aurre	NOUN	1	compound
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	diogu	ukan	VERB	_	_
+
+LVC.cause
+0	hasiera	hasiera	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	nuke	ukan	VERB	_	_
+
+VID
+0	buruz	buruz	ADV	1	advmod
+1	zekien	jakin	VERB	_	_
+
+VID
+0	izango	izan	VERB	_	_
+1	jokoan	joko	NOUN	0	nmod
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	ziren	izan	VERB	_	_
+
+VID
+0	dena	dena	DET	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	hiola	ukan	VERB	_	_
+
+VID
+0	Eskura	eskura	ADV	1	advmod
+1	dugun	ukan	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	entseguak	entsegu	NOUN	0	dobj
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	izango	izan	VERB	_	_
+
+VID
+0	aurrera	aurre	NOUN	1	nmod
+1	jarraitzeko	jarraitu	VERB	_	_
+
+LVC.full
+0	asmoa	asmo	NOUN	1	dobj
+1	badu	ukan	VERB	_	_
+
+VID
+0	onera	on	ADJ	1	nmod
+1	itzuli	itzuli	VERB	_	_
+
+VID
+0	dauka	eduki	VERB	_	_
+1	zertan	zertan	ADV	0	advmod
+
+LVC.full
+0	mendean	mendean	ADV	1	advmod
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	itxuraldaketa	itxuraldaketa	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	Min	min	NOUN	1	compound
+1	hartuta	hartu	VERB	_	_
+
+LVC.full
+0	uste	uste	NOUN	1	xcomp
+1	du	*edun	AUX	_	_
+
+LVC.full
+0	itzuliko	itzuli	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	esprint	esprint	NOUN	1	dobj
+1	jo	jo	VERB	_	_
+
+VID
+0	argi	argi	ADV	1	advmod
+1	ikusten	ikusi	VERB	_	_
+
+VID
+0	adio	adio	NOUN	1	dobj
+1	esateko	esan	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	dela	izan	VERB	_	_
+
+LVC.cause
+0	legitimitatea	legitimitate	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+VID
+0	neurririk	neurri	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	kontrolpean	kontrolpe	NOUN	1	nmod
+1	izatea	izan	VERB	_	_
+
+LVC.full
+0	atsegin	atsegin	ADJ	1	compound
+1	dut	ukan	VERB	_	_
+
+LVC.full
+0	maite	maite	ADJ	1	compound
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	beharrik	behar	NOUN	1	xcomp
+1	izateko	izan	VERB	_	_
+
+VID
+0	marka	marka	NOUN	1	dobj
+1	hautsi	hautsi	VERB	_	_
+
+LVC.full
+0	estutasun	estutasun	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+VID
+0	txapela	txapel	NOUN	1	dobj
+1	janzteko	jantzi	VERB	_	_
+
+LVC.full
+0	emandako	eman	VERB	1	advcl
+1	aginduari	agindu	NOUN	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	ninduela	ukan	VERB	_	_
+
+VID
+0	zeukaten	eduki	VERB	_	_
+1	zertan	zertan	ADV	0	advmod
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	diotelako	ukan	VERB	_	_
+
+LVC.full
+0	konzentrazio	kontzentrazio	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+VID
+0	urak	ur	NOUN	_	_
+1	hartzen	hartu	VERB	_	_
+
+LVC.full
+0	eztanda	eztanda	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	bizi	bizi	NOUN	1	compound
+1	izaten	izan	VERB	_	_
+
+VID
+0	nauk	ukan	VERB	1	cop
+1	gai	gai	NOUN	_	_
+
+LVC.full
+0	estatu	estatu	NOUN	1	nmod
+1	kolpea	kolpe	NOUN	2	dobj
+2	egitean	egin	VERB	_	_
+
+LVC.full
+0	beharra	behar	NOUN	1	nsubj
+1	dago	egon	VERB	_	_
+
+LVC.full
+0	ongietorria	ongietorri	NOUN	1	dobj
+1	egiteko	egite	NOUN	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	zen	izan	VERB	_	_
+
+VID
+0	puntuan	puntu	NOUN	1	nmod
+1	zegoen	egon	VERB	_	_
+
+VID
+0	kontuan	kontu	NOUN	1	compound
+1	hartuta	hartu	VERB	_	_
+
+LVC.full
+0	martxan	martxa	NOUN	1	nmod
+1	zegoen	egon	VERB	_	_
+
+LVC.full
+0	kontzertu	kontzertu	NOUN	1	dobj
+1	eginen	egin	VERB	_	_
+
+LVC.cause
+0	indarrean	indarrean	ADV	1	advmod
+1	sartu	sartu	VERB	_	_
+
+LVC.full
+0	presio	presio	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	porrot	porrot	NOUN	1	compound
+1	egin	egin	VERB	_	_
+
+VID
+0	utzi	utzi	VERB	_	_
+1	kanpora	kanpo	NOUN	0	nmod
+
+VID
+0	dute	ukan	VERB	_	_
+1	lekurik	leku	NOUN	0	dobj
+
+LVC.full
+0	alta	alta	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	atsedena	atseden	NOUN	1	dobj
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	Sasoi	sasoi	NOUN	1	nmod
+1	egon	egon	VERB	_	_
+
+VID
+0	oihartzuna	oihartzun	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	hitzaldiak	hitzaldi	NOUN	_	_
+
+VID
+0	agerian	agerian	ADV	1	advmod
+1	utzi	utzi	VERB	_	_
+
+VID
+0	bizkar	bizkar	NOUN	1	compound
+1	ematea	eman	VERB	_	_
+
+VID
+0	maila	maila	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	erasoaldi	erasoaldi	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.cause
+0	Izen	izen	NOUN	1	dobj
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	diot	ukan	VERB	_	_
+
+LVC.full
+0	bidaia	bidaia	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	txapela	txapel	NOUN	1	dobj
+1	irabazi	irabazi	VERB	_	_
+
+VID
+0	neurriak	neurri	NOUN	1	dobj
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	arazoak	arazo	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+VID
+0	kontuan	kontu	NOUN	1	compound
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	irakurketa	irakurketa	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+VID
+0	bazter	bazter	NOUN	1	nmod
+1	utziz	utzi	VERB	_	_
+
+LVC.full
+0	izan	izan	VERB	_	_
+1	errespetua	errespetu	NOUN	0	dobj
+
+LVC.full
+0	egin	egin	VERB	1	advcl
+1	eskaintza	eskaintza	NOUN	_	_
+
+LVC.full
+0	irribarrea	irribarre	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	dut	ukan	VERB	_	_
+1	atsegin	atsegin	ADJ	0	dep
+
+LVC.full
+0	uste	uste	NOUN	1	compound
+1	baitu	ukan	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	_	_
+1	gintezkeela	*edin	AUX	0	aux
+
+VID
+0	begizkoa	begizko	NOUN	1	compound
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	dituela	ukan	VERB	_	_
+
+LVC.full
+0	kontzentrazio	kontzentrazio	NOUN	1	nsubj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	mobilizazio	mobilizazio	NOUN	_	_
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	lanak	lan	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	kezka	kezka	NOUN	1	dobj
+1	piztu	piztu	VERB	_	_
+
+VID
+0	arreta	arreta	NOUN	_	_
+1	piztu	piztu	VERB	_	_
+
+LVC.full
+0	emankizuna	emankizun	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	lanuztea	lanuzte	NOUN	1	dobj
+1	eginen	egin	VERB	_	_
+
+LVC.full
+0	agindua	agindu	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	aintzat	aintzat	ADV	1	advmod
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	zigorra	zigor	NOUN	1	nsubj
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	zuen	ukan	VERB	_	_
+1	nahi	nahi	NOUN	0	advcl
+
+LVC.full
+0	badu	ukan	VERB	_	_
+1	konfiantzarik	konfiantza	NOUN	0	dobj
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	presioa	presio	NOUN	0	dobj
+
+LVC.full
+0	Debuta	debut	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.cause
+0	aukera	aukera	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	zaio	izan	VERB	_	_
+
+VID
+0	Berdin	berdin	ADJ	1	compound
+1	zait	izan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	genuen	ukan	VERB	_	_
+
+LVC.full
+0	ensegua	entsegu	NOUN	1	dobj
+1	eginda	egin	VERB	_	_
+
+LVC.full
+0	hartu	hartu	VERB	_	_
+1	ardura	ardura	NOUN	0	dobj
+
+VID
+0	loa	lo	NOUN	1	dobj
+1	galtzen	galdu	VERB	_	_
+
+VID
+0	bertan	bertan	ADV	1	compound
+1	behera	behe	NOUN	2	nmod
+2	utziko	utzi	VERB	_	_
+
+LVC.full
+0	Hauteskundeak	hauteskunde	NOUN	1	nsubj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	disimulutan	disimulu	NOUN	1	nmod
+1	ibili	ibili	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	zaion	izan	VERB	_	_
+
+LVC.full
+0	analisiak	analisi	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	advcl
+1	asanbladarekin	asanblada	NOUN	_	_
+
+LVC.full
+0	erakustaldi	erakustaldi	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	baimena	baimen	NOUN	1	compound
+1	ematea	eman	VERB	_	_
+
+LVC.full
+0	lan	lan	NOUN	_	_
+1	egindako	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	nion	ukan	VERB	_	_
+
+VID
+0	edukiko	eduki	VERB	_	_
+1	aldamenean	aldamen	NOUN	0	nmod
+
+LVC.cause
+0	Pena	pena	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	delako	izan	VERB	_	_
+
+VID
+0	eman	eman	VERB	_	_
+1	urratsa	urrats	NOUN	0	dobj
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	izanez	izan	VERB	_	_
+
+VID
+0	eskura	eskura	ADV	1	advmod
+1	du	ukan	VERB	_	_
+
+VID
+0	kontuan	kontu	NOUN	1	compound
+1	hartuko	hartu	VERB	_	_
+
+VID
+0	karrikan	karrika	NOUN	1	nmod
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	manifestazioa	manifestazio	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	konferentzia	konferentzia	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	oporrik	opor	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.cause
+0	martxan	martxa	NOUN	1	compound
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	akordioa	akordio	NOUN	_	_
+
+LVC.full
+0	Beldurra	beldur	NOUN	1	dobj
+1	dauka	eduki	VERB	_	_
+
+VID
+0	zuloan	zulo	NOUN	1	nmod
+1	zegoen	egon	VERB	_	_
+
+LVC.full
+0	mina	min	NOUN	1	dobj
+1	zuelako	ukan	VERB	_	_
+
+LVC.full
+0	zor	zor	NOUN	1	compound
+1	dioten	ukan	VERB	_	_
+
+VID
+0	fruitua	fruitu	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	gibelean	gibel	NOUN	1	nmod
+1	utzi	utzi	VERB	_	_
+
+LVC.full
+0	Nahi	nahi	NOUN	1	compound
+1	baduzu	ukan	VERB	_	_
+
+LVC.full
+0	frogarik	froga	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	izena	izen	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	egin	egin	VERB	_	_
+1	gora	gora	ADV	0	advmod
+
+LVC.full
+0	ahal	ahal	NOUN	1	compound
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	omenaldia	omenaldi	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	baitio	ukan	VERB	_	_
+
+LVC.full
+0	birusa	birus	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+VID
+0	zen	izan	VERB	_	_
+1	jabe	jabe	NOUN	_	_
+2	.	.	PUNCT	_	_
+
+LVC.full
+0	entsegu	entsegu	NOUN	1	dobj
+1	hartuta	hartu	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	bozak	boz	NOUN	0	nsubj
+
+LVC.full
+0	atseden	atseden	NOUN	1	compound
+1	hartuko	hartu	VERB	_	_
+
+LVC.cause
+0	aldaketa	aldaketa	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	ixten	itxi	VERB	_	_
+1	bidea	bide	NOUN	0	dobj
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dituztela	ukan	VERB	_	_
+
+VID
+0	bere	bera	DET	1	nmod
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	min	min	NOUN	1	compound
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	Ezin	ezin	NOUN	1	compound
+1	nion	ukan	VERB	_	_
+
+LVC.full
+0	negarrari	negar	NOUN	1	iobj
+1	utzi	utzi	VERB	_	_
+
+VID
+0	agur	agur	NOUN	1	compound
+1	esateko	esan	VERB	_	_
+
+LVC.cause
+0	konfiantza	konfiantza	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	kalte	kalte	NOUN	_	_
+
+VID
+0	dute	ukan	VERB	_	_
+1	azken	azken	NUM	2	det
+2	hitza	hitz	NOUN	0	dobj
+
+LVC.full
+0	ahal	ahal	NOUN	1	compound
+1	izatea	izan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dugula	ukan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	garenez	izan	VERB	_	_
+
+VID
+0	egin	egin	VERB	_	_
+1	leku	leku	NOUN	0	dobj
+
+LVC.cause
+0	su	su	NOUN	1	compound
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	azalpen	azalpen	NOUN	1	dobj
+1	ematera	eman	VERB	_	_
+
+VID
+0	buruari	buru	NOUN	3	iobj
+1	mila	mila	NUM	2	nummod
+2	bira	bira	NOUN	3	dobj
+3	eragin	eragin	VERB	_	_
+
+LVC.full
+0	baimenik	baimen	NOUN	1	compound
+1	eman	eman	VERB	_	_
+
+VID
+0	lekua	leku	NOUN	1	dobj
+1	irabazteko	irabazi	VERB	_	_
+
+LVC.full
+0	zor	zor	NOUN	1	compound
+1	dizkiot	ukan	VERB	_	_
+
+LVC.full
+0	martxan	martxa	NOUN	1	nmod
+1	dagoen	egon	VERB	_	_
+
+LVC.cause
+0	amaiera	amaiera	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.full
+0	eginiko	egin	VERB	1	advcl
+1	lan	lan	NOUN	_	_
+
+LVC.full
+0	eginiko	egin	VERB	_	_
+1	jokoarekin	joko	NOUN	_	_
+
+LVC.cause
+0	arrazoia	arrazoi	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	diola	ukan	VERB	_	_
+
+LVC.full
+0	konfiantza	konfiantza	NOUN	1	dobj
+1	genuen	ukan	VERB	_	_
+
+LVC.full
+0	erasora	eraso	NOUN	1	nmod
+1	jo	jo	VERB	_	_
+
+LVC.full
+0	ihes	ihes	NOUN	1	compound
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	iritzia	iritzi	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	diren	izan	VERB	_	_
+
+LVC.full
+0	dago	egon	VERB	_	_
+1	indarrean	indarrean	ADV	0	advmod
+
+LVC.full
+0	Proposamen	proposamen	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+VID
+0	fruituak	fruitu	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	Buruz	buru	NOUN	1	nmod
+1	dakit	jakin	VERB	_	_
+
+VID
+0	lema	lema	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+VID
+0	betilerik	betile	NOUN	1	dobj
+1	mugituko	mugitu	VERB	_	_
+
+VID
+0	hitz	hitz	NOUN	2	nmod
+1	bitan	bi	NUM	0	det
+2	laburtu	laburtu	VERB	_	_
+
+LVC.full
+0	Kalte	kalte	NOUN	1	dobj
+1	eragin	eragin	VERB	_	_
+
+LVC.full
+0	eragina	eragin	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	atsedena	atseden	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	babesa	babes	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	duelako	ukan	VERB	_	_
+
+LVC.full
+0	meriturik	meritu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	izateaz	izan	VERB	_	_
+
+LVC.full
+0	ihes	ihes	NOUN	1	compound
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Ezin	ezin	NOUN	1	compound
+1	da	izan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	zuela	ukan	VERB	_	_
+
+VID
+0	bota	bota	VERB	_	_
+1	atzera	atze	NOUN	0	nmod
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	genuen	ukan	VERB	_	_
+
+VID
+0	onena	on	ADJ	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	duten	ukan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	zitzaiola	izan	VERB	_	_
+
+LVC.full
+0	asmoa	asmo	NOUN	1	dobj
+1	dut	*edun	AUX	_	_
+
+LVC.full
+0	ahal	ahal	NOUN	_	_
+1	dudana	ukan	VERB	0	aux
+
+VID
+0	eman	eman	VERB	1	acl
+1	maila	maila	NOUN	_	_
+
+VID
+0	neurria	neurri	NOUN	1	dobj
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	borroka	borroka	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	luke	ukan	VERB	_	_
+
+LVC.cause
+0	arriskuan	arrisku	NOUN	_	_
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	urrats	urrats	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	uste	uste	NOUN	1	compound
+1	duen	ukan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	die	ukan	VERB	_	_
+
+LVC.full
+0	irain	irain	NOUN	1	dobj
+1	egitea	egite	NOUN	_	_
+
+LVC.full
+0	euririk	euri	NOUN	1	nsubj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	dute	ukan	VERB	1	cop
+1	gogoko	gogo	NOUN	_	_
+
+LVC.full
+0	sasoi	sasoi	NOUN	1	nmod
+1	dagoela	egon	VERB	_	_
+
+LVC.full
+0	debuta	debut	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	erasoak	eraso	NOUN	_	_
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	forma	forma	NOUN	1	dobj
+1	hartzea	hartu	VERB	_	_
+
+LVC.full
+0	Lan	lan	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	atzera	atze	NOUN	1	nmod
+1	botako	bota	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	zaie	izan	VERB	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	compound
+1	garenean	izan	VERB	_	_
+
+LVC.full
+0	oniritzia	oniritzi	NOUN	1	nsubj
+1	emango	eman	VERB	_	_
+
+VID
+0	bueltak	buelta	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.cause
+0	tristura	tristura	NOUN	1	dobj
+1	eragingo	eragin	VERB	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	compound
+1	da	izan	VERB	_	_
+
+LVC.full
+0	entrenamendu	entrenamendu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	etorri	etorri	VERB	_	_
+1	behera	behe	NOUN	0	nmod
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	lan	lan	NOUN	_	_
+
+VID
+0	aurrera	aurre	NOUN	1	nmod
+1	jarraitu	jarraitu	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	erasoa	eraso	NOUN	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	lan	lan	NOUN	_	_
+
+LVC.full
+0	Uste	uste	NOUN	_	_
+1	dut	*edun	AUX	0	aux
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	tantoak	tanto	NOUN	0	dobj
+
+LVC.full
+0	falta	faltatu	VERB	_	_
+1	zitzaizkion	izan	AUX	0	aux
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	zela	izan	VERB	_	_
+
+LVC.cause
+0	garrantzia	garrantzi	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	golik	gol	NOUN	1	dobj
+1	sartu	sartu	VERB	_	_
+
+LVC.full
+0	gola	gol	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	aholku	aholku	NOUN	_	_
+
+VID
+0	aintzat	aintzat	ADV	1	advmod
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	babesa	babes	NOUN	1	dobj
+1	emateaz	eman	VERB	_	_
+
+VID
+0	buelta	buelta	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	diogu	ukan	VERB	_	_
+
+LVC.full
+0	ahalegina	ahalegin	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	hartzea	hartu	VERB	_	_
+1	tokia	toki	NOUN	0	dobj
+
+LVC.full
+0	proposamena	proposamen	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	goitik	goi	NOUN	1	compound
+1	behera	behe	NOUN	2	nmod
+2	harrapatu	harrapatu	VERB	_	_
+
+LVC.cause
+0	min	min	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+VID
+0	behera	behe	NOUN	1	nmod
+1	bota	bota	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	naiz	izan	VERB	_	_
+
+VID
+0	luzatzen	luzatu	VERB	_	_
+1	eskua	esku	NOUN	0	dobj
+
+LVC.full
+0	bildu	bildu	VERB	_	_
+1	arreta	arreta	NOUN	_	_
+
+LVC.full
+0	lehentasuna	lehentasun	NOUN	1	dobj
+1	emanez	eman	VERB	_	_
+
+LVC.full
+0	arituko	aritu	VERB	_	_
+1	dira	izan	AUX	0	aux
+
+LVC.full
+0	erabaki	erabaki	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	hauteskundeak	hauteskunde	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+VID
+0	txapel	txapel	NOUN	1	dobj
+1	irabazi	irabazi	VERB	_	_
+
+VID
+0	lana	lan	NOUN	2	dobj
+1	beltz	beltz	ADJ	2	nmod
+2	egin	egin	VERB	_	_
+
+LVC.full
+0	hauteskundeak	hauteskunde	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	baitute	ukan	VERB	_	_
+
+LVC.full
+0	itxura	itxura	NOUN	1	dobj
+1	duen	ukan	VERB	_	_
+
+LVC.full
+0	saio	saio	NOUN	1	dobj
+1	eginik	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dut	ukan	VERB	_	_
+
+LVC.full
+0	zina	zin	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	apustu	apustu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	nahiago	nahi	NOUN	1	compound
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	Aldaketa	aldaketa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Partidu	partidu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	dimisioa	dimisio	NOUN	1	dobj
+1	emanda	eman	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	galderei	galdera	NOUN	_	_
+
+LVC.full
+0	erantzuna	erantzun	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dietela	ukan	VERB	_	_
+
+LVC.full
+0	egiten	egin	VERB	1	acl
+1	presioa	presio	NOUN	_	_
+
+VID
+0	alde	alde	NOUN	_	_
+1	batera	bat	NUM	0	dep
+2	utziz	utzi	VERB	0	dep
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	bada	izan	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	saioan	saio	NOUN	_	_
+
+LVC.full
+0	du	ukan	VERB	_	_
+1	asmorik	asmo	NOUN	0	dobj
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	ibilbide	ibilbide	NOUN	_	_
+
+LVC.full
+0	agurra	agur	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	nahiago	nahi	NOUN	1	compound
+1	dut	ukan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	_	_
+1	dizkio	*edun	AUX	0	aux
+
+VID
+0	Indarrak	indar	NOUN	1	dobj
+1	neurtu	neurtu	VERB	_	_
+
+LVC.full
+0	jaramon	jaramon	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	erantzukizun	erantzukizun	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	dabil	ibili	VERB	_	_
+1	itsumustuan	itsumustuan	ADV	0	advmod
+
+VID
+0	bidea	bide	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dela	izan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dutela	ukan	VERB	_	_
+
+LVC.full
+0	egingo	egin	VERB	_	_
+1	gora	gora	ADV	0	advmod
+
+LVC.full
+0	babesa	babes	NOUN	1	dobj
+1	ematea	eman	VERB	_	_
+
+VID
+0	Albo	albo	NOUN	2	nmod
+1	batera	bat	NUM	0	nummod
+2	utzi	utzi	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	erreformak	erreforma	NOUN	0	dobj
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	baitira	izan	VERB	_	_
+
+LVC.full
+0	kasu	kasu	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	barrua	barru	NOUN	1	nsubj
+1	nahasten	nahasi	VERB	_	_
+
+LVC.full
+0	badu	ukan	VERB	_	_
+1	arriskua	arrisku	NOUN	0	dobj
+
+VID
+0	pausoa	pauso	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	Nahiago	nahi	NOUN	1	compound
+1	izaten	izan	VERB	_	_
+
+LVC.full
+0	Esperientzia	esperientzia	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	etekin	etekin	NOUN	1	dobj
+1	atera	atera	VERB	_	_
+
+VID
+0	lekua	leku	NOUN	1	dobj
+1	galdu	galdu	VERB	_	_
+
+LVC.full
+0	behar	behar	ADJ	_	_
+1	da	izan	VERB	0	aux
+
+LVC.full
+0	kontzentrazioak	kontzentrazio	NOUN	1	nsubj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ospe	ospe	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	zaio	izan	VERB	_	_
+
+VID
+0	oinarritzat	oinarri	NOUN	1	nmod
+1	hartzea	hartu	VERB	_	_
+
+VID
+0	ordua	ordu	NOUN	_	_
+1	iritsi	iritsi	VERB	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	_	_
+1	ginenekotik	izan	VERB	0	aux
+
+LVC.full
+0	asmoa	asmo	NOUN	1	dobj
+1	duela	*edun	AUX	_	_
+
+VID
+0	geratu	geratu	VERB	_	_
+1	kanpoan	kanpo	NOUN	0	nmod
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	duzu	ukan	VERB	_	_
+
+VID
+0	gol	gol	NOUN	1	nsubj
+1	gelditzen	gelditu	VERB	_	_
+
+VID
+0	eman	eman	VERB	1	advcl
+1	maila	maila	NOUN	_	_
+
+LVC.full
+0	egingo	egin	VERB	_	_
+1	zina	zin	NOUN	0	dobj
+
+LVC.full
+0	abisua	abisu	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	indarrean	indarrean	ADV	1	advmod
+1	jarriak	jarri	VERB	_	_
+
+VID
+0	korroka	korroka	NOUN	2	nmod
+1	batean	bat	NUM	0	nummod
+2	zeuzkan	eduki	VERB	_	_
+3	tripak	tripa	NOUN	2	dobj
+
+VID
+0	esku	esku	NOUN	3	dobj
+1	bat	bat	NUM	0	nummod
+2	atzera	atze	NOUN	3	nmod
+3	lotuta	lotu	VERB	_	_
+
+LVC.full
+0	istripua	istripu	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+VID
+0	onenak	on	ADJ	1	dobj
+1	emanda	eman	VERB	_	_
+
+LVC.full
+0	zuen	ukan	VERB	_	_
+1	konfiantza	konfiantza	NOUN	0	dobj
+
+VID
+0	ikusmiran	ikusmira	NOUN	1	nmod
+1	zutela	ukan	VERB	_	_
+
+VID
+0	tristura	tristura	NOUN	1	dobj
+1	uzten	utzi	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	adierazpenak	adierazpen	NOUN	0	dobj
+
+LVC.full
+0	ekitaldi	ekitaldi	NOUN	1	nsubj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	hitzordua	hitzordu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	zuen	ukan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	zuten	ukan	VERB	_	_
+
+LVC.full
+0	golak	gol	NOUN	1	dobj
+1	sartzeko	sartu	VERB	_	_
+
+LVC.full
+0	dut	ukan	VERB	_	_
+1	nahi	nahi	NOUN	0	dep
+
+VID
+0	lekutan	lekutan	ADV	1	advmod
+1	dira	izan	VERB	_	_
+
+VID
+0	argia	argi	NOUN	1	dobj
+1	ikusi	ikusi	VERB	_	_
+
+LVC.full
+0	delitua	delitu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ondorio	ondorio	NOUN	1	dobj
+1	izango	izan	VERB	_	_
+
+LVC.cause
+0	min	min	NOUN	1	compound
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	joko	jo	VERB	_	_
+1	erasoa	eraso	NOUN	0	dobj
+
+VID
+0	kanpo	kanpo	NOUN	1	compound
+1	utzi	utzi	VERB	_	_
+
+VID
+0	ukanen	ukan	VERB	_	_
+1	jokoan	joko	NOUN	0	nmod
+
+LVC.full
+0	saioan	saio	NOUN	1	nmod
+1	egina	egin	VERB	_	_
+
+LVC.full
+0	eginiko	egin	VERB	1	advcl
+1	adierazpenetan	adierazpen	NOUN	_	_
+
+VID
+0	alde	alde	NOUN	_	_
+1	izan	izan	VERB	0	cop
+
+VID
+0	alde	alde	NOUN	_	_
+1	batera	bat	NUM	0	dep
+2	uzten	utzi	VERB	0	advcl
+
+LVC.full
+0	dago	egon	VERB	_	_
+1	sasoirik	sasoi	NOUN	0	nmod
+
+LVC.full
+0	galdera	galdera	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	saioa	saio	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	nahiago	nahi	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dituela	ukan	VERB	_	_
+
+LVC.full
+0	erreforma	erreforma	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	bere	bera	DET	1	nmod
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	aldaketa	aldaketa	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	gogoan	gogo	NOUN	1	compound
+1	dinat	ukan	VERB	_	_
+
+LVC.full
+0	agurra	agur	NOUN	1	dobj
+1	ematera	eman	VERB	_	_
+
+LVC.full
+0	asmoa	asmo	NOUN	1	dobj
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	eskaera	eskaera	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	beldurra	beldur	NOUN	1	dobj
+1	izaten	izan	VERB	_	_
+
+LVC.full
+0	Aurkezpenak	aurkezpen	NOUN	1	dobj
+1	eginda	egin	VERB	_	_
+
+LVC.full
+0	musu	musu	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	tokia	toki	NOUN	1	dobj
+1	beteko	bete	VERB	_	_
+
+LVC.full
+0	eginiko	egin	VERB	1	advcl
+1	aldaketa	aldaketa	NOUN	_	_
+
+LVC.full
+0	saioa	saio	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	gonbita	gonbit	NOUN	0	dobj
+
+LVC.full
+0	prentsaurrekoa	prentsaurreko	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	iduri	iduri	NOUN	1	compound
+1	zait	izan	VERB	_	_
+
+LVC.full
+0	Ahalegina	ahalegin	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	ados	ados	ADV	1	advmod
+1	jartzea	jarri	VERB	_	_
+
+LVC.full
+0	ondorioak	ondorio	NOUN	1	dobj
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	egingo	egin	VERB	_	_
+1	batzar	batzar	NOUN	0	dobj
+
+VID
+0	du	ukan	VERB	1	cop
+1	alde	alde	NOUN	_	_
+
+VID
+0	bete	bete	VERB	_	_
+1	hutsune	hutsune	NOUN	0	dobj
+
+LVC.full
+0	beldurra	beldur	NOUN	1	dobj
+1	diela	ukan	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	lana	lan	NOUN	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	compound
+1	dira	izan	VERB	_	_
+
+LVC.full
+0	beharra	behar	NOUN	1	dobj
+1	dela	izan	VERB	_	_
+
+LVC.full
+0	behaketa	behaketa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	ordua	ordu	NOUN	1	nsubj
+1	iritsi	iritsi	VERB	_	_
+
+LVC.full
+0	uko	uko	NOUN	1	compound
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	kalteak	kalte	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Ezin	ezin	NOUN	1	compound
+1	ditugu	ukan	VERB	_	_
+
+VID
+0	lekurik	leku	NOUN	1	dobj
+1	duten	ukan	VERB	_	_
+
+LVC.full
+0	bukaera	bukaera	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	baloi	baloi	NOUN	2	dobj
+1	saretara	sare	NOUN	2	nmod
+2	bidali	bidali	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	da	izan	VERB	_	_
+
+LVC.full
+0	tanto	tanto	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	legea	lege	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	egiteko	egin	VERB	1	advcl
+1	proposamena	proposamen	NOUN	_	_
+
+LVC.full
+0	proposamena	proposamen	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	lanak	lan	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	ados	ados	ADV	1	advmod
+1	jarriz	jarri	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	akats	akats	NOUN	_	_
+
+LVC.full
+0	saio	saio	NOUN	1	dobj
+1	emanen	eman	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	gonbita	gonbit	NOUN	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	luke	ukan	VERB	_	_
+
+LVC.cause
+0	jarri	jarri	VERB	_	_
+1	indarrean	indarrean	ADV	0	advmod
+
+LVC.full
+0	beharra	behar	NOUN	1	dobj
+1	duela	ukan	VERB	_	_
+
+LVC.full
+0	gogorik	gogo	NOUN	1	dobj
+1	dutenak	ukan	VERB	_	_
+
+LVC.full
+0	gura	gura	NOUN	1	compound
+1	zuen	ukan	VERB	_	_
+
+VID
+0	egin	egin	VERB	_	_
+1	aurre	aurre	NOUN	0	dobj
+
+LVC.full
+0	arrazoi	arrazoi	NOUN	1	dobj
+1	zeukan	eduki	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	partiduarekin	partidu	NOUN	_	_
+
+VID
+0	fruitu	fruitu	NOUN	_	_
+1	emateko	eman	VERB	_	_
+
+VID
+0	kontutan	kontu	NOUN	1	compound
+1	izanik	izan	VERB	_	_
+
+LVC.cause
+0	garrantzirik	garrantzi	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	aurrera	aurre	NOUN	1	nmod
+1	jarrai	jarraitu	VERB	_	_
+
+LVC.full
+0	begirada	begirada	NOUN	1	dobj
+1	botatzen	botatu	VERB	_	_
+
+LVC.full
+0	oniritzia	oniritzi	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	lotuta	lotu	VERB	_	_
+1	dagoen	egon	VERB	0	cop
+
+LVC.full
+0	mobilizazioak	mobilizazio	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	mintzo	mintzo	NOUN	_	_
+1	zen	izan	VERB	0	aux
+
+VID
+0	guztia	guzti	DET	1	dobj
+1	ematera	eman	VERB	_	_
+
+LVC.full
+0	ustea	uste	NOUN	1	dobj
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	konfiantza	konfiantza	NOUN	1	dobj
+1	dute	ukan	VERB	_	_
+
+LVC.cause
+0	berri	berri	ADJ	1	dobj
+1	zuen	ukan	VERB	_	_
+
+LVC.full
+0	ezinean	ezinean	ADV	_	_
+1	dabiltzan	ibili	VERB	_	_
+
+VID
+0	nabari	nabari	ADJ	1	compound
+1	zitzaion	izan	VERB	_	_
+
+LVC.full
+0	deia	dei	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	Gorantz	gorantz	ADV	1	advmod
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	dut	ukan	VERB	_	_
+1	konfiantza	konfiantza	NOUN	0	dobj
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	ahalegina	ahalegin	NOUN	0	dobj
+
+LVC.cause
+0	sua	su	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.cause
+0	hasiera	hasiera	NOUN	1	dobj
+1	emanen	eman	VERB	_	_
+
+LVC.full
+0	ahaleginak	ahalegin	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+VID
+0	gogora	gogo	NOUN	1	nmod
+1	heldu	heldu	VERB	_	_
+
+VID
+0	Agerian	agerian	ADV	1	advmod
+1	utzi	utzi	VERB	_	_
+
+LVC.full
+0	arrisku	arrisku	NOUN	1	dobj
+1	daukat	eduki	VERB	_	_
+
+VID
+0	aurre	aurre	NOUN	1	dobj
+1	hartzea	hartu	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	nuen	ukan	VERB	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	compound
+1	duen	ukan	VERB	_	_
+
+LVC.full
+0	falta	faltatu	VERB	_	_
+1	zaizkiola	izan	AUX	0	aux
+
+LVC.full
+0	parra	parra	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	popatik	popa	NOUN	1	nmod
+1	hartzera	hartu	VERB	2	advcl
+2	bidaliko	bidali	VERB	_	_
+
+VID
+0	gaitz	gaitz	NOUN	1	dobj
+1	jota	jo	VERB	_	_
+
+VID
+0	egin	egin	VERB	1	advcl
+1	gainbehera	gainbehera	NOUN	_	_
+
+LVC.full
+0	asmoa	asmo	NOUN	1	dobj
+1	badute	ukan	VERB	_	_
+
+LVC.full
+0	mendean	mendean	ADV	1	advmod
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	irrikaz	irrika	NOUN	1	nmod
+1	daudela	egon	VERB	_	_
+
+LVC.full
+0	hartutako	hartu	VERB	1	advcl
+1	konpromezua	konpromiso	NOUN	_	_
+
+LVC.cause
+0	praktikan	praktika	NOUN	1	compound
+1	jartzea	jarri	VERB	_	_
+
+LVC.cause
+0	epaiketak	epaiketa	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	aurrean	aurre	NOUN	1	nmod
+1	egotea	egon	VERB	_	_
+
+VID
+0	beherantz	behe	NOUN	1	nmod
+1	zoaz	joan	VERB	_	_
+
+VID
+0	aurre	aurre	NOUN	1	compound
+1	emateko	eman	VERB	_	_
+
+VID
+0	kontuan	kontu	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	behar	behar	ADJ	_	_
+1	duten	ukan	VERB	0	aux
+
+VID
+0	guztia	guzti	DET	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	baititu	ukan	VERB	_	_
+
+VID
+0	parte	parte	NOUN	1	xcomp
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	merezi	merezi	NOUN	1	compound
+1	du	ukan	VERB	_	_
+
+VID
+0	jantziko	jantzi	VERB	1	acl
+1	txapela	txapel	NOUN	_	_
+
+VID
+0	txapela	txapel	NOUN	1	dobj
+1	irabazteko	irabazi	VERB	_	_
+
+LVC.full
+0	gol	gol	NOUN	1	dobj
+1	sartzen	sartu	VERB	_	_
+
+VID
+0	aurrea	aurre	NOUN	1	compound
+1	hartzeko	hartu	VERB	_	_
+
+VID
+0	aurrera	aurrera	ADV	1	advmod
+1	jarraitu	jarraitu	VERB	_	_
+
+LVC.full
+0	Arnasa	arnasa	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+VID
+0	maila	maila	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	defentsa	defentsa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	niken	ukan	VERB	_	_
+
+LVC.full
+0	sartu	sartu	VERB	_	_
+1	gola	gol	NOUN	0	dobj
+
+LVC.full
+0	Geldiketa	geldiketa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	eginiko	egin	VERB	1	advcl
+1	jaurtiketak	jaurtiketa	NOUN	_	_
+
+LVC.cause
+0	txiki-txiki	txiki-txiki	ADJ	1	nmod
+1	eginda	egin	VERB	_	_
+
+LVC.full
+0	Atseden	atseden	NOUN	1	compound
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dudanean	ukan	VERB	_	_
+
+LVC.full
+0	iruzur	iruzur	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	Ez	ez	PART	1	neg
+1	gaudek	egon	VERB	_	_
+2	berriketarako	berriketa	NOUN	1	nmod
+
+VID
+0	du	ukan	VERB	_	_
+1	hitza	hitz	NOUN	0	dobj
+
+VID
+0	bidean	bide	NOUN	1	nmod
+1	dira	izan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dutenean	ukan	VERB	_	_
+
+LVC.full
+0	kolpe	kolpe	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.cause
+0	soinu	soinu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	gol	gol	NOUN	_	_
+1	sartu	sartu	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	diote	ukan	VERB	_	_
+
+LVC.full
+0	harrera	harrera	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	mendean	mendean	ADV	1	advmod
+1	hartuta	hartu	VERB	_	_
+
+LVC.full
+0	maite	maite	ADJ	_	_
+1	zaitugunok	ukan	VERB	0	aux
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	zarela	izan	VERB	_	_
+
+LVC.cause
+0	epaiketa	epaiketa	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	bizi	bizi	NOUN	1	compound
+1	ziren	izan	VERB	_	_
+
+LVC.full
+0	beharra	behar	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	Ibilaldi	ibilaldi	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	ageri	ageri	ADJ	1	compound
+1	zaigu	izan	VERB	_	_
+
+LVC.full
+0	partidu	partidu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.cause
+0	bereizkeriarik	bereizkeria	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	kalea	kale	NOUN	1	dobj
+1	hartuko	hartu	VERB	_	_
+
+VID
+0	abian	abian	ADV	1	advmod
+1	den	izan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	diot	ukan	VERB	_	_
+
+LVC.cause
+0	eman	eman	VERB	_	_
+1	zeresanik	zeresan	NOUN	0	dobj
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	bisitak	bisita	NOUN	_	_
+
+LVC.full
+0	Gogo	gogo	NOUN	1	dobj
+1	dut	ukan	VERB	_	_
+
+VID
+0	oinarritzat	oinarri	NOUN	1	nmod
+1	hartuta	hartu	VERB	_	_
+
+VID
+0	sareetara	sare	NOUN	1	nmod
+1	bidali	bidali	VERB	_	_
+2	baloia	baloi	NOUN	1	dobj
+
+VID
+0	aurrera	aurre	NOUN	_	_
+1	egin	egin	VERB	0	conj
+
+VID
+0	atzera	atzera	ADV	1	advmod
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	distira	distira	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	laguntza	laguntza	NOUN	1	nmod
+1	emate	emate	NOUN	_	_
+
+LVC.full
+0	beharra	behar	ADJ	1	dobj
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	Debut	debut	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	gol	gol	NOUN	1	dobj
+1	sartu	sartu	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	delituengatik	delitu	NOUN	_	_
+
+LVC.full
+0	erritmoa	erritmo	NOUN	1	dobj
+1	hartzea	hartu	VERB	_	_
+
+LVC.full
+0	argazkiak	argazki	NOUN	1	dobj
+1	atera	atera	VERB	_	_
+
+VID
+0	azken	azken	NUM	1	det
+1	arnasa	arnasa	NOUN	2	dobj
+2	emateko	eman	VERB	_	_
+
+LVC.full
+0	prentsaurreko	prentsaurreko	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	asmo	asmo	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	Bizi	bizi	ADJ	1	compound
+1	dugun	ukan	VERB	_	_
+
+LVC.full
+0	indarra	indar	NOUN	1	dobj
+1	hartzen	hartu	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	badugu	ukan	VERB	_	_
+
+VID
+0	beteko	bete	VERB	_	_
+1	hutsunea	hutsune	NOUN	0	dobj
+
+LVC.full
+0	egin	egin	VERB	1	advcl
+1	bertsoa	bertso	NOUN	_	_
+
+LVC.full
+0	fusioa	fusio	NOUN	1	nsubj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	du	ukan	VERB	_	_
+1	nahi	nahi	NOUN	0	advcl
+
+LVC.full
+0	gogo	gogo	NOUN	1	compound
+1	dituen	ukan	VERB	_	_
+
+LVC.full
+0	bizi	bizi	ADJ	1	compound
+1	diren	izan	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	ditu	ukan	VERB	_	_
+
+VID
+0	bidea	bide	NOUN	1	dobj
+1	irekitzeko	ireki	VERB	_	_
+
+LVC.full
+0	arnasa	arnasa	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	Konfiantza	konfiantza	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	agindua	agindu	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	espero	espero	NOUN	1	compound
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	erabakia	erabaki	NOUN	1	dobj
+1	hartzea	hartu	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dinagu	ukan	VERB	_	_
+
+LVC.full
+0	egingo	egin	VERB	1	acl
+1	erreformak	erreforma	NOUN	_	_
+
+LVC.cause
+0	aukera	aukera	NOUN	1	dobj
+1	emango	eman	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	manifestazioan	manifestazio	NOUN	_	_
+
+LVC.full
+0	erakustaldi	erakustaldi	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	hitzarmen	hitzarmen	NOUN	1	dobj
+1	egitea	egin	VERB	_	_
+
+LVC.full
+0	argazki	argazki	NOUN	1	dobj
+1	atera	atera	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	defentsak	defentsa	NOUN	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	nuen	ukan	VERB	_	_
+
+LVC.full
+0	ahaleginak	ahalegin	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+VID
+0	azterketa	azterketa	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	jauzi	jauzi	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Nahi	nahi	NOUN	1	compound
+1	bazuen	ukan	VERB	_	_
+
+LVC.full
+0	dugu	ukan	VERB	_	_
+1	asmorik	asmo	NOUN	0	dobj
+
+LVC.full
+0	baduela	ukan	VERB	_	_
+1	eragina	eragin	NOUN	0	dobj
+
+LVC.full
+0	erabaki	erabaki	NOUN	1	dobj
+1	hartzeko	hartu	VERB	_	_
+
+LVC.full
+0	beldurra	beldur	NOUN	1	dobj
+1	dio	ukan	VERB	_	_
+
+LVC.full
+0	eman	eman	VERB	_	_
+1	hitza	hitz	NOUN	0	dobj
+
+LVC.full
+0	har	hartu	VERB	1	acl
+1	erabakia	erabaki	NOUN	_	_
+
+LVC.full
+0	Erantzukizuna	erantzukizun	NOUN	1	dobj
+1	hartzen	hartu	VERB	_	_
+
+LVC.full
+0	lege	lege	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	du	*edun	AUX	1	aux
+1	nahi	nahi	NOUN	_	_
+
+LVC.full
+0	partidurik	partidu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	prest	prest	ADV	_	_
+1	daude	egon	VERB	0	dep
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	proposamena	proposamen	NOUN	_	_
+
+LVC.full
+0	harrera	harrera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	bizi	bizi	NOUN	1	compound
+1	izan	izan	VERB	_	_
+
+VID
+0	ondo	ondo	ADV	1	advmod
+1	etorriko	etorri	VERB	_	_
+
+LVC.full
+0	estatu	estatu	NOUN	1	nmod
+1	kolpea	kolpe	NOUN	2	dobj
+2	egiteko	egin	VERB	_	_
+
+VID
+0	prest	prest	ADJ	1	compound
+1	zegoen	egon	VERB	_	_
+
+VID
+0	lekua	leku	NOUN	1	dobj
+1	beteko	bete	VERB	_	_
+
+VID
+0	nabari	nabari	ADV	_	_
+1	zela	izan	VERB	0	cop
+
+VID
+0	behera	behe	NOUN	1	nmod
+1	doaz	joan	VERB	_	_
+
+VID
+0	abian	abian	ADV	1	advmod
+1	jartzeko	jarri	VERB	_	_
+
+LVC.full
+0	zigorrak	zigor	NOUN	1	dobj
+1	jartzeko	jarri	VERB	_	_
+
+LVC.full
+0	estatu	estatu	NOUN	1	nmod
+1	kolpea	kolpe	NOUN	2	dobj
+2	egin	egin	VERB	_	_
+
+LVC.full
+0	kanpaina	kanpaina	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+LVC.full
+0	ahalegin	ahalegin	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	zuten	ukan	VERB	_	_
+
+VID
+0	euria	euri	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ematen	eman	VERB	_	_
+1	lehentasuna	lehentasun	NOUN	0	dobj
+
+LVC.full
+0	salaketa	salaketa	NOUN	1	dobj
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	Egin	egin	VERB	1	acl
+1	txosten	txosten	NOUN	_	_
+
+VID
+0	gorantz	gorantz	ADV	1	advmod
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	joko	joko	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+VID
+0	argi	argi	ADV	3	advmod
+1	eta	eta	CONJ	0	mwe
+2	garbi	garbi	ADV	0	mwe
+3	utzi	utzi	VERB	_	_
+
+LVC.full
+0	gogoa	gogo	NOUN	_	_
+1	dute	ukan	VERB	_	_
+
+LVC.full
+0	Harrera	harrera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	biltzarra	biltzar	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ezin	ezin	NOUN	1	compound
+1	zen	izan	VERB	_	_
+
+LVC.full
+0	golak	gola	NOUN	1	dobj
+1	sartuko	sartu	VERB	_	_
+
+LVC.full
+0	proba	proba	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	korrika	korrika	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	ahalegin	ahalegin	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	gola	gol	NOUN	1	dobj
+1	sartzeaz	sartu	VERB	_	_
+
+LVC.full
+0	eskaria	eskari	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	eskaera	eskaera	NOUN	0	dobj
+
+VID
+0	kontuan	kontu	NOUN	1	compound
+1	hartzea	hartu	VERB	_	_
+
+LVC.full
+0	berri	berri	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	Adarkada	adarkada	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	gora	gora	NOUN	1	dobj
+1	egite	egin	VERB	_	_
+
+LVC.full
+0	posturik	postu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	gustukoa	gustuko	ADJ	_	_
+1	izan	izan	VERB	0	cop
+
+LVC.full
+0	desobedientzia	desobedientzia	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.cause
+0	martxan	martxa	NOUN	1	compound
+1	jarriko	jarri	VERB	_	_
+
+LVC.full
+0	egiten	egin	VERB	1	acl
+1	keinuek	keinu	NOUN	_	_
+
+LVC.full
+0	axola	axola	NOUN	1	compound
+1	zitzaionik	izan	VERB	_	_
+
+LVC.full
+0	komeni	komeni	VERB	1	compound
+1	zaio	izan	AUX	_	_
+
+LVC.full
+0	harremana	harreman	NOUN	1	dobj
+1	izateko	izan	VERB	_	_
+
+LVC.full
+0	ari	ari	AUX	1	aux
+1	bazara	izan	VERB	_	_
+
+VID
+0	daude	egon	VERB	_	_
+1	prest	prest	ADV	0	advcl
+
+LVC.full
+0	topo	topo	NOUN	1	compound
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	atsedena	atseden	NOUN	1	dobj
+1	izango	izan	VERB	_	_
+
+LVC.full
+0	hastapena	hastapen	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	aldaketa	aldaketa	NOUN	0	dobj
+
+LVC.full
+0	Egin	egin	VERB	_	_
+1	froga	froga	NOUN	0	dobj
+
+LVC.full
+0	nahi	nahi	NOUN	_	_
+1	dituzun	*edun	AUX	0	aux
+
+LVC.cause
+0	eman	eman	VERB	_	_
+1	alta	alta	CONJ	0	dobj
+
+LVC.full
+0	eman	eman	VERB	_	_
+1	begirada	begirada	NOUN	0	dobj
+
+VID
+0	Lur	lur	NOUN	1	compound
+1	jota	jo	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	defentsan	defentsa	NOUN	_	_
+
+LVC.full
+0	babesa	babes	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	emango	eman	VERB	_	_
+1	lema	lema	NOUN	0	dobj
+
+LVC.full
+0	lanak	lan	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.cause
+0	arriskuan	arrisku	NOUN	1	nmod
+1	jartzeko	jarri	VERB	_	_
+
+VID
+0	gauza	gauza	NOUN	_	_
+1	izan	izan	VERB	0	cop
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	ahaleginak	ahalegin	NOUN	_	_
+
+VID
+0	zangorik	zango	NOUN	1	dobj
+1	sartuko	sartu	VERB	_	_
+
+LVC.full
+0	martxan	martxa	NOUN	1	nmod
+1	daudela	egon	VERB	_	_
+
+LVC.full
+0	Esfortzu	esfortzu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	bertan	bertan	ADV	1	compound
+1	behera	behe	NOUN	2	nmod
+2	geratu	geratu	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	mesederik	mesede	NOUN	_	_
+
+VID
+0	Burua	buru	NOUN	1	dobj
+1	badudala	ukan	VERB	_	_
+
+LVC.full
+0	boto	boto	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+VID
+0	prest	prest	ADV	_	_
+1	dago	egon	VERB	0	dep
+
+LVC.full
+0	aldaketa	aldaketa	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	zegoen	egon	VERB	_	_
+1	prest	prest	ADV	0	advcl
+
+VID
+0	zuten	ukan	VERB	_	_
+1	jokoan	joko	NOUN	0	nmod
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	mehatxuengatik	mehatxu	NOUN	_	_
+
+LVC.full
+0	bizitasuna	bizitasun	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.full
+0	Lana	lan	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	duenean	ukan	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	dituzue	ukan	VERB	_	_
+
+VID
+0	egin	egin	VERB	_	_
+1	bidea	bide	NOUN	0	dobj
+
+LVC.full
+0	Saio	saio	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	erreskate	erreskate	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dugun	ukan	VERB	_	_
+
+LVC.full
+0	eskubidea	eskubide	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	gerran	gerra	NOUN	1	nmod
+1	egon	egon	VERB	_	_
+
+LVC.full
+0	zuen	*edun	AUX	1	aux
+1	merezi	merezi	NOUN	_	_
+
+VID
+0	esan	esan	VERB	2	xcomp
+1	nahi	nahi	NOUN	2	compound
+2	dituzte	ukan	VERB	_	_
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	dituzte	ukan	VERB	_	_
+
+LVC.cause
+0	egonkortasuna	egonkortasun	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.full
+0	eginiko	egin	VERB	1	advcl
+1	entrenamendua	entrenamendu	NOUN	_	_
+
+LVC.full
+0	eginiko	egin	VERB	_	_
+1	partidutxoa	partidutxo	NOUN	_	_
+
+VID
+0	bidea	bide	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+VID
+0	eskua	esku	NOUN	1	dobj
+1	luzatu	luzatu	VERB	_	_
+
+LVC.full
+0	hutsunea	hutsune	NOUN	1	dobj
+1	ukan	ukan	VERB	_	_
+
+LVC.full
+0	geldiketak	geldiketa	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	promesa	promes	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	ditu	ukan	VERB	_	_
+
+LVC.full
+0	Galdera	galdera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Gora	gora	ADV	1	advmod
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	bultza	bultza	NOUN	1	compound
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	abisua	abisu	NOUN	1	dobj
+1	ematea	eman	VERB	_	_
+
+LVC.full
+0	ihes	ihes	NOUN	1	compound
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	lan	lan	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	Behar	behar	NOUN	1	compound
+1	zaitut	ukan	VERB	_	_
+
+VID
+0	bertan	bertan	ADV	1	compound
+1	behera	behe	NOUN	2	nmod
+2	uztea	utzi	VERB	_	_
+
+LVC.full
+0	istripu	istripu	NOUN	1	dobj
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	asanbladan	asanblada	NOUN	_	_
+1	eginikoa	egin	VERB	0	appos
+
+VID
+0	jokoan	joko	NOUN	1	nmod
+1	sartzea	sartu	VERB	_	_
+
+LVC.full
+0	iritziak	iritzi	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	atentatu	atentatu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ultimatuma	ultimatum	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	sasoian	sasoi	NOUN	1	nmod
+1	da	izan	VERB	_	_
+2	.	.	PUNCT	_	_
+
+LVC.full
+0	huts	huts	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ikasgairik	ikasgai	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.cause
+0	zalantzan	zalantzan	ADV	1	advmod
+1	jartzea	jarri	VERB	_	_
+
+VID
+0	prest	prest	ADV	_	_
+1	zegoela	egon	VERB	0	dep
+
+LVC.full
+0	uste	uste	NOUN	1	compound
+1	zuten	ukan	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	kongresuan	kongresu	NOUN	_	_
+
+LVC.cause
+0	ezusteko	ezusteko	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+VID
+0	alde	alde	NOUN	2	nmod
+1	batean	bat	NUM	0	nummod
+2	uztea	utzi	VERB	_	_
+
+LVC.full
+0	entrenamendua	entrenamendu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ibilaldiak	ibilaldi	NOUN	1	nsubj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	AHALEGIN	ahalegin	NOUN	_	_
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	laguntza	laguntza	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	atentatua	atentatu	NOUN	_	_
+
+VID
+0	emandako	eman	VERB	1	advcl
+1	maila	maila	NOUN	_	_
+
+LVC.full
+0	eraso	eraso	VERB	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	asmoa	asmo	NOUN	1	dobj
+1	duela	ukan	VERB	_	_
+
+LVC.full
+0	emandako	eman	VERB	1	advcl
+1	iritziak	iritzi	NOUN	_	_
+
+VID
+0	zuzen	zuzen	ADV	_	_
+1	dago	egon	VERB	0	cop
+
+LVC.full
+0	asmoak	asmo	NOUN	1	dobj
+1	ditut	ukan	VERB	_	_
+
+VID
+0	fruiturik	fruitu	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	erreferenduma	erreferendum	NOUN	1	dobj
+1	egiteko	egin	VERB	_	_
+
+VID
+0	parte	parte	NOUN	1	xcomp
+1	hartuko	hartu	VERB	_	_
+
+LVC.full
+0	eman	eman	VERB	1	acl
+1	epai	epai	NOUN	_	_
+
+LVC.full
+0	kasu	kasu	NOUN	1	compound
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	behar	behar	NOUN	_	_
+1	zien	*edun	AUX	0	aux
+
+LVC.full
+0	sosegu	sosegu	NOUN	1	dobj
+1	hartzea	hartu	VERB	_	_
+
+LVC.full
+0	abisua	abisu	NOUN	1	dobj
+1	pasako	pasatu	VERB	_	_
+
+LVC.full
+0	gol	gol	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	letra	letra	NOUN	1	dobj
+1	eginak	egin	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	behaketa	behaketa	NOUN	_	_
+
+LVC.full
+0	eragin	eragin	NOUN	1	dobj
+1	izango	izan	VERB	_	_
+
+VID
+0	galdu	galdu	VERB	_	_
+1	begitatik	begi	NOUN	0	nmod
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	izanez	izan	VERB	_	_
+
+LVC.full
+0	hartuko	hartu	VERB	_	_
+1	ekimena	ekimen	NOUN	0	dobj
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	nauzu	ukan	VERB	_	_
+
+LVC.full
+0	hartuko	hartu	VERB	_	_
+1	kargua	kargu	NOUN	0	dobj
+
+VID
+0	dantzan	dantza	NOUN	1	nmod
+1	ibili	ibili	VERB	_	_
+
+LVC.full
+0	sartutako	sartu	VERB	1	advcl
+1	golarekin	gol	NOUN	_	_
+
+VID
+0	buelta	buelta	NOUN	1	dobj
+1	emateko	eman	VERB	_	_
+
+LVC.cause
+0	ezustea	ezuste	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	jarraipena	jarraipen	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	garaipena	garaipen	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	egindako	egin	VERB	1	advcl
+1	gerra	gerra	NOUN	_	_
+
+LVC.full
+0	behar	behar	NOUN	1	compound
+1	din	ukan	VERB	_	_
+
+LVC.full
+0	erantzukizuna	erantzukizun	NOUN	1	dobj
+1	hartuko	hartu	VERB	_	_
+
+LVC.full
+0	Entzierro	entzierro	NOUN	1	dobj
+1	egina	egin	VERB	_	_
+
+LVC.full
+0	izena	izen	NOUN	1	dobj
+1	ematen	eman	VERB	_	_
+
+LVC.full
+0	hartuko	hartu	VERB	_	_
+1	lehendakaritza	lehendakaritza	NOUN	0	dobj
+
+VID
+0	moduan	modu	NOUN	1	nmod
+1	da	izan	VERB	_	_
+
+LVC.full
+0	Kontratu	kontratu	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	arriskuan	arrisku	NOUN	1	nmod
+1	egon	egon	VERB	_	_
+
+LVC.full
+0	kontrolpean	kontrolpe	NOUN	1	nmod
+1	izan	izan	VERB	_	_
+
+LVC.full
+0	hartutako	hartu	VERB	1	advcl
+1	erabakiarekin	erabaki	NOUN	_	_
+
+LVC.full
+0	konponbide	konponbide	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	bizitasuna	bizitasun	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	1	acl
+1	asanbladan	asanblada	NOUN	_	_
+
+LVC.full
+0	dutela	ukan	VERB	_	_
+1	konfiantzarik	konfiantza	NOUN	0	dobj
+
+VID
+0	bekatuan	bekatu	NOUN	1	nmod
+1	erortzen	erori	VERB	_	_
+
+LVC.cause
+0	zuen	ukan	VERB	_	_
+1	berri	berri	NOUN	0	dobj
+
+VID
+0	aintzat	aintzat	ADV	1	advmod
+1	hartzen	hartu	VERB	_	_
+
+VID
+0	aurre	aurre	NOUN	1	compound
+1	eginez	egin	VERB	_	_
+
+LVC.full
+0	ensegua	entsegu	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	Errefortzua	errefortzu	NOUN	1	dobj
+1	ematera	eman	VERB	_	_
+
+LVC.full
+0	ordezkotza	ordezkotza	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+LVC.full
+0	laguntza	laguntza	NOUN	_	_
+1	ematera	eman	VERB	_	_
+
+LVC.full
+0	Erasoak	eraso	NOUN	1	dobj
+1	eginez	egin	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	leherketa	leherketa	NOUN	0	dobj
+
+LVC.full
+0	joko	joko	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	Ahalegin	ahalegin	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	prest	prest	ADJ	1	compound
+1	zeudela	egon	VERB	_	_
+
+LVC.cause
+0	ezbaian	ezbai	NOUN	1	nmod
+1	jarri	jarri	VERB	_	_
+
+LVC.full
+0	eman	eman	VERB	_	_
+1	erakustaldi	erakustaldi	NOUN	0	dobj
+
+LVC.full
+0	aipamen	aipamen	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	eragina	eragin	NOUN	1	dobj
+1	dutela	ukan	VERB	_	_
+
+LVC.full
+0	erlazioa	erlazio	NOUN	1	dobj
+1	du	ukan	VERB	_	_
+
+LVC.full
+0	otoitz	otoitz	NOUN	1	nsubj
+1	egiten	egin	VERB	_	_
+
+VID
+0	abian	abian	ADV	1	advmod
+1	jartzean	jarri	VERB	_	_
+
+VID
+0	txapela	txapel	NOUN	1	dobj
+1	janztea	jantzi	VERB	_	_
+
+LVC.full
+0	zalantza	zalantza	NOUN	1	dobj
+1	duela	ukan	VERB	_	_
+
+VID
+0	hautsak	hauts	NOUN	1	dobj
+1	harrotu	harrotu	VERB	_	_
+
+VID
+0	izan	izan	VERB	_	_
+1	buruan	buru	NOUN	0	nmod
+
+LVC.full
+0	harremanetan	harreman	NOUN	1	nmod
+1	izateaz	izan	VERB	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	azterketa	azterketa	NOUN	0	dobj
+
+LVC.full
+0	debuta	debut	NOUN	1	dobj
+1	egingo	egin	VERB	_	_
+
+VID
+0	Izerdia	izerdi	NOUN	1	dobj
+1	lehertu	lehertu	VERB	_	_
+
+LVC.full
+0	Zarata	zarata	NOUN	1	dobj
+1	egiterik	egin	VERB	_	_
+
+LVC.full
+0	zaratarik	zarata	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+VID
+0	mugak	muga	NOUN	1	dobj
+1	gainditu	gainditu	VERB	_	_
+
+VID
+0	alde	alde	NOUN	_	_
+1	batera	bat	NUM	0	dep
+2	utzi	utzi	VERB	0	dep
+
+LVC.full
+0	mesedea	mesede	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	erantzun	erantzun	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	emandako	eman	VERB	1	advcl
+1	erantzunaren	erantzun	NOUN	_	_
+
+LVC.full
+0	egin	egin	VERB	_	_
+1	adierazpenok	adierazpen	NOUN	0	dobj
+
+LVC.full
+0	nahi	nahi	NOUN	1	compound
+1	duzu	ukan	VERB	_	_
+
+LVC.full
+0	kontuz	kontuz	ADV	1	advmod
+1	ibiltzeko	ibili	VERB	_	_
+
+LVC.full
+0	egongo	egon	VERB	_	_
+1	boterean	botere	NOUN	0	nmod
+
+LVC.full
+0	arriskuan	arrisku	NOUN	1	nmod
+1	baitago	egon	VERB	_	_
+
+LVC.full
+0	hauteskunde	hauteskunde	NOUN	1	nsubj
+1	egingo	egin	VERB	_	_
+
+VID
+0	moduan	modu	NOUN	_	_
+1	denez	izan	VERB	0	cop
+
+LVC.full
+0	Uste	uste	NOUN	1	compound
+1	nuen	ukan	VERB	_	_
+
+VID
+0	mailarik	maila	NOUN	1	dobj
+1	eman	eman	VERB	_	_
+
+LVC.full
+0	eman	eman	VERB	_	_
+1	azalpen	azalpen	NOUN	0	dobj
+
+LVC.full
+0	presio	presio	NOUN	1	dobj
+1	egiten	egin	VERB	_	_
+
+LVC.full
+0	jarrera	jarrera	NOUN	1	dobj
+1	hartu	hartu	VERB	_	_
+
+LVC.full
+0	eskaerarik	eskaera	NOUN	1	dobj
+1	egin	egin	VERB	_	_
+
+LVC.full
+0	ezustean	ezustean	ADV	1	advmod
+1	hartu	hartu	VERB	_	_
+

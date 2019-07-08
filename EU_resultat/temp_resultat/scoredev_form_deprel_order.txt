@@ -1,0 +1,41 @@
+form_deprel_order
+68
+## Global evaluation
+* MWE-based: P=188/254=0.7402 R=188/500=0.3760 F=0.4987
+* Tok-based: P=394/514=0.7665 R=394/1010=0.3901 F=0.5171
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=4/254=2%
+* LVC.cause: MWE-based: P=4/4=1.0000 R=4/14=0.2857 F=0.4444
+* LVC.cause: Tok-based: P=8/8=1.0000 R=8/28=0.2857 F=0.4444
+* LVC.full: MWE-proportion: gold=382/500=76% pred=212/254=83%
+* LVC.full: MWE-based: P=158/212=0.7453 R=158/382=0.4136 F=0.5320
+* LVC.full: Tok-based: P=330/427=0.7728 R=330/766=0.4308 F=0.5532
+* VID: MWE-proportion: gold=104/500=21% pred=39/254=15%
+* VID: MWE-based: P=23/39=0.5897 R=23/104=0.2212 F=0.3217
+* VID: Tok-based: P=50/81=0.6173 R=50/216=0.2315 F=0.3367
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=184/254=72%
+* Continuous: MWE-based: P=166/184=0.9022 R=166/403=0.4119 F=0.5656
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=70/254=28%
+* Discontinuous: MWE-based: P=22/70=0.3143 R=22/97=0.2268 F=0.2635
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=254/254=100%
+* Multi-token: MWE-based: P=188/254=0.7402 R=188/500=0.3760 F=0.4987
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/254=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=253/254=100%
+* Seen-in-train: MWE-based: P=188/253=0.7431 R=188/414=0.4541 F=0.5637
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=1/254=0%
+* Unseen-in-train: MWE-based: P=0/1=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=67/253=26%
+* Variant-of-train: MWE-based: P=19/67=0.2836 R=19/210=0.0905 F=0.1372
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=186/253=74%
+* Identical-to-train: MWE-based: P=169/186=0.9086 R=169/204=0.8284 F=0.8667
+

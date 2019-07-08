@@ -1,0 +1,41 @@
+form_lemma_order
+68
+## Global evaluation
+* MWE-based: P=229/387=0.5917 R=229/500=0.4580 F=0.5163
+* Tok-based: P=487/782=0.6228 R=487/1010=0.4822 F=0.5435
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=9/387=2%
+* LVC.cause: MWE-based: P=4/9=0.4444 R=4/14=0.2857 F=0.3478
+* LVC.cause: Tok-based: P=8/18=0.4444 R=8/28=0.2857 F=0.3478
+* LVC.full: MWE-proportion: gold=382/500=76% pred=311/387=80%
+* LVC.full: MWE-based: P=183/311=0.5884 R=183/382=0.4791 F=0.5281
+* LVC.full: Tok-based: P=387/626=0.6182 R=387/766=0.5052 F=0.5560
+* VID: MWE-proportion: gold=104/500=21% pred=69/387=18%
+* VID: MWE-based: P=36/69=0.5217 R=36/104=0.3462 F=0.4162
+* VID: Tok-based: P=79/142=0.5563 R=79/216=0.3657 F=0.4413
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=228/387=59%
+* Continuous: MWE-based: P=198/228=0.8684 R=198/403=0.4913 F=0.6276
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=159/387=41%
+* Discontinuous: MWE-based: P=31/159=0.1950 R=31/97=0.3196 F=0.2422
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=387/387=100%
+* Multi-token: MWE-based: P=229/387=0.5917 R=229/500=0.4580 F=0.5163
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/387=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=387/387=100%
+* Seen-in-train: MWE-based: P=229/387=0.5917 R=229/414=0.5531 F=0.5718
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/387=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=156/387=40%
+* Variant-of-train: MWE-based: P=28/156=0.1795 R=28/210=0.1333 F=0.1530
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=231/387=60%
+* Identical-to-train: MWE-based: P=201/231=0.8701 R=201/204=0.9853 F=0.9241
+

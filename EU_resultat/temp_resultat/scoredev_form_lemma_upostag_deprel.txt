@@ -1,0 +1,41 @@
+form_lemma_upostag_deprel
+69
+## Global evaluation
+* MWE-based: P=191/239=0.7992 R=191/500=0.3820 F=0.5169
+* Tok-based: P=399/484=0.8244 R=399/1010=0.3950 F=0.5341
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=4/239=2%
+* LVC.cause: MWE-based: P=4/4=1.0000 R=4/14=0.2857 F=0.4444
+* LVC.cause: Tok-based: P=8/8=1.0000 R=8/28=0.2857 F=0.4444
+* LVC.full: MWE-proportion: gold=382/500=76% pred=194/239=81%
+* LVC.full: MWE-based: P=158/194=0.8144 R=158/382=0.4136 F=0.5486
+* LVC.full: Tok-based: P=328/391=0.8389 R=328/766=0.4282 F=0.5670
+* VID: MWE-proportion: gold=104/500=21% pred=42/239=18%
+* VID: MWE-based: P=25/42=0.5952 R=25/104=0.2404 F=0.3425
+* VID: Tok-based: P=56/87=0.6437 R=56/216=0.2593 F=0.3696
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=178/239=74%
+* Continuous: MWE-based: P=163/178=0.9157 R=163/403=0.4045 F=0.5611
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=61/239=26%
+* Discontinuous: MWE-based: P=28/61=0.4590 R=28/97=0.2887 F=0.3544
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=239/239=100%
+* Multi-token: MWE-based: P=191/239=0.7992 R=191/500=0.3820 F=0.5169
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/239=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=239/239=100%
+* Seen-in-train: MWE-based: P=191/239=0.7992 R=191/414=0.4614 F=0.5850
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/239=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=59/239=25%
+* Variant-of-train: MWE-based: P=26/59=0.4407 R=26/210=0.1238 F=0.1933
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=180/239=75%
+* Identical-to-train: MWE-based: P=165/180=0.9167 R=165/204=0.8088 F=0.8594
+

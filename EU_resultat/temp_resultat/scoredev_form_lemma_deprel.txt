@@ -1,0 +1,41 @@
+form_lemma_deprel
+69
+## Global evaluation
+* MWE-based: P=201/287=0.7003 R=201/500=0.4020 F=0.5108
+* Tok-based: P=424/580=0.7310 R=424/1010=0.4198 F=0.5333
+
+## Per-category evaluation (partition of Global)
+* LVC.cause: MWE-proportion: gold=14/500=3% pred=4/287=1%
+* LVC.cause: MWE-based: P=4/4=1.0000 R=4/14=0.2857 F=0.4444
+* LVC.cause: Tok-based: P=8/8=1.0000 R=8/28=0.2857 F=0.4444
+* LVC.full: MWE-proportion: gold=382/500=76% pred=234/287=82%
+* LVC.full: MWE-based: P=167/234=0.7137 R=167/382=0.4372 F=0.5422
+* LVC.full: Tok-based: P=350/471=0.7431 R=350/766=0.4569 F=0.5659
+* VID: MWE-proportion: gold=104/500=21% pred=51/287=18%
+* VID: MWE-based: P=26/51=0.5098 R=26/104=0.2500 F=0.3355
+* VID: Tok-based: P=58/105=0.5524 R=58/216=0.2685 F=0.3614
+
+## MWE continuity (partition of Global)
+* Continuous: MWE-proportion: gold=403/500=81% pred=187/287=65%
+* Continuous: MWE-based: P=170/187=0.9091 R=170/403=0.4218 F=0.5763
+* Discontinuous: MWE-proportion: gold=97/500=19% pred=100/287=35%
+* Discontinuous: MWE-based: P=31/100=0.3100 R=31/97=0.3196 F=0.3147
+
+## Number of tokens (partition of Global)
+* Multi-token: MWE-proportion: gold=500/500=100% pred=287/287=100%
+* Multi-token: MWE-based: P=201/287=0.7003 R=201/500=0.4020 F=0.5108
+* Single-token: MWE-proportion: gold=0/500=0% pred=0/287=0%
+* Single-token: MWE-based: P=0/0=0.0000 R=0/0=0.0000 F=0.0000
+
+## Whether seen in train (partition of Global)
+* Seen-in-train: MWE-proportion: gold=414/500=83% pred=287/287=100%
+* Seen-in-train: MWE-based: P=201/287=0.7003 R=201/414=0.4855 F=0.5735
+* Unseen-in-train: MWE-proportion: gold=86/500=17% pred=0/287=0%
+* Unseen-in-train: MWE-based: P=0/0=0.0000 R=0/86=0.0000 F=0.0000
+
+## Whether identical to train (partition of Seen-in-train)
+* Variant-of-train: MWE-proportion: gold=210/414=51% pred=100/287=35%
+* Variant-of-train: MWE-based: P=31/100=0.3100 R=31/210=0.1476 F=0.2000
+* Identical-to-train: MWE-proportion: gold=204/414=49% pred=187/287=65%
+* Identical-to-train: MWE-based: P=170/187=0.9091 R=170/204=0.8333 F=0.8696
+

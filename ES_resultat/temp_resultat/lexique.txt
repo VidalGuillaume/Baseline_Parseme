@@ -1,0 +1,5895 @@
+LVC.full
+0	tuvo	tener	VERB	_	_
+1	origen	origen	NOUN	0	dobj
+
+LVC.full
+0	dio	dar	VERB	_	_
+1	resultados	resultado	NOUN	0	dobj
+
+VID
+0	es	ser	VERB	_	_
+1	decir	decir	VERB	0	mwe
+
+IRV
+0	se	él	PRON	1	iobj
+1	refiere	referir	VERB	_	_
+
+IAV
+0	contaba	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	sitúa	situar	VERB	_	_
+
+IAV
+0	dispone	disponer	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	ayudaron	ayudar	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	acercando	acercar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	presentó	presentar	VERB	_	_
+
+LVC.full
+0	tuvieron	tener	VERB	_	_
+1	tiempo	tiempo	NOUN	0	dobj
+
+LVC.cause
+0	dio	dar	VERB	_	_
+1	lugar	lugar	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	hallaban	hallar	VERB	_	_
+
+MVC
+0	puedan	poder	AUX	1	aux
+1	jugar	jugar	VERB	_	_
+
+LVC.full
+0	llegó	llegar	VERB	_	_
+1	a	a	ADP	2	case
+2	conclusión	conclusión	NOUN	0	nmod
+
+IRV
+0	deshacer	deshacer	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	deshacer	deshacer	VERB	_	_
+1	se	él	PRON	0	iobj
+2	de	de	ADP	_	_
+
+MVC
+0	hacer	hacer	VERB	_	_
+1	cumplir	cumplir	VERB	0	xcomp
+
+MVC
+0	llegan	llegar	VERB	_	_
+1	a	a	ADP	_	_
+2	ser	ser	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	encuentra	encontrar	VERB	_	_
+
+LVC.full
+0	da	dar	VERB	_	_
+1	nombre	nombre	NOUN	0	dobj
+
+IRV
+0	Se	él	PRON	1	iobj
+1	encuentra	encontrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	movió	mover	VERB	_	_
+
+IAV
+0	huir	huir	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	contó	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+LVC.full
+0	tuvo	tener	VERB	_	_
+1	lugar	lugar	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	refieren	referir	VERB	_	_
+
+IRV
+0	mantener	mantener	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	debía	deber	AUX	_	_
+1	ser	ser	VERB	_	_
+
+MVC
+0	podía	poder	AUX	_	_
+1	ampliar	ampliar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	encontraba	encontrar	VERB	_	_
+
+LVC.full
+0	formar	formar	VERB	_	_
+1	parte	parte	NOUN	0	dobj
+
+IRV
+0	Se	él	PRON	1	iobj
+1	encuentran	encontrar	VERB	_	_
+
+IAV
+0	contará	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+IAV
+0	cuenta	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	convirtieron	convertir	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	convirtieron	convertir	VERB	_	_
+2	en	en	ADP	_	_
+
+MVC
+0	dejar	dejar	VERB	_	_
+1	de	de	ADP	2	mark
+2	mejorar	mejorar	VERB	0	acl
+
+MVC
+0	dejar	dejar	VERB	_	_
+1	mejorar	mejorar	VERB	0	acl
+
+MVC
+0	demostró	demostrar	VERB	_	_
+1	tener	tener	VERB	0	xcomp
+
+LVC.cause
+0	tener	tener	VERB	_	_
+1	efectos	efecto	NOUN	0	dobj
+
+IAV
+0	contado	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+VID
+0	quedar	quedar	VERB	_	_
+1	bien	bien	ADV	0	advmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	encargaban	encargar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	encargaban	encargar	VERB	_	_
+2	de	de	ADP	_	_
+
+LVC.full
+0	dieron	dar	VERB	_	_
+1	poder	poder	NOUN	0	dobj
+
+VID
+0	es	ser	VERB	_	_
+1	decir	decir	VERB	_	_
+
+VID
+0	es	ser	VERB	_	_
+1	decir	decir	VERB	0	xcomp
+
+IRV
+0	se	él	PRON	1	iobj
+1	incorpora	incorporar	VERB	_	_
+
+MVC
+0	decidieron	decidir	VERB	_	_
+1	aflojar	aflojar	VERB	0	xcomp
+
+LVC.full
+0	hizo	hacer	VERB	_	_
+1	llamamiento	llamamiento	NOUN	0	dobj
+
+VID
+0	llevada	llevado	VERB	_	_
+1	a	a	ADP	2	case
+2	cabo	cabo	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	clasificaron	clasificar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	reduce	reducir	VERB	_	_
+
+LVC.cause
+0	pusieron	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	marcha	marcha	NOUN	0	nmod
+
+MVC
+0	puedan	poder	AUX	1	aux
+1	volar	volar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	situarían	situar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	caracterizaba	caracterizar	VERB	_	_
+2	por	por	ADP	_	_
+
+VID
+0	llevan	llevar	VERB	_	_
+1	a	a	ADP	2	case
+2	cabo	cabo	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	desmayó	desmayar	VERB	_	_
+
+MVC
+0	podía	poder	AUX	1	aux
+1	hacer	hacer	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	interesó	interesar	VERB	_	_
+
+MVC
+0	sigue	seguir	AUX	_	_
+1	siendo	ser	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	convirtió	convertir	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	convirtió	convertir	VERB	_	_
+2	en	en	ADP	_	_
+
+IAV
+0	escapar	escapar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	está	estar	AUX	1	aux
+1	trabajando	trabajar	VERB	_	_
+
+IAV
+0	aspira	aspirar	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	permiten	permitir	VERB	_	_
+1	personalizar	personalizar	VERB	0	xcomp
+
+MVC
+0	pudo	poder	AUX	_	_
+1	ser	ser	VERB	_	_
+
+LVC.cause
+0	ponen	poner	VERB	_	_
+1	a	a	ADP	2	case
+2	disposición	disposición	NOUN	0	nmod
+
+VID
+0	tienen	tener	VERB	_	_
+1	en	en	ADP	3	case
+2	sus	su	DET	3	det
+3	manos	mano	NOUN	0	nmod
+
+MVC
+0	logran	lograr	VERB	_	_
+1	conseguir	conseguir	VERB	0	xcomp
+
+MVC
+0	podrá	poder	AUX	1	aux
+1	realizar	realizar	VERB	_	_
+
+IAV
+0	ayudar	ayudar	VERB	_	_
+1	a	a	ADP	_	_
+
+LVC.full
+0	tuvo	tener	VERB	_	_
+1	noticias	noticia	NOUN	0	dobj
+
+IRV
+0	Se	él	PRON	1	iobj
+1	declaró	declarar	VERB	_	_
+
+VID
+0	declaró	declarar	VERB	1	cop
+1	culpable	culpable	ADJ	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	tener	tener	VERB	_	_
+
+LVC.full
+0	dio	dar	VERB	_	_
+1	vida	vida	NOUN	0	dobj
+
+IRV
+0	Se	él	PRON	1	iobj
+1	graduó	graduar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	vio	ver	VERB	_	_
+
+LVC.full
+0	haciendo	hacer	VERB	_	_
+1	referencia	referencia	NOUN	0	dobj
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	prueba	prueba	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	trasladó	trasladar	VERB	_	_
+
+IRV
+0	convertir	convertir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	cambiar	cambiar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pretenden	pretender	VERB	_	_
+1	prohibir	prohibir	VERB	_	_
+
+MVC
+0	busca	buscar	VERB	_	_
+1	prevenir	prevenir	VERB	0	xcomp
+
+MVC
+0	busca	buscar	VERB	_	_
+1	erradicar	erradicar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dedica	dedicar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	dedica	dedicar	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	tiene	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	hacer	hacer	VERB	0	ccomp
+
+VID
+0	hacen	hacer	VERB	_	_
+1	posible	posible	ADJ	0	xcomp
+
+IRV
+0	se	él	PRON	1	iobj
+1	hacen	hacer	VERB	_	_
+
+VID
+0	hacen	hacer	VERB	1	cop
+1	patentes	patente	ADJ	_	_
+
+IRV
+0	nos	yo	PRON	1	iobj
+1	cuadraba	cuadrar	VERB	_	_
+
+LVC.cause
+0	llevas	llevar	VERB	_	_
+1	sobresaltos	sobresalto	NOUN	0	dobj
+
+LVC.cause
+0	haciendo	hacer	VERB	_	_
+1	saque	saque	NOUN	0	dobj
+
+LVC.full
+0	dio	dar	VERB	_	_
+1	nombre	nombre	NOUN	0	dobj
+
+MVC
+0	hay	haber	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	hacer	hacer	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	convertiría	convertir	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	convertiría	convertir	VERB	_	_
+2	en	en	ADP	_	_
+
+VID
+0	tomar	tomar	VERB	_	_
+1	nota	nota	NOUN	0	dobj
+
+VID
+0	a	a	ADP	1	mark
+1	ver	ver	VERB	_	_
+
+MVC
+0	intentar	intentar	VERB	_	_
+1	ver	ver	VERB	0	xcomp
+
+LVC.full
+0	dieron	dar	VERB	_	_
+1	vida	vida	NOUN	0	dobj
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	uso	uso	NOUN	0	dobj
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	permitir	permitir	VERB	_	_
+
+MVC
+0	permitir	permitir	VERB	_	_
+1	hacer	hacer	VERB	0	xcomp
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	detección	detección	NOUN	0	dobj
+
+VID
+0	pone	poner	VERB	_	_
+1	medios	medio	NOUN	0	dobj
+
+VID
+0	cambiar	cambiar	VERB	_	_
+1	de	de	ADP	2	case
+2	aires	aire	NOUN	0	nmod
+
+IRV
+0	separar	separar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	volver	volver	AUX	_	_
+1	a	a	ADP	0	mwe
+2	actualizar	actualizar	VERB	_	_
+
+MVC
+0	puede	poder	AUX	_	_
+1	ser	ser	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	siente	sentir	VERB	_	_
+
+IAV
+0	contar	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+MVC
+0	se	él	PRON	1	iobj
+1	propone	proponer	VERB	_	_
+
+MVC
+0	propone	proponer	VERB	_	_
+1	publicar	publicar	VERB	0	xcomp
+
+MVC
+0	podrían	poder	AUX	1	aux
+1	comparar	comparar	VERB	_	_
+
+MVC
+0	consideró	considerar	VERB	_	_
+1	retirar	retirar	VERB	0	xcomp
+
+IRV
+0	retirar	retirar	VERB	_	_
+1	se	él	PRON	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	oponían	oponer	VERB	_	_
+
+LVC.cause
+0	hicieron	hacer	VERB	_	_
+1	modificaciones	modificación	NOUN	0	dobj
+
+VID
+0	estuvo	estar	VERB	_	_
+1	a	a	ADP	2	case
+2	punto	punto	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	convierte	convertir	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	convierte	convertir	VERB	_	_
+2	en	en	ADP	_	_
+
+IAV
+0	pasó	pasar	AUX	_	_
+1	a	a	ADP	_	_
+
+VID
+0	hacer	hacer	VERB	_	_
+1	frente	frente	ADV	_	_
+
+MVC
+0	hacen	hacer	VERB	_	_
+1	retroceder	retroceder	VERB	0	xcomp
+
+IRV
+0	se	él	PRON	1	iobj
+1	separaron	separar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	centraría	centrar	VERB	_	_
+
+IAV
+0	con	con	ADP	_	_
+1	cuenta	contar	VERB	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	unido	unir	VERB	_	_
+
+LVC.full
+0	forman	formar	VERB	_	_
+1	parte	parte	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	trasladaran	trasladar	VERB	_	_
+
+MVC
+0	juró	jurar	VERB	_	_
+1	servir	servir	VERB	0	xcomp
+
+IRV
+0	nos	yo	PRON	1	iobj
+1	proponemos	proponer	VERB	_	_
+
+IAV
+0	pasa	pasar	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	ver	ver	VERB	_	_
+
+VID
+0	tiene	tener	VERB	_	_
+1	muchas	mucho	DET	2	det
+2	papeletas	papeleta	NOUN	0	dobj
+
+IRV
+0	graduar	graduar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	permitió	permitir	VERB	_	_
+1	representar	representar	VERB	0	xcomp
+
+MVC
+0	llegó	llegar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	adquirir	adquirir	VERB	_	_
+
+MVC
+0	quería	querer	VERB	_	_
+1	ser	ser	VERB	_	_
+
+IAV
+0	confiar	confiar	VERB	_	_
+1	en	en	ADP	_	_
+
+IAV
+0	a	a	ADP	_	_
+1	se	él	PRON	2	iobj
+2	negó	negar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	negó	negar	VERB	_	_
+
+IAV
+0	dependía	depender	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	encargó	encargar	VERB	_	_
+1	combatir	combatir	VERB	0	xcomp
+
+IRV
+0	se	él	PRON	1	iobj
+1	acercaron	acercar	VERB	_	_
+
+IRV
+0	dedicar	dedicar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	consiste	consistir	VERB	_	_
+1	en	en	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	encargó	encargar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	encargó	encargar	VERB	_	_
+2	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	unen	unir	VERB	_	_
+
+IRV
+0	rebelándo	rebelándo	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	podría	poder	AUX	_	_
+1	volver	volver	VERB	_	_
+2	se	él	PRON	1	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	enfrentó	enfrentar	VERB	_	_
+
+VID
+0	dar	dar	VERB	_	_
+1	forma	forma	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	dio	dar	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	dio	dar	VERB	_	_
+2	cuenta	cuenta	NOUN	1	dobj
+
+VID
+0	pegar	pegar	VERB	_	_
+1	fuerte	fuerte	ADJ	0	xcomp
+
+MVC
+0	estaba	estar	AUX	1	aux
+1	compuesto	compuesto	VERB	_	_
+
+VID
+0	cruzó	cruzar	VERB	_	_
+1	el	el	DET	2	det
+2	charco	charco	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	marchan	marchar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	cansaron	cansar	VERB	_	_
+
+IRV
+0	ver	ver	VERB	_	_
+1	se	él	PRON	_	_
+
+MVC
+0	habeis	habeis	AUX	1	aux
+1	sabido	saber	VERB	_	_
+2	captar	captar	VERB	1	xcomp
+
+IAV
+0	tratan	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	desestimaron	desestimar	VERB	_	_
+1	rechazar	rechazar	VERB	_	_
+
+LVC.full
+0	hecho	hacer	VERB	_	_
+1	oferta	oferta	NOUN	0	dobj
+
+LVC.cause
+0	tomar	tomar	VERB	_	_
+1	el	el	DET	2	det
+2	poder	poder	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	basan	basar	VERB	_	_
+
+VID
+0	inclinó	inclinar	VERB	_	_
+1	la	el	DET	2	det
+2	balanza	balanza	NOUN	0	dobj
+
+MVC
+0	dejen	dejar	AUX	2	aux
+1	de	de	ADP	0	mwe
+2	lloriquear	lloriquear	VERB	_	_
+
+MVC
+0	dejen	dejar	AUX	1	aux
+1	lloriquear	lloriquear	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dado	dar	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	dado	dar	VERB	_	_
+2	cuenta	cuenta	NOUN	1	dobj
+
+IRV
+0	retirar	retirar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	desplazar	desplazar	VERB	_	_
+1	me	yo	PRON	0	iobj
+
+IRV
+0	haber	haber	AUX	2	aux
+1	se	él	PRON	0	iobj
+2	hartado	hartar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	hallan	hallar	VERB	_	_
+
+IRV
+0	basar	basar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	hace	hacer	VERB	_	_
+1	evadir	evadir	VERB	_	_
+
+IRV
+0	evadir	evadir	VERB	_	_
+1	te	tú	PRON	0	iobj
+
+MVC
+0	quereis	quere	VERB	_	_
+1	aprender	aprender	VERB	0	xcomp
+
+VID
+0	queda	quedar	VERB	_	_
+1	bien	bien	ADV	0	advmod
+
+MVC
+0	intentó	intentar	VERB	_	_
+1	impedir	impedir	VERB	0	xcomp
+
+IAV
+0	sirva	servir	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	ejercido	ejercer	VERB	_	_
+1	docencia	docencia	NOUN	0	dobj
+
+VID
+0	teniendo	tener	VERB	_	_
+1	en	en	ADP	2	case
+2	cuenta	contar	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	extiende	extender	VERB	_	_
+
+VID
+0	le	él	PRON	1	iobj
+1	respira	respirar	VERB	_	_
+2	en	en	ADP	4	case
+3	la	el	DET	4	det
+4	nuca	nuca	NOUN	1	nmod
+
+MVC
+0	está	estar	VERB	1	cop
+1	ubicada	ubicado	ADJ	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dispersan	dispersar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	hizo	hacer	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	hizo	hacer	VERB	_	_
+2	con	con	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	reveló	revelar	VERB	_	_
+
+MVC
+0	está	estar	AUX	1	aux
+1	hablando	hablar	VERB	_	_
+
+IAV
+0	hablando	hablar	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	comporta	comportar	VERB	_	_
+
+IAV
+0	depender	depender	VERB	_	_
+1	de	de	ADP	_	_
+
+VID
+0	da	dar	VERB	_	_
+1	paso	paso	NOUN	0	dobj
+
+VID
+0	Es	ser	VERB	_	_
+1	decir	decir	VERB	0	mwe
+
+MVC
+0	habría	haber	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	ver	ver	VERB	_	_
+
+MVC
+0	permiten	permitir	VERB	_	_
+1	formar	formar	VERB	0	xcomp
+
+IAV
+0	contribuyen	contribuir	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	dedican	dedicar	AUX	_	_
+
+IAV
+0	se	él	PRON	_	_
+1	dedican	dedicar	AUX	_	_
+2	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	queda	quedar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	queda	quedar	VERB	_	_
+2	en	en	ADP	_	_
+
+LVC.cause
+0	dado	dar	VERB	_	_
+1	pie	pie	NOUN	0	dobj
+
+MVC
+0	debía	deber	AUX	1	aux
+1	servir	servir	VERB	_	_
+
+MVC
+0	solían	soler	AUX	1	aux
+1	incluir	incluir	VERB	_	_
+
+IRV
+0	casar	casar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	casar	casar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	con	con	ADP	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	ponía	poner	AUX	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	detendrían	detener	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	negó	negar	VERB	_	_
+2	a	a	ADP	_	_
+
+IAV
+0	cuento	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	beneficia	beneficiar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	beneficia	beneficiar	VERB	_	_
+2	de	de	ADP	_	_
+
+IAV
+0	acusar	acusar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	llegando	llegar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	servir	servir	VERB	_	_
+
+MVC
+0	permitía	permitir	VERB	_	_
+1	reducir	reducir	VERB	0	xcomp
+
+IRV
+0	se	él	PRON	1	iobj
+1	adelantaron	adelantar	VERB	_	_
+
+VID
+0	abrir	abrir	VERB	_	_
+1	se	él	PRON	0	iobj
+2	paso	pasar	NOUN	0	nsubj
+
+VID
+0	estoy	estar	VERB	_	_
+1	de	de	ADP	2	case
+2	acuerdo	acuerdo	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	convertido	convertir	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	convertido	convertir	VERB	_	_
+2	en	en	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	ajustan	ajustar	VERB	_	_
+
+LVC.full
+0	posibilidad	posibilidad	NOUN	_	_
+1	tiene	tener	VERB	0	acl:relcl
+
+MVC
+0	cuesta	costar	VERB	_	_
+1	reservar	reservar	VERB	0	xcomp
+
+LVC.full
+0	dar	dar	VERB	_	_
+1	bombo	bombo	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	concentran	concentrar	VERB	_	_
+
+IAV
+0	pensó	pensar	VERB	_	_
+1	en	en	ADP	_	_
+
+IAV
+0	sirve	servir	VERB	_	_
+1	de	de	ADP	_	_
+
+VID
+0	llevadas	llevado	VERB	_	_
+1	a	a	ADP	2	case
+2	cabo	cabo	NOUN	0	nmod
+
+VID
+0	estamos	estar	VERB	_	_
+1	de	de	ADP	2	case
+2	acuerdo	acuerdo	NOUN	0	nmod
+
+MVC
+0	puede	poder	AUX	1	aux
+1	ir	ir	VERB	_	_
+
+MVC
+0	ir	ir	VERB	_	_
+1	andando	andar	VERB	0	acl
+
+VID
+0	puesto	puesto	NOUN	_	_
+1	en	en	ADP	2	case
+2	manos	mano	NOUN	0	nmod
+
+IAV
+0	Pensando	pensar	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	estaba	estar	VERB	1	cop
+1	compuesto	compuesto	ADJ	_	_
+
+MVC
+0	vienen	venir	AUX	1	aux
+1	trabajando	trabajar	VERB	_	_
+
+MVC
+0	permitirá	permitir	VERB	_	_
+1	ampliar	ampliar	VERB	0	xcomp
+
+IRV
+0	se	él	PRON	1	iobj
+1	quedado	quedar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	quedado	quedar	VERB	_	_
+2	en	en	ADP	_	_
+
+VID
+0	lleva	llevar	VERB	_	_
+1	a	a	ADP	2	case
+2	cabo	cabo	NOUN	0	nmod
+
+IAV
+0	accedido	acceder	VERB	_	_
+1	a	a	ADP	_	_
+
+LVC.full
+0	dar	dar	VERB	_	_
+1	sorpresa	sorpresa	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	rían	r	VERB	_	_
+
+IAV
+0	rían	r	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	enfrentar	enfrentar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	a	a	ADP	_	_
+
+IRV
+0	quedar	quedar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	quedando	quedar	VERB	_	_
+
+LVC.full
+0	formaba	formar	VERB	_	_
+1	parte	parte	NOUN	0	dobj
+
+MVC
+0	decidió	decidir	VERB	_	_
+1	apoyar	apoyar	VERB	0	xcomp
+
+MVC
+0	Tenía	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	hacer	hacer	VERB	_	_
+
+MVC
+0	andar	andar	AUX	1	aux
+1	comprando	comprar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	separó	separar	VERB	_	_
+
+MVC
+0	se	él	PRON	1	iobj
+1	dio	dar	VERB	_	_
+2	a	a	ADP	3	mark
+3	conocer	conocer	VERB	1	acl
+
+MVC
+0	dio	dar	VERB	_	_
+1	a	a	ADP	2	mark
+2	conocer	conocer	VERB	0	acl
+
+IRV
+0	se	él	PRON	1	iobj
+1	ocupó	ocupar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	ocupó	ocupar	VERB	_	_
+2	de	de	ADP	_	_
+
+IAV
+0	acceder	acceder	VERB	_	_
+1	a	a	ADP	_	_
+
+IAV
+0	disponga	disponer	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	conviertan	convertir	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	conviertan	convertir	VERB	_	_
+2	en	en	ADP	_	_
+
+MVC
+0	intentará	intentar	VERB	_	_
+1	recuperar	recuperar	VERB	0	xcomp
+
+IAV
+0	cuentan	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+MVC
+0	llegó	llegar	VERB	_	_
+1	a	a	ADP	_	_
+2	ser	ser	AUX	_	_
+
+VID
+0	haría	hacer	VERB	_	_
+1	falta	faltar	NOUN	0	dobj
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	volver	volver	VERB	_	_
+
+MVC
+0	concedido	conceder	VERB	_	_
+1	tener	tener	VERB	0	xcomp
+
+VID
+0	tener	tener	VERB	_	_
+1	en	en	ADP	3	case
+2	sus	su	DET	3	det
+3	manos	mano	NOUN	0	nmod
+
+IRV
+0	someter	someter	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	sintió	sentir	VERB	_	_
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	orígenes	origen	NOUN	0	dobj
+
+IAV
+0	piensa	pensar	VERB	_	_
+1	en	en	ADP	_	_
+
+IRV
+0	hacerse	hacer	AUX	_	_
+1	se	él	PRON	_	_
+
+IRV
+0	hacer	hacer	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	hacer	hacer	VERB	_	_
+1	se	él	PRON	0	iobj
+2	con	con	ADP	_	_
+
+MVC
+0	debe	deber	AUX	1	aux
+1	tener	tener	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	ver	ver	VERB	_	_
+
+IRV
+0	ver	ver	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	dependiendo	depender	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	Se	él	PRON	1	iobj
+1	sitúa	situar	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	da	dar	VERB	_	_
+2	en	en	ADP	3	mark
+3	llamar	llamar	VERB	1	acl
+
+IAV
+0	trata	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	dotan	dotar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pudo	poder	X	_	_
+1	volver	volver	AUX	_	_
+
+VID
+0	estaba	estar	VERB	_	_
+1	por	por	ADP	2	case
+2	encima	encima	ADV	0	advmod
+3	de	de	ADP	_	_
+
+MVC
+0	volvería	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	pasar	pasar	VERB	_	_
+
+IAV
+0	pasar	pasar	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	poder	poder	AUX	1	aux
+1	usarlas	usar	NOUN	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	encuentran	encontrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	encontraban	encontrar	VERB	_	_
+
+MVC
+0	tenga	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	ver	ver	VERB	_	_
+
+MVC
+0	permitiendo	permitir	VERB	_	_
+1	construir	construir	VERB	0	xcomp
+
+IRV
+0	Se	él	PRON	1	iobj
+1	preocupan	preocupar	VERB	_	_
+
+LVC.full
+0	dar	dar	VERB	_	_
+1	servicio	servicio	NOUN	0	dobj
+
+MVC
+0	parecen	parecer	VERB	_	_
+1	ser	ser	VERB	_	_
+
+MVC
+0	dejaré	dejar	AUX	_	_
+1	de	de	ADP	0	mwe
+2	tener	tener	VERB	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	quedar	quedar	VERB	_	_
+
+MVC
+0	tiene	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	quedar	quedar	VERB	0	ccomp
+
+MVC
+0	podría	poder	AUX	1	aux
+1	volver	volver	VERB	_	_
+
+MVC
+0	volver	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	coger	coger	VERB	_	_
+
+LVC.full
+0	coger	coger	VERB	_	_
+1	confianza	confianza	NOUN	0	dobj
+
+MVC
+0	deben	deber	AUX	_	_
+1	confiar	confiar	VERB	_	_
+
+IRV
+0	confiar	confiar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	enfrentarán	enfrentar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	jugará	jugar	VERB	_	_
+
+IAV
+0	informó	informar	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	vean	ver	VERB	_	_
+
+IRV
+0	asomar	asomar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	amenaza	amenazar	VERB	_	_
+1	con	con	ADP	_	_
+
+IRV
+0	adentrar	adentrar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+VID
+0	tienen	tener	VERB	_	_
+1	previsto	previsto	ADJ	0	xcomp
+
+MVC
+0	tuvo	tener	AUX	_	_
+1	que	que	CONJ	_	_
+2	detener	detener	VERB	_	_
+3	se	él	PRON	2	iobj
+
+IRV
+0	detener	detener	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	encontrar	encontrar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	coincidieron	coincidir	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	debían	deber	AUX	_	_
+1	encontrar	encontrar	VERB	_	_
+2	se	él	PRON	1	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	ve	ver	VERB	_	_
+
+VID
+0	caer	caer	VERB	_	_
+1	la	el	DET	2	det
+2	noche	noche	NOUN	0	dobj
+
+IAV
+0	pasado	pasar	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	pasado	pasar	VERB	_	_
+1	a	a	ADP	_	_
+2	ser	ser	VERB	_	_
+
+LVC.full
+0	ejercer	ejercer	VERB	_	_
+1	derecho	derecho	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	adjudicó	adjudicar	VERB	_	_
+
+IAV
+0	carece	carecer	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	pasaba	pasar	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	pasaba	pasar	VERB	_	_
+1	a	a	ADP	2	mark
+2	ser	ser	VERB	0	acl
+
+IAV
+0	pasará	pasar	AUX	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	pasará	pasar	AUX	_	_
+1	a	a	ADP	2	mark
+2	ser	ser	VERB	_	_
+
+IAV
+0	apostar	apostar	VERB	_	_
+1	por	por	ADP	_	_
+
+LVC.full
+0	tomar	tomar	VERB	_	_
+1	posesión	posesión	NOUN	_	_
+
+MVC
+0	podría	poder	AUX	_	_
+1	ser	ser	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	hará	hacer	VERB	_	_
+2	cargo	cargo	NOUN	1	dobj
+
+LVC.full
+0	tomar	tomar	VERB	_	_
+1	medidas	medida	NOUN	0	dobj
+
+MVC
+0	puede	poder	AUX	1	aux
+1	retrasar	retrasar	VERB	_	_
+
+IRV
+0	atar	atar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	atar	atar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	libraría	librar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	quedó	quedar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	quedó	quedar	VERB	_	_
+2	en	en	ADP	_	_
+
+IAV
+0	abogó	abogar	VERB	_	_
+1	por	por	ADP	_	_
+
+IAV
+0	Insistió	insistir	VERB	_	_
+1	en	en	ADP	_	_
+
+VID
+0	diferencias	diferencia	NOUN	_	_
+1	tenido	tener	VERB	0	acl:relcl
+
+IAV
+0	Confió	confiar	VERB	_	_
+1	en	en	ADP	_	_
+
+IRV
+0	referir	referir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	negociaciones	negociación	NOUN	_	_
+1	mantiene	mantener	VERB	0	acl:relcl
+
+MVC
+0	tiene	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	haber	haber	VERB	_	_
+
+LVC.full
+0	ilusión	ilusión	NOUN	_	_
+1	creado	crear	VERB	_	_
+
+LVC.full
+0	demanda	demanda	NOUN	_	_
+1	creado	crear	VERB	0	acl:relcl
+
+LVC.full
+0	expectativa	expectativa	NOUN	_	_
+1	creado	crear	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	refirió	referir	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	comportado	comportar	VERB	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	sustraer	sustraer	VERB	_	_
+
+LVC.full
+0	tomar	tomar	VERB	_	_
+1	medida	medida	NOUN	0	dobj
+
+MVC
+0	dejaron	dejar	VERB	_	_
+1	escapar	escapar	VERB	0	xcomp
+
+LVC.full
+0	tienen	tener	VERB	_	_
+1	razón	razón	NOUN	0	dobj
+
+VID
+0	se	él	PRON	1	iobj
+1	mordió	morder	VERB	_	_
+2	la	el	DET	3	det
+3	lengua	lengua	NOUN	1	dobj
+
+LVC.full
+0	mantenido	mantener	VERB	_	_
+1	postura	postura	NOUN	0	dobj
+
+MVC
+0	comenzar	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	preparar	preparar	VERB	_	_
+
+MVC
+0	debería	deber	AUX	1	aux
+1	jugar	jugar	VERB	_	_
+
+IAV
+0	calificando	calificar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	ver	ver	VERB	_	_
+
+VID
+0	romper	romper	VERB	_	_
+1	récord	récord	NOUN	0	dobj
+
+VID
+0	hizo	hacer	VERB	_	_
+1	lo	él	PRON	0	dobj
+2	imposible	imposible	ADJ	1	amod
+
+LVC.full
+0	tienen	tener	VERB	_	_
+1	razón	razón	NOUN	_	_
+
+IRV
+0	quejar	quejar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	están	estar	AUX	1	aux
+1	pensando	pensar	VERB	_	_
+
+IAV
+0	pensando	pensar	VERB	_	_
+1	en	en	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	mantendrá	mantener	VERB	_	_
+
+IRV
+0	dar	dar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	dar	dar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	baño	baño	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	sumó	sumar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dispone	disponer	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	dispone	disponer	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	podrán	poder	AUX	1	aux
+1	ver	ver	VERB	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	celebrar	celebrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	impuso	imponer	VERB	_	_
+
+MVC
+0	volvió	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	sentir	sentir	VERB	_	_
+
+LVC.full
+0	puso	poner	VERB	_	_
+1	fin	fin	NOUN	0	dobj
+
+MVC
+0	SIGUE	seguir	PROPN	_	_
+1	SIENDO	ser	X	0	dep
+
+IRV
+0	SE	él	PRON	1	iobj
+1	OLVIDA	olvidar	VERB	_	_
+
+IAV
+0	SE	él	PRON	1	iobj
+1	OLVIDA	olvidar	VERB	_	_
+2	DE	de	ADP	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	pasar	pasar	VERB	_	_
+
+IRV
+0	alejar	alejar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+VID
+0	rompió	romper	VERB	_	_
+1	racha	racha	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	sitúan	situar	VERB	_	_
+
+IRV
+0	distanciar	distanciar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	pueda	poder	AUX	1	aux
+1	hacer	hacer	VERB	_	_
+
+MVC
+0	deberá	deber	AUX	1	aux
+1	contribuir	contribuir	VERB	_	_
+
+IAV
+0	contribuir	contribuir	VERB	_	_
+1	a	a	ADP	_	_
+
+VID
+0	estuvieran	estuvir	VERB	_	_
+1	a	a	ADP	2	case
+2	cargo	cargo	NOUN	0	nmod
+
+IAV
+0	trate	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	podrá	poder	AUX	1	aux
+1	fijar	fijar	VERB	_	_
+
+MVC
+0	deberán	deber	AUX	_	_
+1	prestar	prestar	VERB	_	_
+
+LVC.full
+0	prestar	prestar	VERB	_	_
+1	asistencia	asistencia	NOUN	_	_
+
+MVC
+0	deberá	deber	AUX	1	aux
+1	consolidar	consolidar	VERB	_	_
+
+LVC.full
+0	depara	depara	ADP	1	case
+1	sorpresas	sorpresa	NOUN	_	_
+
+VID
+0	abren	abrir	VERB	_	_
+1	camino	camino	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	muestren	muestrar	VERB	_	_
+
+LVC.full
+0	poner	poner	VERB	_	_
+1	fin	fin	NOUN	0	dobj
+
+LVC.full
+0	forma	forma	VERB	_	_
+1	parte	parte	NOUN	0	dobj
+
+IAV
+0	coinciden	coincidir	VERB	_	_
+1	en	en	ADP	_	_
+
+LVC.cause
+0	determinan	determinar	VERB	_	_
+1	destino	destino	NOUN	0	dobj
+
+LVC.full
+0	sufrió	sufrir	VERB	_	_
+1	derrota	derrota	NOUN	0	dobj
+
+LVC.full
+0	dio	dar	VERB	_	_
+1	origen	origen	NOUN	0	dobj
+
+VID
+0	entrar	entrar	VERB	_	_
+1	de	de	ADP	2	case
+2	lleno	lleno	NOUN	0	nmod
+
+MVC
+0	buscará	buscar	VERB	_	_
+1	convencer	convencer	VERB	0	xcomp
+
+LVC.full
+0	sufre	sufrir	VERB	_	_
+1	dificultades	dificultad	NOUN	0	dobj
+
+LVC.full
+0	haciendo	hacer	VERB	_	_
+1	declaraciones	declaración	NOUN	0	dobj
+
+MVC
+0	puede	poder	AUX	1	aux
+1	asegurar	asegurar	VERB	_	_
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	trampas	trampa	NOUN	0	dobj
+
+VID
+0	está	estar	VERB	_	_
+1	en	en	ADP	3	case
+2	la	el	DET	3	det
+3	mira	mirar	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	cuidan	cuidar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	cuidan	cuidar	VERB	_	_
+2	de	de	ADP	_	_
+
+IAV
+0	aspiran	aspirar	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	mantenían	mantener	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	declararon	declarar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	mostró	mostrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	sumarían	sumar	VERB	_	_
+
+LVC.full
+0	dimos	dar	VERB	_	_
+1	paso	paso	NOUN	0	conj
+
+VID
+0	dimos	dar	VERB	_	_
+1	paso	paso	NOUN	0	conj
+2	en	en	ADP	3	case
+3	falso	falso	ADJ	1	amod
+
+IRV
+0	se	él	PRON	1	iobj
+1	felicitó	felicitar	VERB	_	_
+
+VID
+0	entró	entrar	VERB	_	_
+1	en	en	ADP	2	case
+2	vigor	vigor	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	opusiera	opuser	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	opusiera	opuser	VERB	_	_
+2	a	a	ADP	_	_
+
+IAV
+0	apeló	apelar	VERB	_	_
+1	a	a	ADP	_	_
+
+LVC.full
+0	dar	dar	VERB	_	_
+1	salto	salto	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	visto	ver	VERB	_	_
+
+MVC
+0	harían	hacer	VERB	_	_
+1	tragar	tragar	VERB	0	xcomp
+
+VID
+0	estamos	estar	AUX	1	aux
+1	dispuestos	dispuesto	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	deberían	deber	AUX	_	_
+1	dar	dar	VERB	_	_
+2	se	él	PRON	1	iobj
+
+LVC.full
+0	da	dar	VERB	_	_
+1	prioridad	prioridad	NOUN	0	dobj
+
+VID
+0	se	él	PRON	1	iobj
+1	mostró	mostrar	VERB	_	_
+2	partidario	partidario	NOUN	1	nsubj
+
+IRV
+0	se	él	PRON	1	iobj
+1	inclinó	inclinar	VERB	_	_
+
+LVC.full
+0	está	estar	VERB	_	_
+1	en	en	ADP	2	case
+2	contradicción	contradicción	NOUN	0	nmod
+
+LVC.full
+0	esfuerzo	esfuerzo	NOUN	_	_
+1	haciendo	hacer	VERB	0	acl:relcl
+
+MVC
+0	está	estar	AUX	1	aux
+1	haciendo	hacer	VERB	_	_
+
+LVC.cause
+0	provocar	provocar	VERB	_	_
+1	vacío	vacío	NOUN	0	dobj
+
+IAV
+0	advirtió	advertir	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	coincidió	coincidir	VERB	_	_
+1	en	en	ADP	_	_
+
+LVC.full
+0	dar	dar	VERB	_	_
+1	descanso	descanso	NOUN	0	dobj
+
+IAV
+0	contribuye	contribuir	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	ahorrar	ahorrar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	deberían	deber	AUX	1	aux
+1	proporcionar	proporcionar	VERB	_	_
+
+IRV
+0	abstener	abstener	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	ocupa	ocupar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	ocupa	ocupar	VERB	_	_
+2	de	de	ADP	_	_
+
+IAV
+0	recurrir	recurrir	VERB	_	_
+1	a	a	ADP	_	_
+
+IAV
+0	alude	aludir	VERB	_	_
+1	a	a	ADP	_	_
+
+LVC.cause
+0	suscitó	suscitar	VERB	_	_
+1	polémica	polémica	NOUN	0	dobj
+
+LVC.full
+0	decisión	decisión	NOUN	1	nsubjpass
+1	adoptada	adoptar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	interesado	interesar	VERB	_	_
+
+MVC
+0	va	ir	AUX	_	_
+1	a	a	ADP	2	mark
+2	seguir	seguir	AUX	_	_
+
+MVC
+0	seguir	seguir	AUX	_	_
+1	siendo	ser	VERB	_	_
+
+MVC
+0	pudiera	poder	AUX	1	aux
+1	verificar	verificar	VERB	_	_
+
+IAV
+0	consistía	consistir	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	dejado	dejar	VERB	_	_
+1	ver	ver	VERB	0	xcomp
+
+IAV
+0	calificaron	calificar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	ayudar	ayudar	VERB	_	_
+
+LVC.cause
+0	implica	implicar	VERB	_	_
+1	modificaciones	modificación	NOUN	0	dobj
+
+MVC
+0	estuvo	estar	AUX	1	aux
+1	bloqueando	bloquear	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	comprometían	comprometer	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	comprometían	comprometer	VERB	_	_
+2	a	a	ADP	_	_
+
+LVC.full
+0	hace	hacer	VERB	_	_
+1	referencia	referencia	NOUN	0	dobj
+
+MVC
+0	tendría	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	imponer	imponer	VERB	_	_
+
+MVC
+0	podía	poder	AUX	1	aux
+1	utilizado	utilizar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	comprometen	comprometer	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	comprometen	comprometer	VERB	_	_
+2	a	a	ADP	_	_
+
+IAV
+0	insistió	insistir	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	podrá	poder	AUX	_	_
+1	realizar	realizar	VERB	_	_
+
+LVC.cause
+0	planteaban	plantear	VERB	_	_
+1	peligro	peligro	NOUN	0	dobj
+
+MVC
+0	podían	poder	AUX	1	aux
+1	utilizadas	utilizar	VERB	_	_
+
+LVC.full
+0	hagan	hacer	VERB	_	_
+1	presiones	presión	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	instalen	instalar	VERB	_	_
+
+LVC.full
+0	tenía	tener	VERB	_	_
+1	razón	razón	NOUN	0	dobj
+
+VID
+0	tenía	tener	VERB	_	_
+1	razón	razón	NOUN	0	dobj
+2	de	de	ADP	3	mark
+3	ser	ser	VERB	_	_
+
+MVC
+0	hacer	hacer	VERB	_	_
+1	peligrar	peligrar	VERB	0	xcomp
+
+VID
+0	cabía	caber	VERB	_	_
+1	la	el	DET	2	det
+2	posibilidad	posibilidad	NOUN	0	dobj
+
+IRV
+0	escapar	escapar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	está	estar	VERB	_	_
+1	en	en	ADP	2	case
+2	desacuerdo	desacuerdo	NOUN	0	nmod
+
+VID
+0	resolviendo	resolvir	VERB	_	_
+1	partidos	partido	NOUN	0	dobj
+
+MVC
+0	tenga	tener	VERB	1	cop
+1	pensado	pensado	ADJ	_	_
+
+MVC
+0	tendrán	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	hacer	hacer	VERB	_	_
+
+IAV
+0	calificó	calificar	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	lleva	llevar	VERB	_	_
+1	años	año	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	basa	basar	VERB	_	_
+
+LVC.full
+0	pierda	perder	VERB	_	_
+1	paciencia	paciencia	NOUN	0	dobj
+
+VID
+0	lleve	llevar	VERB	_	_
+1	la	el	DET	2	det
+2	iniciativa	iniciativa	NOUN	0	dobj
+
+IAV
+0	dependemos	depender	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	meterá	meter	VERB	_	_
+
+IRV
+0	me	yo	PRON	1	iobj
+1	niego	niego	VERB	_	_
+
+IAV
+0	me	yo	PRON	1	iobj
+1	niego	niego	VERB	_	_
+2	a	a	ADP	_	_
+
+IAV
+0	hablar	hablar	VERB	_	_
+1	de	de	ADP	_	_
+
+VID
+0	merece	merecer	VERB	_	_
+1	todos	todo	DET	3	det
+2	los	el	DET	3	det
+3	respetos	respeto	NOUN	0	dobj
+
+IAV
+0	coinciden	coincidir	VERB	_	_
+1	con	con	ADP	_	_
+
+LVC.full
+0	tenga	tener	VERB	_	_
+1	motivación	motivación	NOUN	0	dobj
+
+MVC
+0	comenzará	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	preparar	preparar	VERB	_	_
+
+VID
+0	conquiste	conquistir	VERB	_	_
+1	medallas	medalla	NOUN	0	dobj
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	pasar	pasar	VERB	_	_
+
+MVC
+0	seguiré	seguir	AUX	1	aux
+1	compitiendo	competir	VERB	_	_
+
+LVC.full
+0	dado	dar	VERB	_	_
+1	valor	valor	NOUN	0	dobj
+
+LVC.full
+0	repercusión	repercusión	NOUN	_	_
+1	tenido	tener	VERB	0	acl:relcl
+
+MVC
+0	tiene	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	ver	ver	VERB	_	_
+
+MVC
+0	pudiera	poder	AUX	1	aux
+1	estar	estar	VERB	_	_
+
+LVC.full
+0	corre	correr	VERB	_	_
+1	riesgo	riesgo	NOUN	0	dobj
+
+IAV
+0	confía	confiar	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	tiene	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	afrontar	afrontar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	desplazado	desplazar	VERB	_	_
+
+IAV
+0	depende	depender	VERB	_	_
+1	de	de	ADP	_	_
+
+VID
+0	es	ser	VERB	1	cop
+1	juez	juez	NOUN	_	_
+2	y	y	CONJ	1	cc
+3	parte	parte	NOUN	1	conj
+
+VID
+0	está	estar	VERB	_	_
+1	bajo	bajo	ADP	2	case
+2	sospecha	sospecha	NOUN	0	nmod
+
+MVC
+0	deberá	deber	AUX	1	aux
+1	indemnizar	indemnizar	VERB	_	_
+
+IAV
+0	acusó	acusar	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	aludió	aludir	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	intentar	intentar	VERB	_	_
+1	engañar	engañar	VERB	0	xcomp
+
+VID
+0	llevo	llevar	ADJ	_	_
+1	a	a	ADP	2	mark
+2	cabo	cabo	NOUN	0	nmod
+
+IRV
+0	empeñando	empeñar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	empeñando	empeñar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	en	en	ADP	_	_
+
+MVC
+0	pueda	poder	AUX	_	_
+1	ser	ser	VERB	_	_
+
+MVC
+0	debe	deber	AUX	1	aux
+1	seguir	seguir	VERB	_	_
+
+MVC
+0	tuvo	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	reconocer	reconocer	VERB	_	_
+
+MVC
+0	volvió	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	generar	generar	VERB	_	_
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	esfuerzo	esfuerzo	NOUN	0	dobj
+
+IRV
+0	mentalizar	mentalizar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	mostraron	mostrar	VERB	_	_
+
+MVC
+0	íbamos	ir	VERB	_	_
+1	a	a	ADP	2	mark
+2	jugar	jugar	VERB	0	acl
+
+IRV
+0	se	él	PRON	1	iobj
+1	va	ir	VERB	_	_
+
+MVC
+0	me	yo	PRON	1	iobj
+1	quería	querer	VERB	_	_
+2	perder	perder	VERB	1	xcomp
+
+MVC
+0	estás	estar	VERB	_	_
+1	compartiendo	compartir	VERB	0	acl
+
+IRV
+0	se	él	PRON	1	iobj
+1	alzó	alzar	VERB	_	_
+
+IAV
+0	tratará	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	tratará	tratar	VERB	_	_
+1	de	de	ADP	2	mark
+2	mejorar	mejorar	VERB	0	acl
+
+IRV
+0	acercar	acercar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	clasificación	clasificación	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	prepara	preparar	VERB	_	_
+
+LVC.full
+0	poner	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	cuarentena	cuarentena	NOUN	0	nmod
+
+MVC
+0	podamos	poder	AUX	1	aux
+1	entrenar	entrenar	VERB	_	_
+
+MVC
+0	vayan	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	competir	competir	VERB	_	_
+
+MVC
+0	hace	hacer	VERB	_	_
+1	ser	ser	VERB	_	_
+
+MVC
+0	comenzaron	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	vender	vender	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	disputa	disputar	VERB	_	_
+
+LVC.full
+0	margen	margen	NOUN	_	_
+1	tienen	tener	VERB	0	acl:relcl
+
+IRV
+0	nos	yo	PRON	1	iobj
+1	encontrábamos	encontrábar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	atrevido	atrevir	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	ganado	ganar	VERB	_	_
+
+VID
+0	dado	dar	VERB	_	_
+1	la	el	DET	2	det
+2	cara	cara	NOUN	0	dobj
+
+IRV
+0	nos	yo	PRON	1	dobj
+1	relajado	relajar	VERB	_	_
+
+LVC.full
+0	hecho	hacer	VERB	_	_
+1	daño	daño	NOUN	0	dobj
+
+IAV
+0	tratar	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	tratar	tratar	VERB	_	_
+1	de	de	ADP	_	_
+2	impedir	impedir	VERB	0	xcomp
+
+MVC
+0	tratar	tratar	VERB	_	_
+1	de	de	ADP	_	_
+2	luchar	luchar	VERB	_	_
+
+MVC
+0	tendría	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	actuar	actuar	VERB	_	_
+
+MVC
+0	empezará	empezar	VERB	_	_
+1	a	a	ADP	2	mark
+2	retroceder	retroceder	VERB	0	acl
+
+MVC
+0	podría	poder	AUX	_	_
+1	ser	ser	AUX	_	_
+
+LVC.full
+0	perderán	perder	VERB	_	_
+1	margen	margen	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	depreciara	depreciarar	VERB	_	_
+
+MVC
+0	tendría	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	permitido	permitir	VERB	_	_
+
+VID
+0	hizo	hacer	VERB	_	_
+1	hincapié	hincapié	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	separado	separado	VERB	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	explicadas	explicado	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	explicada	explicar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	mantiene	mantener	VERB	_	_
+
+VID
+0	tiene	tener	VERB	_	_
+1	previsto	previsto	ADJ	0	xcomp
+
+IRV
+0	desmarcar	desmarcar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+VID
+0	puesto	poner	VERB	_	_
+1	contra	contra	ADP	3	case
+2	las	el	DET	3	det
+3	cuerdas	cuerda	NOUN	0	nmod
+
+VID
+0	encauzar	encauzar	VERB	_	_
+1	las	el	DET	2	det
+2	aguas	agua	NOUN	0	dobj
+
+IAV
+0	trató	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+VID
+0	quitar	quitar	VERB	_	_
+1	hierro	hierro	NOUN	0	dobj
+
+MVC
+0	deber	deber	AUX	1	aux
+1	rendir	rendir	VERB	_	_
+
+IRV
+0	manteniendo	mantener	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	puede	poder	AUX	1	aux
+1	equivocar	equivocar	VERB	_	_
+2	se	él	PRON	1	iobj
+
+IRV
+0	equivocar	equivocar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.cause
+0	brinda	brindar	VERB	_	_
+1	primacía	primacer	ADJ	0	xcomp
+
+MVC
+0	pueda	poder	AUX	1	aux
+1	minar	minar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	lanzado	lanzar	VERB	_	_
+
+VID
+0	dar	dar	VERB	_	_
+1	lecciones	lección	NOUN	0	dobj
+
+VID
+0	hecho	hacer	VERB	_	_
+1	piña	piña	NOUN	0	dobj
+
+IAV
+0	hablan	hablar	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.cause
+0	abre	abrir	VERB	_	_
+1	crisis	crisis	NOUN	0	dobj
+
+IAV
+0	confía	confía	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	poder	poder	NOUN	_	_
+1	estar	estar	VERB	_	_
+
+MVC
+0	podido	poder	AUX	1	aux
+1	trabajar	trabajar	VERB	_	_
+
+IRV
+0	poner	poner	VERB	_	_
+1	me	yo	PRON	0	iobj
+
+LVC.cause
+0	poner	poner	VERB	_	_
+1	a	a	ADP	2	case
+2	disposición	disposición	NOUN	0	nmod
+
+LVC.full
+0	tengo	tener	VERB	_	_
+1	dolor	dolor	NOUN	_	_
+
+MVC
+0	empezar	empezar	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	rodar	rodar	VERB	_	_
+
+MVC
+0	vamos	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	alcanzar	alcanzar	VERB	_	_
+
+MVC
+0	tuvo	tener	VERB	_	_
+1	que	que	SCONJ	_	_
+2	retirar	retirar	VERB	_	_
+3	se	él	PRON	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	ejercitó	ejercitar	VERB	_	_
+
+IRV
+0	comprometer	comprometer	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	comprometer	comprometer	VERB	_	_
+1	se	él	PRON	0	iobj
+2	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	reunirá	reunir	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	negaron	negar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	negaron	negar	VERB	_	_
+2	a	a	ADP	_	_
+
+IAV
+0	amenazado	amenazar	VERB	_	_
+1	con	con	ADP	_	_
+
+LVC.cause
+0	causar	causar	VERB	_	_
+1	traumas	trauma	NOUN	0	dobj
+
+IAV
+0	tratado	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	privar	privar	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	instó	instar	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	preguntó	preguntar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	negado	negar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	negado	negar	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	debe	deber	AUX	1	aux
+1	regresar	regresar	VERB	_	_
+
+IRV
+0	extender	extender	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	entrevistó	entrevistar	VERB	_	_
+
+LVC.full
+0	dieron	dar	VERB	_	_
+1	cita	cita	NOUN	0	nsubj
+
+IRV
+0	reunir	reunir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	estemos	ester	AUX	1	aux
+1	poniendo	poner	VERB	_	_
+
+LVC.cause
+0	poniendo	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	peligro	peligro	NOUN	0	nmod
+
+MVC
+0	debe	deber	AUX	1	aux
+1	buscar	buscar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	entrevistado	entrevistar	VERB	_	_
+
+IAV
+0	informará	informar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	tienen	tener	VERB	_	_
+1	que	que	CONJ	2	mark
+2	ver	ver	VERB	0	ccomp
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	suponer	suponer	VERB	_	_
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	suponer	suponer	VERB	_	_
+
+LVC.full
+0	dejar	dejar	VERB	_	_
+1	en	en	ADP	2	case
+2	desamparo	desamparo	NOUN	0	nmod
+
+IAV
+0	ayude	ayudar	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	situando	situar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	comienzan	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	aparecer	aparecer	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	mostrara	mostrar	VERB	_	_
+
+MVC
+0	deberían	deber	AUX	1	aux
+1	aumentados	aumentar	VERB	_	_
+
+IAV
+0	Advierte	advertir	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	tienen	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	ir	ir	VERB	0	ccomp
+
+MVC
+0	deben	deber	AUX	1	aux
+1	dedicar	dedicar	VERB	_	_
+2	se	él	PRON	1	iobj
+
+IAV
+0	dedicar	dedicar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	a	a	ADP	_	_
+
+MVC
+0	deberían	deber	AUX	1	aux
+1	tratar	tratar	VERB	_	_
+
+LVC.full
+0	puesto	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	libertad	libertad	NOUN	0	nmod
+
+MVC
+0	pueda	poder	AUX	1	aux
+1	sucedido	suceder	VERB	_	_
+
+MVC
+0	habrá	haber	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	hacer	hacer	VERB	_	_
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	partido	partido	NOUN	0	dobj
+
+MVC
+0	poder	poder	AUX	1	aux
+1	rematar	rematar	VERB	_	_
+
+MVC
+0	logrado	lograr	VERB	_	_
+1	vencer	vencer	VERB	0	xcomp
+
+IAV
+0	Cuentan	contar	VERB	_	_
+1	con	con	ADP	_	_
+
+MVC
+0	habrá	haber	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	pelear	pelear	VERB	_	_
+
+MVC
+0	poder	poder	AUX	1	aux
+1	recuperar	recuperar	VERB	_	_
+
+LVC.full
+0	poner	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	aprietos	aprieto	NOUN	0	nmod
+
+IAV
+0	dispuso	disponer	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	reunido	reunir	VERB	_	_
+
+MVC
+0	sigue	seguir	AUX	1	aux
+1	intentando	intentar	VERB	_	_
+
+VID
+0	tirar	tirar	VERB	_	_
+1	de	de	ADP	3	case
+2	los	el	DET	3	det
+3	hilos	hilo	NOUN	0	nmod
+
+IRV
+0	dirigir	dirigir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	reunir	reunir	VERB	_	_
+1	me	yo	PRON	0	iobj
+
+MVC
+0	seguir	seguir	AUX	1	aux
+1	manteniendo	mantener	VERB	_	_
+
+VID
+0	manteniendo	mantener	VERB	_	_
+1	las	el	DET	2	det
+2	riendas	rienda	NOUN	0	dobj
+
+MVC
+0	esté	estar	VERB	_	_
+1	escribiendo	escribir	VERB	0	acl
+
+LVC.full
+0	dado	dar	VERB	_	_
+1	tiempo	tiempo	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	atuvo	atar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	atuvo	atar	VERB	_	_
+2	a	a	ADP	_	_
+
+LVC.full
+0	dio	dar	VERB	_	_
+1	palabra	palabra	NOUN	0	dobj
+
+VID
+0	sacar	sacar	VERB	_	_
+1	adelante	adelante	ADV	0	advmod
+
+LVC.full
+0	mantenido	mantener	VERB	_	_
+1	palabra	palabra	NOUN	0	dobj
+
+MVC
+0	Volvió	volver	VERB	_	_
+1	a	a	ADP	2	mark
+2	insistir	insistir	VERB	0	acl
+
+IAV
+0	insistir	insistir	VERB	_	_
+1	en	en	ADP	_	_
+
+VID
+0	estaba	estar	VERB	1	cop
+1	dispuesto	dispuesto	ADJ	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	podría	poder	AUX	1	aux
+1	encontrarse	encontrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	desanimó	desanimar	VERB	_	_
+
+IRV
+0	reuniendo	reunir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	capacidad	capacidad	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	concentraron	concentrar	VERB	_	_
+
+IRV
+0	manifestar	manifestar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+VID
+0	presten	prestir	VERB	1	cop
+1	oídos	oído	ADJ	_	_
+
+MVC
+0	debe	deber	AUX	_	_
+1	iniciar	iniciar	VERB	_	_
+
+VID
+0	estarían	estar	VERB	1	cop
+1	dispuestos	dispuesto	ADJ	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	estuve	estar	AUX	1	aux
+1	pensando	pensar	VERB	_	_
+
+MVC
+0	tuve	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	evaluar	evaluar	VERB	_	_
+
+MVC
+0	podría	poder	AUX	_	_
+1	aportar	aportar	VERB	_	_
+
+LVC.full
+0	tomó	tomar	VERB	_	_
+1	decisión	decisión	NOUN	0	dobj
+
+MVC
+0	podría	poder	AUX	1	aux
+1	ocasionar	ocasionar	VERB	_	_
+
+MVC
+0	Pude	poder	AUX	1	aux
+1	aclarar	aclarar	VERB	_	_
+
+MVC
+0	tiene	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	ver	ver	VERB	_	_
+
+MVC
+0	sigo	seguir	AUX	1	aux
+1	insistiendo	insistir	VERB	_	_
+
+IAV
+0	insistiendo	insistir	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	volvió	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	criticar	criticar	VERB	_	_
+
+MVC
+0	Voy	ir	AUX	_	_
+1	a	a	ADP	0	mwe
+2	dar	dar	VERB	_	_
+
+VID
+0	dar	dar	VERB	_	_
+1	lección	lección	NOUN	0	dobj
+
+LVC.full
+0	introduce	introducir	VERB	_	_
+1	cambios	cambio	NOUN	0	dobj
+
+IAV
+0	carecen	carecer	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pudiera	poder	AUX	1	aux
+1	incurrido	incurrir	VERB	_	_
+
+MVC
+0	vamos	ir	VERB	_	_
+1	a	a	ADP	_	_
+2	reservar	reservar	VERB	0	xcomp
+3	nos	yo	PRON	2	iobj
+
+IRV
+0	reservar	reservar	VERB	_	_
+1	nos	yo	PRON	0	iobj
+
+MVC
+0	podría	poder	AUX	1	aux
+1	llevar	llevar	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	hacer	hacer	VERB	_	_
+
+MVC
+0	tenido	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	jugar	jugar	VERB	0	ccomp
+
+VID
+0	jugar	jugar	VERB	_	_
+1	a	a	ADP	4	case
+2	las	el	DET	4	det
+3	siete	siete	NUM	4	nummod
+4	diferencias	diferencia	NOUN	0	nmod
+
+MVC
+0	seguirá	seguir	AUX	1	aux
+1	recurriendo	recurrer	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	ajusten	ajustir	VERB	_	_
+
+LVC.full
+0	hecho	hacer	VERB	_	_
+1	llamamiento	llamamiento	NOUN	0	dobj
+
+IAV
+0	animado	animar	VERB	_	_
+1	a	a	ADP	_	_
+
+VID
+0	estén	estar	VERB	_	_
+1	de	de	ADP	2	case
+2	baja	baja	NOUN	0	nmod
+
+IAV
+0	calificar	calificar	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	ponen	poner	VERB	_	_
+1	de	de	ADP	2	case
+2	manifiesto	manifiesto	NOUN	0	nmod
+
+MVC
+0	continuar	continuar	VERB	_	_
+1	apostando	apostar	VERB	0	acl
+
+IAV
+0	apostando	apostar	VERB	_	_
+1	por	por	ADP	_	_
+
+MVC
+0	debemos	deber	AUX	1	aux
+1	luchar	luchar	VERB	_	_
+
+IAV
+0	luchar	luchar	VERB	_	_
+1	por	por	ADP	_	_
+
+LVC.cause
+0	tenga	tener	VERB	_	_
+1	efectos	efecto	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	pronunció	pronunciar	VERB	_	_
+
+LVC.full
+0	tendrá	tener	VERB	_	_
+1	consecuencias	consecuencia	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	mueven	mover	VERB	_	_
+
+MVC
+0	estamos	estar	AUX	1	aux
+1	hablando	hablar	VERB	_	_
+
+MVC
+0	vaya	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	dejar	dejar	VERB	_	_
+
+MVC
+0	dejar	dejar	VERB	_	_
+1	de	de	ADP	2	mark
+2	contribuir	contribuir	VERB	0	acl
+
+VID
+0	cierra	cerrar	VERB	_	_
+1	la	el	DET	2	det
+2	puerta	puerta	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	felicita	felicitar	VERB	_	_
+
+LVC.full
+0	acudir	acudir	VERB	_	_
+1	en	en	ADP	2	case
+2	ayuda	ayuda	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	desmarcó	desmarcar	VERB	_	_
+
+IRV
+0	pronunciar	pronunciar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	deben	deber	AUX	1	aux
+1	decidir	decidir	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	incorporan	incorporar	VERB	_	_
+
+MVC
+0	había	haber	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	extrapolar	extrapolar	VERB	0	ccomp
+
+IAV
+0	negarse	negar	AUX	_	_
+1	se	él	PRON	_	_
+2	a	a	ADP	_	_
+
+IRV
+0	negar	negar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	negar	negar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	hacer	hacer	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	hacer	hacer	VERB	_	_
+2	cargo	cargo	NOUN	1	nmod
+
+MVC
+0	pudieran	poder	AUX	1	aux
+1	hacer	hacer	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	situará	situar	VERB	_	_
+
+MVC
+0	llegar	llegar	VERB	_	_
+1	a	a	ADP	2	mark
+2	sustituir	sustituir	VERB	0	acl
+
+VID
+0	estará	estar	VERB	_	_
+1	por	por	ADP	2	case
+2	encima	encima	ADV	0	advmod
+3	de	de	ADP	_	_
+
+MVC
+0	va	ir	AUX	_	_
+1	a	a	ADP	2	mark
+2	ser	ser	VERB	_	_
+
+MVC
+0	seguirá	seguir	VERB	_	_
+1	llamando	llamar	VERB	0	acl
+2	se	él	PRON	1	iobj
+
+IRV
+0	llamando	llamar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	acostumbrar	acostumbrar	VERB	_	_
+1	nos	yo	PRON	0	iobj
+
+MVC
+0	empezará	empezar	VERB	_	_
+1	a	a	ADP	2	mark
+2	producir	producir	VERB	0	acl
+
+VID
+0	poner	poner	VERB	_	_
+1	a	a	ADP	2	case
+2	punto	punto	NOUN	0	nmod
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	pruebas	prueba	NOUN	0	dobj
+
+MVC
+0	está	estar	AUX	1	aux
+1	costando	costar	VERB	_	_
+
+MVC
+0	pueden	poder	AUX	_	_
+1	ser	ser	VERB	_	_
+
+LVC.full
+0	correr	correr	VERB	_	_
+1	riesgo	riesgo	NOUN	0	dobj
+
+LVC.full
+0	harán	hacer	VERB	_	_
+1	paradas	parada	NOUN	0	dobj
+
+MVC
+0	tuvo	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	mandar	mandar	VERB	_	_
+
+MVC
+0	estuvo	estar	VERB	_	_
+1	probando	probar	VERB	0	acl
+
+MVC
+0	podrá	poder	AUX	1	aux
+1	comprobar	comprobar	VERB	_	_
+
+IRV
+0	situar	situar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	encontró	encontrar	VERB	_	_
+
+MVC
+0	tuvieron	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	desmontar	desmontar	VERB	_	_
+
+MVC
+0	se	él	PRON	1	iobj
+1	tuvo	tener	VERB	_	_
+2	que	que	CONJ	3	mark
+3	detener	detener	VERB	1	csubj
+
+IRV
+0	se	él	PRON	_	_
+1	detener	detener	VERB	_	_
+
+MVC
+0	tuvo	tener	VERB	_	_
+1	que	que	CONJ	_	_
+2	volver	volver	AUX	_	_
+
+MVC
+0	volver	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	detener	detener	VERB	_	_
+
+MVC
+0	tuvieron	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	separar	separar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	encargado	encargar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	encargado	encargar	VERB	_	_
+2	de	de	ADP	_	_
+
+VID
+0	hecho	hacer	VERB	_	_
+1	falta	faltar	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	situado	situar	VERB	_	_
+
+MVC
+0	sigue	seguir	AUX	1	aux
+1	afluyendo	afluyr	VERB	_	_
+
+LVC.cause
+0	poner	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	marcha	marcha	NOUN	0	nmod
+
+IAV
+0	insiste	insistir	VERB	_	_
+1	en	en	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	declarado	declarar	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	declarado	declarar	VERB	_	_
+2	en	en	ADP	3	case
+3	paro	paro	NOUN	1	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	instalado	instalar	VERB	_	_
+
+IRV
+0	dispersar	dispersar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	manifiestan	manifestar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	extendido	extender	VERB	_	_
+
+MVC
+0	tenga	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	someter	someter	VERB	0	ccomp
+3	se	él	PRON	2	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	presentará	presentar	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	solventar	solventar	VERB	_	_
+
+MVC
+0	estaría	estar	AUX	1	aux
+1	dispuesto	dispuesto	VERB	_	_
+
+VID
+0	estaría	estar	AUX	1	aux
+1	dispuesto	dispuesto	VERB	_	_
+2	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	basaría	basar	VERB	_	_
+
+LVC.full
+0	puesto	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	circulación	circulación	NOUN	0	nmod
+
+LVC.full
+0	pasar	pasar	VERB	_	_
+1	noche	noche	NOUN	0	nmod
+
+IAV
+0	disponía	disponer	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	pasar	pasar	VERB	_	_
+1	noche	noche	NOUN	0	dobj
+
+VID
+0	tenía	tener	VERB	_	_
+1	previsto	previsto	ADJ	0	xcomp
+
+IAV
+0	obligaba	obligar	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	quejó	quejar	VERB	_	_
+
+IRV
+0	asilar	asilar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	tomaron	tomar	VERB	_	_
+1	decisión	decisión	NOUN	0	dobj
+
+VID
+0	están	estar	VERB	_	_
+1	de	de	ADP	2	case
+2	acuerdo	acuerdo	NOUN	0	nmod
+
+MVC
+0	tuviera	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	aplazado	aplazar	VERB	_	_
+
+LVC.full
+0	llegado	llegar	VERB	_	_
+1	a	a	ADP	2	case
+2	acuerdo	acuerdo	NOUN	0	nmod
+
+IAV
+0	dependen	depender	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	clasificar	clasificar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	llevan	llevar	VERB	_	_
+1	preparando	preparar	VERB	0	acl
+
+MVC
+0	deberían	deber	AUX	1	aux
+1	acabar	acabar	VERB	_	_
+
+VID
+0	acabar	acabar	VERB	_	_
+1	en	en	ADP	2	case
+2	tablas	tabla	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	enfrentan	enfrentar	VERB	_	_
+
+MVC
+0	llegar	llegar	VERB	_	_
+1	a	a	ADP	2	mark
+2	clasificar	clasificar	VERB	0	acl
+3	se	él	PRON	2	iobj
+
+VID
+0	dar	dar	VERB	_	_
+1	la	el	DET	2	det
+2	vuelta	vuelta	NOUN	0	dobj
+
+IAV
+0	disponer	disponer	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	llegó	llegar	VERB	_	_
+1	a	a	ADP	2	mark
+2	disponer	disponer	VERB	0	acl
+
+MVC
+0	poder	poder	AUX	1	aux
+1	presentar	presentar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	atreverán	atrever	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	atreverán	atrever	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	volver	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	atacar	atacar	VERB	_	_
+
+IAV
+0	aludiendo	aludir	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	presenta	presentar	VERB	_	_
+
+MVC
+0	vuelve	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	acusar	acusar	VERB	_	_
+
+IAV
+0	ayude	ayudar	X	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	podría	poder	AUX	1	aux
+1	participar	participar	VERB	_	_
+
+IAV
+0	aspirar	aspirar	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	empezado	empezar	VERB	_	_
+1	a	a	ADP	_	_
+2	distanciar	distanciar	VERB	_	_
+3	se	él	PRON	2	iobj
+
+IAV
+0	Confío	Confío	NOUN	_	_
+1	en	en	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	convirtiera	convirter	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	colocó	colocar	VERB	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	fue	ser	AUX	_	_
+
+MVC
+0	se	él	PRON	3	iobj
+1	fue	ser	AUX	3	aux
+2	a	a	ADP	3	mark
+3	vivir	vivir	VERB	_	_
+
+MVC
+0	Comenzó	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	destacar	destacar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	coronó	coronar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	comprometido	comprometir	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	comprometido	comprometir	VERB	_	_
+2	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	atrevió	atrever	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	atrevió	atrever	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	existir	existir	VERB	_	_
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	plantear	plantear	VERB	_	_
+
+VID
+0	hacer	hacer	VERB	_	_
+1	realidad	realidad	NOUN	0	dobj
+
+LVC.full
+0	importancia	importancia	NOUN	_	_
+1	tiene	tener	VERB	0	acl:relcl
+
+IAV
+0	cuenten	cuentar	VERB	_	_
+1	con	con	ADP	_	_
+
+LVC.full
+0	tengan	tener	VERB	_	_
+1	acceso	acceso	NOUN	0	dobj
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	acceso	acceso	NOUN	_	_
+
+VID
+0	hacer	hacer	VERB	_	_
+1	frente	frente	NOUN	_	_
+
+LVC.full
+0	tenido	tener	VERB	_	_
+1	acceso	acceso	NOUN	0	dobj
+
+IAV
+0	inducir	inducir	VERB	_	_
+1	a	a	ADP	_	_
+
+VID
+0	están	estar	VERB	_	_
+1	pendientes	pendiente	ADJ	_	_
+
+MVC
+0	tuvo	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	suspender	suspender	VERB	_	_
+
+MVC
+0	tuvieron	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	asistidos	asistido	VERB	_	_
+
+IRV
+0	unir	unir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	vayan	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	utilizarse	utilizar	VERB	_	_
+
+MVC
+0	vayan	ir	AUX	_	_
+1	a	a	ADP	_	_
+2	utilizar	utilizar	VERB	_	_
+
+MVC
+0	han	haber	AUX	_	_
+1	de	de	ADP	2	mark
+2	añadirse	añadir	AUX	_	_
+
+MVC
+0	han	haber	AUX	2	aux
+1	de	de	ADP	_	_
+2	añadir	añadir	VERB	_	_
+
+VID
+0	tener	tener	VERB	_	_
+1	en	en	ADP	2	case
+2	cuenta	contar	NOUN	0	nmod
+
+MVC
+0	puede	poder	AUX	1	aux
+1	poner	poner	VERB	_	_
+
+IRV
+0	refiriendo	refirer	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	habla	hablar	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dedique	dedicar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	dedique	dedicar	VERB	_	_
+2	a	a	ADP	_	_
+
+LVC.full
+0	meter	meter	VERB	_	_
+1	miedo	miedo	NOUN	0	dobj
+
+MVC
+0	hay	haber	AUX	_	_
+1	que	que	CONJ	0	mwe
+2	ser	ser	VERB	_	_
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	quitar	quitar	VERB	_	_
+
+LVC.full
+0	hecho	hacer	VERB	_	_
+1	declaraciones	declaración	NOUN	0	dobj
+
+VID
+0	guardó	guardar	VERB	_	_
+1	minuto	minuto	NOUN	0	nsubj
+2	de	de	ADP	3	case
+3	silencio	silencio	NOUN	1	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	retiró	retirar	VERB	_	_
+
+VID
+0	estuvieron	estar	VERB	_	_
+1	pendientes	pendiente	ADJ	0	amod
+
+MVC
+0	a	a	ADP	_	_
+1	van	ir	AUX	2	aux
+2	continuar	continuar	VERB	_	_
+
+MVC
+0	van	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	continuar	continuar	VERB	_	_
+
+IRV
+0	limitando	limitar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	limitando	limitar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	a	a	ADP	_	_
+
+MVC
+0	dejar	dejar	VERB	_	_
+1	pasar	pasar	VERB	0	xcomp
+
+VID
+0	corría	corrir	VERB	_	_
+1	a	a	ADP	2	case
+2	favor	favor	NOUN	0	nmod
+3	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	jugaba	jugar	VERB	_	_
+
+VID
+0	apretó	apretar	VERB	_	_
+1	el	el	DET	2	det
+2	acelerador	acelerador	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	apoderó	apoderar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	adelantó	adelantar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dedicó	dedicar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	dedicó	dedicar	VERB	_	_
+2	a	a	ADP	_	_
+
+LVC.full
+0	rendir	rendir	VERB	_	_
+1	homenaje	homenaje	NOUN	0	dobj
+
+IAV
+0	se	él	PRON	1	iobj
+1	encontró	encontrar	VERB	_	_
+2	con	con	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	lanzó	lanzar	VERB	_	_
+
+LVC.cause
+0	permanencia	permanencia	NOUN	_	_
+1	certificó	certificar	VERB	0	acl:relcl
+
+MVC
+0	debería	deber	AUX	_	_
+1	ser	ser	VERB	_	_
+
+VID
+0	deja	dejar	VERB	_	_
+1	la	el	DET	2	det
+2	puerta	puerta	NOUN	0	dobj
+3	abierta	abierto	ADJ	2	amod
+4	a	a	ADP	_	_
+
+IAV
+0	cambia	cambiar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	poder	poder	AUX	1	aux
+1	financiar	financiar	VERB	_	_
+
+MVC
+0	iba	ir	AUX	_	_
+1	a	a	ADP	_	_
+2	detener	detener	VERB	_	_
+
+MVC
+0	están	estar	AUX	1	aux
+1	investigando	investigar	VERB	_	_
+
+MVC
+0	dar	dar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	a	a	ADP	3	mark
+3	conocer	conocer	VERB	0	acl
+
+LVC.cause
+0	provocado	provocar	VERB	_	_
+1	detención	detención	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	vea	ver	VERB	_	_
+
+LVC.cause
+0	puesto	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	marcha	marcha	NOUN	0	nmod
+
+IRV
+0	esforzar	esforzar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	esforzar	esforzar	VERB	_	_
+1	se	él	PRON	0	iobj
+2	por	por	ADP	_	_
+
+LVC.cause
+0	nivel	nivel	NOUN	_	_
+1	genera	generar	VERB	0	acl:relcl
+
+VID
+0	haga	hacer	VERB	_	_
+1	todo	todo	DET	3	det
+2	lo	él	PRON	3	det
+3	posible	posible	NOUN	0	dobj
+
+VID
+0	haga	hacer	VERB	_	_
+1	lo	él	PRON	2	det
+2	posible	posible	NOUN	0	dobj
+
+IAV
+0	cumpla	cumplar	NOUN	_	_
+1	con	con	ADP	_	_
+
+IAV
+0	Invitó	invitar	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	trasladando	trasladar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	utilizar	utilizar	VERB	_	_
+
+IRV
+0	expresar	expresar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	enfrentará	enfrentar	VERB	_	_
+
+LVC.full
+0	da	dar	VERB	_	_
+1	descanso	descanso	NOUN	0	dobj
+
+MVC
+0	tenemos	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	proteger	proteger	VERB	_	_
+
+MVC
+0	podido	poder	AUX	1	aux
+1	hacer	hacer	VERB	_	_
+
+LVC.full
+0	mostró	mostrar	VERB	_	_
+1	respeto	respeto	NOUN	0	dobj
+
+MVC
+0	Están	estar	AUX	1	aux
+1	haciendo	hacer	VERB	_	_
+
+VID
+0	pase	pasar	VERB	_	_
+1	factura	factura	ADJ	0	xcomp
+
+MVC
+0	vuelva	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	pasar	pasar	VERB	_	_
+
+VID
+0	está	estar	VERB	_	_
+1	en	en	ADP	3	case
+2	el	el	DET	3	det
+3	aire	aire	NOUN	0	nmod
+
+MVC
+0	seguimos	seguir	AUX	1	aux
+1	teniendo	tener	VERB	_	_
+
+MVC
+0	sigue	seguir	AUX	1	aux
+1	confiando	confiar	VERB	_	_
+
+IAV
+0	confiando	confiar	VERB	_	_
+1	en	en	ADP	_	_
+
+IAV
+0	luchando	luchar	VERB	_	_
+1	por	por	ADP	_	_
+
+MVC
+0	llegamos	llegar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	pinchar	pinchar	VERB	_	_
+
+MVC
+0	suelen	soler	AUX	1	aux
+1	pasar	pasar	VERB	_	_
+
+LVC.full
+0	asumirá	asumir	VERB	_	_
+1	riesgos	riesgo	NOUN	0	dobj
+
+LVC.cause
+0	poner	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	peligro	peligro	NOUN	0	nmod
+
+MVC
+0	tendría	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	sumar	sumar	VERB	_	_
+
+IAV
+0	dotará	dotar	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	decantado	decantar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	decantado	decantar	VERB	_	_
+2	por	por	ADP	_	_
+
+MVC
+0	viene	venir	AUX	1	aux
+1	reportando	reportar	VERB	_	_
+
+MVC
+0	pudieron	poder	AUX	1	aux
+1	saltar	saltar	VERB	_	_
+
+MVC
+0	podrá	poder	AUX	1	aux
+1	contar	contar	VERB	_	_
+
+LVC.full
+0	formó	formar	VERB	_	_
+1	parte	parte	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	dejen	dejar	VERB	_	_
+
+IAV
+0	apelado	apelar	VERB	_	_
+1	a	a	ADP	_	_
+
+IAV
+0	acusado	acusado	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	llamado	llamado	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	movilizar	movilizar	VERB	_	_
+1	se	él	PRON	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	reúne	reunir	VERB	_	_
+
+IAV
+0	advertido	advertir	VERB	_	_
+1	de	de	ADP	_	_
+
+IAV
+0	accediera	acceder	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	tendría	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	conseguir	conseguir	VERB	0	csubj
+
+VID
+0	tenga	tener	VERB	_	_
+1	en	en	ADP	2	case
+2	cuenta	contar	NOUN	0	nmod
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	consecuencias	consecuencia	NOUN	0	dobj
+
+VID
+0	hace	hacer	VERB	_	_
+1	falta	falta	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	viendo	ver	VERB	_	_
+
+MVC
+0	están	estar	AUX	1	aux
+1	viendo	ver	VERB	_	_
+
+MVC
+0	tenido	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	subir	subir	VERB	_	_
+
+LVC.full
+0	paliar	paliar	VERB	_	_
+1	crecimiento	crecimiento	NOUN	0	dobj
+
+VID
+0	entra	entrar	VERB	_	_
+1	en	en	ADP	2	case
+2	planes	plan	NOUN	0	nmod
+
+MVC
+0	parece	parecer	VERB	_	_
+1	ser	ser	VERB	_	_
+
+IRV
+0	nos	yo	PRON	1	iobj
+1	proponíamos	proponíamo	VERB	_	_
+
+MVC
+0	debería	deber	AUX	1	aux
+1	tener	tener	VERB	_	_
+
+MVC
+0	acaba	acabar	AUX	2	aux
+1	de	de	ADP	0	mwe
+2	cumplir	cumplir	VERB	_	_
+
+MVC
+0	empezaran	empezar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	asistir	asistir	VERB	_	_
+
+IAV
+0	derivaron	derivar	VERB	_	_
+1	en	en	ADP	_	_
+
+IAV
+0	abogar	abogar	NOUN	_	_
+1	por	por	ADP	_	_
+
+LVC.full
+0	cosechó	cosechr	VERB	_	_
+1	críticas	crítica	NOUN	0	dobj
+
+MVC
+0	puede	poder	AUX	1	aux
+1	dictar	dictar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	alimenta	alimentar	VERB	_	_
+
+LVC.full
+0	hace	hacer	VERB	_	_
+1	juego	juego	NOUN	0	nsubj
+
+MVC
+0	seguía	seguir	AUX	1	aux
+1	apoyando	apoyar	VERB	_	_
+
+MVC
+0	debía	deber	AUX	1	aux
+1	abandonar	abandonar	VERB	_	_
+
+VID
+0	tiene	tener	VERB	_	_
+1	en	en	ADP	2	case
+2	cuenta	contar	NOUN	0	nmod
+
+IAV
+0	advirtieron	advertir	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	puesto	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	duda	duda	NOUN	0	nmod
+
+VID
+0	tenía	tener	VERB	1	cop
+1	previsto	previsto	ADJ	_	_
+
+MVC
+0	volvió	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	defender	defender	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	mostró	mostrar	VERB	_	_
+2	partidario	partidario	NOUN	1	dobj
+
+IRV
+0	imponiendo	imponir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	deshizo	deshacer	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	deshizo	deshacer	VERB	_	_
+2	de	de	ADP	_	_
+
+MVC
+0	pudo	poder	AUX	_	_
+1	recuperar	recuperar	VERB	_	_
+2	se	él	PRON	1	iobj
+
+IRV
+0	recuperar	recuperar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	comenzó	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	recibir	recibir	VERB	_	_
+
+MVC
+0	van	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	resultar	resultar	VERB	_	_
+
+MVC
+0	van	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	ser	ser	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	muestra	mostrar	VERB	_	_
+
+MVC
+0	sigue	seguir	AUX	1	aux
+1	mostrando	mostrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	vieron	ver	VERB	_	_
+
+MVC
+0	comenzaron	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	increpar	increpar	VERB	_	_
+
+MVC
+0	está	estar	AUX	1	aux
+1	pensando	pensar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	verá	ver	VERB	_	_
+
+LVC.full
+0	tenemos	tener	VERB	_	_
+1	relación	relación	NOUN	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	seguir	seguir	VERB	_	_
+
+VID
+0	tomado	tomar	VERB	_	_
+1	en	en	ADP	2	case
+2	cuenta	contar	NOUN	0	nmod
+
+VID
+0	dar	dar	VERB	_	_
+1	el	el	DET	2	det
+2	salto	salto	NOUN	0	dobj
+
+MVC
+0	dejó	dejar	VERB	_	_
+1	entrever	entrever	VERB	0	xcomp
+
+LVC.full
+0	dado	dar	VERB	_	_
+1	toque	toque	NOUN	_	_
+
+MVC
+0	puedes	poder	AUX	1	aux
+1	ganar	ganar	VERB	_	_
+
+MVC
+0	hay	haber	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	salir	salir	VERB	_	_
+
+IAV
+0	pienso	pensar	VERB	_	_
+1	en	en	ADP	_	_
+
+VID
+0	dar	dar	VERB	_	_
+1	por	por	ADP	2	case
+2	vencido	vencido	NOUN	0	nmod
+
+VID
+0	clave	clave	NOUN	_	_
+1	es	ser	VERB	_	_
+
+MVC
+0	Hay	haber	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	seguir	seguir	VERB	_	_
+
+VID
+0	haga	hacer	VERB	_	_
+1	lo	él	PRON	_	_
+2	posible	posible	ADJ	_	_
+
+VID
+0	haga	hacer	VERB	_	_
+1	posible	posible	ADJ	_	_
+
+IAV
+0	Tratamos	Tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	nos	yo	PRON	2	iobj
+1	debemos	deber	AUX	2	aux
+2	adaptar	adaptar	VERB	_	_
+
+IRV
+0	nos	yo	PRON	1	iobj
+1	adaptar	adaptar	VERB	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	rematar	rematar	VERB	_	_
+
+VID
+0	Agarré	Agarr	VERB	_	_
+1	tren	tren	NOUN	0	dobj
+
+IRV
+0	imponer	imponer	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	seguir	seguir	AUX	1	aux
+1	subiendo	suber	VERB	_	_
+
+LVC.full
+0	tener	tener	VERB	_	_
+1	conocimiento	conocimiento	NOUN	0	dobj
+
+MVC
+0	debían	deber	AUX	1	aux
+1	servir	servir	VERB	_	_
+
+MVC
+0	sigue	seguir	AUX	1	aux
+1	habiendo	haber	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	explicar	explicar	VERB	_	_
+
+VID
+0	tener	tener	VERB	_	_
+1	que	que	CONJ	_	_
+2	ver	ver	VERB	0	advcl
+
+IRV
+0	sentir	sentir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	dio	dar	VERB	_	_
+1	a	a	ADP	2	mark
+2	entender	entender	VERB	0	acl
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	comparar	comparar	VERB	_	_
+
+VID
+0	tuviera	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	ver	ver	VERB	_	_
+
+MVC
+0	debía	deber	AUX	1	aux
+1	mantener	mantener	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	pensar	pensar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	encargaba	encargar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	ratificó	ratificar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	ratificó	ratificar	VERB	_	_
+2	en	en	ADP	_	_
+
+LVC.full
+0	dado	dar	VERB	_	_
+1	palabra	palabra	NOUN	0	dobj
+
+MVC
+0	voy	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	cumplir	cumplir	VERB	_	_
+
+VID
+0	tiene	tener	VERB	_	_
+1	que	que	CONJ	_	_
+2	ver	ver	VERB	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	comprobar	comprobar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	adueñado	adueñar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	adueñado	adueñar	VERB	_	_
+2	de	de	ADP	_	_
+
+IRV
+0	suicídate	suicídate	ADV	_	_
+
+IAV
+0	apelaron	apelar	VERB	_	_
+1	a	a	ADP	_	_
+
+LVC.full
+0	mantengan	mantener	VERB	_	_
+1	calma	calma	NOUN	0	dobj
+
+MVC
+0	empezado	empezar	VERB	_	_
+1	a	a	ADP	2	mark
+2	emitir	emitir	VERB	0	acl
+
+MVC
+0	volvió	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	apostar	apostar	VERB	_	_
+
+MVC
+0	estuvo	estar	AUX	1	auxpass
+1	formada	formado	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	ejercitaron	ejercitar	VERB	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	quedado	quedar	VERB	_	_
+
+MVC
+0	ir	ir	AUX	1	aux
+1	cambiando	cambiar	VERB	_	_
+
+IAV
+0	cambiando	cambiar	VERB	_	_
+1	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	ofreció	ofrecer	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	ofreció	ofrecer	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	tocado	tocar	VERB	_	_
+1	vivir	vivir	VERB	0	xcomp
+
+LVC.full
+0	tendrá	tener	VERB	_	_
+1	lugar	lugar	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	reproducen	reproducir	VERB	_	_
+
+LVC.cause
+0	tienen	tener	VERB	_	_
+1	efecto	efecto	NOUN	0	dobj
+
+IRV
+0	alimentar	alimentar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	experimentaron	experimentar	VERB	_	_
+1	alza	alza	NOUN	0	dobj
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	hacer	hacer	VERB	_	_
+
+LVC.full
+0	cerró	cerrar	VERB	_	_
+1	jornada	jornada	NOUN	0	dobj
+
+LVC.full
+0	albergar	albergar	VERB	_	_
+1	esperanzas	esperanza	NOUN	0	dobj
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	ventajas	ventaja	NOUN	0	dobj
+
+VID
+0	dar	dar	VERB	_	_
+1	por	por	ADP	2	case
+2	hecha	hecho	NOUN	0	nmod
+
+IAV
+0	confían	confiar	VERB	_	_
+1	en	en	ADP	_	_
+
+MVC
+0	podrían	poder	AUX	1	aux
+1	ayudar	ayudar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	niegan	negar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	niegan	negar	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	hay	haber	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	correr	correr	VERB	_	_
+
+MVC
+0	hay	haber	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	esperar	esperar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	muda	mudo	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	mudará	mudar	VERB	_	_
+
+MVC
+0	iba	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	realizar	realizar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	opuesto	oponer	VERB	_	_
+
+IAV
+0	informado	informar	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	dado	dar	VERB	_	_
+1	órdenes	orden	NOUN	0	dobj
+
+LVC.full
+0	tomará	tomar	VERB	_	_
+1	medidas	medida	NOUN	0	dobj
+
+MVC
+0	poder	poder	AUX	1	aux
+1	volar	volar	VERB	_	_
+
+MVC
+0	están	estar	AUX	1	aux
+1	provocando	provocar	VERB	_	_
+
+MVC
+0	tendrán	tener	VERB	_	_
+1	que	que	CONJ	_	_
+2	evaluar	evaluar	VERB	0	advcl
+
+MVC
+0	está	estar	AUX	1	aux
+1	proporcionando	proporcionar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	reproduce	reproducir	VERB	_	_
+
+IRV
+0	inscribir	inscribir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	año	año	NOUN	0	dobj
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	importancia	importancia	NOUN	_	_
+
+MVC
+0	dar	dar	VERB	_	_
+1	a	a	ADP	2	mark
+2	conocer	conocer	VERB	0	acl
+
+IRV
+0	se	él	PRON	1	iobj
+1	congratuló	congratular	VERB	_	_
+
+LVC.full
+0	tendrá	tener	VERB	_	_
+1	oportunidad	oportunidad	NOUN	0	dobj
+
+MVC
+0	hay	haber	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	evitar	evitar	VERB	_	_
+
+MVC
+0	iban	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	sumar	sumar	VERB	_	_
+
+VID
+0	arrimen	arrimar	VERB	_	_
+1	el	el	DET	2	det
+2	hombro	hombro	NOUN	0	dobj
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	haber	haber	VERB	_	_
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	política	política	NOUN	0	dobj
+
+MVC
+0	Habrá	haber	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	elegir	elegir	VERB	_	_
+
+VID
+0	dejó	dejar	VERB	_	_
+1	claro	claro	ADJ	0	xcomp
+
+LVC.full
+0	dé	dar	VERB	_	_
+1	salto	salto	NOUN	0	dobj
+
+MVC
+0	estado	estar	VERB	_	_
+1	entorpeciendo	entorpecer	VERB	0	acl
+
+MVC
+0	debe	deber	AUX	1	aux
+1	contar	contar	VERB	_	_
+
+MVC
+0	comienza	comenzar	VERB	_	_
+1	a	a	ADP	2	mark
+2	definir	definir	VERB	0	acl
+
+MVC
+0	poder	poder	AUX	1	aux
+1	hacer	hacer	VERB	_	_
+
+VID
+0	hacer	hacer	VERB	_	_
+1	frente	frente	NOUN	0	dobj
+
+MVC
+0	debe	deber	AUX	1	aux
+1	evitar	evitar	VERB	_	_
+
+IAV
+0	disponiendo	disponer	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	existir	existir	VERB	_	_
+
+MVC
+0	debe	deber	AUX	_	_
+1	estar	estar	VERB	_	_
+
+MVC
+0	debe	deber	AUX	2	aux
+1	estar	estar	VERB	2	cop
+2	formada	formado	VERB	_	_
+
+MVC
+0	estar	estar	VERB	1	cop
+1	formada	formado	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	afianza	afianzar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	alejan	alejar	VERB	_	_
+
+MVC
+0	debería	deber	AUX	1	aux
+1	aprovechar	aprovechar	VERB	_	_
+
+VID
+0	tomando	tomar	VERB	_	_
+1	en	en	ADP	2	case
+2	cuenta	cuenta	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	fue	ser	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	batear	batear	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	llevó	llevar	VERB	_	_
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	ventaja	ventaja	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	enfrentasen	enfrentar	VERB	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	superar	superar	VERB	_	_
+
+IRV
+0	colocar	colocar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	podría	poder	AUX	_	_
+1	despejar	despejar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	hundió	hunder	VERB	_	_
+
+VID
+0	toca	tocar	VERB	_	_
+1	a	a	ADP	3	case
+2	su	su	DET	3	det
+3	fin	fin	NOUN	0	nmod
+
+MVC
+0	debían	deber	AUX	1	aux
+1	terminar	terminar	VERB	_	_
+
+IAV
+0	informaron	informar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pudieron	poder	AUX	1	aux
+1	colisionar	colisionar	VERB	_	_
+
+VID
+0	echó	echar	VERB	_	_
+1	a	a	ADP	2	case
+2	pique	pique	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	atribuyeron	atribuyr	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	impuesto	imponer	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	alzado	alzar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dejó	dejar	VERB	_	_
+
+MVC
+0	se	él	PRON	1	iobj
+1	dejó	dejar	VERB	_	_
+2	ver	ver	VERB	1	xcomp
+
+IRV
+0	se	él	PRON	_	_
+1	ver	ver	VERB	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	iba	ir	AUX	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	disputar	disputar	VERB	_	_
+
+MVC
+0	iba	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	disputar	disputar	VERB	_	_
+
+MVC
+0	podía	poder	AUX	1	aux
+1	quitar	quitar	VERB	_	_
+
+MVC
+0	deben	deber	AUX	1	aux
+1	recibir	recibir	VERB	_	_
+
+LVC.full
+0	recibir	recibir	VERB	_	_
+1	trato	trato	NOUN	0	dobj
+
+IAV
+0	coincidido	coincidir	VERB	_	_
+1	con	con	ADP	_	_
+
+LVC.full
+0	tienen	tener	VERB	_	_
+1	derecho	derecho	NOUN	0	dobj
+
+LVC.full
+0	dando	dar	VERB	_	_
+1	trato	trato	NOUN	0	nsubj
+
+LVC.full
+0	tienen	tener	VERB	_	_
+1	derechos	derecho	NOUN	0	dobj
+
+IRV
+0	asegurar	asegurar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	dan	dar	VERB	_	_
+1	derecho	derecho	NOUN	0	dobj
+
+IAV
+0	dan	dar	VERB	_	_
+1	derecho	derecho	NOUN	0	dobj
+2	a	a	ADP	_	_
+
+MVC
+0	logran	lograr	VERB	_	_
+1	vencer	vencer	VERB	0	xcomp
+
+MVC
+0	tendría	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	esperar	esperar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	enfrenta	enfrentar	VERB	_	_
+
+MVC
+0	podría	poder	AUX	1	aux
+1	aclarar	aclarar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	juega	jugar	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	llevar	llevar	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	llevar	llevar	VERB	_	_
+2	a	a	ADP	3	mark
+3	jugar	jugar	VERB	1	acl
+
+MVC
+0	llevar	llevar	VERB	_	_
+1	a	a	ADP	2	mark
+2	jugar	jugar	VERB	0	acl
+
+MVC
+0	termina	terminar	VERB	_	_
+1	de	de	ADP	2	mark
+2	convencer	convencer	VERB	0	acl
+
+LVC.full
+0	tuvo	tener	VERB	_	_
+1	problemas	problema	NOUN	0	dobj
+
+MVC
+0	deberá	deber	AUX	_	_
+1	estar	estar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	quitaron	quitar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	dedicaron	dedicar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	dedicaron	dedicar	VERB	_	_
+2	a	a	ADP	_	_
+
+MVC
+0	pudieron	poder	AUX	1	aux
+1	disfrutar	disfrutar	VERB	_	_
+
+MVC
+0	quiere	querer	VERB	_	_
+1	concienciar	concienciar	VERB	0	xcomp
+
+IAV
+0	concienciar	concienciar	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	se	él	PRON	1	iobj
+1	dio	dar	VERB	_	_
+2	baño	baño	NOUN	1	dobj
+
+LVC.full
+0	dio	dar	VERB	_	_
+1	baño	baño	NOUN	0	dobj
+
+IRV
+0	desnudar	desnudar	VERB	_	_
+1	se	él	PRON	_	_
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	campaña	campaña	NOUN	0	dobj
+
+LVC.full
+0	desequilibrio	desequilibrio	NOUN	_	_
+1	sufre	sufrir	VERB	0	acl:relcl
+
+MVC
+0	debe	deber	AUX	1	aux
+1	concebir	concebir	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	sumergió	sumergir	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	cansan	cansar	VERB	_	_
+
+MVC
+0	podría	poder	AUX	1	aux
+1	caber	caber	VERB	_	_
+
+LVC.full
+0	ganar	ganar	VERB	_	_
+1	tiempo	tiempo	NOUN	0	dobj
+
+MVC
+0	ha	haber	AUX	2	aux
+1	de	de	ADP	2	mark
+2	atraer	atraer	VERB	_	_
+
+MVC
+0	poder	poder	AUX	1	aux
+1	acoger	acoger	VERB	_	_
+
+IAV
+0	coincidían	coincidir	VERB	_	_
+1	en	en	ADP	_	_
+
+VID
+0	llevó	llevar	VERB	_	_
+1	a	a	ADP	3	case
+2	las	el	DET	3	det
+3	calles	calle	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	mostraba	mostrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	reunió	reunir	VERB	_	_
+
+LVC.full
+0	decir	decir	VERB	_	_
+1	gracias	gracia	NOUN	_	_
+
+LVC.full
+0	pidió	pedir	VERB	_	_
+1	perdón	perdón	NOUN	0	dobj
+
+MVC
+0	deben	deber	AUX	1	aux
+1	utilizar	utilizar	VERB	_	_
+
+LVC.full
+0	pido	pido	VERB	1	cop
+1	perdón	perdón	NOUN	_	_
+
+LVC.full
+0	tendrá	tener	VERB	_	_
+1	a	a	ADP	2	case
+2	cargo	cargo	NOUN	0	dobj
+
+IAV
+0	convertir	convertir	VERB	_	_
+1	se	él	PRON	0	iobj
+2	en	en	ADP	_	_
+
+LVC.full
+0	tendrá	tener	VERB	_	_
+1	a	a	ADP	2	case
+2	cargo	cargo	NOUN	0	nmod
+
+IAV
+0	informar	informar	VERB	_	_
+1	de	de	ADP	_	_
+
+VID
+0	tener	tener	VERB	_	_
+1	en	en	ADP	2	case
+2	casa	casa	NOUN	0	nmod
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	conocimiento	conocimiento	NOUN	0	dobj
+
+IRV
+0	convirtiendo	convertir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	convirtiendo	convertir	VERB	_	_
+1	se	él	PRON	0	iobj
+2	en	en	ADP	_	_
+
+LVC.full
+0	tenía	tener	VERB	_	_
+1	años	año	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	unió	unir	VERB	_	_
+
+MVC
+0	tienen	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	pagar	pagar	VERB	_	_
+
+LVC.full
+0	dar	dar	VERB	_	_
+1	acceso	acceso	NOUN	0	dobj
+
+IAV
+0	ayudarán	ayudar	VERB	_	_
+1	a	a	ADP	_	_
+
+LVC.full
+0	dejan	dejar	VERB	_	_
+1	margen	margen	NOUN	_	_
+
+MVC
+0	tengamos	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	pagar	pagar	VERB	_	_
+
+LVC.full
+0	tomaron	tomar	VERB	_	_
+1	parte	parte	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	remonta	remontar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	internó	internar	VERB	_	_
+
+MVC
+0	dejó	dejar	AUX	1	aux
+1	caer	caer	VERB	_	_
+
+MVC
+0	estar	estar	AUX	1	aux
+1	preparando	preparar	VERB	_	_
+
+MVC
+0	deben	deber	AUX	_	_
+1	estar	estar	AUX	_	_
+
+MVC
+0	deben	deber	AUX	2	aux
+1	estar	estar	AUX	2	aux
+2	preparando	preparar	VERB	_	_
+
+IRV
+0	someter	someter	VERB	_	_
+1	me	yo	PRON	0	iobj
+
+MVC
+0	voy	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	mejorar	mejorar	VERB	_	_
+
+LVC.full
+0	obtuvo	obtener	VERB	_	_
+1	beneficio	beneficio	NOUN	0	dobj
+
+VID
+0	romper	romper	VERB	_	_
+1	racha	racha	NOUN	0	dobj
+
+IAV
+0	servirá	servir	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	vuelva	volver	AUX	1	aux
+1	encadenar	encadenar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	concentrado	concentrar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	beneficiarán	beneficiar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	beneficiarán	beneficiar	VERB	_	_
+2	de	de	ADP	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	llevado	llevar	VERB	_	_
+
+MVC
+0	tendremos	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	esperar	esperar	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	usar	usar	VERB	_	_
+
+IAV
+0	advertir	advertir	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	medidas	medida	NOUN	_	_
+1	tomarán	tomar	VERB	0	acl:relcl
+
+MVC
+0	deberían	deber	AUX	1	aux
+1	advertir	advertir	VERB	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	cometer	cometer	VERB	_	_
+
+LVC.full
+0	tienen	tener	VERB	_	_
+1	derecho	derecho	ADJ	0	xcomp
+
+IAV
+0	informen	informar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	podrá	poder	AUX	1	aux
+1	usarse	usar	VERB	_	_
+
+MVC
+0	podrá	poder	AUX	_	_
+1	usar	usar	VERB	_	_
+
+MVC
+0	deberán	deber	AUX	1	aux
+1	llevar	llevar	VERB	_	_
+
+MVC
+0	podrían	poder	AUX	_	_
+1	comenzar	comenzar	AUX	_	_
+
+LVC.full
+0	cotizar	cotizar	VERB	_	_
+1	en	en	ADP	2	case
+2	bolsa	bolsa	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	sucedido	suceder	VERB	_	_
+
+MVC
+0	tuvo	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	designar	designar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	sumaron	sumar	VERB	_	_
+
+LVC.full
+0	pidió	pedir	VERB	_	_
+1	disculpa	disculpa	NOUN	0	dobj
+
+MVC
+0	podrán	poder	AUX	1	aux
+1	discriminados	discriminar	VERB	_	_
+
+MVC
+0	debería	deber	AUX	1	aux
+1	revisar	revisar	VERB	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	anticipar	anticipar	VERB	_	_
+
+LVC.cause
+0	impone	imponer	VERB	_	_
+1	responsabilidades	responsabilidad	NOUN	0	dobj
+
+MVC
+0	debemos	deber	AUX	1	aux
+1	proteger	proteger	VERB	_	_
+
+MVC
+0	deberán	deber	AUX	1	aux
+1	ajustar	ajustar	VERB	_	_
+2	se	él	PRON	1	iobj
+
+IRV
+0	ajustar	ajustar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	están	estar	AUX	_	_
+1	comenzando	comenzar	AUX	_	_
+
+MVC
+0	están	estar	AUX	_	_
+1	comenzando	comenzar	AUX	_	_
+2	a	a	ADP	_	_
+3	aplicar	aplicar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	declaró	declarar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	someten	someter	VERB	_	_
+
+MVC
+0	estar	estar	AUX	1	aux
+1	conduciendo	conducer	VERB	_	_
+
+MVC
+0	intentarán	intentar	VERB	_	_
+1	acordar	acordar	VERB	0	xcomp
+
+MVC
+0	puedan	poder	AUX	1	aux
+1	obtener	obtener	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	abstendrán	abstener	VERB	_	_
+
+MVC
+0	debe	deber	AUX	1	aux
+1	respetar	respetar	VERB	_	_
+
+MVC
+0	debemos	deber	AUX	1	aux
+1	mantener	mantener	VERB	_	_
+
+LVC.full
+0	mantener	mantener	VERB	_	_
+1	control	control	NOUN	0	dobj
+
+MVC
+0	deben	deber	AUX	1	aux
+1	seguir	seguir	VERB	_	_
+
+MVC
+0	debe	deber	AUX	_	_
+1	seguir	seguir	AUX	_	_
+
+MVC
+0	debemos	deber	AUX	1	aux
+1	oponer	oponer	VERB	_	_
+2	nos	yo	PRON	1	dobj
+
+IRV
+0	oponer	oponer	VERB	_	_
+1	nos	yo	PRON	0	dobj
+
+MVC
+0	deben	deber	AUX	1	aux
+1	permanecer	permanecer	VERB	_	_
+
+LVC.full
+0	celebrar	celebrar	VERB	_	_
+1	reunión	reunión	NOUN	0	dobj
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	0	mwe
+2	rebajar	rebajar	VERB	_	_
+
+LVC.full
+0	decisiones	decisión	NOUN	1	nsubj
+1	toman	tomar	VERB	_	_
+
+MVC
+0	tiene	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	actuar	actuar	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	rinden	rindir	VERB	_	_
+
+LVC.full
+0	tienen	tener	VERB	_	_
+1	lugar	lugar	NOUN	0	dobj
+
+LVC.full
+0	corre	correr	VERB	_	_
+1	peligro	peligro	NOUN	0	dobj
+
+LVC.full
+0	perdiendo	perder	VERB	_	_
+1	paciencia	paciencia	NOUN	0	dobj
+
+MVC
+0	tendrán	tener	AUX	2	aux
+1	que	que	CONJ	0	mwe
+2	pagar	pagar	VERB	_	_
+
+VID
+0	hecho	hacer	VERB	_	_
+1	lo	él	PRON	0	dobj
+2	propio	propio	ADJ	1	amod
+
+IAV
+0	con	con	ADP	1	case
+1	cuenta	contar	VERB	_	_
+
+MVC
+0	llegaron	llegar	VERB	_	_
+1	a	a	ADP	2	mark
+2	fijar	fijar	VERB	0	acl
+
+MVC
+0	debe	deber	AUX	1	aux
+1	permitir	permitir	VERB	_	_
+
+VID
+0	estar	estar	VERB	_	_
+1	por	por	ADP	_	_
+2	encima	encima	ADV	_	_
+3	de	de	ADP	2	mwe
+
+LVC.full
+0	tener	tener	VERB	_	_
+1	problemas	problema	NOUN	0	dobj
+
+MVC
+0	volver	volver	AUX	_	_
+1	a	a	ADP	_	_
+2	adjudicar	adjudicar	VERB	_	_
+3	se	él	PRON	2	iobj
+
+IRV
+0	adjudicar	adjudicar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	van	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	perdonar	perdonar	VERB	_	_
+
+MVC
+0	pudo	poder	AUX	1	aux
+1	conseguir	conseguir	VERB	_	_
+
+MVC
+0	puede	poder	AUX	1	aux
+1	tener	tener	VERB	_	_
+
+LVC.full
+0	tener	tener	VERB	_	_
+1	importancia	importancia	NOUN	0	dobj
+
+MVC
+0	puede	poder	AUX	1	aux
+1	quitar	quitar	VERB	_	_
+
+MVC
+0	va	ir	AUX	2	aux
+1	a	a	ADP	2	mark
+2	manejar	manejar	VERB	_	_
+
+LVC.full
+0	hecho	hacer	VERB	_	_
+1	pruebas	prueba	NOUN	0	dobj
+
+MVC
+0	puedan	poder	AUX	1	aux
+1	entrar	entrar	VERB	_	_
+
+IAV
+0	dispondrá	disponer	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	pueden	poder	AUX	1	aux
+1	dar	dar	VERB	_	_
+
+VID
+0	dar	dar	VERB	_	_
+1	a	a	ADP	3	case
+2	el	el	DET	3	det
+3	traste	traste	NOUN	_	_
+
+MVC
+0	podía	poder	AUX	1	aux
+1	estar	estar	VERB	_	_
+
+MVC
+0	seguiría	seguir	AUX	_	_
+1	siendo	ser	VERB	_	_
+
+MVC
+0	podría	poder	AUX	1	aux
+1	estar	estar	VERB	_	_
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	problema	problema	NOUN	0	dobj
+
+MVC
+0	puede	poder	AUX	_	_
+1	permitir	permitir	VERB	_	_
+
+VID
+0	dado	dar	VERB	_	_
+1	un	uno	DET	2	det
+2	paso	paso	NOUN	0	dobj
+3	adelante	adelante	ADV	0	advmod
+
+LVC.full
+0	dado	dar	VERB	_	_
+1	paso	paso	NOUN	0	dobj
+
+MVC
+0	esté	estar	VERB	_	_
+1	saliendo	salir	VERB	0	acl
+
+VID
+0	da	dar	VERB	1	cop
+1	igual	igual	ADJ	_	_
+
+MVC
+0	hecho	hacer	VERB	_	_
+1	creer	creer	NOUN	0	xcomp
+
+LVC.full
+0	tienen	tener	VERB	_	_
+1	posibilidades	posibilidad	NOUN	0	dobj
+
+MVC
+0	logró	lograr	VERB	_	_
+1	escapar	escapar	VERB	0	xcomp
+
+LVC.full
+0	pidió	pedir	VERB	_	_
+1	ayuda	ayuda	NOUN	0	dobj
+
+IRV
+0	presentar	presentar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	intenta	intentar	VERB	_	_
+1	demostrar	demostrar	VERB	0	xcomp
+
+IRV
+0	se	él	PRON	1	iobj
+1	opone	oponer	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	comprometió	comprometer	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	comprometió	comprometer	VERB	_	_
+2	a	a	ADP	_	_
+
+VID
+0	queda	quedar	VERB	_	_
+1	por	por	ADP	2	mark
+2	hacer	hacer	VERB	0	acl
+
+LVC.cause
+0	pondrán	poner	VERB	_	_
+1	en	en	ADP	2	case
+2	marcha	marcha	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	recuperó	recuperar	VERB	_	_
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	propuestas	propuesta	NOUN	0	dobj
+
+LVC.full
+0	quede	quedar	VERB	_	_
+1	tiempo	tiempo	NOUN	0	dobj
+
+LVC.full
+0	medidas	medida	NOUN	_	_
+1	tomadas	tomar	VERB	_	_
+
+LVC.full
+0	presenta	presentar	VERB	_	_
+1	riesgo	riesgo	NOUN	0	dobj
+
+MVC
+0	podría	poder	AUX	1	aux
+1	entrar	entrar	VERB	_	_
+
+IAV
+0	trataba	tratar	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.cause
+0	crean	crear	VERB	_	_
+1	alarma	alarma	NOUN	0	dobj
+
+LVC.cause
+0	crean	crear	VERB	_	_
+1	situaciones	situación	NOUN	_	_
+
+MVC
+0	podían	poder	AUX	1	aux
+1	evitado	evitar	VERB	_	_
+
+LVC.full
+0	sufrido	sufrir	VERB	_	_
+1	reducción	reducción	NOUN	0	dobj
+
+MVC
+0	comenzaron	comenzar	AUX	2	aux
+1	a	a	ADP	2	mark
+2	aflorar	aflorar	VERB	_	_
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	carácter	carácter	NOUN	0	dobj
+
+MVC
+0	siguen	seguir	AUX	1	aux
+1	hablando	hablar	VERB	_	_
+
+VID
+0	Hacen	hacer	VERB	_	_
+1	bien	bien	ADV	0	advmod
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	valor	valor	NOUN	0	dobj
+
+IRV
+0	me	yo	PRON	_	_
+1	juego	juego	NOUN	_	_
+
+LVC.full
+0	da	dar	VERB	_	_
+1	sensación	sensación	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	adelantado	adelantar	VERB	_	_
+
+LVC.full
+0	mantiene	mantener	VERB	_	_
+1	esperanzas	esperanza	NOUN	0	dobj
+
+IAV
+0	ayudó	ayudar	VERB	_	_
+1	a	a	ADP	_	_
+
+IRV
+0	se	él	PRON	_	_
+1	revelar	revelar	VERB	_	_
+
+MVC
+0	se	él	PRON	1	iobj
+1	acaban	acaban	VERB	_	_
+2	de	de	ADP	3	mark
+3	revelar	revelar	VERB	1	acl
+
+VID
+0	está	estar	VERB	_	_
+1	de	de	ADP	2	case
+2	servicio	servicio	NOUN	0	nmod
+
+MVC
+0	empezado	empezar	VERB	_	_
+1	a	a	ADP	2	mark
+2	negociar	negociar	VERB	0	acl
+
+LVC.full
+0	propuesta	propuesta	NOUN	_	_
+1	lanzaron	lanzar	VERB	0	acl:relcl
+
+MVC
+0	podría	poder	AUX	1	aux
+1	tener	tener	VERB	_	_
+
+LVC.full
+0	Pide	pedir	VERB	_	_
+1	a	a	ADP	2	case
+2	cambio	cambio	NOUN	0	nmod
+
+LVC.full
+0	dé	dar	VERB	_	_
+1	preferencia	preferencia	NOUN	0	dobj
+
+LVC.full
+0	alcanzar	alcanzar	VERB	_	_
+1	acuerdo	acuerdo	NOUN	0	dobj
+
+LVC.full
+0	lanzó	lanzar	VERB	_	_
+1	mensaje	mensaje	NOUN	0	dobj
+
+VID
+0	rompió	romper	VERB	_	_
+1	silencio	silencio	NOUN	0	dobj
+
+LVC.full
+0	respuesta	respuesta	NOUN	_	_
+1	tenido	tener	VERB	0	acl:relcl
+
+LVC.full
+0	mantiene	mantener	VERB	_	_
+1	fe	fe	NOUN	0	dobj
+
+LVC.cause
+0	provocado	provocar	VERB	_	_
+1	crisis	crisis	NOUN	0	dobj
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	derecho	derecho	NOUN	0	dobj
+
+VID
+0	perder	perder	VERB	_	_
+1	la	el	DET	2	det
+2	calma	calma	NOUN	0	dobj
+
+LVC.cause
+0	desilusión	desilusión	NOUN	_	_
+1	supuesto	suponer	VERB	0	acl:relcl
+
+VID
+0	fueron	ser	VERB	1	cop
+1	claves	clave	NOUN	_	_
+
+MVC
+0	pudiera	poder	AUX	1	aux
+1	construir	construir	VERB	_	_
+
+IAV
+0	califica	calificar	VERB	_	_
+1	de	de	ADP	_	_
+
+MVC
+0	Pudimos	poder	VERB	_	_
+1	ganar	ganar	VERB	0	xcomp
+
+LVC.full
+0	tenido	tener	VERB	_	_
+1	reacción	reacción	NOUN	0	dobj
+
+VID
+0	irá	ir	VERB	_	_
+1	a	a	ADP	2	case
+2	más	más	ADV	0	advmod
+
+LVC.full
+0	perdió	perder	VERB	_	_
+1	serenidad	serenidad	NOUN	0	dobj
+
+LVC.cause
+0	impulso	impulso	NOUN	_	_
+1	dio	dar	VERB	0	acl:relcl
+
+MVC
+0	debe	deber	AUX	1	aux
+1	valer	valer	VERB	_	_
+
+VID
+0	abre	abrir	VERB	_	_
+1	plazo	plazo	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	manifestarán	manifestar	VERB	_	_
+
+VID
+0	dejarán	dejar	VERB	_	_
+1	diferencias	diferencia	NOUN	0	dobj
+
+MVC
+0	puedan	poder	AUX	1	aux
+1	regresar	regresar	VERB	_	_
+
+MVC
+0	venido	venir	AUX	1	aux
+1	apoyando	apoyar	VERB	_	_
+
+MVC
+0	debe	deber	AUX	1	aux
+1	cumplir	cumplir	VERB	_	_
+
+VID
+0	dejar	dejar	VERB	_	_
+1	atrás	atrás	ADV	0	advmod
+
+LVC.full
+0	dan	dar	VERB	_	_
+1	poder	poder	NOUN	0	dobj
+
+MVC
+0	siguen	seguir	AUX	1	aux
+1	actuando	actuar	VERB	_	_
+
+MVC
+0	deberá	deber	AUX	1	aux
+1	competir	competir	VERB	_	_
+
+VID
+0	da	dar	VERB	_	_
+1	rienda	rienda	NOUN	0	dobj
+2	suelta	suelto	ADJ	1	amod
+
+MVC
+0	seguir	seguir	VERB	_	_
+1	jugando	jugar	VERB	_	_
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	cálculos	cálculo	NOUN	0	dobj
+
+MVC
+0	hay	haber	AUX	_	_
+1	que	que	CONJ	2	mark
+2	seguir	seguir	VERB	_	_
+
+MVC
+0	Podemos	poder	AUX	1	aux
+1	ganar	ganar	VERB	_	_
+
+IRV
+0	Se	él	PRON	1	iobj
+1	siente	sentir	VERB	_	_
+
+IRV
+0	resistir	resistir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+IAV
+0	resistir	resistir	VERB	_	_
+1	se	él	PRON	0	iobj
+2	a	a	ADP	_	_
+
+LVC.full
+0	hacer	hacer	VERB	_	_
+1	cuentas	cuenta	NOUN	0	dobj
+
+VID
+0	tiene	tener	VERB	_	_
+1	papelito	papelito	NOUN	0	dobj
+
+IRV
+0	Se	él	PRON	1	iobj
+1	moría	morir	VERB	_	_
+
+VID
+0	Se	él	PRON	1	iobj
+1	moría	morir	VERB	_	_
+2	de	de	ADP	3	case
+3	ganas	gana	NOUN	1	nmod
+
+IRV
+0	tomar	tomar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	debe	deber	AUX	_	_
+1	de	de	ADP	2	mark
+2	ser	ser	VERB	_	_
+
+VID
+0	echar	echar_leña	VERB	_	_
+1	un	uno	DET	2	det
+2	paso	paso	NOUN	0	dobj
+3	atrás	atrás	ADV	0	advmod
+
+IRV
+0	burlar	burlar	VERB	_	_
+1	se	él	PRON	0	iobj
+
+LVC.full
+0	tiene	tener	VERB	_	_
+1	sentido	sentido	NOUN	0	dobj
+
+VID
+0	tiene	tener	VERB	_	_
+1	sentido	sentido	NOUN	0	dobj
+2	de	de	ADP	4	case
+3	el	el	DET	4	det
+4	humor	humor	NOUN	1	nmod
+
+LVC.full
+0	Tienen	tener	VERB	_	_
+1	relación	relación	NOUN	0	dobj
+
+IRV
+0	me	yo	PRON	1	iobj
+1	considero	considerar	VERB	_	_
+
+MVC
+0	querer	querer	VERB	_	_
+1	ser	ser	VERB	_	_
+
+IRV
+0	me	yo	PRON	1	iobj
+1	sentí	sentir	VERB	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	toman	tomar	VERB	_	_
+
+LVC.full
+0	poner	poner	VERB	_	_
+1	a	a	ADP	2	case
+2	prueba	prueba	NOUN	0	iobj
+
+LVC.full
+0	coger	coger	VERB	_	_
+1	idea	idea	NOUN	0	dobj
+
+LVC.full
+0	haces	haz	X	1	case
+1	ajustes	ajuste	NOUN	_	_
+
+IRV
+0	se	él	PRON	1	iobj
+1	adentraba	adentrar	VERB	_	_
+
+LVC.full
+0	dado	dar	VERB	_	_
+1	representaciones	representación	NOUN	0	dobj
+
+IRV
+0	se	él	PRON	1	iobj
+1	limitado	limitar	VERB	_	_
+
+IAV
+0	se	él	PRON	1	iobj
+1	limitado	limitar	VERB	_	_
+2	a	a	ADP	_	_
+
+IAV
+0	apelando	apelar	VERB	_	_
+1	a	a	ADP	_	_
+
+MVC
+0	Cabía	Cabía	VERB	_	_
+1	esperar	esperar	VERB	0	xcomp
+
+MVC
+0	podrán	poder	AUX	1	aux
+1	compradas	comprado	VERB	_	_
+
+VID
+0	se	él	PRON	1	iobj
+1	hizo	hacer	VERB	_	_
+2	cargo	cargo	NOUN	1	nmod
+
+MVC
+0	tuvo	tener	VERB	_	_
+1	que	que	SCONJ	2	mark
+2	producirse	producir	VERB	0	ccomp
+
+MVC
+0	tuvo	tener	AUX	2	aux
+1	que	que	CONJ	2	mark
+2	acudir	acudir	VERB	_	_
+
+MVC
+0	tenía	tener	VERB	_	_
+1	que	que	SCONJ	_	_
+2	enfrentar	enfrentar	VERB	_	_
+3	se	él	PRON	2	iobj
+
+LVC.full
+0	contempló	contemplar	VERB	_	_
+1	posibilidad	posibilidad	NOUN	0	dobj
+
+VID
+0	echó	echar	VERB	_	_
+1	mano	mano	NOUN	0	dobj
+2	de	de	ADP	_	_
+
+LVC.full
+0	hizo	hacer	VERB	_	_
+1	caso	caso	NOUN	0	dobj
+
+VID
+0	dan	dar	VERB	_	_
+1	por	por	ADP	2	case
+2	perdido	perdido	NOUN	_	_
+
+LVC.full
+0	tomaran	tomar	VERB	_	_
+1	conciencia	conciencia	NOUN	0	dobj
+
+MVC
+0	podía	poder	AUX	1	aux
+1	ganar	ganar	VERB	_	_
+
+MVC
+0	puede	poder	AUX	_	_
+1	discutir	discutir	VERB	_	_
+
+MVC
+0	podemos	poder	AUX	1	aux
+1	conquistar	conquistar	VERB	_	_
+
+LVC.full
+0	daremos	dar	VERB	_	_
+1	vida	vida	NOUN	0	dobj
+
+LVC.full
+0	tener	tener	VERB	_	_
+1	consideración	consideración	NOUN	0	dobj
+
+VID
+0	puesto	puesto	VERB	_	_
+1	en	en	ADP	2	case
+2	manos	mano	NOUN	0	nmod
+
+IRV
+0	se	él	PRON	1	iobj
+1	lleve	llevar	VERB	_	_
+
+MVC
+0	dejado	dejar	AUX	2	aux
+1	de	de	ADP	0	mwe
+2	sonar	sonar	VERB	_	_
+
+MVC
+0	acaba	acabar	AUX	2	aux
+1	de	de	ADP	0	mwe
+2	salir	salir	VERB	_	_
+
+IAV
+0	huye	huir	VERB	_	_
+1	de	de	ADP	_	_
+
+LVC.full
+0	dio	dar	VERB	_	_
+1	poderes	poder	NOUN	0	dobj
+
+LVC.full
+0	tuvo	tener	VERB	_	_
+1	carácter	carácter	NOUN	0	dobj
+
+LVC.full
+0	puesto	poner	VERB	_	_
+1	de	de	ADP	2	case
+2	evidencia	evidencia	NOUN	_	_
+
+IRV
+0	aburrir	aburrir	VERB	_	_
+1	se	él	PRON	0	iobj
+
+MVC
+0	están	estar	AUX	1	aux
+1	promocionadas	promocionado	VERB	_	_
+
+LVC.cause
+0	da	dar	VERB	_	_
+1	suerte	suerte	NOUN	0	dobj
+
+MVC
+0	volverá	volver	AUX	2	aux
+1	a	a	ADP	2	mark
+2	rodar	rodar	VERB	_	_
+
