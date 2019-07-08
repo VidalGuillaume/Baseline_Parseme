@@ -1,0 +1,5442 @@
+lemma_order
+
+LVC.full
+0	posvećena	posvetiti	ADJ	_	_
+1	pozornost	pozornost	NOUN	0	nsubj
+
+IAV
+0	odustao	odustati	VERB	_	_
+1	od	od	ADP	_	_
+
+IAV
+0	nastaviti	nastaviti	VERB	_	_
+1	s	s	ADP	_	_
+
+IRV
+0	usredotočiti	usredotočiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	podnio	podnijeti	VERB	_	_
+1	ostavku	ostavka	NOUN	0	obj
+
+VID
+0	imao	imati	VERB	_	_
+1	u	u	ADP	2	case
+2	vidu	vid	NOUN	0	obl
+
+IAV
+0	Izići	izići	VERB	_	_
+1	pred	pred	ADP	_	_
+
+IAV
+0	za	za	ADP	_	_
+1	preuzeti	preuzeti	VERB	_	_
+2	odgovornost	odgovornost	NOUN	1	obj
+
+LVC.full
+0	preuzeti	preuzeti	VERB	_	_
+1	odgovornost	odgovornost	NOUN	0	obj
+
+LVC.full
+0	podnijeti	podnijeti	VERB	_	_
+1	ostavku	ostavka	NOUN	0	obj
+
+IAV
+0	doveli	dovesti	VERB	_	_
+1	do	do	ADP	_	_
+
+LVC.full
+0	izrazili	izraziti	VERB	_	_
+1	zabrinutost	zabrinutost	NOUN	0	obj
+
+IAV
+0	dođe	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+LVC.full
+0	dođe	doći	VERB	_	_
+1	do	do	ADP	2	case
+2	usporavanja	usporavanje	NOUN	0	obl
+
+IAV
+0	mislim	misliti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pitali	pitati	VERB	_	_
+
+IRV
+0	boriti	boriti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	boriti	boriti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	za	za	ADP	_	_
+
+IAV
+0	povezuju	povezivati	VERB	_	_
+1	s	s	ADP	_	_
+
+LVC.full
+0	preuzeo	preuzeti	VERB	_	_
+1	odgovornost	odgovornost	NOUN	0	obj
+
+IAV
+0	preuzeo	preuzeti	VERB	_	_
+1	odgovornost	odgovornost	NOUN	0	obj
+2	za	za	ADP	_	_
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	za	za	ADP	2	case
+2	cilj	cilj	NOUN	0	obl
+
+IAV
+0	pozvao	pozvati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	protivi	protiviti	VERB	_	_
+
+IAV
+0	pozivaju	pozivati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.cause
+0	Inicijativa	inicijativa	NOUN	1	nsubj
+1	pokrenula	pokrenuti	VERB	_	_
+
+LVC.cause
+0	potpisivale	potpisivati	VERB	_	_
+1	peticije	peticija	NOUN	0	obj
+
+IAV
+0	od	od	ADP	_	_
+1	traži	tražiti	VERB	_	_
+
+IAV
+0	pretvoriti	pretvoriti	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.full
+0	postavljaju	postavljati	VERB	_	_
+1	pitanje	pitanje	NOUN	0	obj
+
+IAV
+0	pretvorio	pretvoriti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	dovelo	dovesti	VERB	_	_
+1	do	do	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	suprotstavili	suprotstaviti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pridružili	pridružiti	VERB	_	_
+
+IAV
+0	pretvorili	pretvoriti	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	predstavio	predstaviti	VERB	_	_
+
+LVC.full
+0	imati	imati	VERB	_	_
+1	utjecaj	utjecaj	NOUN	0	obj
+
+IRV
+0	slaže	slagati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+VID
+0	napravili	napraviti	VERB	_	_
+1	budale	budala	NOUN	0	obj
+2	od	od	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	događa	događati	VERB	_	_
+
+IRV
+0	vratio	vratiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	nada	nadati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	namjerava	namjeravati	VERB	_	_
+1	ostaviti	ostaviti	VERB	0	xcomp
+
+VID
+0	ostaviti	ostaviti	VERB	_	_
+1	traga	trag	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	zalaže	zalagati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	zalaže	zalagati	VERB	_	_
+2	za	za	ADP	_	_
+
+VID
+0	utrla	utrti	VERB	_	_
+1	put	put	NOUN	0	obj
+
+IAV
+0	trebali	trebati	VERB	_	_
+1	izbjegavati	izbjegavati	VERB	0	xcomp
+
+IRV
+0	Treba	trebati	VERB	_	_
+1	podržati	podržati	VERB	0	xcomp
+
+IRV
+0	Nada	nadati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	do	do	ADP	_	_
+1	došlo	doći	VERB	_	_
+
+LVC.full
+0	ostaje	ostajati	VERB	_	_
+1	pitanje	pitanje	NOUN	0	nsubj
+
+LVC.full
+0	ostvariti	ostvariti	VERB	_	_
+1	ciljeve	cilj	NOUN	0	obj
+
+VID
+0	udružio	udružiti	VERB	_	_
+1	snage	snaga	NOUN	0	obj
+
+IRV
+0	sastala	sastati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	sastala	sastati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	s	s	ADP	_	_
+
+LVC.full
+0	boravio	boraviti	VERB	_	_
+1	u	u	ADP	2	case
+2	posjetu	posjet	NOUN	0	obl
+
+LVC.cause
+0	izvrši	izvršiti	VERB	_	_
+1	pritisak	pritisak	NOUN	0	obj
+
+IAV
+0	izvrši	izvršiti	VERB	_	_
+1	pritisak	pritisak	NOUN	0	obj
+2	na	na	ADP	_	_
+
+IRV
+0	sastao	sastati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	sastao	sastati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	s	s	ADP	_	_
+
+LVC.full
+0	izrazila	izraziti	VERB	_	_
+1	potporu	potpora	NOUN	0	obj
+
+IAV
+0	sudjelovao	sudjelovati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	Razgovarali	razgovarati	VERB	_	_
+1	o	o	ADP	_	_
+
+LVC.cause
+0	potpisat	potpisati	VERB	_	_
+1	sporazum	sporazum	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nalazi	nalaziti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	našlo	naći	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	našlo	naći	VERB	_	_
+2	na	na	ADP	_	_
+
+VID
+0	se	sebe	PRON	1	expl:pv
+1	našlo	naći	VERB	_	_
+2	na	na	ADP	3	case
+3	meti	meta	NOUN	1	obl
+
+IAV
+0	sudjelovale	sudjelovati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	ustrajavati	ustrajavati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	složili	složiti	VERB	_	_
+
+LVC.full
+0	posvetiti	posvetiti	VERB	_	_
+1	pozornost	pozornost	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	_	_
+1	povući	povući	VERB	_	_
+
+LVC.full
+0	zabilježila	zabilježiti	VERB	_	_
+1	prihod	prihod	NOUN	0	obj
+
+IAV
+0	se	sebe	PRON	2	expl:pv
+1	za	za	ADP	_	_
+2	bori	boriti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bori	boriti	VERB	_	_
+
+IAV
+0	sudjeluje	sudjelovati	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	sudjeluje	sudjelovati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	odvija	odvijati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	upozorava	upozoravati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	nagnati	nagnati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	razgovarano	razgovarati	ADJ	_	_
+1	o	o	ADP	_	_
+
+VID
+0	tko	tko	PRON	1	nsubj
+1	zna	znati	VERB	_	_
+
+LVC.full
+0	donijeli	donijeti	VERB	_	_
+1	rezultate	rezultat	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sastati	sastati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	sastati	sastati	VERB	_	_
+2	sa	s	ADP	_	_
+
+LVC.cause
+0	uložiti	uložiti	VERB	_	_
+1	veto	veto	NOUN	0	obj
+
+LVC.full
+0	vodi	voditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	rasprava	rasprava	NOUN	0	nsubj
+
+LVC.full
+0	dobile	dobiti	VERB	_	_
+1	oslonac	oslonac	NOUN	0	obj
+
+IAV
+0	računaju	računati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	Sučeljene	sučeliti	ADJ	_	_
+1	s	s	ADP	_	_
+
+IRV
+0	povećao	povećati	VERB	_	_
+1	se	sebe	PRON	0	case
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	vode	voditi	VERB	_	_
+
+IAV
+0	dovela	dovesti	VERB	_	_
+1	do	do	ADP	_	_
+
+LVC.full
+0	predstavljaju	predstavljati	VERB	_	_
+1	zapreku	zapreka	NOUN	0	obj
+
+LVC.full
+0	imam	imati	VERB	_	_
+1	znanje	znanje	NOUN	0	obj
+
+IRV
+0	žale	žaliti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nadmeću	nadmetati	VERB	_	_
+
+LVC.full
+0	uložila	uložiti	VERB	_	_
+1	truda	trud	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	dogode	dogoditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pitaju	pitati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	dogoditi	dogoditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bavi	baviti	VERB	_	_
+
+LVC.full
+0	se	sebe	PRON	1	expl:pv
+1	bavi	baviti	VERB	_	_
+2	pitanjima	pitanje	NOUN	1	obl
+
+LVC.full
+0	uputi	uputiti	VERB	_	_
+1	poruku	poruka	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	skrivaju	skrivati	VERB	_	_
+
+IRV
+0	rugaju	rugati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	razgovarati	razgovarati	VERB	_	_
+1	o	o	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	okreću	okretati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	suočavamo	suočavati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	suočavamo	suočavati	VERB	_	_
+2	s	s	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	povećao	povećati	VERB	_	_
+
+IAV
+0	traga	tragati	VERB	_	_
+1	za	za	ADP	_	_
+
+IAV
+0	prisilile	prisiliti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	bilo	biti	AUX	1	aux:pass
+1	napadnuto	napasti	ADJ	_	_
+2	azila	azil	NOUN	_	_
+3	,	,	PUNCT	_	_
+
+LVC.full
+0	pružila	pružiti	VERB	_	_
+1	informacije	informacija	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sukobile	sukobiti	VERB	_	_
+
+LVC.full
+0	izrazio	izraziti	VERB	_	_
+1	nezadovoljstvo	nezadovoljstvo	NOUN	0	obj
+
+IRV
+0	Nadamo	nadati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	preuzme	preuzeti	VERB	_	_
+1	istragu	istraga	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	dogodio	dogoditi	VERB	_	_
+
+LVC.full
+0	pružaju	pružati	VERB	_	_
+1	otpor	otpor	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	protive	protiviti	VERB	_	_
+
+LVC.full
+0	predstavljaju	predstavljati	VERB	_	_
+1	prijetnju	prijetnja	NOUN	0	obj
+
+LVC.full
+0	pokazivati	pokazivati	VERB	_	_
+1	povjerenje	povjerenje	NOUN	0	obj
+
+LVC.full
+0	preuzet	preuzeti	VERB	_	_
+1	predsjedavanje	predsjedavanje	NOUN	0	obj
+
+LVC.full
+0	izveli	izvesti	VERB	_	_
+1	operaciju	operacija	NOUN	0	obj
+
+IAV
+0	koristeći	koristiti	ADV	_	_
+1	za	za	ADP	_	_
+
+IRV
+0	nalaze	nalaziti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	prebačeni	prebaciti	ADJ	_	_
+1	iz	iz	ADP	_	_
+
+IAV
+0	prebačeni	prebaciti	ADJ	_	_
+1	u	u	ADP	_	_
+
+VID
+0	zatražio	zatražiti	VERB	_	_
+1	zeleno	zelen	ADJ	2	compound
+2	svjetlo	svjetlo	NOUN	0	obj
+
+LVC.full
+0	ispunio	ispuniti	VERB	_	_
+1	zapovijed	zapovijed	NOUN	0	obj
+
+LVC.cause
+0	postigli	postići	VERB	_	_
+1	konsenzus	konsenzus	NOUN	0	obj
+
+IAV
+0	ovisi	ovisiti	VERB	_	_
+1	o	o	ADP	_	_
+
+IAV
+0	dovesti	dovesti	VERB	_	_
+1	do	do	ADP	_	_
+
+IAV
+0	bit	biti	AUX	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	nalaze	nalaziti	VERB	_	_
+1	se	sebe	PRON	0	ccomp
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	priključilo	priključiti	VERB	_	_
+
+IAV
+0	utječe	utjecati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	zapitati	zapitati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	uzeti	uzeti	VERB	_	_
+1	u	u	ADP	2	case
+2	obzir	obzir	NOUN	0	obl
+
+IAV
+0	na	na	ADP	_	_
+1	otpada	otpadati	VERB	_	_
+
+LVC.full
+0	došle	doći	VERB	_	_
+1	u	u	ADP	2	case
+2	situaciju	situacija	NOUN	0	obl
+
+IAV
+0	dobila	dobiti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	utječu	utjecati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	gledati	gledati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	pokazao	pokazati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	važnost	važnost	NOUN	0	obj
+
+IAV
+0	dolaziti	dolaziti	VERB	_	_
+1	od	od	ADP	_	_
+
+LVC.cause
+0	postignut	postignuti	ADJ	_	_
+1	dogovor	dogovor	NOUN	0	nsubj:pass
+
+IRV
+0	složile	složiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	započeti	započeti	VERB	_	_
+1	dijalog	dijalog	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nada	nadati	VERB	_	_
+
+VID
+0	utrt	utrti	ADJ	_	_
+1	put	put	NOUN	0	nsubj:pass
+
+LVC.full
+0	potpisala	potpisati	VERB	_	_
+1	protokol	protokol	NOUN	0	obj
+
+IAV
+0	imati	imati	VERB	_	_
+1	utjecaj	utjecaj	NOUN	0	obj
+2	na	na	ADP	_	_
+
+IAV
+0	reagirala	reagirati	VERB	_	_
+1	na	na	ADP	_	_
+
+VID
+0	krenuti	krenuti	VERB	_	_
+1	dalje	daleko	ADV	0	advmod
+
+IAV
+0	Razgovaramo	razgovarati	VERB	_	_
+1	o	o	ADP	_	_
+
+LVC.full
+0	uspostaviti	uspostaviti	VERB	_	_
+1	odnose	odnos	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	slažu	slagati	VERB	_	_
+
+VID
+0	prodao	prodati	VERB	_	_
+1	u	u	ADP	3	case
+2	staro	star	ADJ	3	amod
+3	željezo	željezo	NOUN	0	obl
+
+IAV
+0	spašena	spasiti	ADJ	_	_
+1	od	od	ADP	_	_
+
+LVC.full
+0	stavljena	staviti	ADJ	_	_
+1	na	na	ADP	2	case
+2	dražbu	dražba	NOUN	0	obl
+
+LVC.full
+0	postati	postati	VERB	_	_
+1	turistička	turistički	ADJ	2	amod
+2	atrakcija	atrakcija	NOUN	0	xcomp
+
+LVC.full
+0	postati	postati	VERB	_	_
+1	atrakcija	atrakcija	NOUN	0	xcomp
+
+LVC.cause
+0	izazivaju	izazivati	VERB	_	_
+1	zabrinutost	zabrinutost	NOUN	0	obj
+
+IAV
+0	ostaje	ostajati	VERB	_	_
+1	pri	pri	ADP	_	_
+
+IAV
+0	je	biti	AUX	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	pojavilo	pojaviti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.cause
+0	pregovore	pregovor	NOUN	_	_
+1	okončati	okončati	VERB	_	_
+
+LVC.full
+0	stupa	stupati	VERB	_	_
+1	na	na	ADP	2	case
+2	snagu	snaga	NOUN	0	obl
+
+LVC.cause
+0	uvesti	uvesti	VERB	_	_
+1	porez	porez	NOUN	0	obj
+
+IAV
+0	poziva	pozivati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	biti	biti	AUX	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	izvući	izvući	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	predstavljao	predstavljati	VERB	_	_
+
+LVC.full
+0	u	u	ADP	_	_
+1	dovelo	dovesti	VERB	_	_
+2	nepovoljan	nepovoljan	ADJ	3	amod
+3	položaj	položaj	NOUN	1	obl
+
+IAV
+0	dovelo	dovesti	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.full
+0	dovelo	dovesti	VERB	_	_
+1	u	u	ADP	3	case
+2	nepovoljan	nepovoljan	ADJ	3	amod
+3	položaj	položaj	NOUN	0	obl
+
+LVC.full
+0	medalju	medalja	NOUN	1	obj
+1	dobiva	dobivati	VERB	_	_
+
+IAV
+0	u	u	ADP	_	_
+1	sudjelovalo	sudjelovati	VERB	_	_
+
+LVC.full
+0	zahtijevao	zahtijevati	VERB	_	_
+1	autonomiju	autonomija	NOUN	0	obj
+
+IAV
+0	patilo	patiti	VERB	_	_
+1	od	od	ADP	_	_
+
+IRV
+0	Čini	činiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	do	do	ADP	_	_
+1	stalo	stati	VERB	_	_
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	veze	veza	NOUN	0	obj
+2	s	sa	ADP	_	_
+
+VID
+0	okrenuti	okrenuti	VERB	_	_
+1	ploču	ploča	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	obračunavala	obračunavati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	2	expl:pv
+1	s	sa	ADP	_	_
+2	obračunavala	obračunavati	VERB	_	_
+
+LVC.full
+0	predavanja	predavanje	NOUN	1	obj
+1	imali	imati	VERB	_	_
+
+LVC.full
+0	nudimo	nuditi	VERB	_	_
+1	odgovor	odgovor	NOUN	0	obj
+
+LVC.cause
+0	prepriječivši	prepriječiti	ADV	_	_
+1	put	put	NOUN	0	obj
+
+IAV
+0	gleda	gledati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	prelaze	prelaziti	VERB	_	_
+1	ulicu	ulica	NOUN	0	obj
+
+IAV
+0	upozorili	upozoriti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	slažu	slagati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	upada	upadati	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	ambicije	ambicija	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	čini	činiti	VERB	_	_
+
+IAV
+0	natovariti	natovariti	VERB	_	_
+1	na	na	ADP	_	_
+
+VID
+0	natovariti	natovariti	VERB	_	_
+1	na	na	ADP	2	case
+2	grbaču	grbača	NOUN	0	obl
+
+IAV
+0	subvencionirati	subvencionirati	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	dobili	dobiti	VERB	_	_
+1	pozitivne	pozitivan	ADJ	2	amod
+2	ocjene	ocjena	NOUN	0	obj
+
+LVC.full
+0	dobili	dobiti	VERB	_	_
+1	ocjene	ocjena	NOUN	0	obj
+
+LVC.cause
+0	zaraditi	zaraditi	VERB	_	_
+1	bogatstvo	bogatstvo	NOUN	0	obj
+
+LVC.full
+0	imao	imati	VERB	_	_
+1	posla	posao	NOUN	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bavio	baviti	VERB	_	_
+
+IAV
+0	upoznati	upoznati	ADJ	_	_
+1	sa	sa	ADP	_	_
+
+LVC.full
+0	imao	imati	VERB	_	_
+1	pomoć	pomoć	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	zaljubili	zaljubiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	zaljubili	zaljubiti	VERB	_	_
+2	u	u	ADP	_	_
+
+VID
+0	nosi	nositi	VERB	_	_
+1	u	u	ADP	2	case
+2	sebi	sebe	PRON	0	obl
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nagoditi	nagoditi	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	nagoditi	nagoditi	VERB	_	_
+2	s	sa	ADP	_	_
+
+LVC.full
+0	Sudski	sudski	ADJ	1	amod
+1	postupak	postupak	NOUN	_	_
+2	vodio	voditi	VERB	1	acl
+
+LVC.full
+0	postupak	postupak	NOUN	_	_
+1	vodio	voditi	VERB	0	acl
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	povuče	povući	VERB	_	_
+
+IAV
+0	govorio	govoriti	VERB	_	_
+1	o	o	ADP	_	_
+
+LVC.full
+0	položenog	položiti	ADJ	1	amod
+1	ispita	ispit	NOUN	_	_
+
+IAV
+0	nije	biti	AUX	_	_
+1	u	u	ADP	_	_
+
+VID
+0	skupiti	skupiti	VERB	_	_
+1	glave	glava	NOUN	0	obj
+
+IAV
+0	do	do	ADP	_	_
+1	došli	doći	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sjetim	sjetiti	VERB	_	_
+
+IAV
+0	glasati	glasati	VERB	_	_
+1	o	o	ADP	_	_
+
+LVC.full
+0	posjeduje	posjedovati	VERB	_	_
+1	snagu	snaga	NOUN	0	obj
+
+IAV
+0	kriju	kriti	VERB	_	_
+1	od	od	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	naviknuli	naviknuti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	naviknuli	naviknuti	VERB	_	_
+2	na	na	ADP	_	_
+
+IAV
+0	naviknuli	naviknuti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	ovisit	ovisiti	VERB	_	_
+1	o	o	ADP	_	_
+
+IRV
+0	nalazio	nalaziti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	uračunavaju	uračunavati	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	potvrde	potvrditi	VERB	0	obj
+
+IAV
+0	dopremo	doprijeti	VERB	_	_
+1	do	do	ADP	_	_
+
+IAV
+0	došli	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+LVC.full
+0	došli	doći	VERB	_	_
+1	do	do	ADP	2	case
+2	zaključka	zaključak	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	protivio	protiviti	VERB	_	_
+
+IAV
+0	putujem	putovati	VERB	_	_
+1	po	po	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pitate	pitati	VERB	_	_
+
+LVC.full
+0	Ugovor	ugovor	NOUN	1	obj
+1	potpisali	potpisati	VERB	_	_
+
+LVC.full
+0	osjećati	osjećati	VERB	_	_
+1	pritisak	pritisak	NOUN	0	obj
+
+IAV
+0	potrošila	potrošiti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	našao	naći	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	našao	naći	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	u	u	ADP	_	_
+
+VID
+0	našao	naći	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	u	u	ADP	3	case
+3	ulozi	uloga	NOUN	0	obl
+
+LVC.full
+0	pritekao	priteći	VERB	_	_
+1	u	u	ADP	2	case
+2	pomoć	pomoć	NOUN	0	obl
+
+LVC.full
+0	s	sa	ADP	_	_
+1	stupa	stupati	VERB	_	_
+2	u	u	ADP	3	case
+3	odnos	odnos	NOUN	1	obl
+
+IAV
+0	stupa	stupati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	sastoji	sastojati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nalazio	nalaziti	VERB	_	_
+
+VID
+0	obilježio	obilježiti	VERB	_	_
+1	oštri	oštar	ADJ	2	amod
+2	zaokret	zaokret	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	razlikovati	razlikovati	VERB	_	_
+
+IAV
+0	razlikovati	razlikovati	VERB	_	_
+1	od	od	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pokazao	pokazati	VERB	_	_
+
+LVC.cause
+0	otežava	otežavati	VERB	_	_
+1	promet	promet	NOUN	0	obj
+
+LVC.cause
+0	stvara	stvarati	VERB	_	_
+1	gužve	gužva	NOUN	0	obj
+
+LVC.full
+0	potpisanim	potpisati	ADJ	1	amod
+1	ugovorima	ugovor	NOUN	_	_
+
+LVC.full
+0	ostvario	ostvariti	VERB	_	_
+1	prihoda	prihod	NOUN	_	_
+
+IRV
+0	drži	držati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	sjećamo	sjećati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	našli	naći	VERB	_	_
+1	zajednički	zajednički	ADJ	2	amod
+2	interes	interes	NOUN	0	obj
+
+LVC.full
+0	našli	naći	VERB	_	_
+1	interes	interes	NOUN	0	obj
+
+IRV
+0	Nadam	nadati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	obogatili	obogatiti	VERB	_	_
+
+LVC.full
+0	vodili	voditi	VERB	_	_
+1	računa	računati	VERB	0	iobj
+
+IRV
+0	se	sebe	PRON	_	_
+1	uključiti	uključiti	VERB	_	_
+
+LVC.full
+0	igrao	igrati	VERB	_	_
+1	tenis	tenis	NOUN	0	obj
+
+IAV
+0	sastoji	sastojati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	od	od	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	razlete	razletjeti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	razlete	razletjeti	VERB	_	_
+2	po	po	ADP	_	_
+
+IAV
+0	doći	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+VID
+0	muči	mučiti	VERB	_	_
+1	muke	muka	NOUN	_	_
+
+IAV
+0	govori	govoriti	VERB	_	_
+1	o	o	ADP	_	_
+
+IAV
+0	tonu	tonuti	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bave	baviti	VERB	_	_
+
+VID
+0	voda	voda	NOUN	1	nsubj
+1	prešla	prijeći	VERB	_	_
+2	preko	preko	ADP	3	case
+3	glave	glava	NOUN	1	obl
+
+IAV
+0	prešla	prijeći	VERB	_	_
+1	preko	preko	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nadamo	nadati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	održavati	održavati	VERB	_	_
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	razumijevanja	razumijevanje	NOUN	0	obl
+
+IAV
+0	ima	imati	VERB	_	_
+1	razumijevanja	razumijevanje	NOUN	0	obl
+2	za	za	ADP	_	_
+
+LVC.full
+0	bilježimo	bilježiti	VERB	_	_
+1	pad	pad	NOUN	0	obj
+
+IAV
+0	doveo	dovesti	VERB	_	_
+1	do	do	ADP	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	našlo	naći	VERB	_	_
+2	pred	pred	ADP	_	_
+
+IRV
+0	radi	raditi	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IAV
+0	radi	raditi	VERB	_	_
+1	se	sebe	PRON	0	aux
+2	o	o	ADP	_	_
+
+IAV
+0	zapisano	zapisati	ADJ	_	_
+1	u	u	ADP	_	_
+
+VID
+0	zapisano	zapisati	ADJ	_	_
+1	u	u	ADP	2	case
+2	kamenu	kamen	NOUN	0	obl
+
+LVC.full
+0	prebaciti	prebaciti	VERB	_	_
+1	pažnju	pažnja	NOUN	0	obj
+
+LVC.full
+0	prebaciti	prebaciti	VERB	_	_
+1	pažnju	pažnja	NOUN	0	obj
+2	na	na	ADP	_	_
+
+IAV
+0	prebaciti	prebaciti	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	potražiti	potražiti	VERB	_	_
+1	pomoć	pomoć	NOUN	0	obj
+
+IRV
+0	pridružila	pridružiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+VID
+0	pošlo	poći	VERB	_	_
+1	za	za	ADP	2	case
+2	rukom	ruka	NOUN	0	obl
+
+IRV
+0	udala	udati	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IAV
+0	udala	udati	VERB	_	_
+1	se	sebe	PRON	0	aux
+2	za	za	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	dogoditi	dogoditi	VERB	_	_
+
+LVC.full
+0	u	u	ADP	1	case
+1	tijeku	tijek	NOUN	_	_
+2	je	biti	AUX	1	cop
+
+LVC.full
+0	prezentaciju	prezentacija	NOUN	1	obj
+1	održao	održati	VERB	_	_
+
+LVC.full
+0	zadobili	zadobiti	VERB	_	_
+1	ozljede	ozljeda	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	aux
+1	preziva	prezivati	VERB	_	_
+
+IRV
+0	Druže	družiti	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IAV
+0	o	o	ADP	_	_
+1	govoriti	govoriti	VERB	_	_
+
+IAV
+0	s	sa	ADP	2	mark
+1	se	sebe	PRON	2	aux
+2	suočavaju	suočavati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	suočavaju	suočavati	VERB	_	_
+
+IAV
+0	razgovarali	razgovarati	VERB	_	_
+1	s	sa	ADP	_	_
+
+VID
+0	otići	otići	VERB	_	_
+1	u	u	ADP	3	case
+2	drugom	drugi	ADJ	3	amod
+3	smjeru	smjer	NOUN	0	obl
+
+LVC.full
+0	rizika	rizik	NOUN	_	_
+1	nosi	nositi	VERB	0	acl
+
+IAV
+0	razmišljati	razmišljati	VERB	_	_
+1	o	o	ADP	_	_
+
+VID
+0	ide	ići	VERB	_	_
+1	na	na	ADP	2	case
+2	ruku	ruka	NOUN	0	obl
+
+VID
+0	na	na	ADP	1	case
+1	ruku	ruka	NOUN	_	_
+2	ići	ići	VERB	_	_
+
+VID
+0	ići	ići	VERB	_	_
+1	starim	star	ADJ	2	amod
+2	putem	put	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	aux
+1	preračunati	preračunati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	upoznaju	upoznati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	aux
+1	upoznaju	upoznati	VERB	_	_
+2	sa	sa	ADP	_	_
+
+IAV
+0	upoznaju	upoznati	VERB	_	_
+1	sa	sa	ADP	_	_
+
+IAV
+0	suočeni	suočiti	ADJ	_	_
+1	sa	sa	ADP	_	_
+
+VID
+0	otvorit	otvoriti	VERB	_	_
+1	svoja	svoj	DET	2	det
+2	vrata	vrata	NOUN	0	obj
+
+VID
+0	otvorit	otvoriti	VERB	_	_
+1	vrata	vrata	NOUN	0	obj
+
+IRV
+0	Pojavili	pojaviti	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IRV
+0	uključili	uključiti	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IAV
+0	uključili	uključiti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	stoje	stajati	VERB	_	_
+1	uz	uz	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	vraća	vraćati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	uzrujao	uzrujati	VERB	_	_
+
+IAV
+0	upoznala	upoznati	VERB	_	_
+1	s	sa	ADP	_	_
+
+VID
+0	psuju	psovati	VERB	_	_
+1	majku	majka	NOUN	0	obj
+
+IAV
+0	tjeralo	tjerati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	od	od	ADP	1	mark
+1	umiralo	umirati	VERB	_	_
+
+LVC.full
+0	pripremiti	pripremiti	VERB	_	_
+1	objed	objed	NOUN	0	obj
+
+IRV
+0	nada	nadati	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IAV
+0	za	za	ADP	_	_
+1	služiti	služiti	VERB	_	_
+
+LVC.full
+0	vodi	voditi	VERB	_	_
+1	postupak	postupak	NOUN	0	obj
+
+LVC.cause
+0	činiti	činiti	VERB	_	_
+1	prekršaje	prekršaj	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	_	_
+1	odgoditi	odgoditi	VERB	_	_
+
+LVC.full
+0	daje	davati	VERB	_	_
+1	nadu	nada	NOUN	0	obj
+
+IRV
+0	raspitajte	raspitati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	organiziraju	organizirati	VERB	_	_
+1	druženja	druženje	NOUN	0	nsubj
+
+LVC.full
+0	skupovi	skup	NOUN	_	_
+1	održavati	održavati	VERB	_	_
+
+IRV
+0	okrenuo	okrenuti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	obratio	obratiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	obratio	obratiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	na	na	ADP	_	_
+
+IAV
+0	dolazimo	dolaziti	VERB	_	_
+1	do	do	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	zapitati	zapitati	VERB	_	_
+
+IAV
+0	ulažu	ulagati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	ozljedio	ozljediti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	vraćao	vraćati	VERB	_	_
+
+IAV
+0	kaskamo	kaskati	VERB	_	_
+1	za	za	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	osjećaju	osjećati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	boje	bojati	VERB	_	_
+
+IAV
+0	razmišljaju	razmišljati	VERB	_	_
+1	o	o	ADP	_	_
+
+IAV
+0	odveo	odvesti	VERB	_	_
+1	natrag	natrag	ADV	0	advmod
+
+IRV
+0	ispričavši	ispričati	ADV	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	obratio	obratiti	VERB	_	_
+
+LVC.full
+0	stavljajući	stavljati	ADV	_	_
+1	naglasak	naglasak	NOUN	0	obj
+
+IAV
+0	stavljajući	stavljati	ADV	_	_
+1	naglasak	naglasak	NOUN	0	obj
+2	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	boriti	boriti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	boriti	boriti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	ukaže	ukazati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	boriti	boriti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	_	_
+1	boriti	boriti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sagibati	sagibati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	radi	raditi	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	radi	raditi	VERB	_	_
+2	o	o	ADP	_	_
+
+LVC.cause
+0	uzrokuju	uzrokovati	VERB	_	_
+1	povećanje	povećanje	NOUN	0	obj
+
+IAV
+0	O	o	ADP	_	_
+1	govori	govoriti	VERB	_	_
+
+LVC.cause
+0	uputila	uputiti	VERB	_	_
+1	udarac	udarac	NOUN	0	obj
+
+LVC.full
+0	raspisati	raspisati	VERB	_	_
+1	natječaj	natječaj	NOUN	0	nsubj
+
+LVC.cause
+0	izazvao	izazvati	VERB	_	_
+1	interes	interes	NOUN	0	obj
+
+IAV
+0	boravi	boraviti	VERB	_	_
+1	s	sa	ADP	_	_
+
+IRV
+0	brine	brinuti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	brine	brinuti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	o	o	ADP	_	_
+
+IAV
+0	brine	brinuti	VERB	_	_
+1	za	za	ADP	_	_
+
+IAV
+0	živi	živjeti	VERB	_	_
+1	ZA	za	ADP	_	_
+
+IAV
+0	došavši	doći	ADV	_	_
+1	do	do	ADP	_	_
+
+IAV
+0	gostovao	gostovati	VERB	_	_
+1	u	u	ADP	_	_
+
+VID
+0	prihvatio	prihvatiti	VERB	_	_
+1	ulogu	uloga	NOUN	0	obj
+
+VID
+0	zakrilje	zakrilje	NOUN	1	obj
+1	nalazi	nalaziti	VERB	_	_
+
+IAV
+0	zakrilje	zakrilje	NOUN	1	obj
+1	nalazi	nalaziti	VERB	_	_
+2	u	u	ADP	_	_
+
+IAV
+0	od	od	ADP	_	_
+1	zazire	zazirati	VERB	_	_
+
+IRV
+0	Borim	boriti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	razvijati	razvijati	VERB	_	_
+
+IAV
+0	distancirati	distancirati	VERB	_	_
+1	od	od	ADP	_	_
+
+LVC.full
+0	pridodati	pridodati	VERB	_	_
+1	vrijednost	vrijednost	NOUN	0	obj
+
+IAV
+0	Uživaj	uživati	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	razgovarala	razgovarati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	razgovarala	razgovarati	VERB	_	_
+1	o	o	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	tiču	ticati	VERB	_	_
+
+IAV
+0	pristao	pristati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	Došlo	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+LVC.full
+0	postoji	postojati	VERB	_	_
+1	spremnost	spremnost	NOUN	0	nsubj
+
+IAV
+0	koristio	koristiti	VERB	_	_
+1	za	za	ADP	_	_
+
+IAV
+0	za	za	ADP	_	_
+1	služi	služiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odvija	odvijati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	posložilo	posložiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	posložilo	posložiti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IAV
+0	širimo	širiti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	smijati	smijati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	obj
+1	skrivao	skrivati	VERB	_	_
+
+LVC.full
+0	stekli	steći	VERB	_	_
+1	prednost	prednost	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	okupilo	okupiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	javljaju	javljati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	susreću	susretati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	susreću	susretati	VERB	_	_
+2	s	sa	ADP	_	_
+
+IAV
+0	susreću	susretati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	obratiti	obratiti	VERB	_	_
+
+VID
+0	pojma	pojam	NOUN	1	obj
+1	nema	nemati	VERB	_	_
+
+IAV
+0	na	na	ADP	_	_
+1	reagira	reagirati	VERB	_	_
+
+LVC.full
+0	stekao	steći	VERB	_	_
+1	odobravanje	odobravanje	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odazovu	odazvati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	uklapaju	uklapati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	uklapaju	uklapati	VERB	_	_
+2	u	u	ADP	_	_
+
+IRV
+0	radi	raditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	radi	raditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	o	o	ADP	_	_
+
+VID
+0	otvara	otvarati	VERB	_	_
+1	vrata	vrata	NOUN	0	obj
+
+IAV
+0	otvorio	otvoriti	VERB	_	_
+1	prema	prema	ADP	_	_
+
+LVC.full
+0	privući	privući	VERB	_	_
+1	interes	interes	NOUN	0	obj
+
+VID
+0	pali	pasti	VERB	_	_
+1	u	u	ADP	2	case
+2	zaborav	zaborav	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	promijenilo	promijeniti	VERB	_	_
+
+IAV
+0	uživati	uživati	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	u	u	ADP	_	_
+1	spadaju	spadati	VERB	_	_
+
+VID
+0	mi	ja	PRON	2	iobj
+1	se	sebe	PRON	2	obj
+2	upale	upaliti	VERB	_	_
+3	alarmi	alarm	NOUN	2	nsubj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	upale	upaliti	VERB	_	_
+
+VID
+0	se	sebe	PRON	1	obj
+1	upale	upaliti	VERB	_	_
+2	alarmi	alarm	NOUN	1	nsubj
+
+LVC.full
+0	imali	imati	VERB	_	_
+1	razgovor	razgovor	NOUN	0	obj
+
+IAV
+0	razmišlja	razmišljati	VERB	_	_
+1	o	o	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pridruživalo	pridruživati	VERB	_	_
+
+IAV
+0	upućuje	upućivati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	razvili	razviti	VERB	_	_
+
+IRV
+0	Šire	širiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	govorim	govoriti	VERB	_	_
+1	o	o	ADP	_	_
+
+LVC.full
+0	igrate	igrati	VERB	_	_
+1	tenis	tenis	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	skrbe	skrbiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	skrbe	skrbiti	VERB	_	_
+2	za	za	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	razvijala	razvijati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	našla	naći	VERB	_	_
+
+IAV
+0	se	sebe	PRON	_	_
+1	našla	naći	VERB	_	_
+2	na	na	ADP	_	_
+
+VID
+0	se	sebe	PRON	_	_
+1	našla	naći	VERB	_	_
+2	na	na	ADP	3	case
+3	mapi	mapa	NOUN	1	obl
+
+VID
+0	našla	naći	VERB	_	_
+1	na	na	ADP	2	case
+2	mapi	mapa	NOUN	0	obl
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	osjećaja	osjećaj	NOUN	0	obj
+
+LVC.full
+0	Izrazivši	izraziti	ADV	_	_
+1	nadu	nada	NOUN	0	obj
+
+VID
+0	našla	naći	VERB	_	_
+1	zajednički	zajednički	ADJ	2	amod
+2	jezik	jezik	NOUN	0	obj
+
+IAV
+0	djelovati	djelovati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	umiralo	umirati	VERB	_	_
+1	od	od	ADP	_	_
+
+VID
+0	zlo	zlo	NOUN	2	nsubj
+1	ne	ne	PART	2	advmod
+2	dolazi	dolaziti	VERB	_	_
+3	samo	samo	ADV	2	advmod
+
+IAV
+0	došlo	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	održavao	održavati	VERB	_	_
+
+IRV
+0	pridruživalo	pridruživati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.full
+0	dobiti	dobiti	VERB	_	_
+1	opomena	opomena	NOUN	0	nsubj:pass
+
+IAV
+0	raspravljali	raspravljati	VERB	_	_
+1	o	o	ADP	_	_
+
+IRV
+0	dogovorite	dogovoriti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	služi	služiti	VERB	_	_
+
+LVC.full
+0	Naglasak	naglasak	NOUN	1	obj
+1	stavlja	stavljati	VERB	_	_
+
+IAV
+0	Naglasak	naglasak	NOUN	1	obj
+1	stavlja	stavljati	VERB	_	_
+2	na	na	ADP	_	_
+
+IAV
+0	stigao	stići	VERB	_	_
+1	do	do	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	nalazi	nalaziti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	služimo	služiti	VERB	_	_
+
+VID
+0	igra	igrati	VERB	_	_
+1	ulogu	uloga	NOUN	0	obj
+
+IAV
+0	igra	igrati	VERB	_	_
+1	ulogu	uloga	NOUN	0	obj
+2	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	družiti	družiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	_	_
+1	družiti	družiti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IAV
+0	stupiti	stupiti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	stupiti	stupiti	VERB	_	_
+1	u	u	ADP	2	case
+2	odnos	odnos	NOUN	0	obl
+
+LVC.full
+0	stupiti	stupiti	VERB	_	_
+1	odnos	odnos	NOUN	0	obl
+
+IRV
+0	sastoji	sastojati	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IAV
+0	sastoji	sastojati	VERB	_	_
+1	se	sebe	PRON	0	aux
+2	od	od	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	predstavila	predstaviti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	ispričavati	ispričavati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	smijati	smijati	VERB	_	_
+
+IRV
+0	događa	događati	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IRV
+0	se	sebe	PRON	_	_
+1	prilagođavati	prilagođavati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	umorio	umoriti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	aux
+1	umorio	umoriti	VERB	_	_
+2	od	od	ADP	_	_
+
+IRV
+0	oglasile	oglasiti	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IRV
+0	se	sebe	PRON	1	aux
+1	odnose	odnositi	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	aux
+1	odnose	odnositi	VERB	_	_
+2	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	obraćao	obraćati	VERB	_	_
+
+IAV
+0	dovode	dovoditi	VERB	_	_
+1	do	do	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	raditi	raditi	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	aux
+1	raditi	raditi	VERB	_	_
+2	o	o	ADP	_	_
+
+IAV
+0	s	sa	ADP	2	mark
+1	se	sebe	PRON	2	aux
+2	družio	družiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	družio	družiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	aux
+1	družio	družiti	VERB	_	_
+2	u	u	ADP	_	_
+
+LVC.full
+0	postavlja	postavljati	VERB	_	_
+1	se	sebe	PRON	0	aux
+2	pitanje	pitanje	NOUN	0	nsubj
+
+LVC.full
+0	postavlja	postavljati	VERB	_	_
+1	pitanje	pitanje	NOUN	0	nsubj
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	bojazni	bojazan	NOUN	0	nsubj
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	pravo	pravo	NOUN	0	obj
+
+IAV
+0	prepiše	prepisati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	pravo	pravo	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	aux
+1	bavite	baviti	VERB	_	_
+
+IRV
+0	održat	održati	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+VID
+0	Nema	nemati	VERB	_	_
+1	problema	problem	NOUN	0	nsubj
+
+IAV
+0	povlači	povlačiti	VERB	_	_
+1	sa	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	tiče	ticati	VERB	_	_
+
+VID
+0	došlo	doći	VERB	_	_
+1	vrijeme	vrijeme	NOUN	0	nsubj
+
+IRV
+0	se	sebe	PRON	1	aux
+1	okrenuo	okrenuti	VERB	_	_
+
+IAV
+0	u	u	ADP	_	_
+1	se	sebe	PRON	2	aux
+2	zaljubila	zaljubiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	zaljubila	zaljubiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	posvetiti	posvetiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	ponove	ponoviti	VERB	_	_
+
+IRV
+0	sastojala	sastojati	VERB	_	_
+1	se	sebe	PRON	0	aux
+
+IAV
+0	sastojala	sastojati	VERB	_	_
+1	se	sebe	PRON	0	aux
+2	od	od	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	prostirala	prostirati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	aux
+1	prostirala	prostirati	VERB	_	_
+2	od	od	ADP	_	_
+
+IAV
+0	od	od	ADP	_	_
+1	sastojala	sastojati	VERB	_	_
+2	se	sebe	PRON	1	aux
+
+IRV
+0	se	sebe	PRON	1	aux
+1	dogodilo	dogoditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	odvijao	odvijati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	aux
+1	prelila	preliti	VERB	_	_
+
+LVC.full
+0	Vezu	veza	NOUN	1	obj
+1	održavaš	održavati	VERB	_	_
+
+VID
+0	dati	dati	VERB	_	_
+1	sebe	sebe	PRON	0	obj
+
+LVC.cause
+0	vršiti	vršiti	VERB	_	_
+1	pritisak	pritisak	NOUN	0	obj
+
+LVC.full
+0	kolo	kolo	NOUN	1	nsubj
+1	igra	igrati	VERB	_	_
+
+IAV
+0	proizlaze	proizlaziti	VERB	_	_
+1	iz	iz	ADP	_	_
+
+LVC.full
+0	izvršava	izvršavati	VERB	_	_
+1	dužnosti	dužnost	NOUN	0	obj
+
+IAV
+0	od	od	ADP	_	_
+1	počinje	počinjati	VERB	_	_
+
+IAV
+0	krenulo	krenuti	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	radi	raditi	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	dobila	dobiti	VERB	_	_
+1	informacija	informacija	NOUN	0	nsubj
+
+VID
+0	dati	dati	VERB	_	_
+1	sve	sve	PRON	0	obj
+2	od	od	ADP	3	case
+3	sebe	sebe	PRON	1	nmod
+
+LVC.cause
+0	greške	greška	NOUN	_	_
+1	radili	raditi	VERB	0	acl
+
+VID
+0	gledati	gledati	VERB	_	_
+1	naprijed	naprijed	ADV	0	advmod
+
+LVC.full
+0	dobila	dobiti	VERB	_	_
+1	nagradu	nagrada	NOUN	_	_
+
+IAV
+0	raspravljaju	raspravljati	VERB	_	_
+1	o	o	ADP	_	_
+
+VID
+0	stvaraju	stvarati	VERB	_	_
+1	sliku	slika	NOUN	0	obj
+
+VID
+0	si	sebe	PRON	1	iobj
+1	uzimaju	uzimati	VERB	_	_
+2	za	za	ADP	3	case
+3	pravo	pravo	NOUN	1	obl
+
+VID
+0	uzimaju	uzimati	VERB	_	_
+1	za	za	ADP	2	case
+2	pravo	pravo	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	priključiti	priključiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	osjećali	osjećati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	koncentrirao	koncentrirati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	koncentrirao	koncentrirati	VERB	_	_
+2	na	na	ADP	_	_
+
+IRV
+0	sjetite	sjetiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	spašavamo	spašavati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	u	u	ADP	_	_
+1	sudjelovati	sudjelovati	VERB	_	_
+
+IRV
+0	isplatit	isplatiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	voditi	voditi	VERB	_	_
+1	politiku	politika	NOUN	0	obj
+
+VID
+0	U	u	ADP	1	case
+1	život	život	NOUN	2	obl
+2	ulazi	ulaziti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bavila	baviti	VERB	_	_
+
+LVC.full
+0	obavljala	obavljati	VERB	_	_
+1	djelatnosti	djelatnost	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	držim	držati	VERB	_	_
+
+IAV
+0	krenuti	krenuti	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	mislilo	misliti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	doveo	dovesti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	zaštititi	zaštititi	VERB	_	_
+1	od	od	ADP	_	_
+
+IAV
+0	radili	raditi	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	probude	probuditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	naviknu	naviknuti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	naviknu	naviknuti	VERB	_	_
+2	na	na	ADP	_	_
+
+IAV
+0	naviknu	naviknuti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	osjećati	osjećati	VERB	_	_
+
+VID
+0	dala	dati	VERB	_	_
+1	zeleno	zelen	ADJ	2	amod
+2	svjetlo	svjetlo	NOUN	0	obj
+
+VID
+0	u	u	ADP	1	case
+1	pomoć	pomoć	NOUN	2	obl
+2	priskočila	priskočiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odnosi	odnositi	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	odnosi	odnositi	VERB	_	_
+2	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pojavile	pojaviti	VERB	_	_
+
+IAV
+0	usporedio	usporediti	VERB	_	_
+1	sa	sa	ADP	_	_
+
+LVC.full
+0	imam	imati	VERB	_	_
+1	spoznaja	spoznaj	NOUN	0	obj
+
+IAV
+0	bijesni	bjesnjeti	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	Podnijele	podnijeti	VERB	_	_
+1	zahtjev	zahtjev	NOUN	0	obj
+
+IAV
+0	započele	započeti	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	Nemam	nemati	VERB	_	_
+1	osjećaj	osjećaj	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	činilo	činiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	smijala	smijati	VERB	_	_
+
+IAV
+0	igralo	igrati	VERB	_	_
+1	za	za	ADP	_	_
+
+IAV
+0	tugovat	tugovati	VERB	_	_
+1	za	za	ADP	_	_
+
+IRV
+0	bavim	baviti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	se	sebe	PRON	2	expl:pv
+1	na	na	ADP	_	_
+2	osvrnuo	osvrnuti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	osvrnuo	osvrnuti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pojavio	pojaviti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	uznemirio	uznemiriti	VERB	_	_
+
+LVC.full
+0	razvila	razviti	VERB	_	_
+1	otpornost	otpornost	NOUN	0	obj
+
+VID
+0	pronašao	pronaći	VERB	_	_
+1	novu	nov	ADJ	2	amod
+2	dimenziju	dimenzija	NOUN	0	obj
+
+IAV
+0	se	sebe	PRON	2	expl:pv
+1	u	u	ADP	_	_
+2	slio	sliti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	slio	sliti	VERB	_	_
+
+VID
+0	prerastaju	prerastati	VERB	_	_
+1	okvir	okvir	NOUN	0	obj
+
+LVC.full
+0	imaju	imati	VERB	_	_
+1	teškoće	teškoća	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	bavili	baviti	VERB	_	_
+
+IRV
+0	boriti	boriti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	boriti	boriti	VERB	_	_
+1	se	sebe	PRON	0	obj
+2	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	nadamo	nadati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sviđa	sviđati	VERB	_	_
+
+LVC.full
+0	osvojila	osvojiti	VERB	_	_
+1	mjesto	mjesto	NOUN	0	obj
+
+IAV
+0	pozvala	pozvati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	kretalo	kretati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	zateklo	zateći	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	zateklo	zateći	VERB	_	_
+2	u	u	ADP	_	_
+
+IRV
+0	Nadamo	nadati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	razumijem	razumjeti	VERB	_	_
+
+IRV
+0	priključili	priključiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.cause
+0	donijeti	donijeti	VERB	_	_
+1	promjene	promjena	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bore	boriti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	bore	boriti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IRV
+0	oslobodit	osloboditi	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	o	o	ADP	_	_
+1	govorili	govoriti	VERB	_	_
+
+IAV
+0	započinje	započinjati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	surađivati	surađivati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	poigrao	poigrati	VERB	_	_
+
+LVC.full
+0	pruža	pružati	VERB	_	_
+1	zaštitu	zaštita	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	_	_
+1	promijeniti	promijeniti	VERB	_	_
+
+LVC.full
+0	učiniti	učiniti	VERB	_	_
+1	korak	korak	NOUN	0	obj
+
+LVC.full
+0	pokažu	pokazati	VERB	_	_
+1	zanimanje	zanimanje	NOUN	0	obj
+
+VID
+0	iznijeti	iznijeti	VERB	_	_
+1	na	na	ADP	2	case
+2	vidjelo	vidjelo	NOUN	0	obl
+
+VID
+0	kupuje	kupovati	VERB	_	_
+1	vrijeme	vrijeme	NOUN	0	obj
+
+IAV
+0	Govori	govoriti	VERB	_	_
+1	o	o	ADP	_	_
+
+LVC.full
+0	podnesenih	podnijeti	ADJ	1	amod
+1	zahtjeva	zahtjev	NOUN	_	_
+
+LVC.full
+0	davati	davati	VERB	_	_
+1	privilegije	privilegija	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	probudio	probuditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	odvija	odvijati	VERB	_	_
+
+IRV
+0	vratila	vratiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+VID
+0	dobro	dobro	ADV	1	advmod
+1	dođe	doći	VERB	_	_
+
+IAV
+0	udario	udariti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	etablirati	etablirati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	sjurio	sjuriti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	ponoviti	ponoviti	VERB	_	_
+
+IAV
+0	prestala	prestati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	počinje	počinjati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IRV
+0	sastojat	sastojati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	sastojat	sastojati	VERB	_	_
+1	se	sebe	PRON	0	obj
+2	od	od	ADP	_	_
+
+IAV
+0	upoznat	upoznat	ADJ	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	dovodi	dovoditi	VERB	_	_
+1	u	u	ADP	2	case
+2	pitanje	pitanje	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	1	obj
+1	nalazi	nalaziti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	javila	javiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	osjećate	osjećati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	odreći	odreći	VERB	_	_
+
+IAV
+0	došao	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+LVC.full
+0	inspiracije	inspiracija	NOUN	_	_
+1	tražim	tražiti	VERB	_	_
+
+LVC.full
+0	izvodio	izvoditi	VERB	_	_
+1	aktivnosti	aktivnost	NOUN	0	obj
+
+LVC.full
+0	bol	bol	NOUN	_	_
+1	osjeća	osjećati	VERB	0	acl
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pitam	pitati	VERB	_	_
+
+LVC.full
+0	pokrenut	pokrenuti	ADJ	_	_
+1	postupak	postupak	NOUN	0	nsubj:pass
+
+LVC.full
+0	donosi	donositi	VERB	_	_
+1	odluku	odluka	NOUN	0	obj
+
+IRV
+0	nalazi	nalaziti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	govoriti	govoriti	VERB	_	_
+1	o	o	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	našao	naći	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	našao	naći	VERB	_	_
+2	na	na	ADP	_	_
+
+VID
+0	se	sebe	PRON	1	expl:pv
+1	našao	naći	VERB	_	_
+2	na	na	ADP	3	case
+3	meti	meta	NOUN	1	obl
+
+IRV
+0	pridružio	pridružiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+VID
+0	oduzeti	oduzeti	VERB	_	_
+1	sebi	sebe	PRON	0	iobj
+2	život	život	NOUN	0	obj
+
+VID
+0	oduzeti	oduzeti	VERB	_	_
+1	život	život	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	plaši	plašiti	VERB	_	_
+
+IAV
+0	do	do	ADP	_	_
+1	dolazi	dolaziti	VERB	_	_
+
+IRV
+0	osjetit	osjetiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	naći	naći	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	naći	naći	VERB	_	_
+2	na	na	ADP	_	_
+
+IAV
+0	radim	raditi	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	održati	održati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	bavim	baviti	VERB	_	_
+
+LVC.full
+0	troškove	trošak	NOUN	_	_
+1	snosili	snositi	VERB	0	acl
+
+IRV
+0	čini	činiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	tiče	ticati	VERB	_	_
+
+LVC.cause
+0	zahtjev	zahtjev	NOUN	_	_
+1	uputiti	uputiti	VERB	0	acl
+
+IRV
+0	se	sebe	PRON	1	obj
+1	nalaze	nalaziti	VERB	_	_
+
+IAV
+0	zamjenjuje	zamjenjivati	VERB	_	_
+1	sa	sa	ADP	_	_
+
+VID
+0	prirasti	prirasti	VERB	_	_
+1	srcu	srce	NOUN	0	iobj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pripremate	pripremati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	pripremate	pripremati	VERB	_	_
+2	za	za	ADP	_	_
+
+LVC.full
+0	dobio	dobiti	VERB	_	_
+1	priznanje	priznanje	NOUN	0	obj
+
+IAV
+0	djeluje	djelovati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	mjesto	mjesto	NOUN	1	obj
+1	osvojila	osvojiti	VERB	_	_
+
+VID
+0	doći	doći	VERB	_	_
+1	na	na	ADP	2	case
+2	svoje	svoj	DET	0	obl
+
+LVC.full
+0	imao	imati	VERB	_	_
+1	prilika	prilika	NOUN	_	_
+
+IAV
+0	o	o	ADP	_	_
+1	se	sebe	PRON	2	obj
+2	brinuli	brinuti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	brinuli	brinuti	VERB	_	_
+
+LVC.full
+0	organiziramo	organizirati	VERB	_	_
+1	druženje	druženje	NOUN	0	obj
+
+IAV
+0	Upozoravamo	upozoravati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.cause
+0	prave	praviti	VERB	_	_
+1	štetu	šteta	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	priprema	pripremati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	priprema	pripremati	VERB	_	_
+2	za	za	ADP	_	_
+
+IAV
+0	izađe	izaći	VERB	_	_
+1	iz	iz	ADP	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	povukao	povući	VERB	_	_
+
+IRV
+0	Radi	raditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	Radi	raditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	o	o	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	vratio	vratiti	VERB	_	_
+
+LVC.full
+0	osvojio	osvojiti	VERB	_	_
+1	mjesto	mjesto	NOUN	0	obj
+
+IAV
+0	naišla	naići	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	uspeli	uspeti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	promijeniti	promijeniti	VERB	_	_
+
+IRV
+0	bave	baviti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.cause
+0	napravili	napraviti	VERB	_	_
+1	pritisak	pritisak	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	slegne	slegnuti	VERB	_	_
+
+IAV
+0	vjerujem	vjerovati	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.full
+0	imali	imati	VERB	_	_
+1	priliku	prilika	NOUN	0	obj
+
+IAV
+0	ukazuje	ukazivati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	o	o	ADP	_	_
+1	razmišljao	razmišljati	VERB	_	_
+
+IAV
+0	za	za	ADP	_	_
+1	se	sebe	PRON	2	obj
+2	borili	boriti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	borili	boriti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	čini	činiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	upoznati	upoznati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	upoznati	upoznati	VERB	_	_
+2	s	sa	ADP	_	_
+
+IAV
+0	upoznati	upoznati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	koristiti	koristiti	VERB	_	_
+1	za	za	ADP	_	_
+
+IRV
+0	javite	javiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	vraćaju	vraćati	VERB	_	_
+
+VID
+0	zbrisali	zbrisati	VERB	_	_
+1	preko	preko	ADP	2	case
+2	granice	granica	NOUN	0	obl
+
+IAV
+0	vjeruje	vjerovati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	smatra	smatrati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	održati	održati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	događa	događati	VERB	_	_
+
+IAV
+0	u	u	ADP	_	_
+1	uključiti	uključiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	uključiti	uključiti	VERB	_	_
+
+IAV
+0	potiče	poticati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	okupili	okupiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	došli	doći	VERB	_	_
+1	do	do	ADP	2	case
+2	saznanja	saznanje	NOUN	0	obl
+
+IRV
+0	kretala	kretati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	za	za	ADP	_	_
+1	saznali	saznati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	upustili	upustiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	upustili	upustiti	VERB	_	_
+2	u	u	ADP	_	_
+
+IAV
+0	uvući	uvući	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	potrošiti	potrošiti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	uhvatio	uhvatiti	VERB	_	_
+
+VID
+0	dobro	dobro	ADV	1	advmod
+1	doći	doći	VERB	_	_
+
+LVC.full
+0	doživljava	doživljavati	VERB	_	_
+1	razvoj	razvoj	NOUN	0	obj
+
+IAV
+0	unijeti	unijeti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	Nastaviti	nastaviti	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	izdati	izdati	VERB	_	_
+1	dozvola	dozvola	NOUN	0	nsubj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sjećam	sjećati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	uključila	uključiti	VERB	_	_
+
+IAV
+0	uključila	uključiti	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	dogodi	dogoditi	VERB	_	_
+
+LVC.cause
+0	provedu	provesti	VERB	_	_
+1	napade	napad	NOUN	0	obj
+
+LVC.full
+0	izići	izići	VERB	_	_
+1	na	na	ADP	2	case
+2	izbore	izbor	NOUN	0	obl
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	boriti	boriti	VERB	_	_
+2	za	za	ADP	_	_
+
+IAV
+0	živi	živjeti	VERB	_	_
+1	za	za	ADP	_	_
+
+LVC.full
+0	preuzeti	preuzeti	VERB	_	_
+1	vodstvo	vodstvo	NOUN	0	obj
+
+LVC.full
+0	smognu	smoći	VERB	_	_
+1	snage	snaga	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bojite	bojati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	brinete	brinuti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	brinete	brinuti	VERB	_	_
+2	za	za	ADP	_	_
+
+IAV
+0	brinete	brinuti	VERB	_	_
+1	za	za	ADP	_	_
+
+VID
+0	daje	davati	VERB	_	_
+1	usta	usta	NOUN	0	obj
+2	na	na	ADP	_	_
+
+VID
+0	daje	davati	VERB	_	_
+1	usta	usta	NOUN	0	obj
+2	na	na	ADP	3	case
+3	usta	usta	NOUN	1	nmod
+
+IAV
+0	ostali	ostati	VERB	_	_
+1	bez	bez	ADP	_	_
+
+LVC.full
+0	izdala	izdati	VERB	_	_
+1	priopćenje	priopćenje	NOUN	0	obj
+
+LVC.full
+0	na	na	ADP	1	case
+1	korištenje	korištenje	NOUN	2	obl
+2	dao	dati	VERB	_	_
+
+IAV
+0	apelira	apelirati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	dobili	dobiti	VERB	_	_
+1	priznanje	priznanje	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nalazili	nalaziti	VERB	_	_
+
+LVC.full
+0	vodi	voditi	VERB	_	_
+1	računa	račun	NOUN	0	obj
+2	o	o	ADP	_	_
+
+LVC.full
+0	postavlja	postavljati	VERB	_	_
+1	pitanje	pitanje	NOUN	0	obj
+
+IRV
+0	izboriti	izboriti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	izboriti	izboriti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	za	za	ADP	_	_
+
+LVC.full
+0	postali	postati	VERB	_	_
+1	prijatelji	prijatelj	NOUN	0	nsubj
+
+IAV
+0	odstupio	odstupiti	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	probleme	problem	NOUN	_	_
+1	imali	imati	VERB	0	acl
+
+LVC.full
+0	obavlja	obavljati	VERB	_	_
+1	posao	posao	NOUN	0	obj
+
+IAV
+0	Naletjeli	naletjeti	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	rješava	rješavati	VERB	_	_
+1	problema	problem	NOUN	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	boriti	boriti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	boriti	boriti	VERB	_	_
+2	s	sa	ADP	_	_
+
+VID
+0	je	biti	AUX	1	aux
+1	pitanje	pitanje	NOUN	_	_
+2	vremena	vrijeme	NOUN	1	nmod
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pojaviti	pojaviti	VERB	_	_
+
+IAV
+0	na	na	ADP	_	_
+1	navikli	navići	VERB	_	_
+
+LVC.full
+0	prošli	proći	VERB	_	_
+1	školovanje	školovanje	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	nadali	nadati	VERB	_	_
+
+VID
+0	Tko	tko	PRON	1	nsubj
+1	zna	znati	VERB	_	_
+
+IAV
+0	utjecati	utjecati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	oslanja	oslanjati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	oslanja	oslanjati	VERB	_	_
+2	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	uzdaju	uzdati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	uzdaju	uzdati	VERB	_	_
+2	u	u	ADP	_	_
+
+LVC.full
+0	imaju	imati	VERB	_	_
+1	utjecaj	utjecaj	NOUN	0	obj
+
+IAV
+0	imaju	imati	VERB	_	_
+1	utjecaj	utjecaj	NOUN	0	obj
+2	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	sviđa	sviđati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	temelji	temeljiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	temelji	temeljiti	VERB	_	_
+2	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	gubi	gubiti	VERB	_	_
+
+IAV
+0	naišao	naići	VERB	_	_
+1	na	na	ADP	_	_
+
+VID
+0	na	na	ADP	1	case
+1	svijet	svijet	NOUN	2	obl
+2	došlo	doći	VERB	_	_
+
+LVC.full
+0	Naziv	naziv	NOUN	1	obj
+1	dobio	dobiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pojavi	pojaviti	VERB	_	_
+
+LVC.full
+0	ispuniti	ispuniti	VERB	_	_
+1	zadaće	zadaća	NOUN	0	obj
+
+IRV
+0	sastoji	sastojati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	sastoji	sastojati	VERB	_	_
+1	se	sebe	PRON	0	obj
+2	od	od	ADP	_	_
+
+LVC.full
+0	pokrivaju	pokrivati	VERB	_	_
+1	područja	područje	NOUN	0	obj
+
+VID
+0	je	biti	AUX	3	cop
+1	na	na	ADP	3	case
+2	dobrom	dobar	ADJ	3	amod
+3	putu	put	NOUN	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pojaviti	pojaviti	VERB	_	_
+
+LVC.full
+0	se	sebe	PRON	1	expl:pv
+1	pojaviti	pojaviti	VERB	_	_
+2	u	u	ADP	3	case
+3	prodaji	prodaja	NOUN	1	obl
+
+IRV
+0	se	sebe	PRON	_	_
+1	učiniti	učiniti	VERB	0	conj
+
+VID
+0	imati	imati	VERB	_	_
+1	na	na	ADP	2	case
+2	umu	um	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	snalazi	snalaziti	VERB	_	_
+
+VID
+0	iza	iza	ADP	1	case
+1	njega	on	PRON	2	obl
+2	stoji	stajati	VERB	_	_
+
+IAV
+0	do	do	ADP	_	_
+1	dođe	doći	VERB	_	_
+
+LVC.full
+0	zaraze	zaraza	NOUN	1	obl
+1	dođe	doći	VERB	_	_
+
+LVC.cause
+0	dati	dati	VERB	_	_
+1	priliku	prilika	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	uortačio	uortačiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	uortačio	uortačiti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IRV
+0	temelji	temeljiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	temelji	temeljiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	na	na	ADP	_	_
+
+LVC.full
+0	imaju	imati	VERB	_	_
+1	potrebu	potreba	NOUN	0	obj
+
+VID
+0	otvori	otvoriti	VERB	_	_
+1	svoja	svoj	DET	2	det
+2	vrata	vrata	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	dogoditi	dogoditi	VERB	_	_
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	podršku	podrška	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odlučio	odlučiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	zove	zvati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	zasitite	zasititi	VERB	_	_
+
+IRV
+0	odšetati	odšetati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	u	u	ADP	_	_
+1	sudjeluje	sudjelovati	VERB	_	_
+
+IAV
+0	surađuje	surađivati	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	imati	imati	VERB	_	_
+1	problema	problem	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	_	_
+1	truditi	truditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	trudi	truditi	VERB	_	_
+
+IAV
+0	zaraditi	zaraditi	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	stati	stati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	okretali	okretati	VERB	_	_
+1	za	za	ADP	_	_
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	šanse	šansa	NOUN	0	obj
+
+IAV
+0	nagazila	nagaziti	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	izgubio	izgubiti	VERB	_	_
+1	naslov	naslov	NOUN	0	obj
+
+VID
+0	prozborili	prozboriti	VERB	_	_
+1	ni	ni	PART	2	discourse
+2	riječi	riječ	NOUN	0	obj
+
+LVC.full
+0	za	za	ADP	1	case
+1	ruku	ruka	NOUN	2	obl
+2	uhvatile	uhvatiti	VERB	_	_
+
+IAV
+0	za	za	ADP	_	_
+1	uhvatile	uhvatiti	VERB	_	_
+
+VID
+0	vući	vući	VERB	_	_
+1	za	za	ADP	2	case
+2	rukav	rukav	NOUN	0	obl
+
+IAV
+0	nastaviti	nastaviti	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	zazvonio	zazvoniti	VERB	_	_
+1	telefon	telefon	NOUN	0	nsubj
+
+LVC.full
+0	imali	imati	VERB	_	_
+1	osjećaj	osjećaj	NOUN	0	obj
+
+VID
+0	Dobro	dobro	ADV	1	advmod
+1	došli	doći	VERB	_	_
+
+IRV
+0	Pripremali	pripremati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	Pripremali	pripremati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	za	za	ADP	_	_
+
+IRV
+0	činilo	činiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	dobiti	dobiti	VERB	_	_
+1	nagrade	nagrada	NOUN	_	_
+
+LVC.full
+0	uzimati	uzimati	VERB	_	_
+1	od	od	ADP	2	case
+2	plaće	plaća	NOUN	_	_
+
+IAV
+0	nasjeo	nasjesti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	vratio	vratiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pojave	pojaviti	VERB	_	_
+
+VID
+0	prodajemo	prodavati	VERB	_	_
+1	snove	san	NOUN	0	obj
+
+IAV
+0	od	od	ADP	1	mark
+1	traže	tražiti	VERB	_	_
+
+LVC.full
+0	slučaj	slučaj	NOUN	1	obj
+1	prijavili	prijaviti	VERB	_	_
+
+LVC.full
+0	dozvole	dozvola	NOUN	1	nsubj:pass
+1	izdane	izdati	ADJ	_	_
+
+IAV
+0	pitate	pitati	VERB	_	_
+1	za	za	ADP	_	_
+
+LVC.full
+0	pitate	pitati	VERB	_	_
+1	za	za	ADP	2	case
+2	mišljenje	mišljenje	NOUN	0	obl
+
+IAV
+0	s	sa	ADP	_	_
+1	upoznat	upoznat	ADJ	_	_
+
+LVC.cause
+0	mjere	mjera	NOUN	1	nsubj
+1	provesti	provesti	VERB	_	_
+
+LVC.full
+0	dvojbi	dvojba	NOUN	1	nsubj
+1	nema	nemati	VERB	_	_
+
+LVC.cause
+0	za	za	ADP	1	case
+1	posljedicu	posljedica	NOUN	2	obl
+2	imati	imati	VERB	_	_
+
+IAV
+0	štedjeti	štedjeti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	preusmjerio	preusmjeriti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	računa	računati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	naznaka	naznaka	NOUN	0	nsubj
+
+VID
+0	popustila	popustiti	VERB	_	_
+1	pod	pod	ADP	2	case
+2	pritiskom	pritisak	NOUN	0	obl
+
+LVC.full
+0	Imam	imati	VERB	_	_
+1	problem	problem	NOUN	0	nsubj
+
+LVC.full
+0	imala	imati	VERB	_	_
+1	problema	problem	NOUN	0	obj
+
+LVC.full
+0	imam	imati	VERB	_	_
+1	problema	problem	NOUN	0	obj
+
+IAV
+0	imam	imati	VERB	_	_
+1	problema	problem	NOUN	0	obj
+2	sa	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nalaze	nalaziti	VERB	_	_
+
+IAV
+0	dođete	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+IAV
+0	Povežite	povezati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	unesite	unijeti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	otiđite	otići	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	pohraniti	pohraniti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	zaštitili	zaštititi	VERB	_	_
+1	od	od	ADP	_	_
+
+IAV
+0	U	u	ADP	_	_
+1	unesite	unijeti	VERB	_	_
+
+IAV
+0	završili	završiti	VERB	_	_
+1	sa	sa	ADP	_	_
+
+IAV
+0	rade	raditi	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	radit	raditi	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	osvrnuo	osvrnuti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	osvrnuo	osvrnuti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	na	na	ADP	_	_
+
+LVC.full
+0	imao	imati	VERB	_	_
+1	probleme	problem	NOUN	0	obj
+
+IAV
+0	imao	imati	VERB	_	_
+1	probleme	problem	NOUN	0	obj
+2	s	sa	ADP	_	_
+
+VID
+0	vidio	vidjeti	VERB	_	_
+1	svijeta	svijet	NOUN	0	obj
+
+LVC.full
+0	vrijeme	vrijeme	NOUN	1	obj
+1	provodio	provoditi	VERB	_	_
+
+LVC.full
+0	vrijeme	vrijeme	NOUN	1	obj
+1	provodio	provoditi	VERB	_	_
+2	sa	sa	ADP	_	_
+
+LVC.full
+0	položio	položiti	VERB	_	_
+1	ispit	ispit	NOUN	0	obj
+
+IRV
+0	vratio	vratiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	piše	pisati	VERB	_	_
+1	o	o	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	snalazio	snalaziti	VERB	_	_
+
+LVC.cause
+0	poduzima	poduzimati	VERB	_	_
+1	istrage	istraga	NOUN	0	obj
+
+IAV
+0	emigrirao	emigrirati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pojavljuje	pojavljivati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	obogatio	obogatiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pojavljuju	pojavljivati	VERB	_	_
+
+IAV
+0	stajao	stajati	VERB	_	_
+1	uz	uz	ADP	_	_
+
+LVC.cause
+0	izrekao	izreći	VERB	_	_
+1	suspenziju	suspenzija	NOUN	0	obj
+
+IAV
+0	nabio	nabiti	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	došao	doći	VERB	_	_
+1	u	u	ADP	2	case
+2	pomoć	pomoć	NOUN	0	obl
+
+LVC.full
+0	imali	imati	VERB	_	_
+1	izbora	izbor	NOUN	0	obj
+
+LVC.full
+0	nemaju	nemati	VERB	_	_
+1	pravo	pravo	NOUN	0	obj
+
+LVC.full
+0	ostvarujući	ostvarivati	ADV	_	_
+1	rezultate	rezultat	NOUN	0	obj
+
+VID
+0	nalazila	nalaziti	VERB	_	_
+1	put	put	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	tiče	ticati	VERB	_	_
+
+IRV
+0	tiče	ticati	VERB	_	_
+1	se	sebe	PRON	_	_
+
+IAV
+0	pomoći	pomoći	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.full
+0	je	biti	AUX	2	cop
+1	od	od	ADP	2	case
+2	koristi	korist	NOUN	_	_
+
+VID
+0	imao	imati	VERB	_	_
+1	ulogu	uloga	NOUN	0	obj
+
+VID
+0	uloga	uloga	NOUN	_	_
+1	imaju	imati	VERB	0	acl
+
+LVC.full
+0	postavlja	postavljati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	pitanje	pitanje	NOUN	0	nsubj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odnosili	odnositi	VERB	_	_
+
+IAV
+0	se	sebe	PRON	2	expl:pv
+1	prema	prema	ADP	_	_
+2	odnosili	odnositi	VERB	_	_
+
+VID
+0	se	sebe	PRON	1	expl:pv
+1	uvukao	uvući	VERB	_	_
+2	pod	pod	ADP	3	case
+3	kožu	koža	NOUN	1	obl
+
+VID
+0	staviti	staviti	VERB	_	_
+1	ključ	ključ	NOUN	0	obj
+2	u	u	ADP	3	case
+3	bravu	brava	NOUN	0	obl
+
+IRV
+0	držeći	držati	ADV	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pokazale	pokazati	VERB	_	_
+
+IAV
+0	računati	računati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	prošlo	proći	VERB	_	_
+1	bez	bez	ADP	_	_
+
+IAV
+0	izgubila	izgubiti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	ušla	ući	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	baviti	baviti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	suočena	suočiti	ADJ	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	zvuči	zvučiti	VERB	_	_
+1	nevjerojatno	nevjerojatno	ADV	0	advmod
+
+IRV
+0	kreće	kretati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+VID
+0	preuzeti	preuzeti	VERB	_	_
+1	teret	teret	NOUN	0	obj
+
+LVC.full
+0	imaju	imati	VERB	_	_
+1	potencijal	potencijal	NOUN	0	obj
+
+IAV
+0	umrli	umrijeti	VERB	_	_
+1	od	od	ADP	_	_
+
+LVC.full
+0	izbila	izbiti	VERB	_	_
+1	bolest	bolest	NOUN	0	nsubj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	proširila	proširiti	VERB	_	_
+
+IRV
+0	vratiti	vratiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	gadi	gaditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	okladiti	okladiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	okladiti	okladiti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	probudi	probuditi	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	vratiti	vratiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	okladi	okladiti	VERB	_	_
+
+LVC.cause
+0	ciljeve	cilj	NOUN	1	obj
+1	postigao	postići	VERB	_	_
+
+VID
+0	bili	biti	AUX	_	_
+1	pod	pod	ADP	2	case
+2	okriljem	okrilje	NOUN	0	obl
+
+LVC.full
+0	posla	posao	NOUN	1	obj
+1	rade	raditi	VERB	_	_
+
+VID
+0	u	u	ADP	2	case
+1	prvi	prvi	ADJ	2	amod
+2	plan	plan	NOUN	3	obl
+3	stavlja	stavljati	VERB	_	_
+
+IAV
+0	s	sa	ADP	_	_
+1	usporediti	usporediti	VERB	_	_
+
+IAV
+0	raspoređuje	raspoređivati	VERB	_	_
+1	po	po	ADP	_	_
+
+VID
+0	stavlja	stavljati	VERB	_	_
+1	u	u	ADP	3	case
+2	prvi	prvi	ADJ	3	amod
+3	plan	plan	NOUN	0	obl
+
+IAV
+0	koincidirala	koincidirati	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	dobivaju	dobivati	VERB	_	_
+1	plaću	plaća	NOUN	0	obj
+
+IRV
+0	obogatit	obogatiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	aux
+1	priprema	pripremati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	aux
+1	priprema	pripremati	VERB	_	_
+2	za	za	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	odlučila	odlučiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	odlučila	odlučiti	VERB	_	_
+2	za	za	ADP	_	_
+
+IRV
+0	Vodeći	voditi	ADV	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	borila	boriti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	borila	boriti	VERB	_	_
+2	za	za	ADP	_	_
+
+LVC.full
+0	se	sebe	PRON	1	obj
+1	borila	boriti	VERB	_	_
+2	za	za	ADP	3	case
+3	vlast	vlast	NOUN	1	obl
+
+LVC.full
+0	utjecaj	utjecaj	NOUN	1	obj
+1	imaju	imati	VERB	_	_
+
+LVC.cause
+0	dovoditi	dovoditi	VERB	_	_
+1	u	u	ADP	2	case
+2	red	red	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	_	_
+1	događati	događati	VERB	_	_
+
+VID
+0	stvaraju	stvarati	VERB	_	_
+1	prostor	prostor	NOUN	0	obj
+
+VID
+0	stvara	stvarati	VERB	_	_
+1	prostor	prostor	NOUN	0	obj
+
+IAV
+0	pristaje	pristajati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	stekne	steći	VERB	_	_
+1	sigurnost	sigurnost	NOUN	0	obj
+
+LVC.full
+0	stekne	steći	VERB	_	_
+1	iskustvo	iskustvo	NOUN	_	_
+
+VID
+0	se	sebe	PRON	2	obj
+1	dobro	dobro	ADV	2	advmod
+2	osjeća	osjećati	VERB	_	_
+3	u	u	ADP	5	case
+4	svojoj	svoj	DET	5	det
+5	koži	koža	NOUN	2	obl
+
+IRV
+0	se	sebe	PRON	1	obj
+1	osjeća	osjećati	VERB	_	_
+
+IAV
+0	upali	upasti	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	raspolažu	raspolagati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	radi	raditi	VERB	_	_
+2	o	o	ADP	_	_
+
+IAV
+0	paze	paziti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	započnite	započnuti	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	ostaviti	ostaviti	VERB	_	_
+1	ravnodušnom	ravnodušan	ADJ	0	xcomp
+
+IAV
+0	ponijela	ponijeti	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.full
+0	objavili	objaviti	VERB	_	_
+1	zaruke	zaruke	NOUN	0	obj
+
+LVC.full
+0	izražavaju	izražavati	VERB	_	_
+1	zabrinutost	zabrinutost	NOUN	0	obj
+
+IAV
+0	obitava	obitavati	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	preobražava	preobražavati	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	vjeruješ	vjerovati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	bavili	baviti	VERB	_	_
+
+IAV
+0	O	o	ADP	_	_
+1	pisale	pisati	VERB	_	_
+
+LVC.full
+0	dobile	dobiti	VERB	_	_
+1	priznanja	priznanje	NOUN	0	obj
+
+VID
+0	na	na	ADP	4	case
+1	istoj	isti	ADJ	4	amod
+2	su	biti	AUX	4	cop
+3	valnoj	valni	ADJ	4	amod
+4	duljini	duljina	NOUN	_	_
+
+LVC.full
+0	dobila	dobiti	VERB	_	_
+1	nagrada	nagrada	NOUN	0	obj
+
+IAV
+0	dobila	dobiti	VERB	_	_
+1	nagrada	nagrada	NOUN	0	obj
+2	za	za	ADP	_	_
+
+LVC.cause
+0	napravile	napraviti	VERB	_	_
+1	redizajn	redizajn	NOUN	0	obj
+
+IRV
+0	svode	svoditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	svode	svoditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	na	na	ADP	_	_
+
+LVC.full
+0	odlazi	odlaziti	VERB	_	_
+1	u	u	ADP	2	case
+2	kupnju	kupnja	NOUN	0	obl
+
+IAV
+0	koristi	koristiti	VERB	_	_
+1	za	za	ADP	_	_
+
+LVC.full
+0	napravila	napraviti	VERB	_	_
+1	iskorak	iskorak	NOUN	0	obj
+
+IAV
+0	napravila	napraviti	VERB	_	_
+1	iskorak	iskorak	NOUN	0	obj
+2	prema	prema	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	bavi	baviti	VERB	_	_
+
+LVC.full
+0	ostvario	ostvariti	VERB	_	_
+1	dobiti	dobit	NOUN	_	_
+
+IAV
+0	U	u	ADP	_	_
+1	sudjelovao	sudjelovati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	nađe	naći	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	nađe	naći	VERB	_	_
+2	u	u	ADP	_	_
+
+IRV
+0	bojeći	bojiti	ADV	_	_
+1	se	sebe	PRON	0	obj
+
+VID
+0	mu	on	PRON	_	_
+1	je	biti	AUX	_	_
+2	krivo	krivo	ADV	_	_
+
+IAV
+0	dovesti	dovesti	VERB	_	_
+1	u	u	ADP	_	_
+
+LVC.cause
+0	dovesti	dovesti	VERB	_	_
+1	u	u	ADP	2	case
+2	red	red	NOUN	0	obl
+
+IRV
+0	ispričao	ispričati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	protive	protiviti	VERB	_	_
+
+IAV
+0	s	sa	ADP	_	_
+1	se	sebe	PRON	2	obj
+2	sastali	sastati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	sastali	sastati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	bore	boriti	VERB	_	_
+
+IRV
+0	susretali	susretati	VERB	_	_
+1	se	sebe	PRON	_	_
+
+IAV
+0	s	sa	ADP	_	_
+1	razgovarali	razgovarati	VERB	_	_
+
+LVC.full
+0	imaju	imati	VERB	_	_
+1	probleme	problem	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	smjestilo	smjestiti	VERB	_	_
+
+IAV
+0	proizlazi	proizlaziti	VERB	_	_
+1	iz	iz	ADP	_	_
+
+LVC.full
+0	pokazati	pokazati	VERB	_	_
+1	vodstvo	vodstvo	NOUN	0	obj
+
+IAV
+0	bi	biti	AUX	_	_
+1	predstavljati	predstavljati	VERB	_	_
+2	prekretnicu	prekretnica	NOUN	1	obj
+
+LVC.full
+0	predstavljati	predstavljati	VERB	_	_
+1	prekretnicu	prekretnica	NOUN	0	obj
+
+LVC.cause
+0	potpisala	potpisati	VERB	_	_
+1	sporazuma	sporazum	NOUN	0	obj
+
+IRV
+0	oslanjati	oslanjati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	oslanjati	oslanjati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	na	na	ADP	_	_
+
+LVC.full
+0	ostao	ostati	VERB	_	_
+1	u	u	ADP	2	case
+2	bijegu	bijeg	NOUN	0	obl
+
+IAV
+0	glasovalo	glasovati	VERB	_	_
+1	za	za	ADP	_	_
+
+LVC.full
+0	doživjela	doživjeti	VERB	_	_
+1	uspjeh	uspjeh	NOUN	0	obj
+
+LVC.cause
+0	izjavu	izjava	NOUN	1	obj
+1	dao	dati	VERB	_	_
+
+LVC.full
+0	predstavlja	predstavljati	VERB	_	_
+1	opasnost	opasnost	NOUN	0	obj
+
+IRV
+0	dogodile	dogoditi	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	dive	diviti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	poistovjetiti	poistovjetiti	VERB	_	_
+
+LVC.cause
+0	potpisale	potpisati	VERB	_	_
+1	sporazum	sporazum	NOUN	0	obj
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	utjecaj	utjecaj	NOUN	0	obj
+
+LVC.full
+0	iskoristili	iskoristiti	VERB	_	_
+1	povlastice	povlastica	NOUN	0	obj
+2	trošiti	trošiti	VERB	_	_
+3	energiju	energija	NOUN	2	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	upoznati	upoznati	VERB	_	_
+
+IAV
+0	upoznati	upoznati	VERB	_	_
+1	s	s	ADP	_	_
+
+LVC.full
+0	za	za	ADP	1	case
+1	cilj	cilj	NOUN	2	obl
+2	ima	imati	VERB	_	_
+
+LVC.full
+0	na	na	ADP	1	case
+1	pozicijama	pozicija	NOUN	2	obl
+2	ostali	ostati	VERB	_	_
+
+IAV
+0	dijele	dijeliti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sastoji	sastojati	VERB	_	_
+
+IRV
+0	kaleći	kaliti	ADV	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	kaleći	kaliti	ADV	_	_
+1	se	sebe	PRON	0	expl:pv
+2	u	u	ADP	_	_
+
+IAV
+0	graniči	graničiti	VERB	_	_
+1	s	s	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	vraća	vraćati	VERB	_	_
+
+LVC.full
+0	vodi	voditi	VERB	_	_
+1	ratove	rat	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	_	_
+1	razvijati	razvijati	VERB	_	_
+
+IAV
+0	Dijele	dijeliti	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	problema	problem	NOUN	0	xcomp
+
+IAV
+0	nema	nemati	VERB	_	_
+1	problema	problem	NOUN	0	xcomp
+2	sa	s	ADP	_	_
+
+LVC.full
+0	dovesti	dovesti	VERB	_	_
+1	u	u	ADP	2	case
+2	vezu	veza	NOUN	0	obl
+
+IAV
+0	dovesti	dovesti	VERB	_	_
+1	u	u	ADP	2	case
+2	vezu	veza	NOUN	0	obl
+3	s	s	ADP	_	_
+
+IRV
+0	iskazao	iskazati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	iskazao	iskazati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	kao	kao	SCONJ	_	_
+
+IAV
+0	upoznavaju	upoznavati	VERB	_	_
+1	sa	s	ADP	_	_
+
+IAV
+0	s	s	ADP	_	_
+1	se	sebe	PRON	2	expl:pv
+2	susreću	susretati	VERB	_	_
+
+IAV
+0	uđu	ući	VERB	_	_
+1	u	u	ADP	_	_
+
+VID
+0	uđu	ući	VERB	_	_
+1	dublje	duboko	ADV	_	_
+
+VID
+0	zauzima	zauzimati	VERB	_	_
+1	mjesto	mjesto	NOUN	0	obj
+
+LVC.cause
+0	zadobila	zadobiti	VERB	_	_
+1	ozljede	ozljeda	NOUN	0	obj
+
+IAV
+0	reagirao	reagirati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	ugrađujući	ugrađivati	ADV	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	pretvarao	pretvarati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pozabaviti	pozabaviti	VERB	_	_
+
+IAV
+0	U	u	ADP	_	_
+1	uključeni	uključiti	ADJ	_	_
+
+LVC.full
+0	pohađaju	pohađati	VERB	_	_
+1	škole	škola	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	rasplačem	rasplakati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	rasplačem	rasplakati	VERB	_	_
+2	od	od	ADP	_	_
+
+IAV
+0	na	na	ADP	_	_
+1	čekati	čekati	VERB	_	_
+
+IAV
+0	Iz	iz	ADP	_	_
+1	proizlazi	proizlaziti	VERB	_	_
+
+IRV
+0	susreli	susresti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	iznijeli	iznijeti	VERB	_	_
+1	primjedbe	primjedba	NOUN	0	obj
+
+IRV
+0	Nasmijao	nasmijati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	dogodilo	dogoditi	VERB	_	_
+
+LVC.full
+0	vrijeme	vrijeme	NOUN	1	obj
+1	provode	provoditi	VERB	_	_
+
+IRV
+0	žalili	žaliti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	na	na	ADP	_	_
+1	pristala	pristati	VERB	_	_
+
+LVC.full
+0	predstavlja	predstavljati	VERB	_	_
+1	barijeru	barijera	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	proširilo	proširiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	proširilo	proširiti	VERB	_	_
+2	na	na	ADP	_	_
+
+IAV
+0	proširilo	proširiti	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	reagiram	reagirati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	dobila	dobiti	VERB	_	_
+1	obrazovanje	obrazovanje	NOUN	0	obj
+
+LVC.full
+0	imali	imati	VERB	_	_
+1	obavezu	obaveza	NOUN	0	obj
+
+IAV
+0	imali	imati	VERB	_	_
+1	obavezu	obaveza	NOUN	0	obj
+2	prema	prema	ADP	_	_
+
+VID
+0	Glas	glas	NOUN	2	nsubj
+1	razuma	razum	NOUN	0	nmod
+2	proradio	proraditi	VERB	_	_
+
+LVC.full
+0	daju	dati	VERB	_	_
+1	glas	glas	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pozabavio	pozabaviti	VERB	_	_
+
+VID
+0	prošlo	proći	VERB	_	_
+1	ispit	ispit	NOUN	0	obj
+
+IAV
+0	traže	tražiti	VERB	_	_
+1	od	od	ADP	_	_
+
+VID
+0	Nema	nemati	VERB	_	_
+1	vremena	vrijeme	NOUN	0	obj
+
+IAV
+0	Nema	nemati	VERB	_	_
+1	vremena	vrijeme	NOUN	0	obj
+2	za	za	ADP	_	_
+
+IAV
+0	usmjeravati	usmjeravati	VERB	_	_
+1	prema	prema	ADP	_	_
+
+IAV
+0	se	sebe	PRON	2	expl:pv
+1	za	za	ADP	_	_
+2	pripremao	pripremati	VERB	_	_
+
+LVC.full
+0	dobila	dobiti	VERB	_	_
+1	ime	ime	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	specijalizirala	specijalizirati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	specijalizirala	specijalizirati	VERB	_	_
+2	za	za	ADP	_	_
+
+LVC.full
+0	pružajući	pružati	ADV	_	_
+1	informacije	informacija	NOUN	0	obj
+
+IAV
+0	koristili	koristiti	VERB	_	_
+1	za	za	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sjećalo	sjećati	VERB	_	_
+
+IRV
+0	zaduživati	zaduživati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	dosegle	doseći	VERB	_	_
+1	minimum	minimum	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odvijati	odvijati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	poboljšati	poboljšati	VERB	_	_
+
+IRV
+0	odrazilo	odraziti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.full
+0	bilježi	bilježiti	VERB	_	_
+1	pad	pad	NOUN	0	obj
+
+IRV
+0	nalaze	nalaziti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.full
+0	imaju	imati	VERB	_	_
+1	znanja	znanje	NOUN	0	obj
+
+IAV
+0	prebacivala	prebacivati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pokazala	pokazati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	2	obj
+1	s	sa	ADP	_	_
+2	susreće	susretati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	susreće	susretati	VERB	_	_
+
+IAV
+0	u	u	ADP	_	_
+1	sprečava	sprečavati	VERB	_	_
+
+IAV
+0	u	u	ADP	_	_
+1	nemaju	nemati	VERB	_	_
+2	povjerenja	povjerenje	NOUN	1	obj
+
+LVC.full
+0	nemaju	nemati	VERB	_	_
+1	povjerenja	povjerenje	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pokažu	pokazati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	razviti	razviti	VERB	_	_
+
+LVC.full
+0	odbijaju	odbijati	VERB	_	_
+1	odgovornost	odgovornost	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pridržavati	pridržavati	VERB	_	_
+
+LVC.full
+0	predstavlja	predstavljati	VERB	_	_
+1	problem	problem	NOUN	0	obj
+
+LVC.full
+0	predstavlja	predstavljati	VERB	_	_
+1	izazov	izazov	NOUN	0	obj
+
+LVC.full
+0	Rezultati	rezultat	NOUN	_	_
+1	ostvarivati	ostvarivati	VERB	0	acl
+
+IRV
+0	baveći	baviti	ADV	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.cause
+0	osigurao	osigurati	VERB	_	_
+1	posao	posao	NOUN	0	obj
+
+IRV
+0	fokusirajući	fokusirati	ADV	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	fokusirajući	fokusirati	ADV	_	_
+1	se	sebe	PRON	0	obj
+2	na	na	ADP	_	_
+
+LVC.full
+0	pružiti	pružiti	VERB	_	_
+1	uslugu	usluga	NOUN	0	obj
+
+IAV
+0	otpada	otpadati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	vrti	vrtjeti	VERB	_	_
+
+LVC.full
+0	se	sebe	PRON	1	expl:pv
+1	održati	održati	VERB	_	_
+2	predavanje	predavanje	NOUN	1	nsubj:pass
+
+LVC.full
+0	održati	održati	VERB	_	_
+1	predavanje	predavanje	NOUN	0	nsubj:pass
+
+LVC.full
+0	ostvarila	ostvariti	VERB	_	_
+1	dobiti	dobit	NOUN	_	_
+
+IAV
+0	vrednuje	vrednovati	VERB	_	_
+1	po	po	ADP	_	_
+
+IAV
+0	usklađuje	usklađivati	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	odlučuju	odlučivati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	dobivaju	dobivati	VERB	_	_
+1	poticaja	poticaj	NOUN	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	odlučuju	odlučivati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	odlučuju	odlučivati	VERB	_	_
+2	na	na	ADP	_	_
+
+LVC.full
+0	nemaju	nemati	VERB	_	_
+1	potencijala	potencijal	NOUN	0	obj
+
+IAV
+0	nemaju	nemati	VERB	_	_
+1	potencijala	potencijal	NOUN	0	obj
+2	za	za	ADP	_	_
+
+IAV
+0	na	na	ADP	_	_
+1	obvezale	obvezati	VERB	_	_
+
+IAV
+0	odstupaju	odstupati	VERB	_	_
+1	od	od	ADP	_	_
+
+LVC.cause
+0	našli	naći	VERB	_	_
+1	rješenje	rješenje	NOUN	0	obj
+
+LVC.full
+0	zabilježili	zabilježiti	VERB	_	_
+1	porast	porast	NOUN	0	obj
+
+VID
+0	pokrenula	pokrenuti	VERB	_	_
+1	ofenzivu	ofenziva	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odrazili	odraziti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	odrazili	odraziti	VERB	_	_
+2	na	na	ADP	_	_
+
+IAV
+0	utjecaj	utjecaj	NOUN	_	_
+1	na	na	ADP	_	_
+2	ostaviti	ostaviti	VERB	_	_
+
+IAV
+0	za	za	ADP	_	_
+1	koriste	koristiti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	raspala	raspasti	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nakostriješi	nakostriješiti	AUX	_	_
+
+IRV
+0	osjeća	osjećati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	nasmije	nasmijati	VERB	_	_
+
+LVC.full
+0	dolazite	dolaziti	VERB	_	_
+1	u	u	ADP	2	case
+2	sukob	sukob	NOUN	0	obl
+
+IAV
+0	dolazite	dolaziti	VERB	_	_
+1	u	u	ADP	2	case
+2	sukob	sukob	NOUN	0	obl
+3	s	sa	ADP	_	_
+
+IAV
+0	Na	na	ADP	_	_
+1	gledam	gledati	VERB	_	_
+
+IAV
+0	gledam	gledati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	je	biti	AUX	2	cop
+1	u	u	ADP	2	case
+2	braku	brak	NOUN	_	_
+
+IAV
+0	je	biti	AUX	2	cop
+1	u	u	ADP	2	case
+2	braku	brak	NOUN	_	_
+3	s	sa	ADP	_	_
+
+IAV
+0	razgovara	razgovarati	VERB	_	_
+1	o	o	ADP	_	_
+
+IAV
+0	vjerovati	vjerovati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	izražava	izražavati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pitam	pitati	VERB	_	_
+
+IAV
+0	preuzeti	preuzeti	VERB	_	_
+1	odgovornost	odgovornost	NOUN	0	obj
+2	za	za	ADP	_	_
+
+LVC.full
+0	imao	imati	VERB	_	_
+1	zadaću	zadaća	NOUN	0	obj
+
+IAV
+0	pomaže	pomagati	VERB	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	priključila	priključiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	uključeno	uključiti	ADJ	_	_
+1	u	u	ADP	_	_
+
+IRV
+0	priključiti	priključiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.cause
+0	prouzročila	prouzročiti	VERB	_	_
+1	smrt	smrt	NOUN	0	obj
+
+LVC.full
+0	procjeni	procjena	NOUN	_	_
+1	izvršila	izvršiti	VERB	0	acl
+
+LVC.full
+0	pretrpjela	pretrpjeti	VERB	_	_
+1	gubitak	gubitak	NOUN	0	obj
+
+IAV
+0	ostale	ostati	VERB	_	_
+1	bez	bez	ADP	_	_
+
+LVC.cause
+0	prouzročili	prouzročiti	VERB	_	_
+1	poplave	poplava	NOUN	0	obj
+
+IRV
+0	odriče	odricati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	odreći	odreći	VERB	_	_
+
+LVC.full
+0	provesti	provesti	VERB	_	_
+1	istragu	istraga	NOUN	0	obj
+
+LVC.full
+0	vlast	vlast	NOUN	1	obj
+1	preuzela	preuzeti	VERB	_	_
+
+LVC.cause
+0	postigao	postignuti	VERB	_	_
+1	dogovor	dogovor	NOUN	0	obj
+
+IAV
+0	postigao	postignuti	VERB	_	_
+1	dogovor	dogovor	NOUN	0	obj
+2	s	s	ADP	_	_
+
+IAV
+0	s	s	ADP	_	_
+1	se	sebe	PRON	2	expl:pv
+2	suočava	suočavati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	suočava	suočavati	VERB	_	_
+
+LVC.full
+0	pokrene	pokrenuti	VERB	_	_
+1	istragu	istraga	NOUN	0	obj
+
+LVC.full
+0	polučio	polučiti	VERB	_	_
+1	neuspjeh	neuspjeh	NOUN	0	obj
+
+IAV
+0	sudjelovati	sudjelovati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	organiziralo	organizirati	VERB	_	_
+1	događanje	događanje	NOUN	0	obj
+
+IAV
+0	razgovarati	razgovarati	VERB	_	_
+1	s	s	ADP	_	_
+
+LVC.full
+0	imali	imati	VERB	_	_
+1	pozicije	pozicija	NOUN	0	obj
+
+LVC.full
+0	održali	održati	VERB	_	_
+1	izbori	izbor	NOUN	0	nsubj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	žalili	žaliti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	žalili	žaliti	VERB	_	_
+2	na	na	ADP	_	_
+
+IRV
+0	okreće	okretati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.full
+0	preporuka	preporuka	NOUN	_	_
+1	dalo	dati	VERB	0	acl
+
+LVC.full
+0	ima	imati	VERB	_	_
+1	ovlasti	ovlast	NOUN	0	obj
+
+LVC.full
+0	provoditi	provoditi	VERB	_	_
+1	koraci	korak	NOUN	0	nsubj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	približava	približavati	VERB	_	_
+
+IRV
+0	dogovorili	dogovoriti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pridružile	pridružiti	VERB	_	_
+
+LVC.full
+0	dobiti	dobiti	VERB	_	_
+1	sredstva	sredstvo	NOUN	0	obj
+
+IRV
+0	zapitao	zapitati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	pokrenuo	pokrenuti	VERB	_	_
+1	postupak	postupak	NOUN	0	obj
+
+LVC.full
+0	proći	proći	VERB	_	_
+1	kroz	kroz	ADP	2	case
+2	promjene	promjena	NOUN	0	obl
+
+LVC.full
+0	postavlja	postavljati	VERB	_	_
+1	se	sebe	PRON	0	discourse
+2	pitanje	pitanje	NOUN	0	nsubj
+
+LVC.full
+0	usvoji	usvojiti	VERB	_	_
+1	zakon	zakon	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	poklopila	poklopiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	poklopila	poklopiti	VERB	_	_
+2	s	s	ADP	_	_
+
+IAV
+0	poklopila	poklopiti	VERB	_	_
+1	s	s	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sprema	spremati	VERB	_	_
+
+VID
+0	preuzeti	preuzeti	VERB	_	_
+1	ulogu	uloga	NOUN	0	obj
+
+IAV
+0	surađuje	surađivati	VERB	_	_
+1	s	s	ADP	_	_
+
+LVC.full
+0	se	sebe	PRON	1	expl:pv
+1	bavi	baviti	VERB	_	_
+2	pitanjima	pitanje	NOUN	1	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	sastao	sastati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	sastao	sastati	VERB	_	_
+2	sa	s	ADP	_	_
+
+LVC.full
+0	imala	imati	VERB	_	_
+1	utjecaj	utjecaj	NOUN	0	obj
+
+LVC.full
+0	utjecaj	utjecaj	NOUN	_	_
+1	ima	imati	VERB	0	acl
+
+IRV
+0	se	sebe	PRON	_	_
+1	okretati	okretati	VERB	_	_
+
+IRV
+0	Razvijajući	razvijati	ADV	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	Za	za	ADP	_	_
+1	odlučila	odlučiti	VERB	_	_
+2	se	sebe	PRON	1	expl:pv
+
+IRV
+0	odlučila	odlučiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.full
+0	učinila	učiniti	VERB	_	_
+1	korak	korak	NOUN	0	obj
+
+LVC.full
+0	ostvaruje	ostvarivati	VERB	_	_
+1	suficit	suficit	NOUN	0	obj
+
+IAV
+0	na	na	ADP	_	_
+1	utjecati	utjecati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	zaoštrila	zaoštriti	VERB	_	_
+
+VID
+0	se	sebe	PRON	2	obj
+1	borba	borba	NOUN	2	nsubj
+2	zaoštrila	zaoštriti	VERB	_	_
+
+LVC.full
+0	gubitke	gubitka	NOUN	1	obj
+1	bilježe	bilježiti	VERB	_	_
+
+IAV
+0	spoje	spojiti	VERB	_	_
+1	s	sa	ADP	_	_
+
+IAV
+0	predaje	predavati	VERB	_	_
+1	u	u	ADP	_	_
+
+IAV
+0	izlazi	izlaziti	VERB	_	_
+1	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	kreću	kretati	VERB	_	_
+
+IAV
+0	pozivali	pozivati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	Dogodio	dogoditi	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+VID
+0	imati	imati	VERB	_	_
+1	rolu	rola	NOUN	0	obj
+
+IAV
+0	s	sa	ADP	_	_
+1	ugovarali	ugovarati	VERB	_	_
+
+IAV
+0	odgovarali	odgovarati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	smjestili	smjestiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+LVC.full
+0	anketa	anketa	NOUN	1	nsubj:pass
+1	provedena	provesti	ADJ	_	_
+
+LVC.full
+0	dobivaju	dobivati	VERB	_	_
+1	poticaje	poticaj	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	odluče	odlučiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	odluče	odlučiti	VERB	_	_
+2	na	na	ADP	_	_
+
+LVC.full
+0	dobivali	dobivati	VERB	_	_
+1	sredstva	sredstvo	NOUN	0	obj
+
+LVC.full
+0	dobiva	dobivati	VERB	_	_
+1	poticaje	poticaj	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	griju	grijati	VERB	_	_
+
+IAV
+0	Radimo	raditi	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	griju	grijati	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	koriste	koristiti	VERB	_	_
+1	za	za	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	smatraju	smatrati	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	izjasniti	izjasniti	VERB	_	_
+
+IRV
+0	svodi	svoditi	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	svodi	svoditi	VERB	_	_
+1	se	sebe	PRON	0	obj
+2	na	na	ADP	_	_
+
+IRV
+0	temelji	temeljiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+
+IAV
+0	temelji	temeljiti	VERB	_	_
+1	se	sebe	PRON	0	obj
+2	na	na	ADP	_	_
+
+IAV
+0	ovisiti	ovisiti	VERB	_	_
+1	o	o	ADP	_	_
+
+IAV
+0	inzistirati	inzistirati	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	odrekla	odreći	VERB	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	pokazalo	pokazati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	pokazalo	pokazati	VERB	_	_
+2	kao	kao	SCONJ	_	_
+
+IAV
+0	računati	računati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.cause
+0	donijelo	donijeti	VERB	_	_
+1	promjena	promjena	NOUN	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	suočile	suočiti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	suočile	suočiti	VERB	_	_
+2	s	sa	ADP	_	_
+
+IAV
+0	suočile	suočiti	VERB	_	_
+1	s	sa	ADP	_	_
+
+IRV
+0	se	sebe	PRON	_	_
+1	vratiti	vratiti	VERB	_	_
+
+IAV
+0	o	o	ADP	_	_
+1	pisali	pisati	VERB	_	_
+
+VID
+0	osjetiti	osjetiti	VERB	_	_
+1	na	na	ADP	3	case
+2	svojoj	svoj	DET	3	det
+3	koži	koža	NOUN	0	obl
+
+LVC.full
+0	primali	primati	VERB	_	_
+1	pomoć	pomoć	NOUN	0	obj
+
+VID
+0	mogu	moći	VERB	_	_
+1	zaboraviti	zaboraviti	VERB	0	xcomp
+
+VID
+0	izbili	izbiti	VERB	_	_
+1	novac	novac	NOUN	0	obj
+2	iz	iz	ADP	3	case
+3	džepova	džep	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	1	obj
+1	radi	raditi	VERB	_	_
+
+IAV
+0	oročava	oročavati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	ostvaruju	ostvarivati	VERB	_	_
+1	pravo	pravo	NOUN	0	obj
+
+IAV
+0	ostvaruju	ostvarivati	VERB	_	_
+1	pravo	pravo	NOUN	0	obj
+2	na	na	ADP	_	_
+
+VID
+0	razbiti	razbiti	VERB	_	_
+1	famu	fama	NOUN	0	obj
+
+LVC.full
+0	nema	nemati	VERB	_	_
+1	razloga	razlog	NOUN	0	obj
+
+VID
+0	završiti	završiti	VERB	_	_
+1	sapunicu	sapunica	NOUN	0	obj
+
+IAV
+0	raspolagat	raspolagati	VERB	_	_
+1	sa	sa	ADP	_	_
+
+LVC.full
+0	na	na	ADP	1	case
+1	raspolaganju	raspolaganje	NOUN	2	obl
+2	imala	imati	VERB	_	_
+
+LVC.full
+0	dobili	dobiti	VERB	_	_
+1	informaciju	informacija	NOUN	0	obj
+
+LVC.full
+0	snosi	snositi	VERB	_	_
+1	rizike	rizik	NOUN	0	obj
+
+LVC.full
+0	dati	dati	VERB	_	_
+1	pravo	pravo	NOUN	0	obj
+
+IAV
+0	dati	dati	VERB	_	_
+1	pravo	pravo	NOUN	0	obj
+2	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	obj
+1	založivši	založiti	ADV	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	založivši	založiti	ADV	_	_
+2	za	za	ADP	_	_
+
+LVC.full
+0	raditi	raditi	VERB	_	_
+1	transfer	transfer	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	složio	složiti	VERB	_	_
+
+LVC.full
+0	napraviti	napraviti	VERB	_	_
+1	analizu	analiza	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	obj
+1	osvrnuo	osvrnuti	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	obj
+1	osvrnuo	osvrnuti	VERB	_	_
+2	na	na	ADP	_	_
+
+LVC.full
+0	doći	doći	VERB	_	_
+1	na	na	ADP	2	case
+2	naplatu	naplata	NOUN	0	obl
+
+IAV
+0	stoji	stajati	VERB	_	_
+1	na	na	ADP	2	case
+2	dispoziciji	dispozicija	NOUN	0	obl
+
+LVC.full
+0	Posao	posao	NOUN	1	obj
+1	dobiti	dobiti	VERB	_	_
+
+LVC.full
+0	odraditi	odraditi	VERB	_	_
+1	posao	posao	NOUN	0	obj
+
+IRV
+0	Pozivao	pozivati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	Pozivao	pozivati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	na	na	ADP	_	_
+
+IAV
+0	Pozivao	pozivati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	pristala	pristati	VERB	_	_
+1	na	na	ADP	_	_
+
+LVC.full
+0	donesena	donijeti	ADJ	_	_
+1	odluka	odluka	NOUN	0	nsubj
+
+LVC.full
+0	dao	dati	VERB	_	_
+1	podršku	podrška	NOUN	0	obj
+
+IAV
+0	utjecalo	utjecati	VERB	_	_
+1	na	na	ADP	_	_
+
+IAV
+0	došla	doći	VERB	_	_
+1	do	do	ADP	_	_
+
+IAV
+0	brinuti	brinuti	VERB	_	_
+1	zbog	zbog	ADP	_	_
+
+IAV
+0	vrijedi	vrijediti	VERB	_	_
+1	za	za	ADP	_	_
+
+LVC.full
+0	dali	dati	VERB	_	_
+1	svjedočanstvo	svjedočanstvo	NOUN	0	obj
+
+IAV
+0	dali	dati	VERB	_	_
+1	svjedočanstvo	svjedočanstvo	NOUN	0	obj
+2	o	o	ADP	_	_
+
+IRV
+0	prisjetio	prisjetiti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+LVC.cause
+0	uvede	uvesti	VERB	_	_
+1	red	red	NOUN	0	obj
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	dogodila	dogoditi	VERB	_	_
+
+VID
+0	istekao	isteći	VERB	_	_
+1	rok	rok	NOUN	0	nsubj
+2	trajanja	trajanje	NOUN	1	nmod
+
+VID
+0	Gledano	gledati	ADJ	_	_
+1	očima	oko	NOUN	0	obl
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pretvara	pretvarati	VERB	_	_
+
+IAV
+0	se	sebe	PRON	1	expl:pv
+1	pretvara	pretvarati	VERB	_	_
+2	u	u	ADP	_	_
+
+LVC.full
+0	predstavljaju	predstavljati	VERB	_	_
+1	priliku	prilika	NOUN	0	obj
+
+LVC.full
+0	ciljeve	cilj	NOUN	1	obj
+1	ostvarili	ostvariti	VERB	_	_
+
+IAV
+0	kombinira	kombinirati	VERB	_	_
+1	s	sa	ADP	_	_
+
+LVC.full
+0	ostvariti	ostvariti	VERB	_	_
+1	prihode	prihod	NOUN	0	obj
+
+LVC.full
+0	bilježila	bilježiti	VERB	_	_
+1	pad	pad	NOUN	0	obj
+
+IRV
+0	nameće	nametati	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+
+IAV
+0	svest	svesti	VERB	_	_
+1	se	sebe	PRON	0	expl:pv
+2	na	na	ADP	_	_
+
+IAV
+0	svest	svesti	VERB	_	_
+1	na	na	ADP	_	_
+
+IRV
+0	se	sebe	PRON	1	expl:pv
+1	pridružiti	pridružiti	VERB	_	_
+
+LVC.full
+0	odluku	odluka	NOUN	1	obj
+1	donosi	donositi	VERB	_	_
+
+VID
+0	nema	nemati	VERB	_	_
+1	veze	veza	NOUN	0	obl
+
+IAV
+0	nema	nemati	VERB	_	_
+1	veze	veza	NOUN	0	obl
+2	s	sa	ADP	_	_
+
