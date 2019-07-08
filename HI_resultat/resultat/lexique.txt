@@ -1,0 +1,1559 @@
+lemma_upostag_deprel
+
+MVC
+0	दबोच	दबोच	VERB	_	_
+1	लिया	ले	AUX	0	aux
+
+MVC
+0	फेंक	फेंक	NOUN	1	compound
+1	दिया	दे	VERB	_	_
+
+LVC.full
+0	दावा	दावा	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	शादी	शादी	NOUN	1	compound
+1	हुई	हो	VERB	_	_
+
+LVC.full
+0	कार्रवाई	कार्रवाई	NOUN	1	compound
+1	करेगा	कर	VERB	_	_
+
+LVC.full
+0	प्रयास	प्रयास	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+LVC.full
+0	आत्महत्याएँ	आत्महत्या	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	ध्यान	ध्यान	NOUN	1	compound
+1	देना	दे	VERB	_	_
+
+LVC.full
+0	फोकस	फोकस	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	1	compound
+1	करती	कर	VERB	_	_
+
+LVC.full
+0	घोषणाएँ	घोषणा	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	माँग	माँग	NOUN	1	compound
+1	लेने	ले	VERB	_	_
+
+MVC
+0	आ	आ	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+LVC.full
+0	नुकसान	नुकसान	NOUN	1	compound
+1	होगा	हो	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+MVC
+0	जुट	जुट	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+VID
+0	नज़र	नज़र	NOUN	1	compound
+1	आ	आ	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+LVC.full
+0	माँग	माँग	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	दी	दे	AUX	0	aux
+
+LVC.full
+0	विरोध	विरोध	NOUN	_	_
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	बचाव	बचाव	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	गया	जा	AUX	0	aux
+
+MVC
+0	बदल	बदल	VERB	_	_
+1	गईं	जा	AUX	0	aux
+
+VID
+0	से	से	ADP	_	_
+1	तार	तार	VERB	_	_
+2	जोड़ा	जोड़ा	AUX	1	aux
+
+LVC.full
+0	विरोध	विरोध	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+LVC.full
+0	इंतजाम	इंतजाम	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	सलाह	सलाह	NOUN	1	dobj
+1	दी	दे	VERB	_	_
+
+LVC.cause
+0	जाँच	जाँच	NOUN	1	compound
+1	कराने	करा	VERB	_	_
+
+MVC
+0	बढ़ा	बढ़ा	VERB	_	_
+1	दी	दे	AUX	0	aux
+
+LVC.full
+0	माँग	माँग	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	निर्देश	निर्देश	NOUN	1	compound
+1	दिया	दे	VERB	_	_
+
+LVC.full
+0	एतराज	एतराज	NOUN	1	compound
+1	होगा	हो	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	1	compound
+1	करेंगे	कर	VERB	_	_
+
+VID
+0	आड़े	आड़ा	ADJ	1	amod
+1	हाथों	हाथ	NOUN	2	dobj
+2	लेते	ले	VERB	_	_
+
+LVC.full
+0	रिपोर्टिंग	रिपोर्टिंग	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	दिया	दे	AUX	0	aux
+
+LVC.full
+0	अपील	अपील	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	प्रदर्शन	प्रदर्शन	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	रैली	रैली	NOUN	_	_
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	इजाज़त	इजाजत	NOUN	1	compound
+1	दी	दे	VERB	_	_
+
+LVC.full
+0	कोशिश	कोशिश	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	रैली	रैली	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	दिया	दे	AUX	0	auxpass
+
+LVC.full
+0	कार्रवाई	कार्रवाई	NOUN	1	compound
+1	करेंगे	कर	VERB	_	_
+
+LVC.full
+0	सिफारिश	सिफारिश	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	फैसला	फैसला	NOUN	1	dobj
+1	लिया	ले	VERB	_	_
+
+MVC
+0	खो	खो	VERB	_	_
+1	दिया	दे	AUX	0	aux
+
+LVC.full
+0	आरोप	आरोप	NOUN	1	compound
+1	लगाए	लगा	VERB	_	_
+
+LVC.full
+0	कार्रवाई	कार्रवाई	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	खरीद	खरीद	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	फरोख्त	फरोख्त	NOUN	3	compound
+3	करने	कर	VERB	_	_
+
+LVC.full
+0	घोषणा	घोषणा	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	विरोध	विरोध	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	हुई	हो	VERB	3	acl
+1	बात	बात	NOUN	3	compound
+2	-	_	PUNCT	3	punct
+3	चीत	चीत	NOUN	_	_
+
+LVC.full
+0	इंटरसेप्ट	इंटरसेप्ट	X	1	compound
+1	किया	कर	VERB	_	_
+
+VID
+0	बाछें	बाछ	NOUN	1	nsubj
+1	खिली	खिल	VERB	_	_
+
+LVC.full
+0	शिकायत	शिकायत	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	1	advcl
+1	ले	ले	VERB	_	_
+
+LVC.full
+0	इंटरसेप्ट	इंटरसेप्ट	NOUN	1	compound
+1	हुई	हो	VERB	_	_
+
+LVC.full
+0	सहयोग	सहयोग	NOUN	1	compound
+1	करे	कर	VERB	_	_
+
+MVC
+0	मार	मार	VERB	_	_
+1	दो	दो	NUM	0	aux
+
+VID
+0	मोह	मोह	NOUN	2	nsubj
+1	भंग	भंग	ADJ	2	compound
+2	हो	हो	VERB	_	_
+
+LVC.full
+0	पालन	पालन	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+MVC
+0	चल	चल	VERB	_	_
+1	जाता	जा	AUX	0	aux
+
+LVC.full
+0	आह्वान	आह्वान	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+MVC
+0	चल	चल	VERB	_	_
+1	पाया	पा	AUX	0	aux
+
+LVC.full
+0	पता	पता	NOUN	1	compound
+1	चल	चल	VERB	_	_
+
+LVC.full
+0	उद्घाटन	उद्घाटन	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	दिए	दे	AUX	0	aux
+
+MVC
+0	लग	लग	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+MVC
+0	होने	हो	VERB	_	_
+1	पाए	पा	AUX	0	aux
+
+LVC.full
+0	तैयारी	तैयारी	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+VID
+0	गले	गला	NOUN	2	nmod
+1	की	का	ADP	0	case
+2	फांस	फांस	NOUN	3	compound
+3	बना	बन	VERB	_	_
+
+LVC.full
+0	शिकायत	शिकायत	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	सुनवाई	सुनवाई	NOUN	1	compound
+1	करेगा	कर	VERB	_	_
+
+LVC.full
+0	याचिका	याचिका	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+MVC
+0	चल	चल	VERB	_	_
+1	पड़ा	पड़	AUX	0	aux
+
+MVC
+0	बढ़	बढ़	VERB	_	_
+1	जाएगी	जा	AUX	0	aux
+
+LVC.full
+0	आरोप	आरोप	NOUN	1	compound
+1	लगाया	लगा	VERB	_	_
+
+VID
+0	अमल	अमल	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	लिया	ले	AUX	0	auxpass
+
+MVC
+0	मान	मान	VERB	_	_
+1	लिया	ले	AUX	0	auxpass
+
+MVC
+0	ले	ले	VERB	_	_
+1	ली	ले	AUX	0	aux
+
+LVC.full
+0	गुज़ारिश	गुज़ारिश	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	लिया	ले	AUX	0	aux
+
+LVC.full
+0	गठन	गठन	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	इन्कार	इन्कार	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.cause
+0	चुनाव	चुनाव	NOUN	1	compound
+1	कराए	करा	VERB	_	_
+
+LVC.full
+0	चुनाव	चुनाव	NOUN	1	compound
+1	होंगे	हो	VERB	_	_
+
+LVC.full
+0	बैठक	बैठक	NOUN	1	compound
+1	करेगा	कर	VERB	_	_
+
+LVC.full
+0	पालन	पालन	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	आदेश	आदेश	NOUN	1	compound
+1	दिया	दे	VERB	_	_
+
+LVC.full
+0	यात्रा	यात्रा	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.cause
+0	जाँच	जाँच	NOUN	1	compound
+1	करवा	कर	VERB	_	_
+
+LVC.full
+0	पहचान	पहचान	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	ली	ले	AUX	0	auxpass
+
+LVC.full
+0	बहिर्गमन	बहिर्गमन	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	बयान	बयान	NOUN	1	dobj
+1	दिया	दे	VERB	_	_
+
+LVC.full
+0	बयान	बयान	NOUN	1	compound
+1	दिया	दे	VERB	_	_
+
+LVC.cause
+0	चर्चा	चर्चा	NOUN	1	compound
+1	कराई	करा	VERB	_	_
+
+VID
+0	यादें	याद	NOUN	2	dobj
+1	ताजा	ताजा	ADJ	2	compound
+2	कर	कर	VERB	_	_
+
+LVC.cause
+0	जाँच	जाँच	NOUN	1	dobj
+1	कराए	करा	VERB	_	_
+
+LVC.full
+0	नोक	नोक	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	झोंक	झोंक	NOUN	3	compound
+3	हुई	हो	VERB	_	_
+
+LVC.full
+0	बयान	बयान	NOUN	1	dobj
+1	देने	दे	VERB	_	_
+
+LVC.full
+0	लाठीचार्ज	लाठीचार्ज	NOUN	1	compound
+1	हुआ	हो	VERB	_	_
+
+LVC.full
+0	लाठीचार्ज	लाठीचार्ज	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	गये	जा	AUX	0	aux
+
+LVC.cause
+0	होते	हो	VERB	_	_
+1	लाठीचार्ज	लाठीचार्ज	NOUN	_	_
+
+MVC
+0	दे	दे	VERB	_	_
+1	दी	दे	AUX	0	auxpass
+
+MVC
+0	टूट	टूट	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+MVC
+0	फूँक	फूँक	ADJ	1	xcomp
+1	डाले	डाल	VERB	_	_
+
+LVC.full
+0	खंडन	खंडन	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	धक्का	धक्का	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	मुक्की	मुक्की	NOUN	3	compound
+3	होने	हो	VERB	_	_
+
+LVC.full
+0	कोशिश	कोशिश	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	दोहरा	दोहरा	VERB	_	_
+1	दिया	दे	AUX	0	aux
+
+LVC.full
+0	उल्लंघन	उल्लंघन	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	खुलासा	खुलासा	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	पाएंगे	पा	AUX	0	aux
+
+MVC
+0	ले	ले	VERB	_	_
+1	जा	जा	AUX	0	aux
+
+MVC
+0	जा	जा	AUX	_	_
+1	पा	पा	AUX	0	auxpass
+
+LVC.full
+0	सृजन	सृजन	NOUN	1	nsubj
+1	हुआ	हो	VERB	_	_
+
+LVC.full
+0	ध्यान	ध्यान	NOUN	1	dobj
+1	दिया	दे	VERB	_	_
+
+MVC
+0	बन	बन	VERB	_	_
+1	पाई	पा	AUX	0	aux
+
+LVC.full
+0	खर्च	खर्च	NOUN	1	compound
+1	करके	कर	VERB	_	_
+
+MVC
+0	भेज	भेज	VERB	_	_
+1	पाए	पा	AUX	0	aux
+
+LVC.full
+0	इंतजार	इंतजार	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	सौंप	सौंप	VERB	_	_
+1	दी	दे	AUX	0	aux
+
+MVC
+0	हो	हो	VERB	_	_
+1	जायेगा	जा	AUX	0	aux
+
+LVC.full
+0	यात्रा	यात्रा	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	कमी	कमी	NOUN	1	nsubj
+1	होगी	हो	VERB	_	_
+
+LVC.full
+0	इस्तेमाल	इस्तेमाल	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	मुकाबला	मुकाबला	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+VID
+0	दिल	दिल	PROPN	1	dobj
+1	जीत	जीत	VERB	_	_
+
+MVC
+0	जीत	जीत	VERB	_	_
+1	लिया	ले	AUX	0	aux
+
+LVC.full
+0	अभिवादन	अभिवादन	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+LVC.full
+0	नमस्कार	नमस्कार	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+LVC.full
+0	प्रतिक्रिया	प्रतिक्रिया	NOUN	1	dobj
+1	दे	दे	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	विचार	विचार	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	विमर्श	विमर्श	NOUN	3	compound
+3	किए	कर	VERB	_	_
+
+VID
+0	अमल	अमल	NOUN	1	compound
+1	करेगा	कर	VERB	_	_
+
+LVC.full
+0	बदलाव	बदलाव	NOUN	1	nsubj
+1	आया	आ	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	चीत	चीत	NOUN	3	compound
+3	हुई	हो	VERB	_	_
+
+LVC.full
+0	अनुरोध	अनुरोध	NOUN	1	compound
+1	करता	कर	VERB	_	_
+
+LVC.full
+0	बाढ़	बाढ़	NOUN	1	nsubj
+1	आती	आ	VERB	_	_
+
+LVC.full
+0	वादा	वादा	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	स्वागत	स्वागत	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	समर्पण	समर्पण	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	सौंप	सौंप	VERB	_	_
+1	दिया	दे	AUX	0	aux
+
+LVC.full
+0	जानकारी	जानकारी	NOUN	1	dobj
+1	दी	दे	VERB	_	_
+
+LVC.full
+0	अनुरोध	अनुरोध	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	निर्देश	निर्देश	NOUN	1	dobj
+1	दिए	दे	VERB	_	_
+
+MVC
+0	पहुँच	पहुँच	VERB	_	_
+1	गईं	जा	AUX	0	aux
+
+MVC
+0	पहुँच	पहुँच	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+MVC
+0	घेर	घेर	VERB	_	_
+1	लिया	ले	AUX	0	aux
+
+MVC
+0	घुस	घुस	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+LVC.full
+0	चेतावनी	चेतावनी	NOUN	1	compound
+1	दी	दे	VERB	_	_
+
+LVC.full
+0	फायर	फायर	X	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	गिर	गिर	VERB	_	_
+1	पड़ा	पड़	AUX	0	aux
+
+MVC
+0	कर	कर	VERB	_	_
+1	दी	दे	AUX	0	auxpass
+
+LVC.full
+0	मौत	मौत	NOUN	1	compound
+1	हो	हो	VERB	_	_
+
+VID
+0	नज़र	नजर	NOUN	1	nsubj
+1	आ	आ	VERB	_	_
+
+MVC
+0	बोल	बोल	VERB	_	_
+1	पाने	पा	AUX	0	aux
+
+LVC.full
+0	हत्या	हत्या	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.cause
+0	इलाज	इलाज	NOUN	1	compound
+1	कराया	करा	VERB	_	_
+
+LVC.full
+0	अपहरण	अपहरण	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	प्रदर्शन	प्रदर्शन	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	पथराव	पथराव	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	मदद	मदद	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+MVC
+0	भेज	भेज	VERB	_	_
+1	दिया	दे	AUX	0	auxpass
+
+LVC.full
+0	इन्कार	इन्कार	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	विचार	विचार	NOUN	1	compound
+1	करेगी	कर	VERB	_	_
+
+LVC.full
+0	वार्ता	वार्ता	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	चीत	चीत	NOUN	3	compound
+3	कर	कर	VERB	_	_
+
+LVC.full
+0	नेतृत्व	नेतृत्व	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	जानकारी	जानकारी	NOUN	1	compound
+1	दी	दे	VERB	_	_
+
+LVC.full
+0	जानकारी	जानकारी	NOUN	1	dobj
+1	देते	दे	VERB	_	_
+
+LVC.full
+0	सलाह	सलाह	NOUN	1	compound
+1	देगी	दे	VERB	_	_
+
+LVC.full
+0	आधुनिकीकरण	आधुनिकीकरण	NOUN	1	compound
+1	करेंगे	कर	VERB	_	_
+
+LVC.full
+0	तवज्जो	तवज्जो	NOUN	1	compound
+1	दिए	दे	VERB	_	_
+
+LVC.full
+0	विचार	विचार	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	विमर्श	विमर्श	NOUN	3	compound
+3	करने	कर	VERB	_	_
+
+LVC.full
+0	घोषणा	घोषणा	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	रक्षा	रक्षा	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	शुरुआत	शुरुआत	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	बदलाव	बदलाव	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+LVC.full
+0	मदद	मदद	NOUN	1	nsubj
+1	मिलेगी	मिल	VERB	_	_
+
+LVC.full
+0	लाभ	लाभ	NOUN	1	compound
+1	होगा	हो	VERB	_	_
+
+LVC.full
+0	बढ़ोतरी	बढ़ोतरी	NOUN	1	compound
+1	होने	हो	VERB	_	_
+
+LVC.full
+0	प्रतिक्रिया	प्रतिक्रिया	NOUN	1	dobj
+1	देते	दे	VERB	_	_
+
+LVC.full
+0	प्रावधान	प्रावधान	NOUN	1	compound
+1	हुआ	हो	VERB	_	_
+
+LVC.full
+0	प्रावधान	प्रावधान	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	निर्देश	निर्देश	NOUN	1	dobj
+1	देगा	दे	VERB	_	_
+
+LVC.full
+0	अनुपालन	अनुपालन	NOUN	1	compound
+1	करेगी	कर	VERB	_	_
+
+LVC.full
+0	कार्रवाई	कार्रवाई	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	पालन	पालन	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	जाने	जा	AUX	0	aux
+
+MVC
+0	उड़	उड	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+LVC.full
+0	पूछताछ	पूछताछ	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+MVC
+0	ले	ले	VERB	_	_
+1	जाना	जा	AUX	0	aux
+
+LVC.full
+0	इस्तेमाल	इस्तेमाल	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+MVC
+0	लगा	लगा	VERB	_	_
+1	लिया	ले	AUX	0	aux
+
+MVC
+0	ले	ला	VERB	_	_
+1	आए	आ	AUX	0	aux
+
+MVC
+0	डूब	डूब	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+MVC
+0	गिर	गिर	VERB	_	_
+1	गया	जा	AUX	0	aux
+
+MVC
+0	गिर	गिर	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+LVC.full
+0	सील	सील	X	1	compound
+1	कर	कर	VERB	_	_
+
+VID
+0	अमल	अमल	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	सील	सील	X	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	सहयोग	सहयोग	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	कब्जा	कब्जा	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	रखा	रख	AUX	0	aux
+
+LVC.full
+0	सील	सील	X	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	विरोध	विरोध	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	सहयोग	सहयोग	NOUN	1	compound
+1	दिया	दे	VERB	_	_
+
+LVC.full
+0	विरोध	विरोध	NOUN	1	compound
+1	करेगी	कर	VERB	_	_
+
+LVC.full
+0	दावा	दावा	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	मांग	मांग	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	गवाही	गवाही	NOUN	1	compound
+1	होने	हो	VERB	_	_
+
+LVC.full
+0	पिटाई	पिटाई	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	विनिवेश	विनिवेश	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	विचार	विचार	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	विचार	विचार	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	विमर्श	विमर्श	NOUN	3	compound
+3	कर	कर	VERB	_	_
+
+LVC.full
+0	विचार	विचार	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+LVC.full
+0	इन्कार	इन्कार	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	फैसले	फैसला	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+LVC.full
+0	मुलाकात	मुलाकात	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	चर्चा	चर्चा	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+LVC.full
+0	फैसला	फैसला	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	विनिवेश	विनिवेश	PROPN	_	_
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	विरोध	विरोध	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	जोर	जोर	NOUN	1	compound
+1	दिए	दे	VERB	_	_
+
+LVC.full
+0	विचार	विचार	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	इजाज़त	इजाज़त	NOUN	1	compound
+1	देने	दे	VERB	_	_
+
+LVC.full
+0	दस्तखत	दस्तखत	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	चीत	चीत	NOUN	3	compound
+3	की	कर	VERB	_	_
+
+LVC.full
+0	इंतजार	इंतजार	NOUN	1	compound
+1	रहेगा	रह	VERB	_	_
+
+LVC.full
+0	जिक्र	जिक्र	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	जाँच	जाँच	NOUN	1	nsubj
+1	चल	चल	VERB	_	_
+
+LVC.full
+0	बाड़बंदी	बाड़बंदी	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	जोर	जोर	NOUN	1	compound
+1	दिया	दे	VERB	_	_
+
+LVC.full
+0	कार्रवाई	कार्रवाई	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	बलात्कार	बलात्कार	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+VID
+0	हवाले	हवाले	ADP	_	_
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	गिरफ्तारी	गिरफ्तारी	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	मजदूरी	मजदूरी	NOUN	1	compound
+1	करती	कर	VERB	_	_
+
+LVC.full
+0	व्यवस्था	व्यवस्था	NOUN	1	compound
+1	करेगा	कर	VERB	_	_
+
+LVC.full
+0	आशंका	आशंका	NOUN	1	compound
+1	जताई	जता	VERB	_	_
+
+LVC.full
+0	हमले	हमला	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+MVC
+0	भाग	भाग	NOUN	1	compound
+1	जाते	जा	VERB	_	_
+
+LVC.full
+0	गड़बड़ी	गडबडी	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+MVC
+0	भेज	भेज	VERB	_	_
+1	दिया	दे	AUX	0	aux
+
+VID
+0	हाथ	हाथ	NOUN	1	compound
+1	लग	लग	VERB	_	_
+
+MVC
+0	लग	लग	VERB	_	_
+1	जाने	जा	AUX	0	aux
+
+MVC
+0	ले	ले	VERB	_	_
+1	लिया	ले	AUX	0	aux
+
+LVC.full
+0	आदेश	आदेश	NOUN	1	compound
+1	दिए	दे	VERB	_	_
+
+LVC.full
+0	सहयोग	सहयोग	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	चुनौती	चुनौती	NOUN	1	compound
+1	देते	दे	VERB	_	_
+
+LVC.full
+0	आरोप	आरोप	NOUN	1	compound
+1	लगाते	लगा	VERB	_	_
+
+LVC.full
+0	परीक्षा	परीक्षा	NOUN	1	compound
+1	लेने	ले	VERB	_	_
+
+LVC.full
+0	नियुक्तियाँ	नियुक्ति	NOUN	1	dobj
+1	कीं	कर	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	फेर	फेर	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	बदल	बदल	NOUN	3	compound
+3	होने	हो	VERB	_	_
+
+MVC
+0	बच	बच	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+LVC.full
+0	पता	पता	NOUN	1	compound
+1	चला	चल	VERB	_	_
+
+VID
+0	नुक़सान	नुकसान	NOUN	1	dobj
+1	पहुँचा	पहुँच	VERB	_	_
+
+LVC.full
+0	सर्वेक्षण	सर्वेक्षण	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	रखे	रख	AUX	0	aux
+
+LVC.full
+0	हुई	हो	VERB	1	acl
+1	बहस	बहस	NOUN	_	_
+
+LVC.full
+0	तुलना	तुलना	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	डाली	डाल	AUX	0	aux
+
+LVC.full
+0	शुरुआत	शुरुआत	NOUN	1	compound
+1	हुई	हो	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	डाला	डाल	AUX	0	aux
+
+LVC.full
+0	तुलना	तुलना	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	बात	बात	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	चीत	चीत	NOUN	3	compound
+3	करेंगे	कर	VERB	_	_
+
+LVC.full
+0	चर्चा	चर्चा	NOUN	1	compound
+1	करेंगे	कर	VERB	_	_
+
+LVC.full
+0	प्रस्थान	प्रस्थान	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	बधाई	बधाई	NOUN	1	compound
+1	दी	दे	VERB	_	_
+
+MVC
+0	दे	दे	VERB	_	_
+1	दी	दे	AUX	0	aux
+
+LVC.full
+0	कोशिश	कोशिश	NOUN	1	compound
+1	होगी	हो	VERB	_	_
+
+LVC.full
+0	दबाव	दबाव	NOUN	1	dobj
+1	डाला	डाल	VERB	_	_
+
+MVC
+0	छोड़	छोड	VERB	_	_
+1	दी	दे	AUX	0	aux
+
+LVC.full
+0	सवाल	सवाल	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+MVC
+0	बदल	बदल	VERB	_	_
+1	गए	जा	AUX	0	aux
+
+VID
+0	नज़र	नजर	NOUN	1	compound
+1	आने	आ	VERB	_	_
+
+MVC
+0	समझ	समझ	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+LVC.full
+0	प्रश्न	प्रश्न	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+LVC.full
+0	दावे	दावे	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+LVC.full
+0	उम्मीद	उम्मीद	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	दावा	दावा	NOUN	1	compound
+1	करता	कर	VERB	_	_
+
+LVC.full
+0	कमी	कमी	NOUN	1	nsubj
+1	आ	आ	VERB	_	_
+
+LVC.full
+0	उत्पादन	उत्पादन	NOUN	1	compound
+1	हुआ	हो	VERB	_	_
+
+MVC
+0	मिल	मिल	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+MVC
+0	कर	कर	VERB	_	_
+1	ली	ले	AUX	0	aux
+
+MVC
+0	लगा	लगा	VERB	_	_
+1	दी	दे	AUX	0	aux
+
+LVC.full
+0	वेश्यावृति	वेश्यावृति	NOUN	_	_
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	तलाश	तलाश	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+MVC
+0	कर	कर	VERB	_	_
+1	लेती	ले	AUX	0	aux
+
+LVC.full
+0	तस्करी	तस्करी	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	संचार	संचार	NOUN	1	nsubj
+1	होने	हो	VERB	_	_
+
+LVC.full
+0	प्रयास	प्रयास	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	क्रियान्वयन	क्रियान्वयन	NOUN	1	compound
+1	होने	हो	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	जाती	जा	AUX	0	aux
+
+LVC.full
+0	निर्देश	निर्देश	NOUN	1	compound
+1	दिए	दे	VERB	_	_
+
+MVC
+0	खोल	खोल	VERB	_	_
+1	दिए	दे	AUX	0	auxpass
+
+MVC
+0	हो	हो	VERB	_	_
+1	गई	जा	AUX	0	auxpass
+
+LVC.full
+0	पूजा	पूजा	NOUN	1	compound
+1	अर्चना	अर्च	NOUN	2	compound
+2	कर	कर	VERB	_	_
+
+LVC.full
+0	आयोजन	आयोजन	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	वृक्षारोपण	वृक्षारोपण	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	शुभारंभ	शुभारंभ	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+LVC.full
+0	किया	कर	VERB	1	acl
+1	दावा	दावा	NOUN	_	_
+
+MVC
+0	पहुंच	पहुंच	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+VID
+0	नजर	नजर	NOUN	1	compound
+1	आई	आ	VERB	_	_
+
+LVC.full
+0	इंतजाम	इंतजाम	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+LVC.full
+0	भाग	भाग	NOUN	1	compound
+1	लेने	ले	VERB	_	_
+
+VID
+0	हाथ	हाथ	NOUN	1	compound
+1	लगे	लग	VERB	_	_
+
+VID
+0	हाथ	हाथ	NOUN	1	compound
+1	लगी	लग	VERB	_	_
+
+LVC.full
+0	बयान	बयान	NOUN	1	compound
+1	करती	कर	VERB	_	_
+
+LVC.full
+0	खुदाई	खुदाई	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	दावा	दावा	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	compound
+1	किये	कर	VERB	_	_
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	nmod
+1	होते	हो	VERB	_	_
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	compound
+1	किए	कर	VERB	_	_
+
+LVC.full
+0	आरंभ	आरम्भ	NOUN	1	compound
+1	हुआ	हो	VERB	_	_
+
+LVC.full
+0	अनुमति	अनुमति	NOUN	1	compound
+1	दी	दे	VERB	_	_
+
+VID
+0	निगाह	निगाह	NOUN	1	compound
+1	रखी	रख	VERB	_	_
+
+LVC.full
+0	जांच	जांच	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.full
+0	इजाज़त	इजाज़त	NOUN	1	dobj
+1	दी	दे	VERB	_	_
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+MVC
+0	बढ़	बढ़	NOUN	_	_
+1	गया	जा	VERB	_	_
+
+MVC
+0	जम	जम	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+MVC
+0	टूट	टूट	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+VID
+0	तांता	तांता	NOUN	1	nsubj
+1	लगा	लगा	VERB	_	_
+
+LVC.cause
+0	सैर	सैर	NOUN	1	dobj
+1	कराते	करा	VERB	_	_
+
+LVC.full
+0	सामना	सामना	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+LVC.full
+0	कमी	कमी	NOUN	1	nsubj
+1	आई	आ	VERB	_	_
+
+MVC
+0	बढ़ा	बढ़ा	VERB	_	_
+1	दी	दे	AUX	0	auxpass
+
+LVC.full
+0	गश्त	गश्त	NOUN	1	dobj
+1	बढ़ा	बढ़ा	VERB	_	_
+
+LVC.full
+0	निंदा	निंदा	NOUN	1	compound
+1	करते	कर	VERB	_	_
+
+LVC.full
+0	धारण	धारण	NOUN	1	compound
+1	कर	कर	VERB	_	_
+
+MVC
+0	ले	ले	VERB	_	_
+1	जाया	जा	AUX	0	auxpass
+
+MVC
+0	कर	कर	VERB	_	_
+1	दिए	दे	AUX	0	auxpass
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	compound
+1	करेंगे	कर	VERB	_	_
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	compound
+1	करना	कर	VERB	_	_
+
+LVC.cause
+0	रजिस्ट्रेशन	रजिस्ट्रेशन	NOUN	1	compound
+1	कराया	करा	VERB	_	_
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	compound
+1	हो	हो	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	पाएगा	पा	AUX	0	aux
+
+LVC.full
+0	दर्शन	दर्शन	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+MVC
+0	बढ़	बढ़	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+MVC
+0	ठहर	ठहर	VERB	_	_
+1	गया	जा	AUX	0	auxpass
+
+LVC.full
+0	बर्फबारी	बर्फबारी	NOUN	1	compound
+1	होने	हो	VERB	_	_
+
+MVC
+0	पहुंच	पहुंच	VERB	_	_
+1	गया	जा	AUX	0	aux
+
+MVC
+0	बढ़	बढ़	VERB	_	_
+1	पा	पा	AUX	0	aux
+
+MVC
+0	ढक	ढक	VERB	_	_
+1	गई	जा	AUX	0	aux
+
+LVC.full
+0	पूजा	पूजा	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	अर्चना	अर्चना	NOUN	3	compound
+3	की	कर	VERB	_	_
+
+LVC.full
+0	खरीद	खरीद	NOUN	2	compound
+1	-	_	PUNCT	2	punct
+2	फरोख्त	फरोख्त	NOUN	3	compound
+3	की	कर	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	जाए	जा	AUX	0	aux
+
+MVC
+0	लौट	लौट	VERB	_	_
+1	जाएगा	जा	AUX	0	aux
+
+LVC.full
+0	लिए	ले	VERB	1	acl
+1	फैसले	फैसला	NOUN	_	_
+
+LVC.full
+0	फैसला	फैसला	NOUN	1	compound
+1	हो	हो	VERB	_	_
+
+MVC
+0	हो	हो	VERB	_	_
+1	पाया	पा	AUX	0	aux
+
+LVC.full
+0	स्नान	स्नान	NOUN	1	compound
+1	करने	कर	VERB	_	_
+
+LVC.full
+0	बवाल	बवाल	NOUN	1	compound
+1	मचा	मचा	VERB	_	_
+
+MVC
+0	मचा	मचा	VERB	_	_
+1	दें	दे	AUX	0	aux
+
+MVC
+0	छोड़	छोड	NUM	1	nummod
+1	पाना	पा	NOUN	_	_
+
+LVC.full
+0	खामियाजा	खामियाजा	NOUN	1	nsubj
+1	भुगतना	भुगतना	VERB	_	_
+
+LVC.full
+0	समर्थन	समर्थन	NOUN	1	compound
+1	करेगी	कर	VERB	_	_
+
+LVC.full
+0	प्रयास	प्रयास	NOUN	1	compound
+1	करेगी	कर	VERB	_	_
+
+LVC.full
+0	संघर्ष	संघर्ष	NOUN	1	compound
+1	किया	कर	VERB	_	_
+
+MVC
+0	गूंज	गूंज	VERB	_	_
+1	उठा	उठा	AUX	0	aux
+
+LVC.full
+0	पूजा	पूजा	NOUN	1	compound
+1	अर्चना	अर्चना	NOUN	2	compound
+2	की	कर	VERB	_	_
+
+LVC.full
+0	पूजा	पूजा	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+MVC
+0	ले	ले	VERB	_	_
+1	आया	आ	AUX	0	auxpass
+
+VID
+0	जीती	जीता	ADJ	1	case
+1	जागती	जागता	ADJ	2	amod
+2	मिसाल	मिसाल	NOUN	_	_
+
+LVC.full
+0	वोटिंग	वोटिंग	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+LVC.cause
+0	निर्माण	निर्माण	NOUN	1	compound
+1	कराया	करा	VERB	_	_
+
+MVC
+0	मिल	मिल	VERB	_	_
+1	पाया	पा	AUX	0	aux
+
+MVC
+0	सुन	सुन	PROPN	1	compound
+1	ली	ली	PROPN	_	_
+
+LVC.cause
+0	जन्म	जन्म	NOUN	1	compound
+1	दिया	दे	VERB	_	_
+
+LVC.full
+0	दुआ	दुआ	NOUN	1	compound
+1	की	कर	VERB	_	_
+
+MVC
+0	पड़	पड	VERB	_	_
+1	गए	जा	AUX	0	aux
+
