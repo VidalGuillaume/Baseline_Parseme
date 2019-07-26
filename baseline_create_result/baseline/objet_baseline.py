@@ -76,7 +76,7 @@ class ExpressionComplete :
 	def getListWord(self) : # retourne la liste des mot que contient l expression
 		return self.list_word
 	def semi_equals(self, other) : # on test l egalite avec other qui est un autre objet de type ExpressionComplete
-		if self.length() != other.length() :
+		if (self.length() != other.length()) or (self.tag != other.tag) :
 			return False
 		for i in range(self.length()) :
 			if not self.get(i).semi_equals(other.get(i)) :
@@ -209,7 +209,7 @@ def decode_key(key, parametre_distance_min, parametre_distance_max, parametre_di
 			elif i[1].isdigit() :
 				valeur_parametre_distance_verification = i
 			else :
-				print("Warning: parameter for distance: must be an int, for exemple distance:10" , file=os.sys.stderr)
+				print("Warning: parameter for distance: must be an int, for exemple distance-10" , file=os.sys.stderr)
 		else :
 			print("Warning: unknow parameter : " + i, file=os.sys.stderr)
 	if valeur_parametre_distance_verification == "default" :
