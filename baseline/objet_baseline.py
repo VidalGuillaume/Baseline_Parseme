@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 class ExpressionWord :
 	information = ['id', 'form', 'lemma', 'upostag', 'head', 'deprel'] # ne prend plus le PARSEME:MWE car il va etre lie a l expression complete sous la forme du tag
 	def __init__(self, mot) : # mot sous la forme d une list ou d un collecton.OrderedDict
